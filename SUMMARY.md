@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Memo Aanvraagformulier faculteiten Masterfonds](README.md)
+* [Docs](README.md)
 * [One Paper Proposal](one-paper-proposal.md)
+* [Aanvraag Masterfonds](aanvraag-masterfonds.md)
 
