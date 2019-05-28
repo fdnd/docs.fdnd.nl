@@ -2,5 +2,4 @@
 
 * [Docs](README.md)
 * [One Paper Proposal](one-paper-proposal.md)
-* [Aanvraag Masterfonds](aanvraag-masterfonds.md)
 
