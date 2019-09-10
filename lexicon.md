@@ -7,7 +7,7 @@
 * ROA = Researchcentrum Onderzoek Arbeidsmarkt
 * Lexicon = Een verzameling woorden in het geheugen
 * 4CID = Onderwijsmethodiek
-* Scefolding in 4CID = Afnemende sturing
+* Scaffolding in 4CID = Afnemende sturing
 * DDA = Digital Design Amsterdam
 * Fronteers = Vakvereniging Frontenders
 * SKC = Studie Keuze Check
