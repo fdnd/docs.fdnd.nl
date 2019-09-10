@@ -68,17 +68,13 @@ Neem in het rapport in ieder geval op: ‘opleidingstype/arbeidsmarktprognose to
 
 | Partner | Rol | Commitment |
 | :--- | :--- | :--- |
-|  |  |  |
+| ROC Amsterdam | Meeontwikkelen | Wordt besproken |
+| Lector | Welk lectoraat? | Wordt besproken |
+| Bachelor CMD | Meeontwikkelen | Ja |
+| Werkveld | Meeontwikkelen ‘leertaken’, partner in het aanbieden van leerervaringen middels convenant van een jaar | Ja/ Wordt besproken |
+| Fronteers \(vakvereniging\) | Meeontwikkelen | Wordt besproken |
 
-Partner	Rol	Commitment
 
-ROC	Meeontwikkelen	Wordt besproken
-
-Lector	Welk lectoraat?	Wordt besproken
-
-Bachelor Communication & Multimedia Design	Meeontwikkelen	Ja
-
-Werkveld	Meeontwikkelen ‘leertaken’, partner in het aanbieden van leerervaringen middels convenant van een jaar.	Ja
 
 Vakvereniging \(fronteers\)	Meeontwikkelen	Wordt besproken
 
