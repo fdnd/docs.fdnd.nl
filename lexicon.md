@@ -1,4 +1,4 @@
-# Lexicon
+# AD Lexicon
 
 * CDHO = Commissie Doelmatigheid Hoger Onderwijs.Is een opleiding nuttig?
 * NVAO = Nederlandse Vereniging voor de Accreditatie Opleidingen
