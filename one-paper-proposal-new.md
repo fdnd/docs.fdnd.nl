@@ -10,6 +10,16 @@ Datum:
 
 Werkveld, ROA laat zien dat er behoefte/ schaarste is m.b.t. de functie van frontend developers. Waarom is het belangrijk.. welke rol in bedrijven. \(3 voorbeelden\)  
 
+**Front-End Developer**: The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+
+**CSS/HTML Developer**: The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and application, know how.
+
+**Front-End Engineer \(aka JavaScript Developer or Full-stack JavaScript Developer\)**: The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires computer science knowledge and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills \(i.e has years of experience building front-end software applications\).
+
+**Front-End Web Designer**: When the word "Designer" is included in the job title, this will denote that the designer will possess front-end skills \(i.e., HTML & CSS\) but also professional design \(Visual Design and Interaction Design\) skills.
+
+**UI \(User Interface\) Developer/Engineer**: When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills.
+
 ### Profiel van het beroep
 
 &lt;Profiel van het beroep: geef een korte omschrijving van het beroep, de werkzaamheden en eventueel de benodigde vaardigheden&gt;
