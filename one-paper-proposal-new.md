@@ -74,19 +74,13 @@ Neem in het rapport in ieder geval op: ‘opleidingstype/arbeidsmarktprognose to
 | Werkveld | Meeontwikkelen ‘leertaken’, partner in het aanbieden van leerervaringen middels convenant van een jaar | Ja/ Wordt besproken |
 | Fronteers \(vakvereniging\) | Meeontwikkelen | Wordt besproken |
 
-
-
-Vakvereniging \(fronteers\)	Meeontwikkelen	Wordt besproken
-
-Verwachte kosten
+### Verwachte kosten
 
 Bij bepalen van de kosten wordt onderscheid gemaakt tussen 3 fases:
 
-1.	Businesscase, CDHO-aanvraag, informatiedossier TNO: 180K faculteit/ 30K HvA CC
-
-2.	Doorontwikkeling en visitatie: 55K faculteit/ 5K HvA CC
-
-3.	Doorontwikkeling jaar 2: 55K faculteit/ 5K HvA CC
+1. Businesscase, CDHO-aanvraag, informatiedossier TNO: 180K faculteit/ 30K HvA CC
+2. Doorontwikkeling en visitatie: 55K faculteit/ 5K HvA CC
+3. Doorontwikkeling jaar 2: 55K faculteit/ 5K HvA CC
 
 Totaal: Kosten voor de faculteit betreffen 290K, dit komt neer op 2,9 FTE. Kosten voor HvA CC betreffen 40K, oftewel 0,4 FTE\)
 
