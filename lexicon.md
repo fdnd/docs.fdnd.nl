@@ -1,3 +1,9 @@
+---
+description: >-
+  Woordenlijst en uitleg van termen voor het aanvragen en ontwikkelen van een
+  nieuwe opleiding.
+---
+
 # AD Lexicon
 
 * CDHO = Commissie Doelmatigheid Hoger Onderwijs.Is een opleiding nuttig?
@@ -16,5 +22,5 @@
 * K&A = Kwaliteit & Accreditatie \(HvA\)
 * CROHO = Centraal Register Opleidingen Hoger Onderwijs
 * CC = Community College
-* Frontend = Front-end of Front End 
+* Frontend = Front-end of Front End
 
