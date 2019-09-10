@@ -17,6 +17,8 @@ Een lijst met links die handig zijn gedurende het ontwikkeltraject.
 * Tune in: [https://www.hva.nl/praktisch/algemeen/etalage/tune-in/tune-in.html](https://www.hva.nl/praktisch/algemeen/etalage/tune-in/tune-in.html)
 * [https://www.parool.nl/amsterdam/hva-biedt-hulp-aan-eerstegeneratiestudenten-trek-op-tijd-aan-de-bel~b9fcd2e1/?referer=https%3A%2F%2Fwww.google.com%2F](https://www.parool.nl/amsterdam/hva-biedt-hulp-aan-eerstegeneratiestudenten-trek-op-tijd-aan-de-bel~b9fcd2e1/?referer=https%3A%2F%2Fwww.google.com%2F)
 
+{% file src=".gitbook/assets/190902-presentatie-bijeenkomst-1-kick-off-one-paper-proposal.pdf" %}
+
 
 
 
