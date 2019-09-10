@@ -10,15 +10,18 @@ Datum:
 
 Werkveld, ROA laat zien dat er behoefte/ schaarste is m.b.t. de functie van frontend developers. Waarom is het belangrijk.. welke rol in bedrijven. \(3 voorbeelden\)  
 
-**Frontend Developer**: The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+**Frontend Developer**: De ontwikkelaar die bekwaam is in HTML, CSS, DOM en JavaScript en deze technologieën inzet om websites en webapps te maken. 
 
-**CSS/HTML Developer**: The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and application, know how.
+**CSS/HTML Developer**: De ontwikkelaar die bekwaam is in HTML en CSS, met uitzondering van JavaScript**.**
 
-**Frontend Web Designer**: When the word "Designer" is included in the job title, this will denote that the designer will possess front-end skills \(i.e., HTML & CSS\) but also professional design \(Visual Design and Interaction Design\) skills.
+**Frontend Web Designer**:   
+De ontwikkelaar die Frontend vaardigheden combineert met ontwerp vaardigheden \(Visual Design en Interaction Design\).
 
-**UI \(User Interface\) Developer/Engineer**: When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills.
+**UI \(User Interface\) Developer/Engineer**:   
+De ontwikkelaar die Frontend vaardigheden combineert met User Interface Design \(UI is een onderdeel van Interaction Design\)
 
-**Frontend Engineer \(aka JavaScript Developer or Full-stack JavaScript Developer\)**: The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires computer science knowledge and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills \(i.e has years of experience building front-end software applications\).
+**Frontend Engineer \(aka JavaScript Developer or Full-stack JavaScript Developer\)**:  
+De ontwikkelaar die web technieken inzet voor zowel de Frontend \(client-side\) als de Backend \(server-side\) van applicaties. Deze rol vereist doorgaans informatica-kennis en jarenlange ervaring met softwareontwikkeling. Wanneer het woord 'JavaScript Application' is opgenomen in de functie, betekent dit dat de ontwikkelaar een geavanceerde JavaScript-ontwikkelaar moet zijn die over geavanceerde programmeer-, software- en applicatie-ontwikkelvaardigheden beschikt.
 
 ### Profiel van het beroep
 

@@ -6,6 +6,8 @@ description: >-
 
 # AD Lexicon
 
+
+
 * CDHO = Commissie Doelmatigheid Hoger Onderwijs.Is een opleiding nuttig?
 * NVAO = Nederlandse Vereniging voor de Accreditatie Opleidingen
 * TNO = Toets Nieuwe Opleiding
@@ -14,7 +16,7 @@ description: >-
 * Lexicon = Een verzameling woorden in het geheugen
 * 4CID = Onderwijsmethodiek
 * Scaffolding in 4CID = Afnemende sturing
-* DDA = Digital Design Amsterdam
+* DDA = Dutch Digital Agencies \(brancheorganisatie\)
 * Fronteers = Vakvereniging Frontenders
 * SKC = Studie Keuze Check
 * Backwards Chaining = Backwards design
@@ -22,5 +24,7 @@ description: >-
 * K&A = Kwaliteit & Accreditatie \(HvA\)
 * CROHO = Centraal Register Opleidingen Hoger Onderwijs
 * CC = Community College
-* Frontend = Front-end of Front End
+* Frontend = Front-end of Front End 
+
+
 
