@@ -10,15 +10,15 @@ Datum:
 
 Werkveld, ROA laat zien dat er behoefte/ schaarste is m.b.t. de functie van frontend developers. Waarom is het belangrijk.. welke rol in bedrijven. \(3 voorbeelden\)  
 
-**Front-End Developer**: The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+**Frontend Developer**: The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
 
 **CSS/HTML Developer**: The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and application, know how.
 
-**Front-End Engineer \(aka JavaScript Developer or Full-stack JavaScript Developer\)**: The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires computer science knowledge and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills \(i.e has years of experience building front-end software applications\).
-
-**Front-End Web Designer**: When the word "Designer" is included in the job title, this will denote that the designer will possess front-end skills \(i.e., HTML & CSS\) but also professional design \(Visual Design and Interaction Design\) skills.
+**Frontend Web Designer**: When the word "Designer" is included in the job title, this will denote that the designer will possess front-end skills \(i.e., HTML & CSS\) but also professional design \(Visual Design and Interaction Design\) skills.
 
 **UI \(User Interface\) Developer/Engineer**: When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills.
+
+**Frontend Engineer \(aka JavaScript Developer or Full-stack JavaScript Developer\)**: The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires computer science knowledge and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills \(i.e has years of experience building front-end software applications\).
 
 ### Profiel van het beroep
 
@@ -34,9 +34,9 @@ Vaardigheden.
 
 Specifiek op AD..
 
-Condensed versie van: Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. 
+Condensed versie van: Frontend web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or web application so that a user can see and interact with them directly. 
 
-The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing.
+The challenge associated with Frontend development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing.
 
 The objective of designing a site is to ensure that when the users open up the site they consume the information in a format that is easy to 'read' and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers \(cross-browser\), different operating systems \(cross-platform\) and different devices \(cross-device\), which requires careful planning on the side of the developer.
 
