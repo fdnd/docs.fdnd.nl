@@ -15,5 +15,6 @@
 * Backwards Design = Van eind naar het begin onderwijs ontwerpen
 * K&A = Kwaliteit & Accreditatie \(HvA\)
 * CROHO = Centraal Register Opleidingen Hoger Onderwijs
-* CC = Community College 
+* CC = Community College
+* Frontend = Front-end of Front End 
 
