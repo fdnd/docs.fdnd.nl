@@ -83,6 +83,7 @@ Neem in het rapport in ieder geval op: ‘opleidingstype/arbeidsmarktprognose to
 | Bachelor CMD | Meeontwikkelen | Ja |
 | Werkveld | Meeontwikkelen ‘leertaken’, partner in het aanbieden van leerervaringen middels convenant van een jaar | Ja/ Wordt besproken |
 | Fronteers \(vakvereniging\) | Meeontwikkelen | Wordt besproken |
+| Dutch Digital Agencies \(brancheorganisatie\) | Meeontwikkelen | Wordt besproken |
 
 ### Verwachte kosten
 
