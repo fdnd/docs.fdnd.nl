@@ -6,25 +6,55 @@ description: >-
 
 # AD Lexicon
 
+## B
 
-
-* CDHO = Commissie Doelmatigheid Hoger Onderwijs.Is een opleiding nuttig?
-* NVAO = Nederlandse Vereniging voor de Accreditatie Opleidingen
-* TNO = Toets Nieuwe Opleiding
-* CVB = College Van Bestuur
-* ROA = Researchcentrum Onderzoek Arbeidsmarkt
-* Lexicon = Een verzameling woorden in het geheugen
-* 4CID = Onderwijsmethodiek
-* Scaffolding in 4CID = Afnemende sturing
-* DDA = Dutch Digital Agencies \(brancheorganisatie\)
-* Fronteers = Vakvereniging Frontenders
-* SKC = Studie Keuze Check
 * Backwards Chaining = Backwards design
 * Backwards Design = Van eind naar het begin onderwijs ontwerpen
-* K&A = Kwaliteit & Accreditatie \(HvA\)
-* CROHO = Centraal Register Opleidingen Hoger Onderwijs
+
+## C
+
+* CDHO = Commissie Doelmatigheid Hoger Onderwijs.Is een opleiding nuttig?
 * CC = Community College
-* Frontend = Front-end of Front End 
+* CROHO = Centraal Register Opleidingen Hoger Onderwijs
+* CVB = College Van Bestuur
+
+## D
+
+* DDA = Dutch Digital Agencies \(brancheorganisatie\)
+
+## F
+
+* Fronteers = Vakvereniging Frontenders
+* Frontend = Front-end of Front End
+
+## K
+
+* K&A = Afdeling Kwaliteit & Accreditatie \(HvA\)
+
+## L
+
+* Lexicon = Een verzameling woorden in het geheugen
+
+## N
+
+* NVAO = Nederlandse Vereniging voor de Accreditatie Opleidingen
+
+## R
+
+* ROA = Researchcentrum Onderzoek Arbeidsmarkt
+
+## S
+
+* Scaffolding in 4CID = Afnemende sturing
+* SKC = Studie Keuze Check
+
+## T
+
+* TNO = Toets Nieuwe Opleiding
+
+## 4
+
+* 4CID = Onderwijsmethodiek
 
 
 
