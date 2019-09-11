@@ -6,6 +6,10 @@ description: >-
 
 # AD Lexicon
 
+## A
+
+* AD = Associate Degree \(niveau 5\)
+
 ## B
 
 * Backwards Chaining = Backwards design
