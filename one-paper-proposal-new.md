@@ -10,11 +10,11 @@ description: >-
 
 Van: Faculteit Digitale Media, Creatie en Informatie  
 Aan: Frank Kresin, Geleyn Meijer  
-Datum: 10 september 2019
+Datum: 11 september 2019
 
 ### Achtergrond/ aanleiding
 
-Het digitale heeft anno 2019 definitief intrede in ons leven genomen \(zie ook het boek van Miriam Rasch\). Een frontender ontwikkelt interfaces op het snijvlak tussen fysiek en digitaal. Alle digitale producten worden gebruikt door mensen en moeten goed en betrouwbaar werken. Hier komt technologie bij kijken, maar ook designer, en soft-skills. Bijna elke onderneming heeft een een uiting op het web, veel grote ondernemingen hebben een interne web afdeling en er zijn legio voorbeelden van succesvolle ondernemingen die voor hun bedrijfsvoering volledig afhankelijk zijn van het web \(vb. Bol, Zalando\). 
+Het digitale heeft anno 2019 definitief intrede in ons leven genomen \(zie het boek van Miriam Rasch\). Een frontender ontwikkelt interfaces op het snijvlak tussen fysiek en digitaal. Alle digitale producten worden gebruikt door mensen en moeten goed en betrouwbaar werken. Hier komt technologie bij kijken, maar ook designer, en soft-skills. Bijna elke onderneming heeft een een uiting op het web, veel grote ondernemingen hebben een interne web afdeling en er zijn legio voorbeelden van succesvolle ondernemingen die voor hun bedrijfsvoering volledig afhankelijk zijn van het web \(vb. Bol, Zalando\). 
 
 Om de gebruiksinterface van deze websites en webapplicaties te ontwikkelen zijn goed opgeleide en ervaren frontenders nodig. Naast enkele korte opleidingen \(NCOI 7 mnd/ LOI 4 mnd\) en private opleidingen \(Competence Factory, College of MultiMedia\) bestaan er over het algemeen genomen geen volwaardige beroepsopleidingen waar een frontend diploma \(MBO/AD/BA/MA\) wordt uitgegeven en de competenties van een typische frontender zijn anders die van een traditioneel opgeleide ICTer. Een goede dedicated Frontend opleiding is er nog niet, aankomend studenten die frontender willen worden kiezen nu een opleiding \(ICT/ CMD, fronteers adviseert CMD\) waarmee ze in secundaire zin een beetje richting het vakgebied kunnen bewegen.
 
@@ -24,11 +24,11 @@ Naast de inrichting van de fysieke omgeving maakt de digital twin in stedelijk m
 
 ### Profiel van het beroep
 
-Frontend webdevelopment - binnen de ICT ook bekend als client-side software development - is de praktijk van het produceren van HTML, CSS en JavaScript voor een website of webapplicatie, zodat een gebruiker deze kan consumeren. De uitdaging die gepaard gaat met de ontwikkeling van Frontend is dat de tools en technieken die worden gebruikt om de interface van een website te maken voortdurend veranderen en dat de ontwikkelaar dus voortdurend op de hoogte moet blijven van hoe het veld zich ontwikkelt.
+Frontend web-development - binnen de ICT ook bekend als client-side software development - is de praktijk van het ontwerpen/ontwikkelen van HTML, CSS en JavaScript voor een website of webapplicatie, zodat een gebruiker deze kan consumeren. De uitdaging die hiermee gepaard gaat is dat tools en technieken die worden gebruikt om de interface van een website te maken voortdurend veranderen en de ontwikkelaar dus voortdurend op de hoogte moet blijven van hoe het veld zich ontwikkelt.
 
-Het doel van het ontwerpen/ontwikkelen van een website of webapplicatie is ervoor te zorgen dat wanneer een gebruiker de site openen, ze de informatie kan consumeren in een formaat dat toegankelijk en relevant is. Dit wordt gecompliceerd door het feit dat gebruikers tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen gebruiken. De frontender wordt gedwongen met al deze aspecten rekening te houden bij het ontwerpen/ontwikkelen van de site. Ze zorgen er voor dat hun site correct wordt weergegeven in verschillende browsers \(cross-browser\), verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\) hetgeen zorgvuldige planning aan de kant van de frontender vereist.
+Het doel van het ontwerpen/ontwikkelen van een website of webapplicatie is ervoor te zorgen dat wanneer een gebruiker de site opent, ze de informatie kan consumeren in een formaat dat toegankelijk en relevant is. Dit wordt gecompliceerd door het feit dat gebruikers tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen gebruiken. De frontender wordt gedwongen met al deze aspecten rekening te houden bij het ontwerpen/ontwikkelen van de site. Ze zorgen er voor dat hun site correct wordt weergegeven in verschillende browsers \(cross-browser\) op verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\) hetgeen een zeer zorgvuldige werkwijze aan de kant van de frontender vereist.
 
-Frontenders komen in een aantal verschillende soorten \(zie Frontent Handbook 2019\), een overzicht van de specifieke beroepen waar wij bij de ontwikkeling van de AD Frontend in meer of mindere mate rekening mee willen houden zijn:
+Frontenders komen in een aantal verschillende soorten \(zie Frontent Handbook 2019\), de meest generieke titel voor een frontender is "Frontend Developer". Een overzicht van de specifieke beroepen waar wij bij de ontwikkeling van de AD Frontend primair rekening mee houden zijn:
 
 * **Frontend Developer**: De ontwikkelaar die bekwaam is in HTML, CSS, DOM en JavaScript en deze technologieën inzet om websites en webapps te maken.
 * **HTML/CSS Developer**: De ontwikkelaar die bekwaam is in HTML en CSS, met uitzondering van JavaScript**.**
@@ -36,36 +36,13 @@ Frontenders komen in een aantal verschillende soorten \(zie Frontent Handbook 20
 * **UI \(User Interface\) Developer/Engineer**: De ontwikkelaar die Frontend vaardigheden combineert met User Interface Design \(UI is een onderdeel van Interaction Design\).
 * **Frontend Engineer \(aka JavaScript Developer\)**: De ontwikkelaar die web technieken inzet voor zowel de Frontend \(client-side\) als de Backend \(server-side\) van applicaties.
 
+Andere frontend titels waar wij ons niet direct op richten zijn: Full-stack developer \(AD Software Engineering?\), Mobile/Tablet \(Native\) Frontend Developer \(AD Software Engineering?\), Frontend SEO Expert \(AD Content?\), Frontend Accessibility Expert \(BA/MA\), Frontend Dev. Ops \(BA/MA\), Frontend Testing/QA \(BA/MA\). Er is echter wel enige overlap tussen de vaardigheden in deze beroepen en diegene waar wij ons primair op richten.
+
 ### Eerste verkenning arbeidsmarktbehoefte
 
-&lt;Globale arbeidsmarktverkenning: geeft op basis van een aantal bronnen \(ROA, UWV, branche\) een eerste oordeel over de kansrijkheid&gt;
+Het ROA typeert de arbeidsmarkt voor ICT, waar frontend onder valt \(\) als goed.
 
 Het ROA typeert de … vb recruitment.. -&gt; GOED zie ROA
-
-
-
-* UWV geeft aan \(zie bijlage
-  * Percentueel gezien is de banengroei in de sector Informatie en Communicatie het grootste
-  * Webdeveloper en embedded software engineer worden genoemd als moeilijk vervulbare vacatures
-  * Landelijk gezien wordt de ICT markt in de regio Amsterdam als zeer krap gedefinieerd. Ook regionaal is dit goed cijfermatig aan te tonen.
-
-
-
-* Er was een sectorplan ICT dat nu opgevolgd is door het deltaplan ICT en Human Capital Agenda ICT. Hierin wordt ondermeer gestreefd naar doorlopende leerlijnen en betere samenwerking tussen onderwijs en bedrijfsleven. Met de Ad voorzien wij hierin. Bij de CA-ICT is de vraag uitgezet of het deltaplan erkend is als sectorplan. Zo ja dan maakt dit de CDHO aanvraag heel sterk. Zo niet dan nog is het een mooie onderbouwing van het dossier.
-* Landelijk was er in 2017 in alle Ad ICT gerelateerde opleidingen een instroom van 369 studenten. De dichtstbijzijnde Ad opleiding is voor ons de Ad software development in Almere \( nog geen instroomcijfers bekend\) en de Ad IT Service management bij InHolland Diemen \(nog geen instroomcijfers bekend\)
-
-\(UWV\) Spanningsindicator landelijk vs. Noord-Holland-noord vs. Groot Amsterdam. Zeer krap  
-\(UWV\) Vacaturemarkt: openstaand \(900\)/nieuw \(900\)
-
-In de UWV Vacaturemarkt staan 900 openstaande vacatures in de ICT sector.
-
-In de [factsheet arbeidsmarkt voor ICT-beroepen](https://www.uwv.nl/overuwv/Images/ICT_beroepen_factsheet_arbeidsmarkt.pdf) uit 2018 wordt aangegeven dat er dusdanige krapte is dat er speciale omscholingstrajecten voor o.a. software engineer frontend / backend, designer ontwikkeld worden om antwoord te bieden op de grote vraag uit het beroepenveld.
-
-In het stuk [Moeilijk vervulbare vacatures](https://www.uwv.nl/overuwv/Images/moeilijk-vervulbare-vacatures-2019.pdf) uit 2019 van het UWV staan Programmeurs/developers specifieke talen en Developers specifieke toepassingen waarbij frontend expliciet genoemd wordt.
-
-IN de map op surfdrive…
-
-
 
 -	ROA: http://roastatistics.maastrichtuniversity.nl/
 
@@ -73,9 +50,29 @@ Inloggegevens opvragen bij Bastiaan van der Wulp \(s.a.van.der.wulp@hva.nl\)
 
 Neem in het rapport in ieder geval op: ‘opleidingstype/arbeidsmarktprognose tot 2022’. Dit geeft een goed beeld van de arbeidsmarktsituatie omdat daarin zowel het opleidingsniveau, de vervangings- en uitbreidingsvraag als de uitstroom vanuit de opleidingen wordt weergegeven.
 
+
+
 -	UWV \(https://www.arbeidsmarktcijfers.nl\) voor spanningsindicator en vacaturemarkt.
 
 -	UWV Factsheets arbeidsmarkt specifieke sector/ moeilijk vervulbare beroepen/ regio in beeld: Groot Amsterdam
+
+* UWV geeft aan \(zie bijlage
+  * Percentueel gezien is de banengroei in de sector Informatie en Communicatie het grootste
+  * Webdeveloper en embedded software engineer worden genoemd als moeilijk vervulbare vacatures
+  * Landelijk gezien wordt de ICT markt in de regio Amsterdam als zeer krap gedefinieerd. Ook regionaal is dit goed cijfermatig aan te tonen.
+
+\(UWV\) Spanningsindicator landelijk vs. Noord-Holland-noord vs. Groot Amsterdam. Zeer krap  
+\(UWV\) Vacaturemarkt: openstaand \(900\)/nieuw \(900\)
+
+In de UWV Vacaturemarkt staan 900 openstaand/nieuw vacatures in de ICT sector.
+
+In de [factsheet arbeidsmarkt voor ICT-beroepen van het UWV](https://www.uwv.nl/overuwv/Images/ICT_beroepen_factsheet_arbeidsmarkt.pdf) uit 2018 wordt aangegeven dat er dusdanige krapte is dat er speciale omscholingstrajecten voor o.a. software engineer frontend / backend, designer ontwikkeld worden om antwoord te bieden op de grote vraag uit het beroepenveld. Dit blijkt ook uit stuk [Moeilijk vervulbare vacatures](https://www.uwv.nl/overuwv/Images/moeilijk-vervulbare-vacatures-2019.pdf) uit 2019 van het UWV staan Programmeurs/developers specifieke talen en Developers specifieke toepassingen waarbij frontend expliciet genoemd wordt.
+
+
+
+Er was een sectorplan ICT dat nu is opgevolgd door het deltaplan ICT en Human Capital Agenda ICT. Hierin wordt ondermeer gestreefd naar doorlopende leerlijnen en betere samenwerking tussen onderwijs en bedrijfsleven. Met de Ad voorzien wij hierin. Bij de CA-ICT is de vraag uitgezet of het deltaplan erkend is als sectorplan, zo ja dan maakt dit de CDHO aanvraag heel sterk. Zo niet dan is het alsnog een mooie onderbouwing van het dossier.
+
+Landelijk was er in 2017 in alle ICT gerelateerde AD opleidingen een gemiddelde instroom van 369 studenten. De dichtstbijzijnde AD opleiding is voor ons de AD Software Development in Almere \( nog geen instroomcijfers bekend\) en de AD IT Service management bij InHolland Diemen \(nog geen instroomcijfers bekend\).
 
 ### Tijdspad
 
