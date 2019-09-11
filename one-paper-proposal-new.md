@@ -4,7 +4,7 @@ description: >-
   goede business case op te stellen voor besluitvorming door MT, FMR en CvB
 ---
 
-# One Paper Proposal \*new\*
+# One Paper Proposal
 
 ## Associate degree: AD Frontend
 
