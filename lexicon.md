@@ -8,7 +8,7 @@ description: >-
 
 ## A
 
-* AD = Associate Degree \(niveau 5\)
+* AD = Associate Degree \(niveau 5\) Zie [nlqf.nl](https://nlqf.nl/nlqf-niveaus)
 
 ## B
 
