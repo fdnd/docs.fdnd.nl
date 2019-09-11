@@ -14,19 +14,21 @@ Datum: 10 september 2019
 
 ### Achtergrond/ aanleiding
 
-Websites en webapplicaties nemen een steeds belangrijkere plaats in de bedrijfsvoering van ondernemingen. Bijna elke onderneming heeft een informatieve website, veel grote ondernemingen hebben een interne web afdeling en er zijn legio voorbeelden van succesvolle ondernemingen die voor hun bedrijfsvoering volledig afhankelijk zijn van het internet \(vb. Bol, Zalando\). 
+Het digitale heeft anno 2019 definitief intrede in ons leven genomen \(zie ook het boek van Miriam Rasch\). Een frontender ontwikkelt interfaces op het snijvlak tussen fysiek en digitaal. Alle digitale producten worden gebruikt door mensen en moeten goed en betrouwbaar werken. Hier komt technologie bij kijken, maar ook designer, en soft-skills. Bijna elke onderneming heeft een een uiting op het web, veel grote ondernemingen hebben een interne web afdeling en er zijn legio voorbeelden van succesvolle ondernemingen die voor hun bedrijfsvoering volledig afhankelijk zijn van het web \(vb. Bol, Zalando\). 
 
-Om de gebruiksinterface van deze websites te ontwikkelen zijn goed opgeleide en ervaren frontenders nodig. Naast enkele korte opleidingen \(NCOI 7 mnd/ LOI 4 mnd\) en private opleidingen \(Competence Factory, College of MultiMedia\) bestaan er over het algemeen genomen geen volwaardige beroepsopleidingen waar een frontend diploma \(MBO/AD/BA/MA\) wordt uitgegeven en de competenties van een typische frontender zijn anders die van een traditioneel opgeleide ICTer. Een goede dedicated Frontend opleiding is er nog niet, aankomend studenten die frontender willen worden kiezen nu een opleiding \(ICT/ CMD\) waarmee ze in secundaire zin een beetje richting het vakgebied kunnen bewegen.
+Om de gebruiksinterface van deze websites en webapplicaties te ontwikkelen zijn goed opgeleide en ervaren frontenders nodig. Naast enkele korte opleidingen \(NCOI 7 mnd/ LOI 4 mnd\) en private opleidingen \(Competence Factory, College of MultiMedia\) bestaan er over het algemeen genomen geen volwaardige beroepsopleidingen waar een frontend diploma \(MBO/AD/BA/MA\) wordt uitgegeven en de competenties van een typische frontender zijn anders die van een traditioneel opgeleide ICTer. Een goede dedicated Frontend opleiding is er nog niet, aankomend studenten die frontender willen worden kiezen nu een opleiding \(ICT/ CMD, fronteers adviseert CMD\) waarmee ze in secundaire zin een beetje richting het vakgebied kunnen bewegen.
 
-Een verkenning van de arbeidsmarkt \(ROA, UWV, CBS\) en het werkveld \(verkennende gesprekken\) geven krapte aan bij het zoeken naar frontenders en onderschrijven tevens het nut van de opleiding.
+Een eerste verkenning van de arbeidsmarkt \(ROA, UWV, CBS\) en het werkveld \(verkennende gesprekken\) geven krapte aan bij het zoeken naar frontenders en onderschrijven tevens het nut van de opleiding. Het ambacht frontend staat midden in de creatieve sector in groot Amsterdam. Een AD Frontend welke hand-in-hand met de bedrijven in de sector ontwikkeld wordt draagt bij aan het speerpunt Amsterdam Creative Industries van de HvA. 
+
+Naast de inrichting van de fysieke omgeving maakt de digital twin in stedelijk management haar opmars, ook in Amsterdam wordt hard gewerkt aan een dergelijke service voor de burgers. Door aansluiting te zoeken bij het CTO Innovatieteam van de Gemeente Amsterdam kan de AD Frontend een bijdrage aan de ontwikkel kant van urban management. 
 
 ### Profiel van het beroep
 
-Frontend webdevelopment - ook bekend als client-side software development - is de praktijk van het produceren van HTML, CSS en JavaScript voor een website of webapplicatie, zodat een gebruiker deze direct kan consumeren. De uitdaging die gepaard gaat met de ontwikkeling van Frontend is dat de tools en technieken die worden gebruikt om de interface van een website te maken voortdurend veranderen en dat de ontwikkelaar dus voortdurend op de hoogte moet blijven van hoe het veld zich ontwikkelt.
+Frontend webdevelopment - binnen de ICT ook bekend als client-side software development - is de praktijk van het produceren van HTML, CSS en JavaScript voor een website of webapplicatie, zodat een gebruiker deze kan consumeren. De uitdaging die gepaard gaat met de ontwikkeling van Frontend is dat de tools en technieken die worden gebruikt om de interface van een website te maken voortdurend veranderen en dat de ontwikkelaar dus voortdurend op de hoogte moet blijven van hoe het veld zich ontwikkelt.
 
-Het doel van het ontwerpen/ontwikkelen van een website of webapplicatie is ervoor te zorgen dat wanneer de gebruikers de site openen, ze de informatie kan consumeren in een formaat dat toegankelijk en relevant is. Dit wordt gecompliceerd door het feit dat gebruikers tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen gebruiken. De frontender wordt gedwongen met al deze aspecten rekening te houden bij het ontwerpen/ontwikkelen van de site. Ze zorgen er voor dat hun site correct wordt weergegeven in verschillende browsers \(cross-browser\), verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\) hetgeen zorgvuldige planning aan de kant van de frontender vereist.
+Het doel van het ontwerpen/ontwikkelen van een website of webapplicatie is ervoor te zorgen dat wanneer een gebruiker de site openen, ze de informatie kan consumeren in een formaat dat toegankelijk en relevant is. Dit wordt gecompliceerd door het feit dat gebruikers tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen gebruiken. De frontender wordt gedwongen met al deze aspecten rekening te houden bij het ontwerpen/ontwikkelen van de site. Ze zorgen er voor dat hun site correct wordt weergegeven in verschillende browsers \(cross-browser\), verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\) hetgeen zorgvuldige planning aan de kant van de frontender vereist.
 
-Frontenders komen in een aantal verschillende soorten, een overzicht van de specifieke beroepen waar wij bij de ontwikkeling van de AD Frontend in meer of mindere mate rekening mee willen houden zijn:
+Frontenders komen in een aantal verschillende soorten \(zie Frontent Handbook 2019\), een overzicht van de specifieke beroepen waar wij bij de ontwikkeling van de AD Frontend in meer of mindere mate rekening mee willen houden zijn:
 
 * **Frontend Developer**: De ontwikkelaar die bekwaam is in HTML, CSS, DOM en JavaScript en deze technologieën inzet om websites en webapps te maken.
 * **HTML/CSS Developer**: De ontwikkelaar die bekwaam is in HTML en CSS, met uitzondering van JavaScript**.**
@@ -39,6 +41,18 @@ Frontenders komen in een aantal verschillende soorten, een overzicht van de spec
 &lt;Globale arbeidsmarktverkenning: geeft op basis van een aantal bronnen \(ROA, UWV, branche\) een eerste oordeel over de kansrijkheid&gt;
 
 Het ROA typeert de … vb recruitment.. -&gt; GOED zie ROA
+
+
+
+* UWV geeft aan \(zie bijlage
+  * Percentueel gezien is de banengroei in de sector Informatie en Communicatie het grootste
+  * Webdeveloper en embedded software engineer worden genoemd als moeilijk vervulbare vacatures
+  * Landelijk gezien wordt de ICT markt in de regio Amsterdam als zeer krap gedefinieerd. Ook regionaal is dit goed cijfermatig aan te tonen.
+
+
+
+* Er was een sectorplan ICT dat nu opgevolgd is door het deltaplan ICT en Human Capital Agenda ICT. Hierin wordt ondermeer gestreefd naar doorlopende leerlijnen en betere samenwerking tussen onderwijs en bedrijfsleven. Met de Ad voorzien wij hierin. Bij de CA-ICT is de vraag uitgezet of het deltaplan erkend is als sectorplan. Zo ja dan maakt dit de CDHO aanvraag heel sterk. Zo niet dan nog is het een mooie onderbouwing van het dossier.
+* Landelijk was er in 2017 in alle Ad ICT gerelateerde opleidingen een instroom van 369 studenten. De dichtstbijzijnde Ad opleiding is voor ons de Ad software development in Almere \( nog geen instroomcijfers bekend\) en de Ad IT Service management bij InHolland Diemen \(nog geen instroomcijfers bekend\)
 
 \(UWV\) Spanningsindicator landelijk vs. Noord-Holland-noord vs. Groot Amsterdam. Zeer krap  
 \(UWV\) Vacaturemarkt: openstaand \(900\)/nieuw \(900\)
@@ -76,12 +90,13 @@ Neem in het rapport in ieder geval op: ‘opleidingstype/arbeidsmarktprognose to
 
 | Partner | Rol | Commitment |
 | :--- | :--- | :--- |
-| ROC Amsterdam | Meeontwikkelen | Wordt besproken |
+| ROC Amsterdam/ MBO's | Meeontwikkelen | Wordt besproken |
 | Lector | Crossmedia? Digital-life? | Wordt besproken |
 | Bachelor CMD | Meeontwikkelen | Ja |
 | Werkveld | Meeontwikkelen ‘leertaken’, partner in het aanbieden van leerervaringen middels convenant van een jaar | Ja/ Wordt besproken |
 | Fronteers \(vakvereniging\) | Meeontwikkelen | Wordt besproken |
 | Dutch Digital Agencies \(brancheorganisatie\) | Meeontwikkelen | Wordt besproken |
+| AAA Partners | Afstemming portfolio | Wordt besproken |
 
 ### Verwachte kosten
 
