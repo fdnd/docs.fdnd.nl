@@ -6,8 +6,6 @@ description: Overzicht van documenten van de AD Frontend
 
 ### Documenten
 
-{% page-ref page="one-paper-proposal.md" %}
-
 ### Links
 
 Een lijst met links die handig zijn gedurende het ontwikkeltraject.

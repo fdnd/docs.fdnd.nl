@@ -40,37 +40,19 @@ Andere frontend titels waar wij ons niet direct op richten zijn: Full-stack deve
 
 ### Eerste verkenning arbeidsmarktbehoefte
 
-Het ROA typeert de arbeidsmarkt voor ICT, waar frontend onder valt \(\) als goed.
+Frontend valt onder de ICT beroepen, Specialisten ICT, Software- en applicatieontwikkelaars, deze typering is gebruikt bij de verkenning van arbeidsmarktbehoefte.
 
-Het ROA typeert de … vb recruitment.. -&gt; GOED zie ROA
+Het ROA typeert de arbeidsmarkt voor ICT beroepen als goed. In het rapport [arbeidsmarkt naar opleiding en beroep tot 2022](https://cris.maastrichtuniversity.nl/ws/files/17609008/ROA_R_2017_10.pdf) wordt specifiek binnen de software- en applicatieontwikkelaars een jaarlijkse toename van het aantal werkenden van gemiddeld 1,1% per jaar geschat. De vervanginsvraag is binnen ICT beroepen de laagste van alle beroepsgroepen \(1,1%\), dit wordt verklaard door de relatief jonge beroepspopulatie. ICT beroepen kennen het hoogste aandeel van de uitbreidingsvraag in het aantal geschatte baanopeningen \(51%\). Tussen 2017 en 2022 is de verwachting dat de werkgelegenheid groeit met 6,2% ten opzichte van 2016. In de technische beroepen is ook in absolute zin de meeste vraag naar nieuwe mensen, er komen naar schatting 95.000 nieuwe banen in de ICT bij. Werkgevers zullen nog grotere knelpunten ondervinden bij het vinden van personeel voor ICT-beroepen, waarbij 87% van de vraag met \(zeer\) grote knelpunten te maken krijgt. Voornamelijk de vraag naar werkenden binnen de beroepsgroep software- en applicatieontwikkelaars zal stijgen, mede door een grote verwachte uitbreidingsvraag.
 
--	ROA: http://roastatistics.maastrichtuniversity.nl/
+De [UWV spanningsindicator](https://www.arbeidsmarktcijfers.nl/Report/2) voor ICT beroepen 2019 1e kwartaal geeft landelijk een zeer krappe typering met een spanning 8.56, in Noord-Holland Noord een zeer krappe typering met een spanning 4.34 en in Groot Amsterdam eveneens een zeer krappe typering met een spanning van 14.10.
 
-Inloggegevens opvragen bij Bastiaan van der Wulp \(s.a.van.der.wulp@hva.nl\)
+De [UWV Vacaturemarkt](https://www.arbeidsmarktcijfers.nl/Report/7) geeft voor ICT beroepen voor de arbeidsmarktregio Groot Amsterdam gemeten in juni 2019 totaal 2.262 vacatures waarvan 1370 vacatures in de richting software- en applicatieontwikkelaars. Als we verder doorzoeken bij [UWV Online vacatures](https://www.arbeidsmarktcijfers.nl/Report/1) dan kan die richting verdere gespecificeerd worden. Tellen we de vacatures voor Webdeveloper \(271/55\), Programmeur scripttalen \(78/55\), Software ontwikkelaar \(33\), Functioneel ontwerper \(26\) en Softwareontwerper \(13\) bij elkaar op dan zien we 531 vacatures specifiek voor frontenders.
 
-Neem in het rapport in ieder geval op: ‘opleidingstype/arbeidsmarktprognose tot 2022’. Dit geeft een goed beeld van de arbeidsmarktsituatie omdat daarin zowel het opleidingsniveau, de vervangings- en uitbreidingsvraag als de uitstroom vanuit de opleidingen wordt weergegeven.
+In de [factsheet arbeidsmarkt voor ICT-beroepen van het UWV](https://www.uwv.nl/overuwv/Images/ICT_beroepen_factsheet_arbeidsmarkt.pdf) \(april 2018\) wordt aangegeven dat er dusdanige krapte is dat er speciale omscholingstrajecten \(software engineer frontend / backend, designer\) ontwikkeld worden om antwoord te bieden op de grote vraag uit het beroepenveld. In de factsheet wordt expliciet genoemd dat de krapte vooral tot uiting komt in het moeilijk kunnen vervullen van HBO-vacatures en dat WW gerechtigden vooral lager opgeleid zijn. Er bestaat een kwalitatieve mismatch tussen ICTers in de WW en de vacatures. Er is bij [WW uitkeringen](https://www.arbeidsmarktcijfers.nl/Report/4) binnen de ICT beroepen een terugloop van het aantal WW gerechtigden te zien, dit is waarschijnlijk te wijden aan zij-instroom en omscholingsprogramma's.
 
+De arbeidsmarktkrapte wordt eveneens bevestigd in het stuk [Moeilijk vervulbare vacatures van het UWV](https://www.uwv.nl/overuwv/Images/moeilijk-vervulbare-vacatures-2019.pdf) \(2019\) en dan wel onder het specifieke beroep Programmeurs/developers specifieke talen en Developers specifieke toepassingen, waarbij frontend expliciet genoemd wordt.
 
-
--	UWV \(https://www.arbeidsmarktcijfers.nl\) voor spanningsindicator en vacaturemarkt.
-
--	UWV Factsheets arbeidsmarkt specifieke sector/ moeilijk vervulbare beroepen/ regio in beeld: Groot Amsterdam
-
-* UWV geeft aan \(zie bijlage
-  * Percentueel gezien is de banengroei in de sector Informatie en Communicatie het grootste
-  * Webdeveloper en embedded software engineer worden genoemd als moeilijk vervulbare vacatures
-  * Landelijk gezien wordt de ICT markt in de regio Amsterdam als zeer krap gedefinieerd. Ook regionaal is dit goed cijfermatig aan te tonen.
-
-\(UWV\) Spanningsindicator landelijk vs. Noord-Holland-noord vs. Groot Amsterdam. Zeer krap  
-\(UWV\) Vacaturemarkt: openstaand \(900\)/nieuw \(900\)
-
-In de UWV Vacaturemarkt staan 900 openstaand/nieuw vacatures in de ICT sector.
-
-In de [factsheet arbeidsmarkt voor ICT-beroepen van het UWV](https://www.uwv.nl/overuwv/Images/ICT_beroepen_factsheet_arbeidsmarkt.pdf) uit 2018 wordt aangegeven dat er dusdanige krapte is dat er speciale omscholingstrajecten voor o.a. software engineer frontend / backend, designer ontwikkeld worden om antwoord te bieden op de grote vraag uit het beroepenveld. Dit blijkt ook uit stuk [Moeilijk vervulbare vacatures](https://www.uwv.nl/overuwv/Images/moeilijk-vervulbare-vacatures-2019.pdf) uit 2019 van het UWV staan Programmeurs/developers specifieke talen en Developers specifieke toepassingen waarbij frontend expliciet genoemd wordt.
-
-
-
-Er was een sectorplan ICT dat nu is opgevolgd door het deltaplan ICT en Human Capital Agenda ICT. Hierin wordt ondermeer gestreefd naar doorlopende leerlijnen en betere samenwerking tussen onderwijs en bedrijfsleven. Met de Ad voorzien wij hierin. Bij de CA-ICT is de vraag uitgezet of het deltaplan erkend is als sectorplan, zo ja dan maakt dit de CDHO aanvraag heel sterk. Zo niet dan is het alsnog een mooie onderbouwing van het dossier.
+Er was een sectorplan ICT dat nu is opgevolgd door het [deltaplan ICT](https://www.caict.nl/deltaplan-ict/) en [Human Capital Agenda ICT](https://dutchdigitaldelta.nl/hca-ict) \(CA-ICT\). Hierin wordt ondermeer gestreefd naar doorlopende leerlijnen en betere samenwerking tussen onderwijs en bedrijfsleven. De AD Frontend draagt hier aan bij. \(sidenote: Bij de CA-ICT is de vraag uitgezet of het deltaplan erkend is als sectorplan, zo ja dan maakt dit de CDHO aanvraag heel sterk. Zo niet dan is het alsnog een mooie onderbouwing van het dossier.\)
 
 Landelijk was er in 2017 in alle ICT gerelateerde AD opleidingen een gemiddelde instroom van 369 studenten. De dichtstbijzijnde AD opleiding is voor ons de AD Software Development in Almere \( nog geen instroomcijfers bekend\) en de AD IT Service management bij InHolland Diemen \(nog geen instroomcijfers bekend\).
 
@@ -87,13 +69,13 @@ Landelijk was er in 2017 in alle ICT gerelateerde AD opleidingen een gemiddelde 
 
 | Partner | Rol | Commitment |
 | :--- | :--- | :--- |
+| AAA Partners | Afstemming portfolio | Wordt besproken |
 | ROC Amsterdam/ MBO's | Meeontwikkelen | Wordt besproken |
-| Lector | Crossmedia? Digital-life? | Wordt besproken |
-| Bachelor CMD | Meeontwikkelen | Ja |
+| Lectoraten binnen FDMCI | Meeontwikkelen | Wordt besproken |
+| Bachelor CMD | Netwerk, Meeontwikkelen | Ja |
 | Werkveld | Meeontwikkelen ‘leertaken’, partner in het aanbieden van leerervaringen middels convenant van een jaar | Ja/ Wordt besproken |
 | Fronteers \(vakvereniging\) | Meeontwikkelen | Wordt besproken |
 | Dutch Digital Agencies \(brancheorganisatie\) | Meeontwikkelen | Wordt besproken |
-| AAA Partners | Afstemming portfolio | Wordt besproken |
 
 ### Verwachte kosten
 
