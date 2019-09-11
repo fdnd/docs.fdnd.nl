@@ -1,3 +1,9 @@
+---
+description: >-
+  Aanscherping van de initiële visievorming met als doel om een kwalitatief
+  goede business case op te stellen voor besluitvorming door MT, FMR en CvB
+---
+
 # One Paper Proposal \*new\*
 
 ## Associate degree: AD Frontend
@@ -8,36 +14,25 @@ Datum: 10 september 2019
 
 ### Achtergrond/ aanleiding
 
-Websites en webapplicaties nemen een steeds belangrijkere plaats in de bedrijfsvoering van ondernemingen. Bijna elke onderneming heeft een informatieve website, veel grote ondernemingen hebben een interne web afdeling en er zijn legio voorbeelden van succesvolle ondernemingen die voor hun bedrijfsvoering volledig afhankelijk zijn van het internet \(vb. Bol, Zalando\). Om de gebruiksinterface van deze websites te ontwikkelen zijn goed opgeleide en ervaren frontenders nodig. Over het algemeen genomen zijn er vandaag de dag geen beroepsopleidingen waar een volwaardig frontend diploma \(MBO/AD/BA/MA\) wordt uitgegeven \(frontend handbook 2019\) en de competenties van een typische frontender zijn anders dan het profiel van een traditioneel opgeleide ICTer. Een verkenning van de arbeidsmarkt \(ROA, UWV, CBS-cijfers\) en het werkveld \(verkennende gesprekken\) laten zien dat er schaarste is voor de functie van frontender.
+Websites en webapplicaties nemen een steeds belangrijkere plaats in de bedrijfsvoering van ondernemingen. Bijna elke onderneming heeft een informatieve website, veel grote ondernemingen hebben een interne web afdeling en er zijn legio voorbeelden van succesvolle ondernemingen die voor hun bedrijfsvoering volledig afhankelijk zijn van het internet \(vb. Bol, Zalando\). 
+
+Om de gebruiksinterface van deze websites te ontwikkelen zijn goed opgeleide en ervaren frontenders nodig. Naast enkele korte opleidingen \(NCOI 7 mnd/ LOI 4 mnd\) en private opleidingen \(Competence Factory, College of MultiMedia\) bestaan er over het algemeen genomen geen volwaardige beroepsopleidingen waar een frontend diploma \(MBO/AD/BA/MA\) wordt uitgegeven en de competenties van een typische frontender zijn anders die van een traditioneel opgeleide ICTer. Een goede dedicated Frontend opleiding is er nog niet, aankomend studenten die frontender willen worden kiezen nu een opleiding \(ICT/ CMD\) waarmee ze in secundaire zin een beetje richting het vakgebied kunnen bewegen.
+
+Een verkenning van de arbeidsmarkt \(ROA, UWV, CBS\) en het werkveld \(verkennende gesprekken\) geven krapte aan bij het zoeken naar frontenders en onderschrijven tevens het nut van de opleiding.
 
 ### Profiel van het beroep
 
-&lt;Profiel van het beroep: geef een korte omschrijving van het beroep, de werkzaamheden en eventueel de benodigde vaardigheden&gt;
+Frontend webdevelopment - ook bekend als client-side software development - is de praktijk van het produceren van HTML, CSS en JavaScript voor een website of webapplicatie, zodat een gebruiker deze direct kan consumeren. De uitdaging die gepaard gaat met de ontwikkeling van Frontend is dat de tools en technieken die worden gebruikt om de interface van een website te maken voortdurend veranderen en dat de ontwikkelaar dus voortdurend op de hoogte moet blijven van hoe het veld zich ontwikkelt.
 
-Definitie beroep,
+Het doel van het ontwerpen/ontwikkelen van een website of webapplicatie is ervoor te zorgen dat wanneer de gebruikers de site openen, ze de informatie kan consumeren in een formaat dat toegankelijk en relevant is. Dit wordt gecompliceerd door het feit dat gebruikers tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen gebruiken. De frontender wordt gedwongen met al deze aspecten rekening te houden bij het ontwerpen/ontwikkelen van de site. Ze zorgen er voor dat hun site correct wordt weergegeven in verschillende browsers \(cross-browser\), verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\) hetgeen zorgvuldige planning aan de kant van de frontender vereist.
 
-Specialisme,
+Frontenders komen in een aantal verschillende soorten, een overzicht van de specifieke beroepen waar wij bij de ontwikkeling van de AD Frontend in meer of mindere mate rekening mee willen houden zijn:
 
-Werkzaamheden
-
-Vaardigheden.
-
-Specifiek op AD..
-
-Condensed versie van: Frontend web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or web application so that a user can see and interact with them directly. 
-
-The challenge associated with Frontend development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing.
-
-The objective of designing a site is to ensure that when the users open up the site they consume the information in a format that is easy to 'read' and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers \(cross-browser\), different operating systems \(cross-platform\) and different devices \(cross-device\), which requires careful planning on the side of the developer.
-
-**Frontend Developer**: De ontwikkelaar die bekwaam is in HTML, CSS, DOM en JavaScript en deze technologieën inzet om websites en webapps te maken.   
-**HTML/CSS Developer**: De ontwikkelaar die bekwaam is in HTML en CSS, met uitzondering van JavaScript**.  
-Frontend Web Designer**:   
-De ontwikkelaar die Frontend vaardigheden combineert met ontwerp vaardigheden \(Visual Design en Interaction Design\).  
-**UI \(User Interface\) Developer/Engineer**:   
-De ontwikkelaar die Frontend vaardigheden combineert met User Interface Design \(UI is een onderdeel van Interaction Design\)  
-**Frontend Engineer \(aka JavaScript Developer or Full-stack JavaScript Developer\)**:  
-De ontwikkelaar die web technieken inzet voor zowel de Frontend \(client-side\) als de Backend \(server-side\) van applicaties. Deze rol vereist doorgaans informatica-kennis en jarenlange ervaring met softwareontwikkeling. Wanneer het woord 'JavaScript Application' is opgenomen in de functie, betekent dit dat de ontwikkelaar een geavanceerde JavaScript-ontwikkelaar moet zijn die over geavanceerde programmeer-, software- en applicatie-ontwikkelvaardigheden beschikt.
+* **Frontend Developer**: De ontwikkelaar die bekwaam is in HTML, CSS, DOM en JavaScript en deze technologieën inzet om websites en webapps te maken.
+* **HTML/CSS Developer**: De ontwikkelaar die bekwaam is in HTML en CSS, met uitzondering van JavaScript**.**
+* **Frontend Web Designer**: De ontwikkelaar die Frontend vaardigheden combineert met ontwerp vaardigheden \(Visual Design en Interaction Design\).
+* **UI \(User Interface\) Developer/Engineer**: De ontwikkelaar die Frontend vaardigheden combineert met User Interface Design \(UI is een onderdeel van Interaction Design\).
+* **Frontend Engineer \(aka JavaScript Developer\)**: De ontwikkelaar die web technieken inzet voor zowel de Frontend \(client-side\) als de Backend \(server-side\) van applicaties.
 
 ### Eerste verkenning arbeidsmarktbehoefte
 
