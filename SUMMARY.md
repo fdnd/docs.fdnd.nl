@@ -1,8 +1,11 @@
 # Table of contents
 
 * [Docs](README.md)
-* [One Paper Proposal](one-paper-proposal-new.md)
 * [AD Lexicon](lexicon.md)
 * [AD Boekenkast](books.md)
-* [Businesscase](businesscase-nieuw-aanbod.md)
+
+## Ontwikkeltraject
+
+* [One Paper Proposal](ontwikkeltraject/one-paper-proposal-new.md)
+* [Businesscase](ontwikkeltraject/businesscase-nieuw-aanbod.md)
 

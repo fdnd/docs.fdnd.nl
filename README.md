@@ -6,11 +6,15 @@ description: Overzicht van documenten van de AD Frontend
 
 ### Documenten
 
-{% page-ref page="one-paper-proposal-new.md" %}
-
 {% page-ref page="lexicon.md" %}
 
 {% page-ref page="books.md" %}
+
+## Ontwikkeltraject
+
+{% page-ref page="ontwikkeltraject/one-paper-proposal-new.md" %}
+
+{% page-ref page="ontwikkeltraject/businesscase-nieuw-aanbod.md" %}
 
 ### Links
 

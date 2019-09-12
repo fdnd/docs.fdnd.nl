@@ -1,6 +1,10 @@
+---
+description: 'Business case voor een AD Frontend t.b.v. besluitvorming door MT, FMR en CvB'
+---
+
 # Businesscase
 
-## Businesscase nieuw aanbod
+## Businesscase AD Frontend
 
 ### Samenvatting
 
