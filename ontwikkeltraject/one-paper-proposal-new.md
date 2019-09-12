@@ -26,7 +26,8 @@ Ook op het gebied van urban management kan de AD frontend een bijdrage leveren. 
 
 Frontend web-development - binnen de ICT ook bekend als client-side software development - is de praktijk van het ontwerpen/ontwikkelen van HTML, CSS en JavaScript voor een website of webapplicatie, zodat een gebruiker deze kan consumeren. De uitdaging die hiermee gepaard gaat is dat tools en technieken die worden gebruikt om de interface van een website te maken voortdurend veranderen en de ontwikkelaar dus voortdurend op de hoogte moet blijven van hoe het veld zich ontwikkelt.
 
-Mensen gebruiken tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen. Het is de taak van een frontender om ervoor te zorgen dat een gebruiker informatie makkelijk kan begrijpen en gebruiken. Hij moet ervoor zorgen dat een website correct wordt weergegeven in verschillende browsers \(cross-browser\) op verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\). Dit vereist een zorgvuldige werkwijze van de frontender.
+  
+Mensen gebruiken tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen. Het is de taak van een frontender om ervoor te zorgen dat een gebruiker informatie makkelijk kan begrijpen en gebruiken. Hij moet ervoor zorgen dat een website correct wordt weergegeven in verschillende browsers \(cross-browser\) op verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\). Dit vereist een zorgvuldige werkwijze van de frontender.
 
 'Frontend developer' is een vrij algemene term. Er kunnen hier verschillende beroepen mee bedoeld worden \(zie Frontent Handbook 2019\). De AD frondend richt zich voornamelijk op:
 
