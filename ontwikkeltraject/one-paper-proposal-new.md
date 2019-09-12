@@ -18,7 +18,6 @@ Digitale technologie is anno 2019 niet meer weg te denken \(zie het boek van Mir
 
 Om de gebruiksinterface van deze websites en webapplicaties te ontwikkelen zijn goed opgeleide en ervaren frontenders nodig. Naast enkele korte opleidingen \(NCOI 7 mnd/ LOI 4 mnd\) en private opleidingen \(Competence Factory, College of MultiMedia\) bestaan er over het algemeen genomen geen volwaardige beroepsopleidingen waar een frontend diploma \(MBO/AD/BA/MA\) wordt uitgegeven. De competenties van een frontender zijn anders die van een traditioneel opgeleide ICTer. Er is nog geen opleiding die zich volledig op frontend richt. Studenten met de ambitie om frontender te worden, kiezen nu een opleiding ICT of CMD. Dit zijn HBO opleidingen die vier jaar duren en waar skills worden onderwezen waar de frontender in de beroepspraktijk geen gebruik van maakt.   
 
-  
 Een eerste verkenning van de arbeidsmarkt \(ROA, UWV, CBS\) en het werkveld \(verkennende gesprekken\) geeft aan dat er gebrek is aan \(geschoolde?\) frontenders. Wij zien frontend als een ambacht. Een ambacht dat deel uitmaakt van de creatieve sector in Amsterdam. Een AD frontend die samen met bedrijven in de creatieve sector ontwikkeld wordt, draagt dan ook bij aan een van de speerpunten van Amsterdam Creative Industries van de HvA: het versterken van de wisselwerking tussen onderwijs en praktijkgericht onderzoek.
 
 Ook op het gebied van urban management kan de AD frontend een bijdrage leveren. Met de opkomst van de ‘digital twin’, een digitale vorm van een fysiek object of systeem, is er steeds meer behoefte aan werknemers die de technologie hierachter begrijpen. De AD frontend wil hier o.a. op inspelen door aansluiting te zoeken bij het CTO Innovatieteam van de Gemeente Amsterdam.   
@@ -27,8 +26,7 @@ Ook op het gebied van urban management kan de AD frontend een bijdrage leveren. 
 
 Frontend web-development - binnen de ICT ook bekend als client-side software development - is de praktijk van het ontwerpen/ontwikkelen van HTML, CSS en JavaScript voor een website of webapplicatie, zodat een gebruiker deze kan consumeren. De uitdaging die hiermee gepaard gaat is dat tools en technieken die worden gebruikt om de interface van een website te maken voortdurend veranderen en de ontwikkelaar dus voortdurend op de hoogte moet blijven van hoe het veld zich ontwikkelt.
 
-  
-Mensen gebruiken tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen. Het is de taak van een frontender om ervoor te zorgen dat een gebruiker informatie makkelijk kan begrijpen en gebruiken. Hij moet ervoor zorgen dat een website correct wordt weergegeven in verschillende browsers \(cross-browser\) op verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\). Dit vereist een zorgvuldige werkwijze van de frontender.
+Mensen gebruiken tegenwoordig een grote verscheidenheid aan apparaten met verschillende schermformaten, resoluties en toepassingen. Het is de taak van een frontender om ervoor te zorgen dat een gebruiker informatie makkelijk kan begrijpen en gebruiken. Hij moet ervoor zorgen dat een website correct wordt weergegeven in verschillende browsers \(cross-browser\) op verschillende besturingssystemen \(cross-platform\) en verschillende apparaten \(cross-device\). Dit vereist een zorgvuldige werkwijze van de frontender.
 
 'Frontend developer' is een vrij algemene term. Er kunnen hier verschillende beroepen mee bedoeld worden \(zie Frontent Handbook 2019\). De AD frondend richt zich voornamelijk op:
 
