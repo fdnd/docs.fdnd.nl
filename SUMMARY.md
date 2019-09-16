@@ -3,6 +3,7 @@
 * [Docs](README.md)
 * [AD Lexicon](lexicon.md)
 * [AD Boekenkast](books.md)
+* [Werkwijze](werkwijze.md)
 
 ## Ontwikkeltraject
 
