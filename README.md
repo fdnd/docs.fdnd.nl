@@ -14,8 +14,6 @@ description: Overzicht van documenten van de AD Frontend
 
 {% page-ref page="ontwikkeltraject/one-paper-proposal-new.md" %}
 
-{% page-ref page="ontwikkeltraject/businesscase-nieuw-aanbod.md" %}
-
 ### Links
 
 Een lijst met links die handig zijn gedurende het ontwikkeltraject.

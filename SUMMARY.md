@@ -8,5 +8,4 @@
 ## Ontwikkeltraject
 
 * [One Paper Proposal](ontwikkeltraject/one-paper-proposal-new.md)
-* [Businesscase](ontwikkeltraject/businesscase-nieuw-aanbod.md)
 
