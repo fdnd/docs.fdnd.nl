@@ -1,0 +1,26 @@
+{
+  "name": "docs.fdnd.nl",
+  "version": "0.0.1",
+  "description": "It's where our documentation lives",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdnd/docs.git"
+  },
+  "keywords": [
+    "11ty"
+  ],
+  "author": "J.P. Sturkenboom <j.p.sturkenboom@hva.nl>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fdnd/docs/issues"
+  },
+  "homepage": "https://github.com/fdnd/docs#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "prettier": "^2.6.2"
+  }
+}
