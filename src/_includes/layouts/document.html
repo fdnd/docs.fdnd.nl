@@ -1,0 +1,34 @@
+{% extends "layouts/base.html" %}
+
+{% block content %}
+  
+  {% if content %}
+  <section class="{{ item.data.classlist }}">
+    {{ content | safe }}
+  </section>
+  {% endif %}
+
+  {% for item in collections.leerresultaten %}
+
+    {% if item.data.type === 'section' %}
+    <section class="{{ item.data.classlist }}" id="{{ item.fileSlug }}">
+      {{ item.data.content | safe }}
+    </section>
+    {% endif %}
+
+    {% if item.data.type === 'article' %}
+    <article class="{{ item.data.classlist }}" id="{{ item.fileSlug }}">
+      {{ item.data.content | safe }}
+    </article>
+    {% endif %}
+
+    {% if item.data.type === 'figure' %}
+    <figure class="{{ item.data.classlist }}" id="{{ item.fileSlug }}">
+      <img src="{{ item.data.image }}" alt="{{ item.data.alt }}">
+      <figcaption>{{ item.data.caption }}</figcaption>
+    </figure>
+    {% endif %}
+
+  {% endfor %}
+
+{% endblock %}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "Leerresultaten",
+      "url": "/leerresultaten/"
+    },
+    {
+      "text": "Onderwijsleeromgeving",
+      "url": "/leeromgeving/"
+    },
+    {
+      "text": "Toetsing",
+      "url": "/toetsing/"
+    },
+    {
+      "text": "Ontwikkeltraject",
+      "url": "/ontwikkeltraject/"
+    }
+  ]
+}

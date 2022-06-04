@@ -1,0 +1,18 @@
+<header>
+  <h1>
+    <abbr title="Frontend Design & Development"><span>FDND</span></abbr> <span>Documentatie</span>
+  </h1>
+  <p>Al onze visie en beleidsstukken zonder <abbr title="Algemene verordening gegevensbescherming">AVG</abbr>-impact
+  zijn publiek toegankelijk omdat we het belangrijk vinden dat iedereen dit kan inzien en daarop kan reageren.</p>
+</header>
+
+<nav>
+  <h2>Menu</h2>
+  <ul>
+    {% for item in navigation.items %}
+    <li><a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <a href="#">Back to top</a>
+</nav>

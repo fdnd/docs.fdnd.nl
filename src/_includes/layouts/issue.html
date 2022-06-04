@@ -1,0 +1,16 @@
+{% extends "layouts/base.html" %}
+
+{% block content %}
+  <section class="{{ classlist }}">
+    {{ content | safe }}
+  </section>
+
+  <section class="white-on-blue rounded title-outset-left">
+    <h2>Is er iets mis?</h2>
+    
+    <p>Fijn dat je meedenkt! Als je een voorstel voor aanpassing hebt op de tekst
+    die hier staat vermeld, schiet dan alstjeblieft een issue in op onze
+    <a href="{{ site.repo }}{{ site.issue }}{{ site.repo }}{{ page.filePathStem }}.md">GitHub omgeving</a>.
+    </p>
+  </section>
+{% endblock %}
