@@ -1,12 +1,12 @@
 ---
-title: 'Beoogde leerresultaten'
+title: "Beoogde leerresultaten"
 order: 1
-type: 'section'
-classlist: 'blue-on-green title-outset-left'
-layout: 'layouts/issue.html'
+type: "section"
+classlist: "blue-on-green rounded"
+layout: "layouts/issue.html"
 ---
 
-## Beoogde leer­resultaten (Std.1)
+## Beoogde Leer­resultaten
 
 _Doel: De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding
 en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op

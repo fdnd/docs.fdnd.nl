@@ -45,25 +45,35 @@
         <li><a href="/">Home</a></li>
 
         <li><a href="/leerresultaten/" class="active">Leerresultaten</a></li>
+
+        <li><a href="/leeromgeving/">Onderwijsleeromgeving</a></li>
+
+        <li><a href="/leertaken/">Leertaken</a></li>
+
+        <li><a href="/flow/">Flow</a></li>
       </ul>
 
       <a href="#">Back to top</a>
     </nav>
 
     <main>
-      <section class="contain"></section>
+      <figure class="contain" id="">
+        <a class="issue" href="">Report Issue</a>
 
-      <section class="white-on-blue rounded title-outset-left">
+        <img
+          src="/assets/jongleurs.png"
+          alt="Frontenders houden net als jongleurs vele ballen tegelijk in de lucht"
+        />
+        <figcaption>Figuur 1: Frontenders als jongleurs</figcaption>
+      </figure>
+
+      <section class="issue blue-on-white rounded">
         <h2>Is er iets mis?</h2>
 
         <p>
           Fijn dat je meedenkt! Als je een voorstel voor aanpassing hebt op de
-          tekst die hier staat vermeld, schiet dan alstjeblieft een issue in op
-          onze
-          <a
-            href="https://github.com/fdnd/docs/issues/new?permalink=https://github.com/fdnd/docs/leerresultaten/2-jongleurs.md"
-            >GitHub omgeving</a
-          >.
+          content die hier staat vermeld, schiet dan alstjeblieft een issue in
+          op onze GitHub omgeving door onderstaand formulier in te vullen.
         </p>
       </section>
     </main>
@@ -174,5 +184,178 @@
         }
       </style>
     </footer>
+
+    <div class="issue">
+      <a
+        href="https://github.com/fdnd/docs/issues/new?permalink=https://docs.fdnd.nl/leerresultaten/2-jongleurs/"
+        ><span>Report issue</span></a
+      >
+    </div>
+
+    <input type="checkbox" id="issueToggle" class="visually-hidden" />
+    <label for="issueToggle"></label>
+
+    <aside class="issue blue-on-white">
+      <h3>Fijn dat je meedenkt!</h3>
+
+      <p>
+        Heb je een aanpassing op de inhoud die je selecteerde? Schiet dan een
+        issue in op onze GitHub omgeving door het formulier in te vullen.
+      </p>
+
+      <form action="https://issues.fdnd.nl" method="post" class="issue">
+        <input
+          type="hidden"
+          name="repositoryId"
+          value="MDEwOlJlcG9zaXRvcnkxODc2NzY1MzM"
+        />
+        <input
+          type="hidden"
+          name="reference"
+          value="https://docs.fdnd.nl/leerresultaten/2-jongleurs/"
+        />
+        <input type="hidden" name="title" value="Jongleurs" />
+        <fieldset>
+          <legend>/leerresultaten/2-jongleurs/</legend>
+          <mark></mark>
+          <textarea
+            name="comment"
+            id="comment"
+            placeholder="Wat stel jij voor?"
+          ></textarea>
+        </fieldset>
+
+        <fieldset>
+          <label for=""></label>
+          <input type="submit" value="Verstuur issue" />
+        </fieldset>
+      </form>
+
+      <p>
+        Onthoud, bijdragen aan onze repositories volgen de
+        <a
+          href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines"
+          target="_blank"
+          >GitHub Community Guidelines</a
+        >.
+      </p>
+    </aside>
+
+    <style>
+      ::selection {
+        background-color: var(--highlight);
+        color: var(--blue);
+      }
+
+      div.issue {
+        display: none;
+        position: fixed;
+        margin-top: -2rem;
+        margin-left: -1rem;
+        color: var(--blue);
+        background-color: var(--highlight);
+      }
+      div.issue a {
+        display: block;
+        width: 2rem;
+        height: 2rem;
+        background-image: url("/assets/issue.svg");
+        filter: invert(7%) sepia(34%) saturate(5592%) hue-rotate(235deg)
+          brightness(101%) contrast(115%);
+      }
+      div.issue > a > span {
+        display: none;
+      }
+      div.issue.active {
+        display: block;
+      }
+
+      #issueToggle,
+      label {
+        position: fixed;
+        top: 1rem;
+        right: 1rem;
+        width: 2rem;
+        height: 2rem;
+        z-index: 6;
+        background-image: url("/assets/close.svg");
+        filter: invert(7%) sepia(34%) saturate(5592%) hue-rotate(235deg)
+          brightness(101%) contrast(115%);
+        transition: ease-out 200ms;
+        transform: translateX(22rem);
+      }
+
+      aside.issue {
+        position: fixed;
+        padding: 2rem;
+        top: 0rem;
+        right: 0rem;
+        height: 100vh;
+        width: 22rem;
+        z-index: 5;
+        box-shadow: var(--blue) 0 0.2rem 1rem;
+        transition: ease-out 200ms;
+        transform: translateX(100%);
+      }
+      #issueToggle:checked + label,
+      #issueToggle:checked ~ aside.issue {
+        transform: translateX(0%);
+      }
+
+      aside.issue:before {
+        content: "";
+      }
+
+      aside.issue h3,
+      aside.issue h3 + p {
+        margin-bottom: 1rem;
+      }
+
+      aside.issue legend {
+        margin-bottom: 0.5rem;
+      }
+
+      aside.issue mark {
+        line-height: 1.4rem;
+        background-color: var(--attention-background);
+      }
+
+      aside.issue textarea {
+        margin-top: 1rem;
+        height: 8rem;
+        resize: vertical;
+      }
+
+      aside.issue form + p {
+        margin-top: 2rem;
+        line-height: 1rem;
+        font-size: 0.7rem;
+      }
+    </style>
+
+    <script>
+      const issueBox = document.querySelector("div.issue");
+      const checkBox = document.querySelector("#issueToggle");
+      const selectionDisplay = document.querySelector("aside.issue mark");
+
+      document.addEventListener("selectionchange", () => {
+        let selection = document.getSelection();
+        let coords = selection.getRangeAt(0).getBoundingClientRect();
+
+        if (selection.toString() !== "") {
+          issueBox.style.top = `${coords.top}px`;
+          issueBox.style.left = `${coords.left + coords.width / 2}px`;
+          issueBox.classList.add("active");
+        } else {
+          issueBox.classList.remove("active");
+        }
+      });
+
+      issueBox.addEventListener("click", (event) => {
+        event.preventDefault();
+        selectionDisplay.innerHTML = document.getSelection().toString();
+        checkBox.checked = true;
+      });
+    </script>
   </body>
 </html>

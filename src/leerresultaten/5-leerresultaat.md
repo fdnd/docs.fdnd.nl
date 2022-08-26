@@ -1,8 +1,8 @@
 ---
-title: 'Leerresultaat'
-layout: 'layouts/issue.html'
-type: 'section'
-classlist: 'blue-on-green'
+title: "Leerresultaat"
+layout: "layouts/issue.html"
+type: "section"
+classlist: "blue-on-green rounded"
 order: 5
 ---
 

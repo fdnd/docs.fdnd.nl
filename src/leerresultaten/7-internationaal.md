@@ -1,9 +1,9 @@
 ---
-title: 'Internationaal Perspectief'
+title: "Internationaal Perspectief"
 order: 7
-type: 'section'
-classlist: 'blue-on-green'
-layout: 'layouts/issue.html'
+type: "section"
+classlist: "blue-on-green rounded"
+layout: "layouts/issue.html"
 ---
 
 ## Internationaal Perspectief

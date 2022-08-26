@@ -21,6 +21,7 @@
   "homepage": "https://github.com/fdnd/docs#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
+    "eleventy-plugin-postcss": "^1.0.4",
     "prettier": "^2.6.2"
   }
 }

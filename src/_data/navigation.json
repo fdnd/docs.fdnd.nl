@@ -7,6 +7,18 @@
     {
       "text": "Leerresultaten",
       "url": "/leerresultaten/"
+    },
+    {
+      "text": "Onderwijsleeromgeving",
+      "url": "/leeromgeving/"
+    },
+    {
+      "text": "Leertaken",
+      "url": "/leertaken/"
+    },
+    {
+      "text": "Flow",
+      "url": "/flow/"
     }
   ]
 }

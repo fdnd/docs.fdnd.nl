@@ -1,7 +1,7 @@
 ---
-title: 'Home'
-layout: 'layouts/singlepage.html'
-classlist: 'blue-on-green col-span-2'
+title: "Home"
+layout: "layouts/singlepage.html"
+classlist: "blue-on-green rounded col-span-2"
 ---
 
 ## Welkom bij FDND!

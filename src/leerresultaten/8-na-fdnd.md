@@ -1,9 +1,9 @@
 ---
-title: 'Na afronding van de opleiding'
+title: "Na afronding van de opleiding"
 order: 8
-type: 'section'
-classlist: 'blue-on-green'
-layout: 'layouts/issue.html'
+type: "section"
+classlist: "blue-on-green pilled"
+layout: "layouts/issue.html"
 ---
 
 ## Na afronding van de opleiding

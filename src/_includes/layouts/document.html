@@ -8,26 +8,17 @@
   </section>
   {% endif %}
 
-  {% for item in collections.leerresultaten %}
+  {% for item in collections[collection] %}
 
-    {% if item.data.type === 'section' %}
-    <section class="{{ item.data.classlist }}" id="{{ item.fileSlug }}">
-      {{ item.data.content | safe }}
-    </section>
-    {% endif %}
+    <{{ item.data.type }} class="{{ item.data.classlist }}" id="{{ item.fileSlug }}">
 
-    {% if item.data.type === 'article' %}
-    <article class="{{ item.data.classlist }}" id="{{ item.fileSlug }}">
-      {{ item.data.content | safe }}
-    </article>
-    {% endif %}
-
-    {% if item.data.type === 'figure' %}
-    <figure class="{{ item.data.classlist }}" id="{{ item.fileSlug }}">
-      <img src="{{ item.data.image }}" alt="{{ item.data.alt }}">
-      <figcaption>{{ item.data.caption }}</figcaption>
-    </figure>
-    {% endif %}
+      {% if item.data.type === 'figure' %}
+        <img src="{{ item.data.image }}" alt="{{ item.data.alt }}">
+        <figcaption>{{ item.data.caption }}</figcaption>
+      {% else %}
+        {{ item.data.content | safe }}
+      {% endif %}
+    </{{ item.data.type }}>
 
   {% endfor %}
 

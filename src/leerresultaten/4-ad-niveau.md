@@ -1,8 +1,8 @@
 ---
-title: 'Frontend op Ad-niveau'
-layout: 'layouts/issue.html'
-type: 'section'
-classlist: 'blue-on-green'
+title: "Frontend op Ad-niveau"
+layout: "layouts/issue.html"
+type: "section"
+classlist: "blue-on-green pilled"
 order: 4
 ---
 
