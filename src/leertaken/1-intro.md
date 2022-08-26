@@ -26,7 +26,7 @@ Zowel leer- als deeltaken hebben labels voor de volgende zaken:
 
 ## Instructies per taak
 
-In `/docs/INSTRUCTIONS.md` staat de uitleg van de leertaak.
+In `/docs/INSTRUCTIONS.md` staat de uitleg van de leertaak. Leertaken worden niet actief ingedeeld op 4C/ID niveau maar hebben bij elke fase van de dev-lifecycle een lijstje met taken ingedeeld volgens MoSCoW.
 
 N.B.: Studenten kiezen een user-story om aan de leertaak te werken.
 
