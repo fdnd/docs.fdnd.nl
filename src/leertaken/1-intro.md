@@ -37,3 +37,7 @@ N.B.: Studenten kiezen een user-story om aan de leertaak te werken.
 Eerder leek het een goed idee om in elke leertaak een .description bestand te hanteren voor het linken aan ons progamma. In praktijk werkt dit echter niet dus dit faseren we uit.
 
 N.B.: De programmasite maakt hier nog wel gebruik van.
+
+## Verhouding leertaken en deeltaken
+
+Per sprint werken studenten aan een of meerdere leertaken (die duurt in principe 3 weken). In een sprint worden ook deeltaken aangeboden met specifieke onderwerpen die bij de sprint horen. Deze deeltaken kunnen afzonderlijk in een checkpoint beoordeeld worden, maar kunnen ook tegelijk met de checkpoint voor een leertaak worden afgerond.
