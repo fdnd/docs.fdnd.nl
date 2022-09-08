@@ -280,17 +280,17 @@
         position: fixed;
         padding: 2rem;
         top: 0rem;
-        right: 0rem;
+        right: -22rem;
         height: 100vh;
         width: 22rem;
         z-index: 5;
         box-shadow: var(--blue) 0 0.2rem 1rem;
         transition: ease-out 200ms;
-        transform: translateX(100%);
+        transform: translateX(0%);
       }
       #issueToggle:checked + label,
       #issueToggle:checked ~ aside.issue {
-        transform: translateX(0%);
+        transform: translateX(-100%);
       }
 
       aside.issue:before {
@@ -326,6 +326,8 @@
 
     <script>
       const issueBox = document.querySelector("div.issue");
+      const issueForm = document.querySelector("aside.issue > form");
+
       const checkBox = document.querySelector("#issueToggle");
       const selectionDisplay = document.querySelector("aside.issue mark");
 
@@ -346,6 +348,25 @@
         event.preventDefault();
         selectionDisplay.innerHTML = document.getSelection().toString();
         checkBox.checked = true;
+      });
+
+      issueForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        event.stopImmediatePropagation();
+
+        let issue = {
+          repositoryId: event.target.repositoryId.value,
+          reference: event.target.reference.value,
+          title: event.target.title.value,
+          body: event.target.comment.value,
+        };
+
+        console.log(issue);
+
+        selectionDisplay.innerHTML = "";
+        event.target.comment.value = "";
+        issueBox.classList.remove("active");
+        checkBox.checkBox = false;
       });
     </script>
   </body>

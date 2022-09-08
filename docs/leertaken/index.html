@@ -57,6 +57,39 @@
     </nav>
 
     <main>
+      <section class="blue-on-green rounded" id="2-checkpoints">
+        <h2>Checkpoints</h2>
+        <p>
+          De docent maakt een nieuwe checkpoint aan op het moment dat een
+          student klaar is met een leertaak of deeltaak.
+        </p>
+        <p>
+          De student bereidt het gesprek voor door per geldend gedragscriterium
+          een reflectie (bijv. STAR) in Feedpulse te noteren bij de aangemaakte
+          leertaak.
+        </p>
+        <p>
+          De student vraagt een gesprek aan bij de docent, samen bespreken ze de
+          opdracht de opdrachtcriteria en de reflectie. Docenten noteren
+          opmerkingen of aanpassingen direct in Feedpulse.
+        </p>
+        <p>
+          De smiley bij een checkpoint staat voor de inzet van de student en is
+          dus een formatieve beoordeling:
+        </p>
+        <ul>
+          <li>
+            :D De student heeft een actieve houding en de opdrachten voldoen aan
+            de criteria.
+          </li>
+          <li>
+            :) De student is snel weg of niet zichtbaar en de opdrachten hangen
+            een beetje tegen de criteria aan.
+          </li>
+          <li>:( De student is uit zicht of heeft te weinig gedaan.</li>
+        </ul>
+      </section>
+
       <section class="blue-on-green pilled" id="1-intro">
         <h2>Over onze leertaken</h2>
         <h2>Naamgeving</h2>
@@ -90,13 +123,6 @@
         <p>
           N.B.: Studenten kiezen een user-story om aan de leertaak te werken.
         </p>
-        <h2>.description bestand wordt uitgefaseerd</h2>
-        <p>
-          Eerder leek het een goed idee om in elke leertaak een .description
-          bestand te hanteren voor het linken aan ons progamma. In praktijk
-          werkt dit echter niet dus dit faseren we uit.
-        </p>
-        <p>N.B.: De programmasite maakt hier nog wel gebruik van.</p>
         <h2>Verhouding leertaken en deeltaken</h2>
         <p>
           Per sprint werken studenten aan een of meerdere leertaken (die duurt
@@ -105,6 +131,13 @@
           kunnen afzonderlijk in een checkpoint beoordeeld worden, maar kunnen
           ook tegelijk met de checkpoint voor een leertaak worden afgerond.
         </p>
+        <h2>.description bestand wordt uitgefaseerd</h2>
+        <p>
+          Eerder leek het een goed idee om in elke leertaak een .description
+          bestand te hanteren voor het linken aan ons progamma. In praktijk
+          werkt dit echter niet dus dit faseren we uit.
+        </p>
+        <p>N.B.: De programmasite maakt hier nog wel gebruik van.</p>
       </section>
     </main>
 
@@ -319,17 +352,17 @@
         position: fixed;
         padding: 2rem;
         top: 0rem;
-        right: 0rem;
+        right: -22rem;
         height: 100vh;
         width: 22rem;
         z-index: 5;
         box-shadow: var(--blue) 0 0.2rem 1rem;
         transition: ease-out 200ms;
-        transform: translateX(100%);
+        transform: translateX(0%);
       }
       #issueToggle:checked + label,
       #issueToggle:checked ~ aside.issue {
-        transform: translateX(0%);
+        transform: translateX(-100%);
       }
 
       aside.issue:before {
@@ -365,6 +398,8 @@
 
     <script>
       const issueBox = document.querySelector("div.issue");
+      const issueForm = document.querySelector("aside.issue > form");
+
       const checkBox = document.querySelector("#issueToggle");
       const selectionDisplay = document.querySelector("aside.issue mark");
 
@@ -385,6 +420,25 @@
         event.preventDefault();
         selectionDisplay.innerHTML = document.getSelection().toString();
         checkBox.checked = true;
+      });
+
+      issueForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        event.stopImmediatePropagation();
+
+        let issue = {
+          repositoryId: event.target.repositoryId.value,
+          reference: event.target.reference.value,
+          title: event.target.title.value,
+          body: event.target.comment.value,
+        };
+
+        console.log(issue);
+
+        selectionDisplay.innerHTML = "";
+        event.target.comment.value = "";
+        issueBox.classList.remove("active");
+        checkBox.checkBox = false;
       });
     </script>
   </body>

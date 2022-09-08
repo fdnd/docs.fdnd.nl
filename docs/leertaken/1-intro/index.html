@@ -92,13 +92,6 @@
         <p>
           N.B.: Studenten kiezen een user-story om aan de leertaak te werken.
         </p>
-        <h2>.description bestand wordt uitgefaseerd</h2>
-        <p>
-          Eerder leek het een goed idee om in elke leertaak een .description
-          bestand te hanteren voor het linken aan ons progamma. In praktijk
-          werkt dit echter niet dus dit faseren we uit.
-        </p>
-        <p>N.B.: De programmasite maakt hier nog wel gebruik van.</p>
         <h2>Verhouding leertaken en deeltaken</h2>
         <p>
           Per sprint werken studenten aan een of meerdere leertaken (die duurt
@@ -107,6 +100,13 @@
           kunnen afzonderlijk in een checkpoint beoordeeld worden, maar kunnen
           ook tegelijk met de checkpoint voor een leertaak worden afgerond.
         </p>
+        <h2>.description bestand wordt uitgefaseerd</h2>
+        <p>
+          Eerder leek het een goed idee om in elke leertaak een .description
+          bestand te hanteren voor het linken aan ons progamma. In praktijk
+          werkt dit echter niet dus dit faseren we uit.
+        </p>
+        <p>N.B.: De programmasite maakt hier nog wel gebruik van.</p>
       </section>
 
       <section class="issue blue-on-white rounded">
@@ -331,17 +331,17 @@
         position: fixed;
         padding: 2rem;
         top: 0rem;
-        right: 0rem;
+        right: -22rem;
         height: 100vh;
         width: 22rem;
         z-index: 5;
         box-shadow: var(--blue) 0 0.2rem 1rem;
         transition: ease-out 200ms;
-        transform: translateX(100%);
+        transform: translateX(0%);
       }
       #issueToggle:checked + label,
       #issueToggle:checked ~ aside.issue {
-        transform: translateX(0%);
+        transform: translateX(-100%);
       }
 
       aside.issue:before {
@@ -377,6 +377,8 @@
 
     <script>
       const issueBox = document.querySelector("div.issue");
+      const issueForm = document.querySelector("aside.issue > form");
+
       const checkBox = document.querySelector("#issueToggle");
       const selectionDisplay = document.querySelector("aside.issue mark");
 
@@ -397,6 +399,25 @@
         event.preventDefault();
         selectionDisplay.innerHTML = document.getSelection().toString();
         checkBox.checked = true;
+      });
+
+      issueForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        event.stopImmediatePropagation();
+
+        let issue = {
+          repositoryId: event.target.repositoryId.value,
+          reference: event.target.reference.value,
+          title: event.target.title.value,
+          body: event.target.comment.value,
+        };
+
+        console.log(issue);
+
+        selectionDisplay.innerHTML = "";
+        event.target.comment.value = "";
+        issueBox.classList.remove("active");
+        checkBox.checkBox = false;
       });
     </script>
   </body>
