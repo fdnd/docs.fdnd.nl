@@ -1,9 +1,9 @@
 ---
-title: "Beoogde leerresultaten"
+title: 'Beoogde leerresultaten'
 order: 1
-type: "section"
-classlist: "blue-on-green rounded"
-layout: "layouts/issue.html"
+type: 'section'
+classlist: 'blue-on-green rounded'
+layout: 'layouts/issue.html'
 ---
 
 ## Onderwijs­leeromgeving
@@ -14,6 +14,11 @@ De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige 
 
 In dit document gaan wij in op:
 
-1. [Didactisch Concept]()
-2. [Vormgeving van de opleiding]()
-3. [Studentenbegeleiding]()
+1. [Didactisch Concept](#2-didactisch-concept)
+
+   - [Praktijkvraagstukken in een rijke leeromgeving](#3-praktijkvraagstukken)
+   - [Studenten aan het roer](#5-studenten-aan-het-roer)
+   - [Toetsing als leermoment](#7-toetsing-als-leermoment)
+
+2. [Vormgeving van de opleiding](#8-vormgeving-van-de-opleiding)
+3. [Studentenbegeleiding](#9-studentenbegeleiding)

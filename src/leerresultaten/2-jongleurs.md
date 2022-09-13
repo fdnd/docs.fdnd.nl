@@ -6,5 +6,5 @@ classlist: 'contain'
 order: 2
 image: '/assets/jongleurs.png'
 alt: 'Frontenders houden net als jongleurs vele ballen tegelijk in de lucht'
-caption: 'Figuur 1: Frontenders als jongleurs'
+caption: 'Frontenders als jongleurs'
 ---
