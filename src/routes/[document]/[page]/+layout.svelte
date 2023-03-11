@@ -1,0 +1,4 @@
+
+<article>
+  <slot />
+</article>
