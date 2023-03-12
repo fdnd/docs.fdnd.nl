@@ -1,4 +1,0 @@
-
-<article>
-  <slot />
-</article>

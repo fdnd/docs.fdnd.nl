@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@fdnd/components": "^0.0.11",
+    "@fdnd/components": "^0.0.12",
     "@sveltejs/adapter-netlify": "^2.0.3",
     "@sveltejs/kit": "^1.5.0",
     "svelte": "^3.54.0",

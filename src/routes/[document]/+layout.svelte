@@ -18,7 +18,7 @@
     <slot {doc} />
   </div>
 
-  <DocNav data={doc.linkTo} {prefix} />
+  <DocNav data={doc.linkTo} reload=true {prefix} />
 </main>
 
 <style>
