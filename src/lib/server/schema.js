@@ -35,3 +35,18 @@ export const getDocuments = gql`
     }
   }
 `
+
+export const getPage = gql`
+  query getPage($slug: String!) {
+    page(where: { slug: $slug }) {
+      title
+      slug
+      chapter {
+        title
+      }
+      content {
+        html
+      }
+    }
+  }
+`

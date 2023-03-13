@@ -1,13 +1,8 @@
 <script>
   import { Branding, Footer, Nav, Wrapper  } from '@fdnd/components'
-  import { documents, getTopNav } from '$lib/stores/documents'
+  import { getTopNav } from '$lib/stores/documents'
   
-  export let data;
-  documents.set(data)
-
-  // First menu-item is set manually
-  let topNav = {Menu:{Home:'/'}}
-  Object.assign(topNav.Menu, getTopNav())
+  let topNav = getTopNav()
 </script>
 
 <Branding>

@@ -1,10 +1,9 @@
 <script>
   import { DocNav } from '@fdnd/components';
   import { error } from '@sveltejs/kit'
-  import { documents, getDoc } from '$lib/stores/documents'
+  import { getDoc, documents } from '$lib/stores/documents'
 
   export let data
-  documents.set(data)
 
   let doc = getDoc(data.document)
   if(doc === undefined){
