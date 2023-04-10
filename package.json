@@ -1,0 +1,47 @@
+{
+  "name": "docs.fdnd.nl",
+  "version": "0.0.2",
+  "description": "It's another attempt to create our docs environment",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdnd/docs.fdnd.nl.git"
+  },
+  "keywords": [
+    "unified",
+    "docs"
+  ],
+  "author": "J.P. Sturkenboom <j.p.sturkenboom@hva.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdnd/docs.fdnd.nl/issues"
+  },
+  "homepage": "https://docs.fdnd.nl",
+  "dependencies": {
+    "file-type": "^18.2.1",
+    "fs-extra": "^11.1.1",
+    "hastscript": "^7.2.0",
+    "recursive-readdir": "^2.2.3",
+    "rehype-document": "^6.1.0",
+    "rehype-format": "^4.0.1",
+    "rehype-parse": "^8.0.4",
+    "rehype-section-headings": "^1.1.0",
+    "rehype-shiki": "^0.0.9",
+    "rehype-slug": "^5.1.0",
+    "rehype-stringify": "^9.0.3",
+    "rehype-toc": "^3.0.2",
+    "remark-gfm": "^3.0.1",
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
+    "remark-retext": "^5.0.1",
+    "remark-toc": "^8.0.1",
+    "retext-dutch": "^4.1.0",
+    "to-vfile": "^7.2.4",
+    "unified": "^10.1.2",
+    "vfile-reporter": "^7.0.5"
+  }
+}
