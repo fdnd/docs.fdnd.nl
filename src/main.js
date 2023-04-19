@@ -59,7 +59,11 @@ function capitalize(word) {
   return word.charAt(0).toUpperCase() + word.slice(1)
 }
 
-// Get some info for a file using the native path package
+/**
+ * Get some info for a file using the native path package
+ * @param {*} file a file handle
+ * @returns an object containing info for the file
+ */
 function getFileInfo(file) {
   const name = file
   const basename = path.basename(file)
@@ -70,7 +74,10 @@ function getFileInfo(file) {
   return { name, basename, extname, dirname, destname, menu } // IMPURE!
 }
 
-// Decide what to do with this file, parse or copy
+/**
+ * Decides what to do with a given file, parse or copy
+ * @param {*} file a file handle
+ */
 function fileHandler(file) {
   if (file.extname === '.md') {
     markdownParser.process(readSync(file), copyToBuildDir)
@@ -79,7 +86,12 @@ function fileHandler(file) {
   }
 }
 
-//
+/**
+ * Preferable called as callback for a to-vfile function. Ensures if a targeted
+ * folder exists and then copies the file to the targeted folder.
+ * @param {*} error an error object that contains errors when things go wrong
+ * @param {*} file a file handle
+ */
 function copyToBuildDir(error, file) {
   if (error) throw error
 
@@ -91,10 +103,20 @@ function copyToBuildDir(error, file) {
   writeSync(file)
 }
 
-function getTargetExtname(file) {
-  return file.extname === '.md' ? '.html' : file.extname
-}
-
+/**
+ * Returns a set destionation folder or the build dir
+ * @param {*} file a file handle
+ * @returns the target dirname
+ */
 function getTargetDirname(file) {
   return file.destname ?? buildDir
+}
+
+/**
+ * Returns the target extension name
+ * @param {*} file a file handle
+ * @returns the target extension name
+ */
+function getTargetExtname(file) {
+  return file.extname === '.md' ? '.html' : file.extname
 }

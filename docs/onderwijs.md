@@ -32,7 +32,7 @@ De opleiding Frontend Design & Development (FDND) is samen met het werkveld ontw
 
 Frontenders maken interactieve, toegankelijke toepassingen voor het web die beantwoorden aan de vraag van een opdrachtgever. Hierbij wordt rekening gehouden met gebruiksvriendelijkheid en behoeften van eindgebruikers. Frontenders werken in teams samen met software developers, visual designers, interaction designers en contentmakers van verschillende niveaus (mbo-4, Associate degree, bachelor, master). Naast technische vaardigheden beschikken ze ook over uitstekende persoonlijke en sociale vaardigheden. Zo zijn ze communicatief sterk, vragen door en kunnen binnen hun team beargumenteerd adviseren over en richting geven aan het ontwerp en de ontwikkeling van de 'frontend' van een interactieve toepassing. Deze combinatie van kennis, houding en vaardigheden maakt Frontend tot een complex beroep, zie figuur.
 
-![Frontenders houden net als jongleurs vele ballen tegelijk in de lucht](img/jongleurs.png)
+![Frontenders houden net als jongleurs vele ballen tegelijk in de lucht](./assets/img/jongleurs.png)
 
 Frontenders omarmen verandering en blijven op de hoogte van trends op het gebied van technologie, digitaal- en interactie ontwerp. Ook delen ze deze kennis met hun team en brengen dit in praktijk met inachtneming van geldende standaarden.
 
