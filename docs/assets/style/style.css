@@ -21,8 +21,6 @@
   --pilled: 2rem;
   --shadow: 0.15rem;
   --gap: 1rem;
-
-  font-size: clamp(1rem, -0.875rem + 8.333vw, 3.5rem);
 }
 
 [data-scheme='dark'] {
@@ -39,6 +37,7 @@ body {
   font-family: Open Sans, sans-serif;
   background: var(--color-background);
   color: var(--color-main-text);
+  font-size: 19px;
 }
 
 .visually-hidden {
@@ -54,18 +53,20 @@ body {
 /* HEADER */
 header {
   display: flex;
-  padding: var(--padding);
-  gap: var(--gap);
   flex-flow: row wrap;
+  justify-content: space-between;
+  gap: var(--gap);
+
+  padding: var(--padding);
   background: var(--color-foreground);
   color: var(--color-background);
 }
 
 /* FDND LOGO */
-h1 > abbr {
+header h1 > abbr {
   text-decoration: none;
 }
-h1 > abbr > span {
+header h1 > abbr > span {
   display: block;
   width: fit-content;
   border: 1px solid var(--color-background);
@@ -78,7 +79,6 @@ h1 > abbr > span {
 
 /* DOCUMENT NAVIGATION */
 nav.top {
-  /* display: flex; */
 }
 nav.top h2 {
   display: none;
@@ -152,6 +152,20 @@ nav.top ul li:nth-of-type(11) a {
   border-radius: var(--rounded);
 }
 
+nav.top a.github {
+  padding: 0;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+}
+nav.top a.github span {
+  display: none;
+}
+nav.top a.github svg {
+  stroke: var(--color-foreground);
+  height: 2rem;
+}
+
 /* COLOR SWITCH BUTTON */
 button.color-switch {
   background: var(--color-background);
@@ -178,11 +192,8 @@ button.color-switch:hover svg,
 button.color-switch:focus svg {
   stroke: var(--color-blue) !important;
 }
-button.color-switch:hover svg .rays {
-  transform: translateX(-1px);
-}
 
-/* TABLE OF CONTENTS PER DOCUMENT */
+/* TABLE OF CONTENTS (PER DOCUMENT) */
 nav.toc {
   height: fit-content;
   background: var(--color-foreground);
@@ -207,9 +218,23 @@ nav.toc .toc-link-h2 {
   font-weight: bold;
 }
 
+/* FOOTER */
+footer {
+  padding: var(--padding);
+}
+footer > p > span {
+  display: inline-block;
+  transform: rotate(180deg);
+}
+
+/* MAIN */
+main {
+  padding: var(--padding);
+}
+
 /* Content */
-a {
-  /* color: var(--color-foreground); */
+main a {
+  color: var(--color-foreground);
 }
 a:hover,
 a:focus {
@@ -218,92 +243,89 @@ a:focus {
   border-color: var(--color-yellow) !important;
   color: var(--color-blue) !important;
 }
-p {
-  max-width: 30rem;
+
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.4rem;
+  line-height: 1em;
+  font-weight: bold;
+}
+/* https://typescale.com Perfect four */
+main h2 {
+  margin-left: -0.15rem;
+  font-size: 4.209rem;
+}
+main h3 {
+  font-size: 3.157rem;
+}
+main h4 {
+  font-size: 2.369rem;
+}
+main h5 {
+  font-size: 1.777rem;
+}
+main h6 {
+  font-size: 1.333rem;
+}
+main small,
+main sup,
+main sub {
+  font-size: 0.75rem;
 }
 
-img {
+main p {
+  max-width: 30em;
+}
+main p + p,
+main p + ul,
+main ul + p,
+main p + pre,
+main pre + p,
+main table + p,
+main p + table {
+  margin-top: var(--padding);
+}
+main img {
   max-width: 100%;
+}
+main ul {
+  list-style: disc inside;
+}
+main ol {
+  list-style: decimal inside;
+}
+main pre {
+  padding: var(--padding);
+}
+main table {
+  border: 1px solid var(--color-foreground);
+  width: 100%;
+}
+main th {
+  background: var(--color-foreground);
+  color: var(--color-background);
+  font-size: bold;
+  padding: 0.2rem;
+}
+main td {
+  border: 1px solid var(--color-foreground);
+  padding: 0.2rem;
+}
+main sup {
+}
+main sub {
+}
+
+section.footnotes p {
+  display: inline;
 }
 
 /* WOBBLY BLOCKS MENU */
-/* nav.top {
-  order: 3;
-  margin: var(--spacing) 0;
-}
-nav.top a {
-  display: block;
-  padding: 0.6rem 1.2rem;
-  border-width: 1px;
-  border-style: solid;
-  border-radius: var(--pilled);
-  border-color: var(--color-foreground);
-  background: var(--color-foreground);
-  color: var(--color-background);
-  font-weight: normal;
-  text-decoration: none;
-  transform-origin: center center;
-}
-nav.top a.active {
-  background: var(--color-yellow);
-  border-color: var(--color-yellow);
-  color: var(--color-blue);
-}
-nav.top li:first-of-type a {
-  margin-left: 0;
-}
-nav.top ul {
-  display: flex;
-  flex-flow: row-reverse wrap-reverse;
-  justify-content: flex-end;
-  list-style: none;
-  gap: 0.5rem;
-}
-nav.top ul li {
-  white-space: nowrap;
-}
-nav.top ul li:nth-of-type(1) {
-  order: 11;
-}
-nav.top ul li:nth-of-type(2) {
-  order: 10;
-}
-nav.top ul li:nth-of-type(3) {
-  order: 9;
-}
-nav.top ul li:nth-of-type(4) {
-  order: 8;
-}
-nav.top ul li:nth-of-type(5) {
-  order: 7;
-}
-nav.top ul li:nth-of-type(6) {
-  order: 6;
-}
-nav.top ul li:nth-of-type(7) {
-  order: 5;
-}
-nav.top ul li:nth-of-type(8) {
-  order: 4;
-}
-nav.top ul li:nth-of-type(9) {
-  order: 3;
-}
-nav.top ul li:nth-of-type(10) {
-  order: 2;
-}
-nav.top ul li:nth-of-type(11) {
-  order: 1;
-}
-nav.top ul li:nth-of-type(1) a,
-nav.top ul li:nth-of-type(2) a,
-nav.top ul li:nth-of-type(5) a,
-nav.top ul li:nth-of-type(7) a,
-nav.top ul li:nth-of-type(11) a {
-  border-radius: var(--rounded);
-}
-
-@media (min-width: 30rem) {
+/* @media (min-width: 30rem) {
   nav.top ul li:nth-of-type(1) a {
     transform: rotate(-5deg);
   }

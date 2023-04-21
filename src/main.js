@@ -20,6 +20,13 @@ recursiveReadDir(docsDir, dirListHandler)
 function dirListHandler(error, files) {
   if (error) throw error
   menu = buildMenu(files) // IMPURE!
+  // Hack.. ugly..
+  menu.push({
+    basename: 'GitHub',
+    extname: '',
+    menuname: 'GitHub',
+    href: 'https://github.com/fdnd/docs.fdnd.nl',
+  })
   files.map((file) => getFileInfo(file)).forEach((file) => fileHandler(file))
 }
 
