@@ -24,13 +24,15 @@ Als je wilt bijdragen is het handig als je dat op jouw lokale machine kunt doen.
 
 ## Documentatie
 
-### Ondersteunde Markdown Syntax
+### Ondersteunde Markdown syntax
 
-[docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM))[https://github.github.com/gfm/] om Markdown bestanden te parsen. Dit betekend dat een aantal extra opties ondersteund worden, bovenop de standaard Markdown specificatie. Hieronder enkele highlights.
+[Docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) om Markdown bestanden te parsen. Dit betekend dat een aantal extra opties ondersteund worden, bovenop de standaard Markdown specificatie. Hieronder enkele highlights.
 
 #### Tabellen
 
 Eenvoudige tabellen kunnen in GFM met pipes (|), hyphens (-) en dubbele punten (:) gemaakt worden. Voor meer ingewikkelde tabellen is het handiger direct HTML codes op te nemen.
+
+##### Voorbeeld
 
 De volgende tabel in markdown
 
