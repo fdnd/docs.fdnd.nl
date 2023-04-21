@@ -26,7 +26,7 @@ Als je wilt bijdragen is het handig als je dat op jouw lokale machine kunt doen.
 
 ### Ondersteunde Markdown syntax
 
-[Docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) om Markdown bestanden te parsen. Dit betekend dat een aantal extenties ondersteund worden, bovenop de standaard Markdown specificatie. Hieronder enkele highlights.
+[Docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) om Markdown bestanden te parsen. Dit betekend dat een aantal extenties ondersteund worden, bovenop de standaard Markdown specificatie. Daarbovenop wordt [Shiki](https://shiki.matsu.io/) gebruikt om codevoorbeelden te highlighten. Hieronder enkele highlights van de extenties die je kunt gebruiken.
 
 #### Tabellen
 
@@ -84,7 +84,25 @@ wordt geparsed naar
 
 #### Doorhalen
 
+Je kunt tekst binnnen dezelfde alinea tussen één of twee tildes (~) zetten om het door te halen. Dit kan handig zijn om te laten zien dat er iets veranderd is in een document.
+
+##### Voorbeeld
+
+De volgende regel in markdown
+
+```md
+~~Hoi~~ Hallo, ~~daar~~ wereld!
+```
+
+wordt geparsed naar
+
+```html
+<p><del>Hoi</del> Hallo, <del>daar</del> wereld!</p>
+```
+
 #### Autolinks
+
+#### Code highlighting (Shiki)
 
 ## Bronnen
 
