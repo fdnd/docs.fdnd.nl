@@ -26,7 +26,7 @@ Als je wilt bijdragen is het handig als je dat op jouw lokale machine kunt doen.
 
 ### Ondersteunde Markdown syntax
 
-[Docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) om Markdown bestanden te parsen. Dit betekend dat een aantal extra opties ondersteund worden, bovenop de standaard Markdown specificatie. Hieronder enkele highlights.
+[Docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) om Markdown bestanden te parsen. Dit betekend dat een aantal extenties ondersteund worden, bovenop de standaard Markdown specificatie. Hieronder enkele highlights.
 
 #### Tabellen
 
@@ -36,7 +36,7 @@ Eenvoudige tabellen kunnen in GFM met pipes (|), hyphens (-) en dubbele punten (
 
 De volgende tabel in markdown
 
-```
+```md
 | foo | bar |
 | --- | --- |
 ```
@@ -61,6 +61,26 @@ wordt geparsed naar
 ```
 
 #### Takenlijsten
+
+Door het toevoegen van een linkerbracket ([), een rechterbracket (]) en optioneel de letter x kan van een standaard lijst een takenlijst gemaakt worden. Deze worden vervangen door een semantisch checkbox element, in HTML is dit `<input type="checkbox">`.
+
+##### Voorbeeld
+
+De volgende lijst in markdown
+
+```md
+- [ ] foo
+- [x] bar
+```
+
+wordt geparsed naar
+
+```html
+<ul>
+  <li><input disabled="" type="checkbox" /> foo</li>
+  <li><input checked="" disabled="" type="checkbox" /> bar</li>
+</ul>
+```
 
 #### Doorhalen
 
