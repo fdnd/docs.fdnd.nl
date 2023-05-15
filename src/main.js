@@ -32,7 +32,7 @@ function dirListHandler(error, files) {
 
 /**
  * Build a menu using the passed files array, first we filter out .md files,
- * then we get the info we need and finally sort it by name
+ * then we get the info we need and finally sort it by name, but put home first
  * @param {*} files an array of files
  * @returns an array containing the menu items
  */
@@ -41,6 +41,7 @@ function buildMenu(files) {
     .filter((file) => path.extname(file) === '.md')
     .map((file) => getMenuInfo(file))
     .sort((a, b) => (a.menuname > b.menuname ? 1 : b.menuname > a.menuname ? -1 : 0))
+    .sort((a, b) => (a.menuname === 'Home' ? -1 : b.menuname === 'Home' ? 1 : 0))
 }
 
 /**

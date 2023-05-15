@@ -7,36 +7,50 @@
 }
 
 :root {
+  /* Color definitions */
   --color-green: #66e5bf;
   --color-purple: #a675f5;
   --color-blue: #050542;
   --color-white: #ffffff;
   --color-yellow: #fffc86;
 
-  --color-foreground: var(--color-blue);
+  /* Default scheme colors */
+  --color-text: var(--color-blue);
   --color-background: var(--color-white);
-  --color-main-text: var(--color-blue);
+  --color-accent: var(--color-blue);
+  --color-logo: var(--color-blue);
+
+  --color-nav: var(--color-white);
+  --color-nav-text: var(--color-blue);
+  --color-nav-border: var(--color-blue);
+  --color-active: var(--color-yellow);
 
   --rounded: 0.5rem;
   --pilled: 2rem;
   --shadow: 0.15rem;
   --gap: 1rem;
+  --padding: 1rem;
 }
 
 [data-scheme='dark'] {
-  --color-foreground: var(--color-green);
+  --color-text: var(--color-white);
   --color-background: var(--color-blue);
-  --color-main-text: var(--color-white);
+  --color-accent: var(--color-purple);
+  --color-logo: var(--color-green);
+
+  --color-nav: var(--color-green);
+  --color-nav-text: var(--color-blue);
+  --color-nav-border: var(--color-green);
+  --color-active: var(--color-yellow);
 }
 
 body {
   --spacing: max(8vh, 3em);
-  --padding: 1rem;
 
   min-height: 100vh;
   font-family: Open Sans, sans-serif;
   background: var(--color-background);
-  color: var(--color-main-text);
+  color: var(--color-text);
   font-size: 19px;
 }
 
@@ -56,10 +70,8 @@ header {
   flex-flow: row wrap;
   justify-content: space-between;
   gap: var(--gap);
-
   padding: var(--padding);
-  background: var(--color-foreground);
-  color: var(--color-background);
+  color: var(--color-text);
 }
 
 /* FDND LOGO */
@@ -69,17 +81,16 @@ header h1 > abbr {
 header h1 > abbr > span {
   display: block;
   width: fit-content;
-  border: 1px solid var(--color-background);
+  color: var(--color-logo);
+  border: 1px solid var(--color-logo);
   border-radius: var(--rounded);
-  box-shadow: calc(-1 * var(--shadow)) var(--shadow) 0 0 var(--color-background);
+  box-shadow: calc(-1 * var(--shadow)) var(--shadow) 0 0 var(--color-logo);
   text-transform: lowercase;
   padding: 0.25rem 0.5rem;
   font-size: 1rem;
 }
 
 /* DOCUMENT NAVIGATION */
-nav.top {
-}
 nav.top h2 {
   display: none;
 }
@@ -89,9 +100,9 @@ nav.top a {
   border-width: 1px;
   border-style: solid;
   border-radius: var(--pilled);
-  border-color: var(--color-background);
-  background: var(--color-background);
-  color: var(--color-foreground);
+  border-color: var(--color-nav-border);
+  background: var(--color-nav);
+  color: var(--color-nav-text);
   font-weight: normal;
   text-decoration: none;
   transform-origin: center center;
@@ -152,34 +163,24 @@ nav.top ul li:nth-of-type(11) a {
   border-radius: var(--rounded);
 }
 
+/* NAV ICON BUTTONS */
+button.color-switch,
 nav.top a.github {
+  background: var(--color-nav);
   padding: 0;
+  border: 0;
   border-radius: 50%;
   width: 2rem;
   height: 2rem;
+  outline: none;
 }
 nav.top a.github span {
   display: none;
 }
+button.color-switch svg,
 nav.top a.github svg {
-  stroke: var(--color-foreground);
+  stroke: var(--color-nav-text);
   height: 2rem;
-}
-
-/* COLOR SWITCH BUTTON */
-button.color-switch {
-  background: var(--color-background);
-  border-radius: 50%;
-  width: 2rem;
-  height: 2rem;
-  border: none;
-  outline: none;
-}
-button.color-switch svg {
-  height: 2rem;
-  stroke: var(--color-foreground);
-}
-body:not([data-scheme]) svg .rays {
 }
 [data-scheme='dark'] svg .rays {
   stroke: transparent;
@@ -195,11 +196,30 @@ button.color-switch:focus svg {
 
 /* TABLE OF CONTENTS (PER DOCUMENT) */
 nav.toc {
-  height: fit-content;
-  background: var(--color-foreground);
-  color: var(--color-background);
-  padding: var(--padding);
+  /* position: fixed; */
+  /* top: 0; */
+  /* left: 0; */
+  /* height: 100%; */
+  /* width: 100%; */
+  /* z-index: 98; */
+  margin: 0;
+  height: calc(100vh - 2 * var(--padding));
+  width: 100%;
+  position: sticky;
   border-radius: var(--rounded);
+  top: var(--padding);
+
+  background: var(--color-nav);
+  color: var(--color-nav-text);
+  padding: var(--padding);
+  overflow: scroll;
+  font-size: 0.9rem;
+
+  transition: 0.2s;
+  margin-left: -100vw;
+}
+#toc-toggle:checked ~ nav.toc {
+  margin-left: 0;
 }
 nav.toc ol {
   list-style: none;
@@ -207,15 +227,22 @@ nav.toc ol {
 nav.toc a {
   color: currentColor;
 }
-nav.toc .toc-link-h1 {
+.toc-link-h2,
+.toc-link-h3 {
   font-weight: bold;
+}
+.toc-level-3,
+.toc-level-4 {
+  padding-left: 0.5rem;
+}
+.toc-link {
+  display: block;
+  width: 100%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 0.4rem 0;
   text-decoration: none;
-}
-nav.toc .toc-item-h2 {
-  margin-top: 1rem;
-}
-nav.toc .toc-link-h2 {
-  font-weight: bold;
 }
 
 /* FOOTER */
@@ -228,20 +255,29 @@ footer > p > span {
 }
 
 /* MAIN */
-main {
-  padding: var(--padding);
-}
 
-/* Content */
+/* Handy for debugging content width */
+/* main article * {
+  outline: 1px solid var(--color-accent);
+} */
+
+main {
+  display: grid;
+  grid-template-columns: 15rem calc(100vw - 2 * var(--gap));
+  gap: var(--gap);
+  padding: var(--padding);
+  max-width: 100%;
+  overflow: scroll;
+}
 main a {
-  color: var(--color-foreground);
+  color: var(--color-text);
 }
 a:hover,
 a:focus {
-  outline: var(--color-foreground) !important;
-  background-color: var(--color-yellow) !important;
-  border-color: var(--color-yellow) !important;
-  color: var(--color-blue) !important;
+  outline: var(--color-nav-text) !important;
+  background-color: var(--color-active) !important;
+  border-color: var(--color-active) !important;
+  color: var(--color-nav-text) !important;
 }
 
 main h2,
@@ -249,15 +285,16 @@ main h3,
 main h4,
 main h5,
 main h6 {
-  margin-top: 1.2rem;
+  padding-top: 1.2rem;
   margin-bottom: 0.4rem;
   line-height: 1em;
   font-weight: bold;
 }
-/* https://typescale.com Perfect four */
+/* https://typescale.com Perfect fourth */
 main h2 {
   margin-left: -0.15rem;
   font-size: 4.209rem;
+  letter-spacing: -0.1rem;
 }
 main h3 {
   font-size: 3.157rem;
@@ -277,8 +314,9 @@ main sub {
   font-size: 0.75rem;
 }
 
-main p {
-  max-width: 30em;
+main article {
+  width: 100%;
+  /* max-width: 30em; */
 }
 main p + p,
 main p + ul,
@@ -301,20 +339,44 @@ main ol {
 main pre {
   padding: var(--padding);
 }
+
 main table {
-  border: 1px solid var(--color-foreground);
-  width: 100%;
+  margin-bottom: 1rem;
 }
-main th {
-  background: var(--color-foreground);
-  color: var(--color-background);
-  font-size: bold;
-  padding: 0.2rem;
+main table,
+main tbody,
+main th,
+main td,
+main tr,
+main caption {
+  display: block;
+  text-align: left;
 }
-main td {
-  border: 1px solid var(--color-foreground);
-  padding: 0.2rem;
+main tr,
+main caption {
+  margin-bottom: 0.625em;
 }
+main caption {
+  display: block;
+  font-size: 0.75em;
+  font-style: italic;
+}
+main thead {
+  display: block;
+  border: none;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+main tbody {
+  border: 1px solid var(--color-accent);
+  padding: var(--padding);
+}
+
 main sup {
 }
 main sub {
@@ -360,3 +422,11 @@ section.footnotes p {
     transform: rotate(3deg);
   }
 } */
+
+@media (min-width: 30rem) {
+}
+@media (min-width: 40rem) {
+  :root {
+    --gap: 2rem;
+  }
+}

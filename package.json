@@ -5,7 +5,8 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node ./src/main.js"
+    "build": "node ./src/main.js",
+    "dev": "reload -b -d build & nodemon -e \"*\" --watch src --watch docs --delay 50ms  --exec \"npm run build\""
   },
   "repository": {
     "type": "git",
@@ -25,15 +26,20 @@
     "file-type": "^18.2.1",
     "fs-extra": "^11.1.1",
     "hastscript": "^7.2.0",
+    "nodemon": "^2.0.22",
     "recursive-readdir": "^2.2.3",
     "rehype-document": "^6.1.0",
     "rehype-format": "^4.0.1",
     "rehype-parse": "^8.0.4",
+    "rehype-raw": "^6.1.1",
     "rehype-section-headings": "^1.1.0",
+    "rehype-shift-heading": "^1.0.2",
     "rehype-shiki": "^0.0.9",
     "rehype-slug": "^5.1.0",
     "rehype-stringify": "^9.0.3",
     "rehype-toc": "^3.0.2",
+    "rehype-wrap": "^1.1.0",
+    "reload": "^3.2.1",
     "remark-gfm": "^3.0.1",
     "remark-parse": "^10.0.1",
     "remark-rehype": "^10.1.0",
@@ -42,8 +48,6 @@
     "retext-dutch": "^4.1.0",
     "to-vfile": "^7.2.4",
     "unified": "^10.1.2",
-    "vfile-reporter": "^7.0.5",
-    "rehype-shift-heading": "^1.0.2",
-    "rehype-wrap": "^1.1.0"
+    "vfile-reporter": "^7.0.5"
   }
 }

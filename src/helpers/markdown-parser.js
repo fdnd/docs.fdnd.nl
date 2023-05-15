@@ -2,6 +2,7 @@ import document from '../../docs.conf.js'
 import fdndWrapper from './fdnd-wrapper.js'
 import rehypeDocument from 'rehype-document'
 import rehypeFormat from 'rehype-format'
+import rehypeRaw from 'rehype-raw'
 import rehypeSectionHeadings from 'rehype-section-headings'
 import rehypeShiftHeading from 'rehype-shift-heading'
 import rehypeSlug from 'rehype-slug'
@@ -17,10 +18,11 @@ import { unified } from 'unified'
 export default unified()
   .use(remarkParse)
   .use(remarkGfm)
-  .use(remarkRehype, { footnoteLabel: 'Noten en citaties' })
+  .use(remarkRehype, { allowDangerousHtml: true, footnoteLabel: 'Noten en citaties' })
+  .use(rehypeRaw)
   .use(rehypeShiftHeading, { shift: 1 })
   .use(rehypeSlug)
-  .use(rehypeWrap, { wrapper: 'div.document' })
+  .use(rehypeWrap, { wrapper: 'article' })
   .use(rehypeToc)
   .use(rehypeSectionHeadings, { sectionDataAttribute: 'data-heading-id' })
   .use(shiki, { theme: 'monokai' })

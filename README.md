@@ -104,15 +104,12 @@ wordt geparsed naar
 
 #### Code highlighting (Shiki)
 
-## Bronnen
+## Referenties
 
 Docs.fdnd.nl maakt gebruik van de volgende _npm-packages_:
 
-- Unified
-
-Bij de totstand koming is gebruik gemaakt van o.a. de volgende artikelen:
-
-- Voor CSS type verhoudingen is gebruik gemaakt van de [Typography Manual @ mikemai.net](https://mikemai.net/typography-manual/)
+- Voor het parsen van markdown gebruiken wij vele pakketten uit het [Unified](https://unifiedjs.com/) collectief.
+- Voor het netjes weergeven van code gebruiken wij de [Shiki](https://shiki.matsu.io/) syntax highlighter.
 
 ## License
 
