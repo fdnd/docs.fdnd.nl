@@ -50,11 +50,7 @@ export default function fdndWrap() {
           ),
         ]),
       ]),
-      h('main', [
-        h('label', { for: 'toc-toggle' }, h('span', 'Documentoverzicht')),
-        h('input', { type: 'checkbox', id: 'toc-toggle' }),
-        tree,
-      ]),
+      h('main', tree),
       h('footer', h('p', [h('span', '©'), ' Copyleft, all wrongs reversed.'])),
     ]
   }

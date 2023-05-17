@@ -1,3 +1,4 @@
+// Color switch
 const key = 'fdnd::color-scheme'
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
 const body = document.body
@@ -29,3 +30,47 @@ colorSwitch.addEventListener('click', (event) => {
     localStorage.setItem(key, 'dark')
   }
 })
+
+// Scrolling functions
+const header = document.querySelector('header')
+
+let scrolled
+let delta = 5
+let lastScrollTop = 0
+let headerHeight = header.offsetHeight
+
+let lastId,
+  toc = document.querySelector('.toc'),
+  tocHeight = toc.offsetHeight,
+  tocItems = Array.from(document.querySelectorAll('.toc a')),
+  scrollItems = tocItems.map((item) => {
+    console.log(item.hash)
+  })
+
+window.addEventListener('scroll', () => {
+  scrolled = true
+})
+
+setInterval(() => {
+  if (scrolled) {
+    hasScrolled()
+    scrolled = false
+  }
+}, 250)
+
+function hasScrolled() {
+  // 1) move the top menu up or down
+  let scrollTop = window.pageYOffset || document.documentElement.scrollTop
+
+  if (Math.abs(lastScrollTop - scrollTop) <= delta) {
+    return
+  }
+  if (scrollTop > lastScrollTop && scrollTop > headerHeight) {
+    header.classList.add('header-up')
+  } else if (scrollTop < lastScrollTop) {
+    header.classList.remove('header-up')
+  }
+  lastScrollTop = scrollTop <= 0 ? 0 : scrollTop
+
+  // 2) highlight the correct toc item
+}

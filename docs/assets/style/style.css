@@ -6,6 +6,16 @@
   padding: 0;
 }
 
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+}
+
 :root {
   /* Color definitions */
   --color-green: #66e5bf;
@@ -20,10 +30,11 @@
   --color-accent: var(--color-blue);
   --color-logo: var(--color-blue);
 
-  --color-nav: var(--color-white);
-  --color-nav-text: var(--color-blue);
+  --color-nav: var(--color-blue);
+  --color-nav-text: var(--color-white);
   --color-nav-border: var(--color-blue);
   --color-active: var(--color-yellow);
+  --color-active-text: var(--color-blue);
 
   --rounded: 0.5rem;
   --pilled: 2rem;
@@ -42,36 +53,46 @@
   --color-nav-text: var(--color-blue);
   --color-nav-border: var(--color-green);
   --color-active: var(--color-yellow);
+  --color-active-text: var(--color-blue);
+}
+html {
+  height: 100%;
 }
 
 body {
   --spacing: max(8vh, 3em);
 
-  min-height: 100vh;
+  height: 100%;
+
   font-family: Open Sans, sans-serif;
   background: var(--color-background);
   color: var(--color-text);
   font-size: 19px;
 }
 
-.visually-hidden {
-  clip: rect(0 0 0 0);
-  clip-path: inset(50%);
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap;
-}
-
 /* HEADER */
 header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4.2rem;
+  z-index: 99;
+
+  background: var(--color-background);
+  color: var(--color-text);
+
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   justify-content: space-between;
   gap: var(--gap);
   padding: var(--padding);
-  color: var(--color-text);
+  overflow: scroll;
+
+  transition: top 0.2s ease-in-out;
+}
+.header-up {
+  top: -4.2rem;
 }
 
 /* FDND LOGO */
@@ -87,14 +108,14 @@ header h1 > abbr > span {
   box-shadow: calc(-1 * var(--shadow)) var(--shadow) 0 0 var(--color-logo);
   text-transform: lowercase;
   padding: 0.25rem 0.5rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 /* DOCUMENT NAVIGATION */
-nav.top h2 {
+.top h2 {
   display: none;
 }
-nav.top a {
+.top a {
   display: block;
   padding: 0.25rem 0.5rem;
   border-width: 1px;
@@ -107,65 +128,32 @@ nav.top a {
   text-decoration: none;
   transform-origin: center center;
 }
-nav.top a.active {
+.top a.active {
   background: var(--color-yellow);
   border-color: var(--color-yellow);
   color: var(--color-blue);
 }
-nav.top ul {
+.top ul {
   display: flex;
-  flex-flow: row-reverse wrap-reverse;
+  flex-flow: row nowrap;
   justify-content: flex-end;
   list-style: none;
   gap: calc(var(--gap) / 2);
 }
-nav.top ul li {
+.top ul li {
   white-space: nowrap;
 }
-nav.top ul li:nth-of-type(1) {
-  order: 11;
-}
-nav.top ul li:nth-of-type(2) {
-  order: 10;
-}
-nav.top ul li:nth-of-type(3) {
-  order: 9;
-}
-nav.top ul li:nth-of-type(4) {
-  order: 8;
-}
-nav.top ul li:nth-of-type(5) {
-  order: 7;
-}
-nav.top ul li:nth-of-type(6) {
-  order: 6;
-}
-nav.top ul li:nth-of-type(7) {
-  order: 5;
-}
-nav.top ul li:nth-of-type(8) {
-  order: 4;
-}
-nav.top ul li:nth-of-type(9) {
-  order: 3;
-}
-nav.top ul li:nth-of-type(10) {
-  order: 2;
-}
-nav.top ul li:nth-of-type(11) {
-  order: 1;
-}
-nav.top ul li:nth-of-type(1) a,
-nav.top ul li:nth-of-type(2) a,
-nav.top ul li:nth-of-type(5) a,
-nav.top ul li:nth-of-type(7) a,
-nav.top ul li:nth-of-type(11) a {
+.top ul li:nth-of-type(1) a,
+.top ul li:nth-of-type(2) a,
+.top ul li:nth-of-type(5) a,
+.top ul li:nth-of-type(7) a,
+.top ul li:nth-of-type(11) a {
   border-radius: var(--rounded);
 }
 
 /* NAV ICON BUTTONS */
-button.color-switch,
-nav.top a.github {
+.color-switch,
+.top a.github {
   background: var(--color-nav);
   padding: 0;
   border: 0;
@@ -174,52 +162,56 @@ nav.top a.github {
   height: 2rem;
   outline: none;
 }
-nav.top a.github span {
+.top a.github span {
   display: none;
 }
-button.color-switch svg,
-nav.top a.github svg {
+.color-switch svg,
+.top a.github svg {
   stroke: var(--color-nav-text);
   height: 2rem;
 }
 [data-scheme='dark'] svg .rays {
   stroke: transparent;
 }
-button.color-switch:hover,
-button.color-switch:focus {
+.color-switch:hover,
+.color-switch:focus {
   background: var(--color-yellow);
 }
-button.color-switch:hover svg,
-button.color-switch:focus svg {
+.color-switch:hover svg,
+.color-switch:focus svg {
   stroke: var(--color-blue) !important;
 }
 
 /* TABLE OF CONTENTS (PER DOCUMENT) */
-nav.toc {
-  /* position: fixed; */
-  /* top: 0; */
-  /* left: 0; */
-  /* height: 100%; */
-  /* width: 100%; */
-  /* z-index: 98; */
-  margin: 0;
-  height: calc(100vh - 2 * var(--padding));
-  width: 100%;
-  position: sticky;
+#toc-toggle-button {
+  position: fixed;
+  top: 5rem;
+  left: var(--padding);
+  width: 1.5rem;
+  height: 1.5rem;
   border-radius: var(--rounded);
-  top: var(--padding);
+  background: var(--color-yellow);
+  z-index: 10;
+}
+#toc-toggle-button span {
+  display: none;
+}
 
+nav.toc {
+  position: sticky;
+  top: var(--padding);
+  width: 18rem;
+  min-width: 18rem;
+  height: fit-content;
+  max-height: calc(100vh - 2 * var(--padding));
+  padding: var(--padding);
   background: var(--color-nav);
   color: var(--color-nav-text);
-  padding: var(--padding);
-  overflow: scroll;
+  border-radius: var(--rounded);
   font-size: 0.9rem;
-
-  transition: 0.2s;
-  margin-left: -100vw;
+  overflow: scroll;
 }
 #toc-toggle:checked ~ nav.toc {
-  margin-left: 0;
 }
 nav.toc ol {
   list-style: none;
@@ -231,9 +223,11 @@ nav.toc a {
 .toc-link-h3 {
   font-weight: bold;
 }
-.toc-level-3,
-.toc-level-4 {
+.toc-level-3 .toc-link {
   padding-left: 0.5rem;
+}
+.toc-level-4 .toc-link {
+  padding-left: 1rem;
 }
 .toc-link {
   display: block;
@@ -262,14 +256,22 @@ footer > p > span {
 } */
 
 main {
-  display: grid;
-  grid-template-columns: 15rem calc(100vw - 2 * var(--gap));
+  position: relative;
+  margin-top: 4.2rem;
+  display: flex;
+  flex-flow: row nowrap;
   gap: var(--gap);
   padding: var(--padding);
-  max-width: 100%;
-  overflow: scroll;
+  /* overflow: scroll; */
 }
-main a {
+
+article {
+  padding-right: var(--padding);
+  min-width: calc(100vw - 2 * var(--padding));
+}
+
+/* DOCUMENT TEXT ITEMS */
+a {
   color: var(--color-text);
 }
 a:hover,
@@ -277,91 +279,94 @@ a:focus {
   outline: var(--color-nav-text) !important;
   background-color: var(--color-active) !important;
   border-color: var(--color-active) !important;
-  color: var(--color-nav-text) !important;
+  color: var(--color-active-text) !important;
 }
 
-main h2,
-main h3,
-main h4,
-main h5,
-main h6 {
-  padding-top: 1.2rem;
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-bottom: 0.4rem;
   line-height: 1em;
   font-weight: bold;
+  overflow-wrap: break-word;
 }
+
+h3,
+h4,
+h5,
+h6 {
+  padding-top: 1.2rem;
+}
+
 /* https://typescale.com Perfect fourth */
-main h2 {
+h2 {
   margin-left: -0.15rem;
   font-size: 4.209rem;
   letter-spacing: -0.1rem;
 }
-main h3 {
+h3 {
   font-size: 3.157rem;
 }
-main h4 {
+h4 {
   font-size: 2.369rem;
 }
-main h5 {
+h5 {
   font-size: 1.777rem;
 }
-main h6 {
+h6 {
   font-size: 1.333rem;
 }
-main small,
-main sup,
-main sub {
+small,
+sup,
+sub {
   font-size: 0.75rem;
 }
-
-main article {
-  width: 100%;
-  /* max-width: 30em; */
-}
-main p + p,
-main p + ul,
-main ul + p,
-main p + pre,
-main pre + p,
-main table + p,
-main p + table {
+p + p,
+p + ul,
+ul + p,
+p + pre,
+pre + p,
+table + p,
+p + table {
   margin-top: var(--padding);
 }
-main img {
+img {
   max-width: 100%;
 }
-main ul {
+ul {
   list-style: disc inside;
 }
-main ol {
+ol {
   list-style: decimal inside;
 }
-main pre {
+pre {
   padding: var(--padding);
 }
 
-main table {
+table {
   margin-bottom: 1rem;
 }
-main table,
-main tbody,
-main th,
-main td,
-main tr,
-main caption {
+table,
+tbody,
+th,
+td,
+tr,
+caption {
   display: block;
   text-align: left;
 }
-main tr,
-main caption {
+tr,
+caption {
   margin-bottom: 0.625em;
 }
-main caption {
+caption {
   display: block;
   font-size: 0.75em;
   font-style: italic;
 }
-main thead {
+thead {
   display: block;
   border: none;
   clip: rect(0 0 0 0);
@@ -372,14 +377,14 @@ main thead {
   position: absolute;
   width: 1px;
 }
-main tbody {
+tbody {
   border: 1px solid var(--color-accent);
   padding: var(--padding);
 }
 
-main sup {
+sup {
 }
-main sub {
+sub {
 }
 
 section.footnotes p {
@@ -387,32 +392,33 @@ section.footnotes p {
 }
 
 /* WOBBLY BLOCKS MENU */
-/* @media (min-width: 30rem) {
-  nav.top ul li:nth-of-type(1) a {
+@media (min-width: 30rem) {
+  nav.top ul li:nth-of-type(1n) a {
     transform: rotate(-5deg);
   }
-  nav.top ul li:nth-of-type(2) a {
+  nav.top ul li:nth-of-type(2n) a {
     transform: rotate(5deg);
   }
-  nav.top ul li:nth-of-type(3) a {
+  nav.top ul li:nth-of-type(3n) a {
     transform: rotate(3deg);
   }
-  nav.top ul li:nth-of-type(4) a {
+  nav.top ul li:nth-of-type(4n) a {
     transform: rotate(-2deg);
   }
-  nav.top ul li:nth-of-type(5) a {
+  nav.top ul li:nth-of-type(5n) a {
     transform: rotate(4deg);
   }
-  nav.top ul li:nth-of-type(6) a {
+  nav.top ul li:nth-of-type(6n) a {
     transform: rotate(1deg);
   }
-  nav.top ul li:nth-of-type(7) a {
+  nav.top ul li:nth-of-type(7n) a {
     transform: rotate(-2deg);
   }
-  nav.top ul li:nth-of-type(8) a {
+  nav.top ul li:nth-of-type(8n) a {
     transform: rotate(3deg);
   }
-  nav.top ul li:nth-of-type(9) a {
+  /* Add n to the number above to select all elements? Below is repetition */
+  /* nav.top ul li:nth-of-type(9) a {
     transform: rotate(-5deg);
   }
   nav.top ul li:nth-of-type(10) a {
@@ -420,13 +426,5 @@ section.footnotes p {
   }
   nav.top ul li:nth-of-type(11) a {
     transform: rotate(3deg);
-  }
-} */
-
-@media (min-width: 30rem) {
-}
-@media (min-width: 40rem) {
-  :root {
-    --gap: 2rem;
-  }
+  } */
 }
