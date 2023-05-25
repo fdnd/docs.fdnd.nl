@@ -55,6 +55,7 @@
   --color-active: var(--color-yellow);
   --color-active-text: var(--color-blue);
 }
+
 html {
   height: 100%;
 }
@@ -67,7 +68,7 @@ body {
   font-family: Open Sans, sans-serif;
   background: var(--color-background);
   color: var(--color-text);
-  font-size: 19px;
+  /* font-size: 19px; */
 }
 
 /* HEADER */
@@ -154,7 +155,7 @@ header h1 > abbr > span {
 /* NAV ICON BUTTONS */
 .color-switch,
 .top a.github {
-  background: var(--color-nav);
+  background: transparent;
   padding: 0;
   border: 0;
   border-radius: 50%;
@@ -167,23 +168,27 @@ header h1 > abbr > span {
 }
 .color-switch svg,
 .top a.github svg {
-  stroke: var(--color-nav-text);
+  stroke: var(--color-text);
   height: 2rem;
 }
 [data-scheme='dark'] svg .rays {
   stroke: transparent;
 }
 .color-switch:hover,
-.color-switch:focus {
+.top a.github:hover,
+.color-switch:focus,
+.top a.github:focus {
   background: var(--color-yellow);
 }
 .color-switch:hover svg,
-.color-switch:focus svg {
+.top a.github:hover svg,
+.color-switch:focus svg,
+.top a.github:focus svg {
   stroke: var(--color-blue) !important;
 }
 
 /* TABLE OF CONTENTS (PER DOCUMENT) */
-#toc-toggle-button {
+/* #toc-toggle-button {
   position: fixed;
   top: 5rem;
   left: var(--padding);
@@ -195,9 +200,9 @@ header h1 > abbr > span {
 }
 #toc-toggle-button span {
   display: none;
-}
+} */
 
-nav.toc {
+.toc {
   position: sticky;
   top: var(--padding);
   width: 18rem;
@@ -211,13 +216,18 @@ nav.toc {
   font-size: 0.9rem;
   overflow: scroll;
 }
-#toc-toggle:checked ~ nav.toc {
-}
-nav.toc ol {
+/* #toc-toggle:checked ~ nav.toc {
+} */
+.toc ol {
   list-style: none;
 }
-nav.toc a {
+.toc a {
   color: currentColor;
+}
+.toc a.active {
+  background: var(--color-yellow);
+  border-color: var(--color-yellow);
+  color: var(--color-blue);
 }
 .toc-link-h2,
 .toc-link-h3 {
@@ -262,7 +272,6 @@ main {
   flex-flow: row nowrap;
   gap: var(--gap);
   padding: var(--padding);
-  /* overflow: scroll; */
 }
 
 article {
@@ -308,9 +317,11 @@ h2 {
 }
 h3 {
   font-size: 3.157rem;
+  letter-spacing: -0.15rem;
 }
 h4 {
   font-size: 2.369rem;
+  letter-spacing: -0.15rem;
 }
 h5 {
   font-size: 1.777rem;
@@ -417,14 +428,12 @@ section.footnotes p {
   nav.top ul li:nth-of-type(8n) a {
     transform: rotate(3deg);
   }
-  /* Add n to the number above to select all elements? Below is repetition */
-  /* nav.top ul li:nth-of-type(9) a {
-    transform: rotate(-5deg);
+}
+
+@media (min-width: 50rem) {
+  article {
+    padding: 0;
+    min-width: unset;
+    max-width: 40rem;
   }
-  nav.top ul li:nth-of-type(10) a {
-    transform: rotate(5deg);
-  }
-  nav.top ul li:nth-of-type(11) a {
-    transform: rotate(3deg);
-  } */
 }

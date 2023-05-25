@@ -33,19 +33,15 @@ colorSwitch.addEventListener('click', (event) => {
 
 // Scrolling functions
 const header = document.querySelector('header')
+const tocItems = Array.from(document.querySelectorAll('.toc a'))
+const scrollItems = tocItems.map((item) => document.getElementById(decodeURI(item.hash).replace('#', '')))
+const delta = 5
 
 let scrolled
-let delta = 5
+let lastItem
+
 let lastScrollTop = 0
 let headerHeight = header.offsetHeight
-
-let lastId,
-  toc = document.querySelector('.toc'),
-  tocHeight = toc.offsetHeight,
-  tocItems = Array.from(document.querySelectorAll('.toc a')),
-  scrollItems = tocItems.map((item) => {
-    console.log(item.hash)
-  })
 
 window.addEventListener('scroll', () => {
   scrolled = true
@@ -53,18 +49,15 @@ window.addEventListener('scroll', () => {
 
 setInterval(() => {
   if (scrolled) {
-    hasScrolled()
+    scrollHandler()
     scrolled = false
   }
 }, 250)
 
-function hasScrolled() {
+function scrollHandler() {
   // 1) move the top menu up or down
-  let scrollTop = window.pageYOffset || document.documentElement.scrollTop
-
-  if (Math.abs(lastScrollTop - scrollTop) <= delta) {
-    return
-  }
+  const scrollTop = window.pageYOffset || document.documentElement.scrollTop
+  if (Math.abs(lastScrollTop - scrollTop) <= delta) return
   if (scrollTop > lastScrollTop && scrollTop > headerHeight) {
     header.classList.add('header-up')
   } else if (scrollTop < lastScrollTop) {
@@ -73,4 +66,12 @@ function hasScrolled() {
   lastScrollTop = scrollTop <= 0 ? 0 : scrollTop
 
   // 2) highlight the correct toc item
+  const passedItems = scrollItems.filter((item) => item.offsetTop < scrollTop)
+  const currentItem = passedItems[passedItems.length - 1]?.id
+
+  if (currentItem !== undefined && currentItem !== lastItem) {
+    document.querySelector(`.toc a[href$='#${lastItem}']`)?.classList.remove('active')
+    document.querySelector(`.toc a[href$='#${currentItem}']`)?.classList.add('active')
+    lastItem = currentItem
+  }
 }
