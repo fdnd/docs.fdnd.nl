@@ -1,0 +1,439 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+}
+
+:root {
+  /* Color definitions */
+  --color-green: #66e5bf;
+  --color-purple: #a675f5;
+  --color-blue: #050542;
+  --color-white: #ffffff;
+  --color-yellow: #fffc86;
+
+  /* Default scheme colors */
+  --color-text: var(--color-blue);
+  --color-background: var(--color-white);
+  --color-accent: var(--color-blue);
+  --color-logo: var(--color-blue);
+
+  --color-nav: var(--color-blue);
+  --color-nav-text: var(--color-white);
+  --color-nav-border: var(--color-blue);
+  --color-active: var(--color-yellow);
+  --color-active-text: var(--color-blue);
+
+  --rounded: 0.5rem;
+  --pilled: 2rem;
+  --shadow: 0.15rem;
+  --gap: 1rem;
+  --padding: 1rem;
+}
+
+[data-scheme='dark'] {
+  --color-text: var(--color-white);
+  --color-background: var(--color-blue);
+  --color-accent: var(--color-purple);
+  --color-logo: var(--color-green);
+
+  --color-nav: var(--color-green);
+  --color-nav-text: var(--color-blue);
+  --color-nav-border: var(--color-green);
+  --color-active: var(--color-yellow);
+  --color-active-text: var(--color-blue);
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  --spacing: max(8vh, 3em);
+
+  height: 100%;
+
+  font-family: Open Sans, sans-serif;
+  background: var(--color-background);
+  color: var(--color-text);
+  /* font-size: 19px; */
+}
+
+/* HEADER */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4.2rem;
+  z-index: 99;
+
+  background: var(--color-background);
+  color: var(--color-text);
+
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  gap: var(--gap);
+  padding: var(--padding);
+  overflow: scroll;
+
+  transition: top 0.2s ease-in-out;
+}
+.header-up {
+  top: -4.2rem;
+}
+
+/* FDND LOGO */
+header h1 > abbr {
+  text-decoration: none;
+}
+header h1 > abbr > span {
+  display: block;
+  width: fit-content;
+  color: var(--color-logo);
+  border: 1px solid var(--color-logo);
+  border-radius: var(--rounded);
+  box-shadow: calc(-1 * var(--shadow)) var(--shadow) 0 0 var(--color-logo);
+  text-transform: lowercase;
+  padding: 0.25rem 0.5rem;
+  font-size: 1.2rem;
+}
+
+/* DOCUMENT NAVIGATION */
+.top h2 {
+  display: none;
+}
+.top a {
+  display: block;
+  padding: 0.25rem 0.5rem;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: var(--pilled);
+  border-color: var(--color-nav-border);
+  background: var(--color-nav);
+  color: var(--color-nav-text);
+  font-weight: normal;
+  text-decoration: none;
+  transform-origin: center center;
+}
+.top a.active {
+  background: var(--color-yellow);
+  border-color: var(--color-yellow);
+  color: var(--color-blue);
+}
+.top ul {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  list-style: none;
+  gap: calc(var(--gap) / 2);
+}
+.top ul li {
+  white-space: nowrap;
+}
+.top ul li:nth-of-type(1) a,
+.top ul li:nth-of-type(2) a,
+.top ul li:nth-of-type(5) a,
+.top ul li:nth-of-type(7) a,
+.top ul li:nth-of-type(11) a {
+  border-radius: var(--rounded);
+}
+
+/* NAV ICON BUTTONS */
+.color-switch,
+.top a.github {
+  background: transparent;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  outline: none;
+}
+.top a.github span {
+  display: none;
+}
+.color-switch svg,
+.top a.github svg {
+  stroke: var(--color-text);
+  height: 2rem;
+}
+[data-scheme='dark'] svg .rays {
+  stroke: transparent;
+}
+.color-switch:hover,
+.top a.github:hover,
+.color-switch:focus,
+.top a.github:focus {
+  background: var(--color-yellow);
+}
+.color-switch:hover svg,
+.top a.github:hover svg,
+.color-switch:focus svg,
+.top a.github:focus svg {
+  stroke: var(--color-blue) !important;
+}
+
+/* TABLE OF CONTENTS (PER DOCUMENT) */
+/* #toc-toggle-button {
+  position: fixed;
+  top: 5rem;
+  left: var(--padding);
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: var(--rounded);
+  background: var(--color-yellow);
+  z-index: 10;
+}
+#toc-toggle-button span {
+  display: none;
+} */
+
+.toc {
+  position: sticky;
+  top: var(--padding);
+  width: 18rem;
+  min-width: 18rem;
+  height: fit-content;
+  max-height: calc(100vh - 2 * var(--padding));
+  padding: var(--padding);
+  background: var(--color-nav);
+  color: var(--color-nav-text);
+  border-radius: var(--rounded);
+  font-size: 0.9rem;
+  overflow: scroll;
+}
+/* #toc-toggle:checked ~ nav.toc {
+} */
+.toc ol {
+  list-style: none;
+}
+.toc a {
+  color: currentColor;
+}
+.toc a.active {
+  background: var(--color-yellow);
+  border-color: var(--color-yellow);
+  color: var(--color-blue);
+}
+.toc-link-h2,
+.toc-link-h3 {
+  font-weight: bold;
+}
+.toc-level-3 .toc-link {
+  padding-left: 0.5rem;
+}
+.toc-level-4 .toc-link {
+  padding-left: 1rem;
+}
+.toc-link {
+  display: block;
+  width: 100%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 0.4rem 0;
+  text-decoration: none;
+}
+
+/* FOOTER */
+footer {
+  padding: var(--padding);
+}
+footer > p > span {
+  display: inline-block;
+  transform: rotate(180deg);
+}
+
+/* MAIN */
+
+/* Handy for debugging content width */
+/* main article * {
+  outline: 1px solid var(--color-accent);
+} */
+
+main {
+  position: relative;
+  margin-top: 4.2rem;
+  display: flex;
+  flex-flow: row nowrap;
+  gap: var(--gap);
+  padding: var(--padding);
+}
+
+article {
+  padding-right: var(--padding);
+  min-width: calc(100vw - 2 * var(--padding));
+}
+
+/* DOCUMENT TEXT ITEMS */
+a {
+  color: var(--color-text);
+}
+a:hover,
+a:focus {
+  outline: var(--color-nav-text) !important;
+  background-color: var(--color-active) !important;
+  border-color: var(--color-active) !important;
+  color: var(--color-active-text) !important;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.4rem;
+  line-height: 1em;
+  font-weight: bold;
+  overflow-wrap: break-word;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  padding-top: 1.2rem;
+}
+
+/* https://typescale.com Perfect fourth */
+h2 {
+  margin-left: -0.15rem;
+  font-size: 4.209rem;
+  letter-spacing: -0.1rem;
+}
+h3 {
+  font-size: 3.157rem;
+  letter-spacing: -0.15rem;
+}
+h4 {
+  font-size: 2.369rem;
+  letter-spacing: -0.15rem;
+}
+h5 {
+  font-size: 1.777rem;
+}
+h6 {
+  font-size: 1.333rem;
+}
+small,
+sup,
+sub {
+  font-size: 0.75rem;
+}
+p + p,
+p + ul,
+ul + p,
+p + pre,
+pre + p,
+table + p,
+p + table {
+  margin-top: var(--padding);
+}
+img {
+  max-width: 100%;
+}
+ul {
+  list-style: disc inside;
+}
+ol {
+  list-style: decimal inside;
+}
+pre {
+  padding: var(--padding);
+}
+
+table {
+  margin-bottom: 1rem;
+}
+table,
+tbody,
+th,
+td,
+tr,
+caption {
+  display: block;
+  text-align: left;
+}
+tr,
+caption {
+  margin-bottom: 0.625em;
+}
+caption {
+  display: block;
+  font-size: 0.75em;
+  font-style: italic;
+}
+thead {
+  display: block;
+  border: none;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+tbody {
+  border: 1px solid var(--color-accent);
+  padding: var(--padding);
+}
+
+sup {
+}
+sub {
+}
+
+section.footnotes p {
+  display: inline;
+}
+
+/* WOBBLY BLOCKS MENU */
+@media (min-width: 30rem) {
+  nav.top ul li:nth-of-type(1n) a {
+    transform: rotate(-5deg);
+  }
+  nav.top ul li:nth-of-type(2n) a {
+    transform: rotate(5deg);
+  }
+  nav.top ul li:nth-of-type(3n) a {
+    transform: rotate(3deg);
+  }
+  nav.top ul li:nth-of-type(4n) a {
+    transform: rotate(-2deg);
+  }
+  nav.top ul li:nth-of-type(5n) a {
+    transform: rotate(4deg);
+  }
+  nav.top ul li:nth-of-type(6n) a {
+    transform: rotate(1deg);
+  }
+  nav.top ul li:nth-of-type(7n) a {
+    transform: rotate(-2deg);
+  }
+  nav.top ul li:nth-of-type(8n) a {
+    transform: rotate(3deg);
+  }
+}
+
+@media (min-width: 50rem) {
+  article {
+    padding: 0;
+    min-width: unset;
+    max-width: 40rem;
+  }
+}
