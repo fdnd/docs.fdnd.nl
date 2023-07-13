@@ -3,10 +3,29 @@ const key = 'fdnd::color-scheme'
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
 const body = document.body
 const colorSwitch = Object.assign(document.createElement('li'), {
-  innerHTML: `<button class="color-switch">
-  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" viewBox="0 0 24 24">
-    <path d="M16.418 4.157a8 8 0 0 0 0 15.686" class="rays"/>
-    <circle cx="12" cy="12" r="9"/>
+  innerHTML: `<button
+    class="theme-toggle"
+    id="theme-toggle"
+    title="Toggles light & dark theme"
+    aria-label="auto"
+    aria-live="polite"
+  >
+  <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+    <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" />
+    <g class="sun-beams" stroke="currentColor">
+      <line x1="12" y1="1" x2="12" y2="3" />
+      <line x1="12" y1="21" x2="12" y2="23" />
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+      <line x1="1" y1="12" x2="3" y2="12" />
+      <line x1="21" y1="12" x2="23" y2="12" />
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+    </g>
+    <mask class="moon" id="moon-mask">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" />
+      <circle cx="24" cy="10" r="6" fill="black" />
+    </mask>
   </svg>
   <span class="visually-hidden">Switch thema</span>
 </button>`,

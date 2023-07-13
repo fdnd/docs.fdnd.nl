@@ -153,38 +153,86 @@ header h1 > abbr > span {
 }
 
 /* NAV ICON BUTTONS */
-.color-switch,
+.theme-toggle,
 .top a.github {
-  background: transparent;
-  padding: 0;
+  --size: 2rem;
+
+  background: none;
   border: 0;
+  padding: 0;
+
+  inline-size: var(--size);
+  block-size: var(--size);
+  aspect-ratio: 1;
   border-radius: 50%;
-  width: 2rem;
-  height: 2rem;
-  outline: none;
+
+  cursor: pointer;
+  touch-action: manipulation;
+  --webkit-tap-highlight-color: transparent;
+  outline-offset: 5px;
 }
 .top a.github span {
   display: none;
 }
-.color-switch svg,
+.theme-toggle svg,
+.top a.github svg {
+  inline-size: 100%;
+  block-size: 100%;
+  stroke-linecap: round;
+}
 .top a.github svg {
   stroke: var(--color-text);
-  height: 2rem;
 }
-[data-scheme='dark'] svg .rays {
+/* [data-scheme='dark'] svg .rays {
   stroke: transparent;
-}
-.color-switch:hover,
+} */
 .top a.github:hover,
-.color-switch:focus,
 .top a.github:focus {
   background: var(--color-yellow);
 }
-.color-switch:hover svg,
 .top a.github:hover svg,
-.color-switch:focus svg,
 .top a.github:focus svg {
   stroke: var(--color-blue) !important;
+}
+
+.sun-and-moon {
+  & > :is(.moon, .sun, .sun-beams) {
+    transform-origin: center center;
+  }
+  & > :is(.moon, .sun) {
+    fill: var(--color-text);
+
+    @nest .theme-toggle:is(:hover, :focus-visible) > & {
+      background: var(--color-yellow);
+      fill: var(--color-blue);
+    }
+  }
+  & > .sun-beams {
+    stroke: var(--color-text);
+    stroke-width: 2px;
+
+    @nest .theme-toggle:is(:hover, :focus-visible) & {
+      background: var(--color-yellow);
+      stroke: var(--color-blue);
+    }
+  }
+
+  @nest [data-scheme='dark'] & {
+    & > .sun {
+      transform: scale(1.75);
+    }
+    & > .sun-beams {
+      opacity: 0;
+    }
+    & > .moon > circle {
+      transform: translateX(-7px);
+
+      @supports (cx: 1) {
+        transform: translateX(0);
+        cx: 17;
+      }
+    }
+  }
 }
 
 /* TABLE OF CONTENTS (PER DOCUMENT) */
@@ -344,6 +392,7 @@ p + table {
   margin-top: var(--padding);
 }
 img {
+  border-radius: var(--rounded);
   max-width: 100%;
 }
 ul {
