@@ -388,8 +388,14 @@ ul + p,
 p + pre,
 pre + p,
 table + p,
-p + table {
+p + table,
+p + blockquote,
+blockquote + p {
   margin-top: var(--padding);
+}
+blockquote {
+  margin-left: 1rem;
+  font-style: italic;
 }
 img {
   border-radius: var(--rounded);
