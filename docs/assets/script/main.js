@@ -79,8 +79,15 @@ function scrollHandler() {
   if (Math.abs(lastScrollTop - scrollTop) <= delta) return
   if (scrollTop > lastScrollTop && scrollTop > headerHeight) {
     header.classList.add('header-up')
+    header.classList.remove('header-visible')
   } else if (scrollTop < lastScrollTop) {
     header.classList.remove('header-up')
+    header.classList.add('header-visible')
+  }
+  if (scrollTop > headerHeight) {
+    header.classList.add('has-scroll')
+  } else {
+    header.classList.remove('has-scroll')
   }
   lastScrollTop = scrollTop <= 0 ? 0 : scrollTop
 
