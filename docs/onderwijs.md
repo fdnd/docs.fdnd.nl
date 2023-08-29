@@ -1,41 +1,46 @@
 # Onderwijs
 
-
-
 ## Studentbegeleiding
 
 Dit document beschrijft hoe wij door middel van afnemende sturing in de studentbenadering toewerken naar het ontwikkelen van een professionele identiteit gericht op zelfregulatie.
 
 ### Checkpoints
 
-Regulier worden checkpoints afgenomen op vrijdag, dit kunnen deel- of leertaken zijn. Checkpoints in semester 1 worden strak georganiseerd aan de hand van verschillende werkvormen. In semester 2 en 3 is sprake van afnemende sturing en worden studenten steeds meer geacht zelfstandig checkpoints te organiseren. Op maandag of woensdag is ruimte voor uitzonderingen.
+Regulier worden checkpoints afgenomen op vrijdag, dit kunnen deel- of leertaken zijn. Checkpoints in semester 1 worden strak georganiseerd aan de hand van verschillende werkvormen. In semester 2 en 3 is sprake van afnemende sturing en worden studenten steeds meer geacht zelfstandig checkpoints te organiseren. Op maandag of woensdag is ruimte voor uitzonderingen, bijvoorbeeld voor studenten die er op een vrijdag niet konden zijn.
 
-Checkpoints gaan altijd over de gedragscriteria. Ontvangen feedback wordt door studenten zelf in feedpulse opgenomen.
+Checkpoints gaan altijd over de gedragscriteria. Ontvangen feedback wordt door studenten zelf in feedpulse opgenomen. Er zijn regels voor het schrijven van feedback, zie daarvoor het kopje hieronder.
 
-Docenten controleren de feedback en waarderen de inzet van studenten in de korte periode waar het checkpoint over gaat met een smiley. Smileys hebben geen connectie met het assessment of de summatieve beoordeling.
+Docenten controleren de feedback en waarderen de inzet van studenten in de korte periode waar het checkpoint over gaat met een smiley. Smileys hebben geen connectie met het assessment of met summatieve beoordeling en vormen dus puur inzicht in hoe het op dat moment met de student gaat. Onder het kopje waardering staat in detail uitgelegd waar de smileys precies voor staan.
 
 #### Feedback schrijven
 
-Hoe studenten het schrijven en hoe docenten dat lezen
+Direct na het bijwonen van een checkpoint maakt de student daarvan verslag in Feedpulse van het betreffende semester. In dit verslag kan de student de volgende punten gebruiken:
+- Wat betekent de gedragsindicator in relatie tot de opdracht?
+- Neem een link op naar je wiki of code.
+- Beschrijf waarom dit goede bewijslast is voor deze gedragsindicator.
+- Heb je een leervraag?
+- Wat kreeg je voor feedback van de docent?
 
-- Wat betekend het gedragscriterium in relatie tot de opdracht
-- Wat is je bewijslast en waarom is dat goede bewijslast
+Studenten schrijven feedback in correct Nederlands.
 
-#### Smileys
+#### Feedback waarderen
 
-Puur formatief, waarderen inzet/activiteit/aanwezigheid van studenten, is een momentopname en dit verandert per week/sprint. Geeft studenten en docenten inzicht in de studiehouding van studenten, zijn ze actief genoeg of moeten wij interveniëren.
+Als studenten feedback in Feedpulse hebben geschreven, dan lezen docenten dit aandachtig door en waarderen de inzet van iedere student op het niveau van gedragsindicatoren met een smiley. Deze smileys geven aan hoe de docent de inzet/activiteit/aanwezigheid van de student in betreffende periode ervaart. Deze waardering is geheel formatief en staat niet in relatie tot het assessment. Een voordeel van deze formatieve waardering is dat zowel studenten als docenten inzichtelijk hebben hoe het met de studiehouding van de student staat. Waar nodig kan dan bijgestuurd worden. Deze formatieve waardering is altijd een momentopname en kan per week/opdracht/sprint veranderen. Hieronder een grove indicatie voor het gebruik van smileys:
 
-:D - …
-:) - …
-:( - student is er niet of heeft niets gedaan
+- 😁 inzet is goed
+- 🙂 inzet is in orde
+- ☹️ student is uit beeld
+- 🫥 er is nog geen reflectie op deze indicator in deze periode
+
+Als docent bevestig je de feedback door een kort berichtje te typen. Je kunt dan aangeven of het in orde is of dat de student nog een belangrijk punt van feedback gemist heeft.
 
 #### Verhouding checkpoints assessments
 
-Doel is onderscheid te kunnen maken tussen formele, beoordelende assesments en programmatisch toetsen waarbij studenten een cijfer krijgen.
+Doel van deze verandering is onderscheid te kunnen maken tussen formele, beoordelende assesments en programmatisch toetsen waarbij studenten een cijfer krijgen op basis van hun portfolio en reflectie in Feedpulse.
 
-Alles in orde en lekker op weg: beoordeling aan de hand van portfolio en een presentatie als overgangsmoment tussen fases in de opleiding.
+- Alles in orde en lekker op weg: beoordeling aan de hand van portfolio en een presentatie als overgangsmoment tussen fases in de opleiding.
 
-Docenten hebben twijfels: Formeel criteriumgericht interview (assessment) aan de hand van de gedragscriteria om die twijfels weg te nemen
+- Docenten hebben twijfels: Formeel criteriumgericht interview (assessment) aan de hand van de gedragscriteria om die twijfels weg te nemen
 
 Todo: Hoe zorgen we voor meer ruimte bij de roostering van assessments.
 
