@@ -86,12 +86,8 @@ function scrollHandler() {
   }
   if (scrollTop > headerHeight) {
     header.classList.add('has-scroll')
-    setTimeout(() => {
-      header.classList.add('add-transitions')
-    }, 401);
   } else {
     header.classList.remove('has-scroll')
-    header.classList.remove('add-transitions')
   }
   lastScrollTop = scrollTop <= 0 ? 0 : scrollTop
 
