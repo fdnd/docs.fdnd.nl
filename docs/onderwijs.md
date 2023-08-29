@@ -44,26 +44,28 @@ Doel van deze verandering is onderscheid te kunnen maken tussen formele, beoorde
 
 Todo: Hoe zorgen we voor meer ruimte bij de roostering van assessments.
 
-### Onboarding 
+#### Checkpoints blok 1
 
-#### Sprint 1
+Voor blok 1 hebben we een beknopte beschrijving van de manier van invullen van de checkpoints. Dit om het principe afnemende sturing goed invulling te geven in deze cruciale fase van de studie.
+
+##### Sprint 1
 
 In groepjes van 12 met een docent, in de eigen squad
 
 Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Daarna indicator Y, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Onder begeleiding van een docent, geleide feedback sessies.
 
-#### Sprint 2
+##### Sprint 2
 
 In groepjes van 5, in eigen squad, docent loopt rond
 Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.
 
 #### Sprint 3
 
-In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekend.
+In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.
 
 Zeggen dat ze gaan reflecteren op indicatoren.
 
-### Aanspreken op code-literacy niveau
+### Aanspreken op niveau
 
 Aan de hand van het artikel Concept to Code van Ryan Betts (2017) spreken wij gedurende de opleiding studenten aan op een steeds complexer niveau.
 
