@@ -3,6 +3,7 @@ import fdndWrapper from './fdnd-wrapper.js'
 import rehypeDocument from 'rehype-document'
 import rehypeFormat from 'rehype-format'
 import rehypeRaw from 'rehype-raw'
+import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeSectionHeadings from 'rehype-section-headings'
 import rehypeShiftHeading from 'rehype-shift-heading'
 import rehypeSlug from 'rehype-slug'
@@ -24,6 +25,7 @@ export default unified()
   .use(rehypeSlug)
   .use(rehypeWrap, { wrapper: 'article' })
   .use(rehypeToc)
+  .use(rehypeAutolinkHeadings)
   .use(rehypeSectionHeadings, { sectionDataAttribute: 'data-heading-id' })
   .use(shiki, { theme: 'monokai' })
   .use(fdndWrapper)
