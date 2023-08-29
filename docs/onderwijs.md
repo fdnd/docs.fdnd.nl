@@ -1,10 +1,45 @@
 # Onderwijs
 
+
+
 ## Studentbegeleiding
 
 Dit document beschrijft hoe wij door middel van afnemende sturing in de studentbenadering toewerken naar het ontwikkelen van een professionele identiteit gericht op zelfregulatie.
 
-### Onboarding (blok 1)
+### Checkpoints
+
+Regulier worden checkpoints afgenomen op vrijdag, dit kunnen deel- of leertaken zijn. Checkpoints in semester 1 worden strak georganiseerd aan de hand van verschillende werkvormen. In semester 2 en 3 is sprake van afnemende sturing en worden studenten steeds meer geacht zelfstandig checkpoints te organiseren. Op maandag of woensdag is ruimte voor uitzonderingen.
+
+Checkpoints gaan altijd over de gedragscriteria. Ontvangen feedback wordt door studenten zelf in feedpulse opgenomen.
+
+Docenten controleren de feedback en waarderen de inzet van studenten in de korte periode waar het checkpoint over gaat met een smiley. Smileys hebben geen connectie met het assessment of de summatieve beoordeling.
+
+#### Feedback schrijven
+
+Hoe studenten het schrijven en hoe docenten dat lezen
+
+- Wat betekend het gedragscriterium in relatie tot de opdracht
+- Wat is je bewijslast en waarom is dat goede bewijslast
+
+#### Smileys
+
+Puur formatief, waarderen inzet/activiteit/aanwezigheid van studenten, is een momentopname en dit verandert per week/sprint. Geeft studenten en docenten inzicht in de studiehouding van studenten, zijn ze actief genoeg of moeten wij interveniëren.
+
+:D - …
+:) - …
+:( - student is er niet of heeft niets gedaan
+
+#### Verhouding checkpoints assessments
+
+Doel is onderscheid te kunnen maken tussen formele, beoordelende assesments en programmatisch toetsen waarbij studenten een cijfer krijgen.
+
+Alles in orde en lekker op weg: beoordeling aan de hand van portfolio en een presentatie als overgangsmoment tussen fases in de opleiding.
+
+Docenten hebben twijfels: Formeel criteriumgericht interview (assessment) aan de hand van de gedragscriteria om die twijfels weg te nemen
+
+Todo: Hoe zorgen we voor meer ruimte bij de roostering van assessments.
+
+### Onboarding 
 
 #### Sprint 1
 
@@ -23,7 +58,7 @@ In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek ee
 
 Zeggen dat ze gaan reflecteren op indicatoren.
 
-### Aanspreken op niveau van Code-literacy
+### Aanspreken op code-literacy niveau
 
 Aan de hand van het artikel Concept to Code van Ryan Betts (2017) spreken wij gedurende de opleiding studenten aan op een steeds complexer niveau.
 
