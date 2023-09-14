@@ -10,7 +10,7 @@ Om dicht bij het beroepenveld te blijven wordt de organisatie van de Ad Frontend
 
 Tribes zijn de grootste organisatie-eenheid en kunnen vergeleken worden met een cluster bij andere opleidingen. Een tribe bestaat uit maximaal 100 personen, bestaande uit docenten én studenten. Één docent is tribe leader (0,2 fte) en is verantwoordelijk voor de coördinatie, roostering en evaluatie van onderwijsactiviteiten van de tribe. De tribe leader is de 1e contactpersoon voor docenten binnen de tribe, er is binnen tribes een regelmatige overlegstructuur en docenten weten van elkaar wat er speelt. Een tribe bestaat uit maximaal vier squads.
 
-Squads zijn een kleinere organisatie-eenheid binnen een tribe en kunnen vergeleken worden met een klas bij andere opleidingen. Een squad bestaat uit maximaal 25 personen, docenten én studenten. Één docent is squad-leader (0,45 fte) en eindverantwoordelijk voor het dagelijks onderwijs van een squad. De squad-leader kent alle studenten in de squad en begeleid deze bij het volbrengen van leertaken. De squad-leader verzorgt workshops, talks en overlegt en stemt af met co-teachers en gastsprekers. Ook neemt de squad-leader deel aan overleg binnen de tribe.
+Squads zijn een kleinere organisatie-eenheid binnen een tribe en kunnen vergeleken worden met een klas bij andere opleidingen. Een squad bestaat uit maximaal 25 personen, docenten én studenten. Één docent is squad-leader (0,45 fte) en eindverantwoordelijk voor het dagelijks onderwijs van een squad. De squad-leader kent alle studenten in de squad en begeleidt deze bij het volbrengen van leertaken. De squad-leader verzorgt workshops, talks en overlegt en stemt af met co-teachers en gastsprekers. Ook neemt de squad-leader deel aan overleg binnen de tribe.
 
 Chapters zijn groepen docenten en professionals met een bepaald expertise (bijvoorbeeld API nerds/ node.js/ design languages etc.) die met regelmaat bijeen komen om ervaring te delen en ontwikkeling bij te houden.
 
@@ -18,7 +18,7 @@ Guilds zijn groepen docenten én studenten met een gedeeld kenmerk, bijvoorbeeld
 
 ## Rollen
 
-### Co-teacher (0,2 - 0,4 fte)
+### Co-teacher (0,1 - 0,4 fte)
 
 De Ad FDND vraagt van docenten dat zij naast inhoudsdeskundige en beoordelaar ook begeleider zijn die samen met de student het leerproces van de student stimuleert en vormgeeft.
 
@@ -29,7 +29,7 @@ Een co-teacher:
 - Verzorgt af en toe een talk of een workshop in afstemming met squad-leader(s);
 - Overlegt en stemt af met de squad-leader;
 - Neemt deel aan Standup, Plan & Review en Retrospective meetings.
-- (In het geval van assesorschap) Heeft assessorcertificering of is bereid deze te behalen;
+- (In het geval van assesorschap) Heeft deelgenomen aan de assessorentraining of is bereid deze te volgen;
 
 ### Squad-leader (0,5 fte)
 
@@ -39,7 +39,7 @@ Een squad-leader:
 
 - Heeft een van de of een combinatie van de expertises Frontend-developer, Interaction Designer of Digital Designer;
 - Heeft de basiskwalificatie didactische bekwaamheid (BDB) en de basiskwalificatie examinator (BKE) of is bezig deze te behalen;
-- Heeft assessorcertificering of is bezig deze te behalen;
+- Heeft deelgenomen aan de assessorentraining of is bereid deze te volgen;
 - Is eindverantwoordelijk voor het leerproces binnen de squad;
 - Kent de studenten in de squad en begeleid bij het volbrengen van deel- en leertaken;
 - Is op de hoogte van en draagt bij aan de invulling van het onderwijsprogramma;

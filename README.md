@@ -9,7 +9,7 @@ een opleiding van de Hogeschool van Amsterdam op niveau 5.
 
 ## Bijdragen
 
-Al onze niet AVG gevoelige informatie is publiek toegankelijk. Als je het ergens niet mee eens bent, als je foutjes ontdekt of als je een bijdrage hebt dan staat het je vrij aanpassingen te maken en een _pull-request_ in te schieten. Je kunt natuurlijk ook gewoon een _issue_ schrijven, kies daarbij alstjeblieft het juiste
+Al onze niet AVG gevoelige informatie is publiek toegankelijk. Als je het ergens niet mee eens bent, als je foutjes ontdekt of als je een bijdrage hebt dan staat het je vrij aanpassingen te maken en een _pull-request_ in te schieten. Je kunt natuurlijk ook gewoon een _issue_ schrijven, kies daarbij alsjeblieft het juiste
 _issue template_.
 
 ## Installatie
@@ -20,13 +20,13 @@ Als je wilt bijdragen is het handig als je dat op jouw lokale machine kunt doen.
 2. _Clone_ jouw _forked_ _repository_ naar je lokale omgeving
 3. Voer `npm install` uit
 4. Maak de aanpassingen die je wilt maken. In de `docs` map staan de documenten in _markdown_ formaat en in de `src` map staan de bestanden die gebruikt worden voor het `parsen` van de documenten.
-5. Voer `npm start` uit om de documenten in de `docs` map te _parsen_ en te verplaatsen naar de `build` map.
+5. Voer `npm run dev` uit om een ontwikkelomgeving te starten. Wijzigingen in de `src` én in de `docs` map _triggeren_ een rebuild welke automatisch herladen wordt in de browser.
 
 ## Documentatie
 
 ### Ondersteunde Markdown syntax
 
-[Docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) om Markdown bestanden te parsen. Dit betekend dat een aantal extenties ondersteund worden, bovenop de standaard Markdown specificatie. Daarbovenop wordt [Shiki](https://shiki.matsu.io/) gebruikt om codevoorbeelden te highlighten. Hieronder enkele highlights van de syntax die je kunt gebruiken.
+[Docs.fdnd.nl](https://docs.fdnd.nl) gebruikt [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/) om Markdown bestanden te parsen. Hierdoor worden een aantal extenties ondersteund bovenop de standaard Markdown specificatie. Daarnaast wordt ook [Shiki](https://shiki.matsu.io/) gebruikt om codevoorbeelden te highlighten. Hieronder enkele highlights van de syntax die je in [Docs.fdnd.nl](https://docs.fdnd.nl) kunt gebruiken.
 
 #### Tabellen
 
@@ -102,7 +102,25 @@ wordt geparsed naar
 
 #### Autolinks
 
+Je kunt links en emailadressen tussen < en > plaatsen en die worden automatisch geparsed naar html-anchor elementen met de URL of het email adres als inhoud. Een autolink bestaat uit een < gevolgd door een absolute URL gevolgd door >. Een absolute URL bestaat uit een schema gevolgd door : gevolgd door nul of meer ASCII karakters met uitzondering van witruimte en >. Een email autolink bestaat uit een < gevolgd door een email adres gevolgd door een >.
+
+##### Voorbeeld
+
+De volgende regel in markdown
+
+```md
+Je kunt <http://fdnd.nl> bereiken via <info-fdnd@hva.nl>.
+```
+
+wordt geparsed naar:
+
+```html
+<p>Je kunt <a href="http://fdnd.nl">http://fdnd.nl</a> bereiken via <a href="mailto:info-fdnd@hva.nl">info-fdnd@hva.nl</a></p>
+```
+
 #### Code highlighting (Shiki)
+
+Shiki wordt gebruikt met het _monokai_ kleurenschema. Als je code in je tekst opneemt, begin dan met drie backticks (`) gevolgd door de afkorting van de taal die je gebruikt: html, css, js, json, svelte ([en vele andere](https://github.com/shikijs/shiki/blob/main/docs/languages.md)). Jouw code wordt dan door Shiki vertaald naar html-code met inline color-coding volgens _monokai_.
 
 ## Referenties
 
@@ -113,4 +131,4 @@ Docs.fdnd.nl maakt gebruik van de volgende _npm-packages_:
 
 ## License
 
-MIT
+GPL-3.0 license
