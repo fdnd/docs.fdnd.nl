@@ -14,7 +14,7 @@ Docenten controleren de feedback en waarderen de inzet van studenten in de korte
 
 #### Feedback schrijven
 
-Direct na het bijwonen van een checkpoint maakt de student daarvan verslag in Feedpulse van het betreffende semester. In dit verslag kan de student de volgende punten gebruiken:
+Direct na het bijwonen van een checkpoint maakt de student daarvan verslag in ~~Feedpulse~~ PortFlow van het betreffende semester. In dit verslag kan de student de volgende punten gebruiken:
 - Wat betekent de gedragsindicator in relatie tot de opdracht?
 - Neem een link op naar je wiki of code.
 - Beschrijf waarom dit goede bewijslast is voor deze gedragsindicator.
@@ -25,14 +25,14 @@ Studenten schrijven feedback in correct Nederlands.
 
 #### Feedback waarderen
 
-Als studenten feedback in Feedpulse hebben geschreven, dan lezen docenten dit aandachtig door en waarderen de inzet van iedere student op het niveau van gedragsindicatoren met een smiley. Deze smileys geven aan hoe de docent de inzet/activiteit/aanwezigheid van de student in betreffende periode ervaart. Deze waardering is geheel formatief en staat niet in relatie tot het assessment. Een voordeel van deze formatieve waardering is dat zowel studenten als docenten inzichtelijk hebben hoe het met de studiehouding van de student staat. Waar nodig kan dan bijgestuurd worden. Deze formatieve waardering is altijd een momentopname en kan per week/opdracht/sprint veranderen. Hieronder een grove indicatie voor het gebruik van smileys:
+~~Als studenten feedback in Feedpulse hebben geschreven, dan lezen docenten dit aandachtig door en waarderen de inzet van iedere student op het niveau van gedragsindicatoren met een smiley. Deze smileys geven aan hoe de docent de inzet/activiteit/aanwezigheid van de student in betreffende periode ervaart. Deze waardering is geheel formatief en staat niet in relatie tot het assessment. Een voordeel van deze formatieve waardering is dat zowel studenten als docenten inzichtelijk hebben hoe het met de studiehouding van de student staat. Waar nodig kan dan bijgestuurd worden. Deze formatieve waardering is altijd een momentopname en kan per week/opdracht/sprint veranderen. Hieronder een grove indicatie voor het gebruik van smileys:~~
 
-- 😁 inzet is goed
-- 🙂 inzet is in orde
-- ☹️ student is uit beeld
-- 🫥 er is nog geen reflectie op deze indicator in deze periode
+- ~~😁 inzet is goed~~
+- ~~🙂 inzet is in orde~~
+- ~~☹️ student is uit beeld~~
+- ~~🫥 er is nog geen reflectie op deze indicator in deze periode~~
 
-Als docent bevestig je de feedback door een kort berichtje te typen. Je kunt dan aangeven of het in orde is of dat de student nog een belangrijk punt van feedback gemist heeft.
+~~Als docent bevestig je de feedback door een kort berichtje te typen. Je kunt dan aangeven of het in orde is of dat de student nog een belangrijk punt van feedback gemist heeft.~~
 
 #### Verhouding checkpoints assessments
 
@@ -43,6 +43,37 @@ Doel van deze verandering is onderscheid te kunnen maken tussen formele, beoorde
 - Docenten hebben twijfels: Formeel criteriumgericht interview (assessment) aan de hand van de gedragscriteria om die twijfels weg te nemen
 
 Todo: Hoe zorgen we voor meer ruimte bij de roostering van assessments.
+
+#### Assessments
+
+Bij FDND is het assessment hét summatieve toetsinstrument. Assessments vinden, met uitzondering van het eindassessment, plaats in week tien van ieder blok. Bij elk assessment ontvangt de student, mits ze die met een voldoende behaald, 15EC. Haalt de student het assesment niet dan is er mogelijkheid voor reparatie aan het eind van de eerstvolgende of daarop volgende sprint.
+
+Per semester zijn er twee assessments, bij de endterm toont de student aan het leerresultaat te beheersen en bij de midterm laat de student zien onderweg te zijn naar het te behalen leerresultaat. Jaarlijks zijn er dus vier summatieve toetsmomenten, gezamenlijk 60EC, die een oordeel geven over de leergang van studenten. 
+
+Assessments worden voorbereid door het beoordelen van het ontwikkelportfolio van studenten.
+
+##### Portfoliotoets (programmatisch toetsen)
+
+Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast per indicator tijdens deze meetpunten vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
+
+In de laatste sprint voorafgaand aan het assessment worden door de squad-leader en co-teacher(s) van een squad alle ontwikkelportfolia doorgenomen. Bevindingen worden als draft vastgelegd in het beoordelingsformulier in DLO. Deze portfoliotoets is indicatief voor het type assessment wat een student zal afleggen. Er zijn twee vormen assessments.
+
+###### Presentatie
+
+Als squad-leader en co-teacher(s) gedurende de portfoliotoets oordelen dat de student op niveau is, dan volgt summatieve beoordeling op basis van een presentatie over de verhouding van de bewijslast tot het leerresultaat. Het is zeer onwaarschijnlijk dat een onvoldoende volgt maar uitzonderingen zijn natuurlijk mogelijk.
+
+De student bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria, en demonstreert in 10 minuten het leerresultaat te beheersen. Docenten nemen daarna 10 minuten voor het stellen van vragen en tenslotte 10 minuten voor het definitief vaststellen van een summatief oordeel.
+
+###### Criterium gericht interview
+
+Als squad-leader en co-teacher(s) gedurende de programmatische toetsing twijfelen over het niveau van de student omdat er onvoldoende bewijslast bij bepaalde criteria/indicatoren is dan volgt een criterium gericht interview. Assessoren nemen 30 minuten om het CGI voor te bereiden. Ze stellen op basis van het draft in DLO vragen op om de hiaten in de bewijslast aan de kaak te stellen. De student kan tijdens het interview meer inzicht geven en dus bewijs leveren voor de ontbrekende onderdelen.
+
+De voorbereiding voor de student is hetzelfde, deze bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria. In plaats van een presentatie wordt de student gedurende 20 minuten geïnterviewd over de hiaten in diens bewijslast. Daarna nemen de assessoren 10 minuten voor het definitief vaststellen van een summatief oordeel.
+
+###### Organisatie
+
+Wat doen tribe-leaders qua schema en wanneer kan dit verwacht worden door studenten en docenten.
+
 
 #### Checkpoints blok 1
 
