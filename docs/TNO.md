@@ -1,4 +1,4 @@
-# Visitatie
+# Toets Nieuwe Opleiding
 
 De Hogeschool van Amsterdam (HvA) heeft een aanbod aan Associate degree-opleidingen dat aansluit op de vraag van de arbeidsmarkt. Een Associate degree (Ad) leidt op tot professionals die strategisch kunnen denken en dit weten te verbinden met het handelen op de werkvloer. De Ad’er opereert daarmee op tactisch niveau en kan zowel de visie als de richting die de organisatie bepaalt doorgronden. Ook is de Ad'er in staat deze visie te vertalen naar concrete acties op de werkvloer. De Ad’er speelt in op veranderingen in de omgeving en lost ambigue praktische vraagstukken efficiënt op. Door het leren oplossen van beroepsauthentieke vraagstukken, het werken in leeromgevingen met wisselende contexten en intensieve studentbegeleiding bereiden wij de Ad’er voor op de beroepspraktijk.
 
