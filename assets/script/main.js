@@ -3,13 +3,7 @@ const key = 'fdnd::color-scheme'
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
 const body = document.body
 const colorSwitch = Object.assign(document.createElement('li'), {
-  innerHTML: `<button
-    class="theme-toggle"
-    id="theme-toggle"
-    title="Toggles light & dark theme"
-    aria-label="auto"
-    aria-live="polite"
-  >
+  innerHTML: `<button class="theme-toggle" id="theme-toggle" title="Toggles light & dark theme" aria-label="auto" aria-live="polite">
   <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
     <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" />
     <g class="sun-beams" stroke="currentColor">
@@ -101,3 +95,17 @@ function scrollHandler() {
     lastItem = currentItem
   }
 }
+
+// document.addEventListener('selectionchange', () => {
+//   let selection = document.getSelection()
+//   let coords = selection.getRangeAt(0).getBoundingClientRect()
+
+//   if (selection.toString() !== '') {
+//     console.log(selection.toString())
+//     // issueBox.style.top = `${coords.top}px`
+//     // issueBox.style.left = `${coords.left + coords.width / 2}px`
+//     // issueBox.classList.add('active')
+//   } else {
+//     // issueBox.classList.remove('active')
+//   }
+// })
