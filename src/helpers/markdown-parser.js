@@ -1,9 +1,10 @@
 import document from '../../docs.conf.js'
+import fdndDiscussions from './fdnd-discussions.js'
 import fdndWrapper from './fdnd-wrapper.js'
+import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeDocument from 'rehype-document'
 import rehypeFormat from 'rehype-format'
 import rehypeRaw from 'rehype-raw'
-import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeSectionHeadings from 'rehype-section-headings'
 import rehypeShiftHeading from 'rehype-shift-heading'
 import rehypeSlug from 'rehype-slug'
@@ -23,9 +24,10 @@ export default unified()
   .use(rehypeRaw)
   .use(rehypeShiftHeading, { shift: 1 })
   .use(rehypeSlug)
+  .use(fdndDiscussions)
   .use(rehypeWrap, { wrapper: 'article' })
   .use(rehypeToc)
-  .use(rehypeAutolinkHeadings)
+  .use(rehypeAutolinkHeadings, { properties: { class: 'auto-link', 'aria-hidden': 'true' } })
   .use(rehypeSectionHeadings, { sectionDataAttribute: 'data-heading-id' })
   .use(shiki, { theme: 'monokai' })
   .use(fdndWrapper)

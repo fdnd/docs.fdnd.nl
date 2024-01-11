@@ -66,14 +66,12 @@ html {
   }
 }
 
-
 :target:before {
-  content: "";
+  content: '';
   display: block;
   height: 100px;
   margin: -100px 0 0;
 }
-
 
 body {
   --spacing: max(8vh, 3em);
@@ -98,10 +96,10 @@ header {
   left: 0;
   right: 0;
   z-index: 99;
-  
+
   background: var(--color-background);
   color: var(--color-text);
-  
+
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
@@ -123,11 +121,11 @@ header {
 }
 
 /* FDND LOGO */
-header h1>abbr {
+header h1 > abbr {
   text-decoration: none;
 }
 
-header h1>abbr>span {
+header h1 > abbr > span {
   display: block;
   width: fit-content;
   color: var(--color-logo);
@@ -234,20 +232,20 @@ header h1>abbr>span {
 }
 
 .sun-and-moon {
-  &> :is(.moon, .sun, .sun-beams) {
+  & > :is(.moon, .sun, .sun-beams) {
     transform-origin: center center;
   }
 
-  &> :is(.moon, .sun) {
+  & > :is(.moon, .sun) {
     fill: var(--color-text);
 
-    @nest .theme-toggle:is(:hover, :focus-visible)>& {
+    @nest .theme-toggle:is(:hover, :focus-visible) > & {
       background: var(--color-yellow);
       fill: var(--color-blue);
     }
   }
 
-  &>.sun-beams {
+  & > .sun-beams {
     stroke: var(--color-text);
     stroke-width: 2px;
 
@@ -258,15 +256,15 @@ header h1>abbr>span {
   }
 
   @nest [data-scheme='dark'] & {
-    &>.sun {
+    & > .sun {
       transform: scale(1.75);
     }
 
-    &>.sun-beams {
+    & > .sun-beams {
       opacity: 0;
     }
 
-    &>.moon>circle {
+    & > .moon > circle {
       transform: translateX(-7px);
 
       @supports (cx: 1) {
@@ -341,7 +339,7 @@ header h1>abbr>span {
 }
 .toc-link-h2,
 .toc-link-h3 {
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 .toc-link {
@@ -362,7 +360,7 @@ footer {
   margin: 0 auto;
 }
 
-footer>p>span {
+footer > p > span {
   display: inline-block;
   transform: rotate(180deg);
 }
@@ -398,7 +396,6 @@ article {
 
 /* Section headings specific styling */
 section {
-
   & h1,
   & h2,
   & h3,
@@ -406,63 +403,42 @@ section {
   & h5,
   & h6 {
     position: relative;
-    width: max-content;
-    max-width: 100%;
-    &:target {
-      & .icon-link {
-        opacity: 0 !important;
-        transition: opacity 0s ease-out;
-      }
-      & a {
-        pointer-events: none;
-        &::before {
-          transition: clip-path 0s ease-out;
-        }  
-      }
-    }
 
     & a {
-      display: flex;
-      align-items: center;
       position: absolute;
-      inset: 0 0 0 -0.75em;
-      background: none;
-      &::before {
-        content: '';
-        position: absolute;
-        z-index: -1;
-        inset: 0;
-        background-color: var(--color-active) !important;
-        border-color: var(--color-active) !important;
-        /* clip-path: polygon(-2% 0%, -2% 0, 100% 100%, 0% 100%); */
-        transition: clip-path 0.4s ease-out;
-        clip-path: polygon(3% 0%, 3% 0%, 0% 100%, 0% 100%);
-      }
-      
+      top: 0rem;
     }
-    
-    & a:hover::before,
-    & a:focus::after {
-      clip-path: polygon(3% 0%, 100% 0%, 98% 100%, 0% 100%);
+    & a.auto-link {
+      left: -1.5rem;
     }
-    &:hover,
-    &:focus {
-      color: var(--color-active-text) !important;
+    & a.discussion-link {
+      right: -1.5rem;
     }
 
-    .icon-link {
+    & .icon {
       display: inline-block;
-      width: 0.5em;
-      height: 0.5em;
-      background-image: url('../img/link.svg');
+      width: 1.2rem;
+      height: 1.2rem;
+      opacity: 0.3;
       background-repeat: none;
       background-size: contain;
-      opacity: 0;
       transition: opacity 0.1s ease-out;
-
+    }
+    & .icon-link {
+      background-image: url('../img/link.svg');
     }
 
-    &:hover .icon-link {
+    & .icon-discussion {
+      background-image: url('../img/message-exclamation.svg');
+      opacity: 1;
+    }
+
+    & .icon-new-discussion {
+      background-image: url('../img/message-plus.svg');
+    }
+
+    &:hover .icon-link,
+    &:hover .icon-new-discussion {
       opacity: 1;
     }
   }
@@ -485,22 +461,21 @@ main section:first-of-type {
 }
 
 section {
-  & p { 
+  & p {
     line-height: 1.5;
   }
 }
 
-section+section {
-
-  &>h1,
-  &>h2,
-  &>h3 {
+section + section {
+  & > h1,
+  & > h2,
+  & > h3 {
     margin-top: 0.75em;
   }
 
-  &>h4,
-  &>h5,
-  &>h6 {
+  & > h4,
+  & > h5,
+  & > h6 {
     margin-top: 1em;
   }
 }
@@ -515,20 +490,17 @@ a:focus {
   outline: var(--color-nav-text) !important;
 }
 
-
-
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-
-  &+p,
-  &+ul,
-  &+ol,
-  &+blockquote,
-  &+table {
+  & + p,
+  & + ul,
+  & + ol,
+  & + blockquote,
+  & + table {
     margin-top: 1em;
   }
 }
@@ -553,18 +525,17 @@ blockquote,
 ul,
 ol,
 table {
-
-  &+h1,
-  &+h2,
-  &+h3,
-  &+h4,
-  &+h5,
-  &+h6,
-  &+p,
-  &+ul,
-  &+ol,
-  &+blockquote,
-  &+table {
+  & + h1,
+  & + h2,
+  & + h3,
+  & + h4,
+  & + h5,
+  & + h6,
+  & + p,
+  & + ul,
+  & + ol,
+  & + blockquote,
+  & + table {
     margin-top: 1em;
   }
 }
@@ -625,22 +596,20 @@ article {
   & ul {
     list-style: disc;
     padding-left: 1rem;
-  
-    & li+li {
-      margin-top: 0.4em;
-    }
-  }
-  
-  
-  & ol {
-    list-style: decimal;
-    padding-left: 1rem;
-  
-    & li+li {
+
+    & li + li {
       margin-top: 0.4em;
     }
   }
 
+  & ol {
+    list-style: decimal;
+    padding-left: 1rem;
+
+    & li + li {
+      margin-top: 0.4em;
+    }
+  }
 }
 
 pre {
@@ -689,9 +658,11 @@ tbody {
   padding: var(--padding);
 }
 
-sup {}
+sup {
+}
 
-sub {}
+sub {
+}
 
 section.footnotes p {
   display: inline;

@@ -2,11 +2,12 @@
 
 De Hogeschool van Amsterdam (HvA) heeft een aanbod aan Associate degree-opleidingen dat aansluit op de vraag van de arbeidsmarkt. Een Associate degree (Ad) leidt op tot professionals die strategisch kunnen denken en dit weten te verbinden met het handelen op de werkvloer. De Ad’er opereert daarmee op tactisch niveau en kan zowel de visie als de richting die de organisatie bepaalt doorgronden. Ook is de Ad'er in staat deze visie te vertalen naar concrete acties op de werkvloer. De Ad’er speelt in op veranderingen in de omgeving en lost ambigue praktische vraagstukken efficiënt op. Door het leren oplossen van beroepsauthentieke vraagstukken, het werken in leeromgevingen met wisselende contexten en intensieve studentbegeleiding bereiden wij de Ad’er voor op de beroepspraktijk.
 
-De Ad Frontend Design & Development (FDND) wordt een praktijkgerichte, tweejarige hbo-opleiding waar studenten in worden opgeleid tot *Frontend professionals*. Frontenders ontwerpen en maken interactieve, toegankelijke toepassingen voor het web. Dit maakt dat een frontender opereert binnen het gebied van software development, interactieontwerp en digitaal visueel ontwerp.
+De Ad Frontend Design & Development (FDND) wordt een praktijkgerichte, tweejarige hbo-opleiding waar studenten in worden opgeleid tot _Frontend professionals_. Frontenders ontwerpen en maken interactieve, toegankelijke toepassingen voor het web. Dit maakt dat een frontender opereert binnen het gebied van software development, interactieontwerp en digitaal visueel ontwerp.
 
 ## Frontend Design & Development
 
 ### Waarom een Ad Frontend Design & Development?
+
 Landelijk, en in het bijzonder in de regio Groot Amsterdam, kunnen veel vacatures op het gebied van frontend niet worden vervuld. De verwachting is dat de vraag naar hoogopgeleide frontend professionals de komende jaren alleen nog maar gaat toenemen. Naast schaarste op de arbeidsmarkt ligt er ook een maatschappelijk vraagstuk. Het menselijke aspect verdwijnt door de technische gerichtheid van de industrie nogal eens naar de achtergrond. Commerciële partijen richten zich wel op technische vaardigheden maar niet op vakoverstijgende vaardigheden zoals kritisch denken, ethisch besef en soft-skills. Er is in Nederland nog geen opleiding die een officieel erkend Associate of bachelor degree Frontend uitschrijft. Vanuit deze behoefte van zowel de arbeidsmarkt als de maatschappij is de Associate degree Frontend Design & Development (FDND) ontworpen.
 
 FDND leidt frontend professionals op die gespecialiseerd zijn in het ontwerpen en bouwen van webtoepassingen. Studenten leren samenwerken in multidisciplinaire teams en opereren op het snijvlak van design en development. Ook werken ze vanaf het begin van de opleiding aan opdrachten voor echte opdrachtgevers. Studenten die afgestudeerd zijn bij FDND kunnen direct aan de slag in de beroepspraktijk. Hiermee leveren zij een bijdrage aan het terugdringen van de krapte op de arbeidsmarkt.
@@ -14,9 +15,11 @@ FDND leidt frontend professionals op die gespecialiseerd zijn in het ontwerpen e
 Tijdens gesprekken met het regionale werkveld is gebleken dat er vooral vraag is naar afgestudeerden die inhoudelijke en technische vaardigheden op HBO-niveau beheersen, ook zijn vakoverstijgende vaardigheden van groot belang. Om te kunnen schakelen tussen verschillende afdelingen en disciplines, moeten Frontend professionals kunnen samenwerken, zowel multidisciplinair als met verschillende nationaliteiten. Ook is het van belang dat ze in bezit zijn van een groot probleemoplossend vermogen. Aan deze vaardigheden besteden we tijdens de opleiding veel aandacht. Hiermee sluit het vastgestelde FDND profiel aan op wat er in vacatures gevraagd wordt. De enthousiaste bijdrage van vele ‘creative agencies’ aan de totstandkoming van onze plannen laat de behoefte en noodzaak van deze Ad zien.
 
 ### Naamgeving
+
 Frontend is een internationaal gebruikte term. Omdat frontend professionals zowel op het gebied van webdesign als van webdevelopment opereren, hebben wij gekozen voor de naam 'Frontend Design & Development'. Frontend professionals oefenen binnen hun functie verschillende rollen uit. Daarnaast wordt de functie van een frontender door werkgevers op verschillende manieren gekenmerkt. De naam Frontend Design & Development dekt alle mogelijke rollen en functies die een frontend professional kan aannemen. Deze naam wordt wereldwijd (h)erkend in het beroepenveld en veelvuldig gebruikt op internationale conferenties.
 
 ### Positionering binnen de Hogeschool van Amsterdam
+
 FDND past in de doorlopende lijn van het cluster Mediadesign van de HvA. Dit cluster maakt onderdeel uit van de faculteit Digitale Media en Creatieve Industrie.
 
 <table id="opleidingen-fdmci">
@@ -69,18 +72,20 @@ FDND past in de doorlopende lijn van het cluster Mediadesign van de HvA. Dit clu
 </tbody>
 </table>
 
-
 De faculteit heeft voldoende kennis en expertise in huis om de Ad FDND aan te bieden. FDND wordt ontwikkeld door een team docenten van de bacheloropleiding Communication & Multimedia Design (CMD).
 
 ### Macro­doelmatigheid
+
 De Commissie Doelmatigheid Hoger Onderwijs (CDHO) heeft de Minister van Onderwijs, Cultuur & Wetenschap geadviseerd in te stemmen met onze aanvraag om de voltijdse opleiding Ad Frontend Design & Development als bekostigd onderwijs aan te bieden. Op 14 juli 2020 heeft het ministerie van Onderwijs, Cultuur & Wetenschap hiermee ingestemd.
 
 Ten aanzien van de naam en Croho indeling heeft de commissie geconstateerd dat voorgestelde naam van de opleiding passend is en dat indeling in het Croho onderdeel Techniek ook aansluit bij de indeling van reeds bestaande verwante opleidingen. Het aanvraagdossier en het advies macrodoelmatigheid liggen ter inzage op de visitatiedag.
 
 ### Doelgroep en toelatings­voorwaarden
+
 FDND richt zich op ambitieuze mbo-4 studenten van bij voorkeur relevante mbo-opleidingen, en op havisten en vwo’ers die graag een hbo-opleiding met een praktijkgerichte focus willen volgen. Om tot de opleiding te worden toegelaten, worden er aan studenten met een havo, vwo of mbo-4 diploma geen nadere vooropleidingseisen gesteld. Personen van 21 jaar en ouder die niet voldoen aan de juiste vooropleidingseisen kunnen deelnemen aan een toelatingsassessment in de vorm van de 21+ toets.
 
 ### Samenwerking
+
 FDND wordt samen met het werkveld vormgegeven en uitgevoerd. Door bedrijven uit de creatieve industrie bij het onderwijs te betrekken, doen studenten veel ervaring op in de praktijk. Het geeft studenten ook de mogelijkheid een netwerk aan te leggen waarbinnen ze mogelijk een stageplek en een werkplek vinden.
 
 Door het aangaan van een convenant wordt een bedrijf partner in onderwijs; deze samenwerking is niet vrijblijvend. Partners in onderwijs (experts) delen hun kennis met FDND en werken mee aan de (door)ontwikkeling van het curriculum. Experts geven talks, workshops of delen gedurende een periode hun kennis als co-teacher naast een docent. Ook bezoeken studenten gedurende hun opleiding meerdere malen verschillende bedrijven en werken ze gedurende projecten intensief met experts van bedrijven samen.
@@ -95,11 +100,12 @@ Door deze samenwerkingsverbanden doen studenten tijdens hun opleiding praktijker
 
 ## Standaard 1: Beoogde leer­resultaten
 
-*De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen.*
+_De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen._
 
 De opleiding Frontend Design & Development (FDND) is samen met het werkveld ontwikkeld en ook bij het aanbieden van onderwijs wordt het bedrijfsleven ingezet. Deze samenwerking draagt aanzienlijk bij aan onze visie op het beroep die ten grondslag ligt aan onze leerresultaten.
 
 ### Visie op het beroep
+
 Frontenders maken interactieve, toegankelijke toepassingen voor het web die beantwoorden aan de vraag van een opdrachtgever. Hierbij wordt rekening gehouden met gebruiksvriendelijkheid en behoeften van eindgebruikers. Frontenders werken in teams samen met software developers, visual designers, interaction designers en contentmakers van verschillende niveaus (mbo-4, Associate degree, bachelor, master). Naast technische vaardigheden beschikken ze ook over uitstekende persoonlijke en sociale vaardigheden. Zo zijn ze communicatief sterk, vragen door en kunnen binnen hun team beargumenteerd adviseren over en richting geven aan het ontwerp en de ontwikkeling van de 'frontend' van een interactieve toepassing. Deze combinatie van kennis, houding en vaardigheden maakt Frontend tot een complex beroep, zie figuur 2.
 
 ![Frontenders houden net als jongleurs vele ballen tegelijk in de lucht](./assets/img/jongleurs.png)
@@ -111,11 +117,13 @@ Frontenders werken zelfstandig en doelgericht en hebben overzicht over hun vaak 
 Frontenders zijn flexibele en leergierige professionals die kunnen omgaan met de technologische ontwikkelingen en in het werkveld direct aan de slag kunnen. FDND leidt studenten op tot de volgende beroepen: Frontend Web Developer, HTML/CSS Developer, Frontend Web Designer, User Interface Developer, Frontend Engineer.
 
 ### Frontend op Ad niveau
+
 Associate degree opleidingen zijn in het European Quality Framework (EQF) en het Nederlands Kwalificatieraamwerk (NLQF) gepositioneerd en uitgewerkt op niveau 5. Een beschrijving van het Associate degree niveau is vastgesteld door het Overlegplatform Associate degree van de Vereniging Hogescholen. Hierin is niveau 5 uitgewerkt aan de hand van vijf gedragsindicatoren: probleemoplossend vermogen, methodisch handelen, samenwerken, communiceren en lerend vermogen. Er is in kaart gebracht hoe de Ad FDND (niveau 5) zich verhoudt tot verwante opleidingen op mbo-niveau (niveau 4) en bachelorniveau (niveau 6).
 
 Er is sprake van een toenemende mate van complexiteit van leertaken en context, en zelfstandigheid in het handelen. Zo beheerst een afgestudeerde mbo'er de gedragsindicator 'methodisch handelen' door standaardprocedures en methodes toe te passen in het dagelijks werk, zoals het aanpassen of ontwikkelen van (een gedeelte) van een eenvoudige interactieve toepassing. Een Ad’er selecteert zelf theorieën en methodes op het gebied van Frontend en past deze toe op actuele vraagstukken in een complexere context. Complexiteitsfactoren zijn bijvoorbeeld: de toe te passen techniek, de grootte van de opdrachten, de grootte van het team, de beschikbare tijd en de houding van de opdrachtgever. Een afgestudeerde bachelor legt verbanden tussen gegevens en problemen en vertaalt theorieën op het gebied van Frontend naar toepassingen voor de praktijkvraagstukken.
 
 ### Leerresultaten
+
 De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresultaat met bijbehorende gedragsindicatoren en -criteria. Op basis van de visie op het beroep en de Ad niveaubeschrijving zijn de eindkwalificaties geformuleerd. In onderstaande tabel zijn het leerresultaat en de gedragscriteria voor het eindniveau weergegeven.
 
 <table>
@@ -178,6 +186,7 @@ In de opleiding zit een opbouw naar het eindniveau door middel van drie leerresu
 </table>
 
 ### Internationaal perspectief
+
 Het betrokken werkveld, dat zowel uit opdrachtgevers als creatieve bureaus bestaat, is internationaal georiënteerd en onderschrijft het belang van een internationaal georiënteerde opleiding. Daarom is FDND van plan samenwerkingen aan te gaan met opdrachtgevers en NGO’s die internationaal georiënteerd zijn. Om dit te faciliteren en studenten hierop voor te bereiden, gebruikt FDND daar waar relevant internationale bronnen en instructiefilmpjes en ook de gehanteerde terminologie zal voornamelijk Engelstalig zijn. De voertaal van de opleiding is Nederlands.
 
 De web technieken HTML, CSS en JavaScript worden vanuit internationale standaarden ontwikkeld door The World Wide Web Consortium (W3C). Deze standaarden spelen een belangrijke rol in de visie en het curriculum van FDND.
@@ -187,11 +196,13 @@ Het frontend vakgebied is actief, internationaal en wisselt veel kennis uit. FDN
 De opleiding verhoudt zich tot niveau 5 van het European Quality Framework. De beoogde leerresultaten zijn mede gebaseerd op internationale standaarden zoals het European e-Competence Framework. Dit maakt dat de kennis en vaardigheden die de studenten gedurende de opleiding opdoen ook bij internationale bedrijven herkend en erkend worden.
 
 ### Na afronding van de opleiding
+
 Zoals aangetoond in de CDHO aanvraag zullen de meeste studenten na afronding van de opleiding functies gaan bekleden als Frontend Developer, HTML/CSS Developer, Frontend Web Designer, User Interface Developer en Frontend Engineer. Studenten komen tijdens hun opleiding veel in contact met potentiële werkgevers door de praktijkopdrachten die ze voor hen uitvoeren. Hierdoor verwachten we dat zij na hun opleiding snel een passende functie zullen hebben. Daarnaast is zowel de landelijke als de regionale arbeidsmarktprognose voor de bovengenoemde functies heel goed.
 
 Gezien de inhoudelijke verwantschap kunnen studenten die na deze opleiding een bachelordiploma willen halen, doorstromen naar de bacheloropleidingen CMD en naar HBO-ICT. Er zijn met de examencommissies van deze opleidingen afspraken gemaakt over de mate van vrijstelling die studenten bij doorstroom ontvangen met als doel dat studenten in maximaal 150 EC hun bachelor diploma kunnen behalen. In het curriculum van de Ad FDND kunnen studenten die willen doorstromen in de vrije keuzeruimte een doorstroommodule volgen die in samenwerking met de bacheloropleiding wordt ontwikkeld.
 
 ### Aansluiten bij de actualiteit
+
 Het werkveld een belangrijke rol bij de ontwikkeling van de opleiding en uitvoering van het onderwijs. Experts uit het vakgebied en lectoren worden ingezet bij verschillende onderwijsactiviteiten in de vorm van talks, workshops en co-teaching. Studenten leren daarmee het vak direct van experts en sluiten daarmee nauw aan op ontwikkelingen in de beroepspraktijk. Bovendien werken studenten aan actuele opdrachten voor echte opdrachtgevers.
 
 Ons docententeam is vakinhoudelijk goed op de hoogte van de laatste ontwikkelingen in de beroepspraktijk. Docenten krijgen ruimte voor scholing en het bezoeken van conferenties.
@@ -200,11 +211,12 @@ Voor FDND wordt een onderwijsadviesraad (OAR) gevormd om de inhoud van de opleid
 
 ## Standaard 2: De onderwijs­leeromgeving
 
-*Het programma, de onderwijsleeromgeving en de kwaliteit van het docententeam maken het voor de instromende studenten mogelijk de beoogde leerresultaten te realiseren.*
+_Het programma, de onderwijsleeromgeving en de kwaliteit van het docententeam maken het voor de instromende studenten mogelijk de beoogde leerresultaten te realiseren._
 
 De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige en praktijkgerichte Frontend professionals op die goed functioneren binnen een snel ontwikkelende en veranderlijke beroepspraktijk. Bij FDND staat de beroepspraktijk centraal en het onderwijsprogramma is een vertaling van beroepstaken en daarbij behorende kennis, vaardigheden en gedrag naar leerresultaten.
 
 ### Didactisch concept
+
 Het didactisch concept van FDND is erop gericht om studenten zo goed mogelijk voor te bereiden op een veranderlijke beroepspraktijk. Om deze reden gebruiken we bij het ontwerp van het curriculum en de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. De veranderlijke beroepspraktijk en mogelijke diversiteit in instroom van studenten qua vooropleiding, gender en cultuur vragen om een flexibel onderwijsprogramma. De diversiteit in instroom maakt het daarnaast belangrijk dat we goed moeten kunnen omgaan met individuele verschillen tussen studenten. Ook vinden we het van groot belang dat studenten leren zelfstandig te opereren in een steeds complexer wordende wereld.
 
 De didactische bouwstenen voor High Impact Learning that Lasts (HILL) van Dochy en Segers (2015) sluiten goed aan bij onze voorwaarden. HILL draagt bij aan diep leren en zelfsturing en past bij het opleiden van praktijkgerichte professionals. Deze bouwstenen vormen de basis van het didactisch concept van FDND en zijn vertaald naar drie principes:
@@ -214,6 +226,7 @@ De didactische bouwstenen voor High Impact Learning that Lasts (HILL) van Dochy 
 - toetsing als leermoment
 
 #### Praktijkvraagstukken in een rijke leeromgeving
+
 De beroepspraktijk staat centraal in de opleiding; studenten werken aan échte opdrachten voor echte opdrachtgevers. Dat zorgt ervoor dat studenten over actuele kennis, houding en vaardigheden beschikken en na de opleiding direct inzetbaar zijn. Opdrachten uit de beroepspraktijk worden vertaald naar leertaken. Het curriculum bestaat uit verschillende leertaken die studenten zelfstandig of in teams uitvoeren. Afgeronde leertaken worden opgenomen in een portfolio en dienen als bewijslast voor het behalen van leerresultaten.
 
 ![De development-lifecycle](./assets/img/dev-lifecycle.png)
@@ -393,7 +406,7 @@ De Ad-opleiding Frontend Design & Development valt onder de verantwoordelijkheid
 
 ## Standaard 3: Toetsing
 
-*‌De opleiding beschikt over een adequaat systeem van toetsing.*
+_‌De opleiding beschikt over een adequaat systeem van toetsing._
 
 De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor de inrichting van het toetsprogramma en voor het proces van toetsing. Ook de kwaliteit van de toetsing wordt in dit toetsbeleid geborgd. Dit beleid is voor de opleiding Frontend Design & Development (FDND) uitgewerkt in het document ‘Didactiek en toetsing’ en de Onderwijs- en Examenregeling van de opleiding. In het toetsbeleid zijn de twee functies van toetsen: stimuleren van het leerproces en beoordelen, onlosmakelijk met elkaar verbonden en de validiteit, betrouwbaarheid, transparantie en kwaliteit van toetsen zijn geborgd.
 
@@ -401,7 +414,7 @@ De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor
 
 FDND hanteert een integrale benadering van de beoordeling van de leerresultaten van een student, de HvA noemt dit programmatisch toetsen. Het toetsprogramma bestaat uit een samenhangende opzet van beoordelings- en feedback momenten, die inzicht geven in de ontwikkeling van de student. Door de doorgaande lijn krijgt de student inzicht in nog te ontwikkelen kennis, vaardigheden en houding in relatie tot een leerresultaat.
 
-![Assessment driehoek](./img/assets/assessmentdriehoek.png)
+![Assessment driehoek](./assets/img/assessmentdriehoek.png)
 
 Gedurende elk semester werken studenten aan leertaken (A). Leertaken zijn zeer gevarieerd en leveren bewijslast voor het behalen van een leerresultaat.
 

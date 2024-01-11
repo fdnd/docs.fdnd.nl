@@ -52,7 +52,7 @@ function buildMenu(files) {
 function getMenuInfo(file) {
   const basename = path.basename(file)
   const extname = path.extname(file)
-  const menuname = capitalize(path.basename(file).replace(path.extname(file), ''))
+  const menuname = capitalize(path.basename(file).replace(path.extname(file), '').replaceAll('-', ' '))
   const href = path.basename(file).replace(path.extname(file), '.html')
 
   return { basename, extname, menuname: menuname === 'Index' ? 'Home' : menuname, href }
@@ -64,7 +64,11 @@ function getMenuInfo(file) {
  * @returns a capitalized version of the passed word
  */
 function capitalize(word) {
-  return word.charAt(0).toUpperCase() + word.slice(1)
+  // return word.charAt(0).toUpperCase() + word.slice(1)
+  return word
+    .split(' ')
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ')
 }
 
 /**

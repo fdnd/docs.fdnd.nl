@@ -5,8 +5,12 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
+    "reload-browser": "reload -b -w ./ -e now -d build",
+    "watch-src": "nodemon -e \"*\" --watch src --delay 50ms  --exec \"npm run build && touch .reload.now\"",
+    "watch-docs": "nodemon -e \"*\" --watch docs --delay 50ms  --exec \"npm run build && touch .reload.now\"",
     "build": "node ./src/main.js",
-    "dev": "reload -b -d build & nodemon -e \"*\" --watch src --watch docs --delay 50ms  --exec \"npm run build\""
+    "dev": "npm-run-all --parallel reload-browser watch-src watch-docs",
+    "write": "npm-run-all --parallel reload-browser watch-docs"
   },
   "repository": {
     "type": "git",
@@ -23,11 +27,16 @@
   },
   "homepage": "https://docs.fdnd.nl",
   "devDependencies": {
+    "@octokit/graphql": "^7.0.2",
+    "dotenv": "^16.3.1",
     "file-type": "^18.2.1",
     "fs-extra": "^11.1.1",
+    "github-slugger": "^2.0.0",
     "hastscript": "^7.2.0",
     "nodemon": "^3.0.1",
+    "npm-run-all": "^4.1.5",
     "recursive-readdir": "^2.2.3",
+    "rehype-autolink-headings": "^6.1.1",
     "rehype-document": "^6.1.0",
     "rehype-format": "^4.0.1",
     "rehype-parse": "^8.0.4",
@@ -49,8 +58,5 @@
     "to-vfile": "^7.2.4",
     "unified": "^10.1.2",
     "vfile-reporter": "^7.0.5"
-  },
-  "dependencies": {
-    "rehype-autolink-headings": "^6.1.1"
   }
 }
