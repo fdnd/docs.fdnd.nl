@@ -1,6 +1,6 @@
 # This workflow builds then deploys our docs.fdnd.nl site.
 
-name: Build and deploy
+name: Build and Deploy
 
 on:
   push:
@@ -44,9 +44,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: docs.fdnd.nl
-      # url: ${{ steps.deployment.outputs.page_url }}
-      # cname: docs.fdnd.nl
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy
