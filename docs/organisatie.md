@@ -70,9 +70,9 @@ Een Alliance Officer:
 - Is eindverantwoordelijk voor het organiseren van externe co-teachers, experts uit het vakgebied die naast een squad leader één of meerdere sprint meedraaien in een squad;
 - Is eindverantwoordelijk voor het organiseren van talks en workshops door expert uit het vakgebied;
 - Is eindverantwoortdelijk voor het verbinden van technische partijen aan het onderwijs (hosting, cms systemen);
-- Is eindverantwoordelijk voor het organiseren van FDND evenementen (EXPO's, stagemarkten, Afstuderen);
+- Is eindverantwoordelijk voor het organiseren van FDND evenementen (EXPO's, stagemarkten, afstuderen, werkveldsessies);
 - Is eindverantwoordelijk voor stages;
-- Is verantwoordelijk voor het managen van alle externe FDND contacten.
+- Is eindverantwoordelijk voor het managen van alle externe FDND contacten.
 
 ### Assessoren
 
