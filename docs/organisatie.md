@@ -60,6 +60,20 @@ Een tribe-leader:
 - Is eindverantwoordelijk en neemt deel aan Standup, Plan & Review, Programmacoordinatie en Retrospective meetings.
 - Is eindverantwoordelijk en aanspreekpunt voor cijfers (SIS), onderwijs en examenregelement (OER), studiegids, open dagen, studiekeuzecheck, communicatie, facilitair, personeel en cyclus, instroom, mbo/hbo doorstroom en afstemming met FDMCI en HvA.
 
+### Alliance Officer (0,2 fte)
+
+Maximaal drie tribes vormen een alliance en deze hebben een alliance officer. De alliance officer maakt het mogelijk om meerdere tribes samen te laten werken aan grote projecten en organiseert de verbinding tussen FDND en de beroepspraktijk. Één alliance officer is aanspreektpunt voor het opleidingshoofd.
+
+Een Alliance Officer:
+
+- Is eindverantwoordelijk voor het embedden van projecten en design challenges van echte opdrachtgevers in het onderwijs;
+- Is eindverantwoordelijk voor het organiseren van externe co-teachers, experts uit het vakgebied die naast een squad leader één of meerdere sprint meedraaien in een squad;
+- Is eindverantwoordelijk voor het organiseren van talks en workshops door expert uit het vakgebied;
+- Is eindverantwoortdelijk voor het verbinden van technische partijen aan het onderwijs (hosting, cms systemen);
+- Is eindverantwoordelijk voor het organiseren van FDND evenementen (EXPO's, stagemarkten, Afstuderen);
+- Is eindverantwoordelijk voor stages;
+- Is verantwoordelijk voor het managen van alle externe FDND contacten.
+
 ### Assessoren
 
 De examencommissie stelt jaarlijks voor elk blok assessoren (examinatoren) aan op voordracht van de tribe-leader van de Ad Frontend Design & Development (namens het opleidingshoofd). De docent als assessor is aantoonbaar gekwalificeerd voor het beoordelen van opdrachten en beschikt minimaal over een Basis Kwalificatie Examinering (BKE). De basiscriteria die bij het aanwijzen van assessoren worden gehanteerd, zijn:
