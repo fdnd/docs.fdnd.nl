@@ -58,5 +58,8 @@
     "to-vfile": "^7.2.4",
     "unified": "^10.1.2",
     "vfile-reporter": "^7.0.5"
+  },
+  "dependencies": {
+    "hast-util-select": "^6.0.2"
   }
 }

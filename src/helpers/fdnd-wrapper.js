@@ -1,3 +1,5 @@
+import { select, selectAll } from 'hast-util-select'
+
 import { h } from 'hastscript'
 
 /**
@@ -6,38 +8,77 @@ import { h } from 'hastscript'
  */
 export default function fdndWrap() {
   return function (tree, file) {
+    let submenu = selectAll('h3', tree).map((element) => {
+      return h('li', h('a', { href: `#${element.properties.id}` }, element.children[1].children[0].value))
+    })
+
+    if (submenu.length > 0) {
+      submenu = [
+        h('li.delimiter', '/'),
+        h('li.dropdown', [
+          h(
+            'button.dropdown__title',
+            {
+              type: 'button',
+              'aria-expanded': 'false',
+              'aria-controls': 'paragraph-dropdown',
+            },
+            'Paragraaf'
+          ),
+          h('ul.dropdown__menu', { id: 'paragraph-dropdown' }, submenu),
+        ]),
+      ]
+    }
+
     return [
       h('header', [
         h('a', { href: '/', tabindex: '-1' }, [
           h('h1', [
-            h('abbr', { title: 'Frontend Design & Development' }, [h('span', 'FDND')]),
+            h('abbr', { title: 'Frontend Design & Development' }, h('span', 'FDND')),
             { type: 'text', value: ' ' },
             h('span', 'Docs'),
           ]),
         ]),
-        h('nav.top', { 'aria-labelledby': 'mainnavheader' }, [
-          h('h2', { id: 'mainnavheader' }, 'Documenten'),
+        h(
+          'nav',
+          { 'aria-label': 'Documenten' },
           h(
             'ul',
-            file.menu.map((item) =>
+            h('li.dropdown', [
               h(
-                'li',
-                h(
-                  'a',
-                  {
-                    href: item.href,
-                    class: (item.basename === file.basename ? 'active' : '') + ' ' + item.menuname.toLowerCase(),
-                  },
-                  h('span', item.menuname)
+                'button.dropdown__title',
+                {
+                  type: 'button',
+                  'aria-expanded': 'false',
+                  'aria-controls': 'document-dropdown',
+                },
+                file.menu.find((item) => item.basename === file.basename).menuname
+              ),
+              h(
+                'ul.dropdown__menu',
+                { id: 'document-dropdown' },
+                file.menu.map((item) =>
+                  h(
+                    'li',
+                    h(
+                      'a',
+                      {
+                        href: item.href,
+                        class: (item.basename === file.basename ? 'active' : '') + ' ' + item.menuname.toLowerCase(),
+                      },
+                      item.menuname
+                    )
+                  )
                 )
-              )
-            )
-          ),
-        ]),
-        h('form.settings', [
-          h('label', [h('input', { type: 'checkbox', id: 'theme' }), 'Switch thema']),
-          h('label', [h('input', { type: 'checkbox', id: 'discussion' }), 'Toon discussie']),
-          h('label', [h('input', { type: 'checkbox', id: 'changes' }), 'Toon wijzigingen']),
+              ),
+            ]),
+            submenu
+          )
+        ),
+        h('div.settings', [
+          h('button', { id: 'theme', 'aria-pressed': 'false', disabled: true }, h('span', 'Thema')),
+          h('button', { id: 'discussion', 'aria-pressed': 'false', disabled: true }, h('span', 'Discussies')),
+          h('button', { id: 'changes', 'aria-pressed': 'false', disabled: true }, h('span', 'Wijzigingen')),
         ]),
       ]),
       h('main', tree),
