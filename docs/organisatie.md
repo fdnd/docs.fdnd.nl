@@ -62,7 +62,7 @@ Een tribe-leader:
 
 ### Alliance Officer (0,2 fte)
 
-Maximaal drie tribes vormen een alliance en deze hebben een alliance officer. De alliance officer maakt het mogelijk om meerdere tribes samen te laten werken aan grote projecten en organiseert de verbinding tussen FDND en de beroepspraktijk. Één alliance officer is aanspreektpunt voor het opleidingshoofd.
+Maximaal drie tribes vormen een alliance en deze hebben een alliance officer. De alliance officer maakt het mogelijk om meerdere tribes samen te laten werken aan grote projecten en organiseert de verbinding tussen FDND en de beroepspraktijk.
 
 Een Alliance Officer:
 

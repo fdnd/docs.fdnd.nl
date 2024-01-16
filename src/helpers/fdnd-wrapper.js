@@ -8,10 +8,12 @@ export default function fdndWrap() {
   return function (tree, file) {
     return [
       h('header', [
-        h('h1', [
-          h('abbr', { title: 'Frontend Design & Development' }, [h('span', 'FDND')]),
-          { type: 'text', value: ' ' },
-          h('span', { class: 'visually-hidden' }, 'Frontend Design & Development'),
+        h('a', { href: '/', tabindex: '-1' }, [
+          h('h1', [
+            h('abbr', { title: 'Frontend Design & Development' }, [h('span', 'FDND')]),
+            { type: 'text', value: ' ' },
+            h('span', 'Docs'),
+          ]),
         ]),
         h('nav.top', { 'aria-labelledby': 'mainnavheader' }, [
           h('h2', { id: 'mainnavheader' }, 'Documenten'),
@@ -26,32 +28,28 @@ export default function fdndWrap() {
                     href: item.href,
                     class: (item.basename === file.basename ? 'active' : '') + ' ' + item.menuname.toLowerCase(),
                   },
-                  h('span', item.menuname),
-                  item.menuname === 'GitHub'
-                    ? h(
-                        'svg',
-                        {
-                          xmlns: 'http://www.w3.org/2000/svg',
-                          fill: 'none',
-                          stroke: 'currentColor',
-                          'stroke-linecap': 'round',
-                          'stroke-linejoin': 'round',
-                          'stroke-width': '1',
-                          viewBox: '0 0 24 24',
-                        },
-                        h('path', {
-                          d: 'M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6-.6.6-.6 1.2-.5 2V21',
-                        })
-                      )
-                    : ''
+                  h('span', item.menuname)
                 )
               )
             )
           ),
         ]),
+        h('form.settings', [
+          h('label', [h('input', { type: 'checkbox', id: 'theme' }), 'Switch thema']),
+          h('label', [h('input', { type: 'checkbox', id: 'discussion' }), 'Toon discussie']),
+          h('label', [h('input', { type: 'checkbox', id: 'changes' }), 'Toon wijzigingen']),
+        ]),
       ]),
       h('main', tree),
-      h('footer', h('p', [h('span', '©'), ' Copyleft, all wrongs reversed.'])),
+      h('footer', [
+        h('h2', 'Help ons dit document te verbeteren!'),
+        h(
+          'p',
+          'Alle fdnd documenten zijn open source. Zie je iets wat verkeerd of onduidelijk is? Doe een pull-request.'
+        ),
+        h('a.github', { href: 'https://github.com/fdnd/docs.fdnd.nl/blob/main/docs/' + file.basename }, 'Draag bij'),
+        h('p.copy', [h('span', '©'), ' Copyleft, all wrongs reversed.']),
+      ]),
     ]
   }
 }
