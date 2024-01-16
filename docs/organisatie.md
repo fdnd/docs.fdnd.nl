@@ -71,8 +71,9 @@ Een Alliance Officer:
 - Is eindverantwoordelijk voor het organiseren van talks en workshops door expert uit het vakgebied;
 - Is eindverantwoortdelijk voor het verbinden van technische partijen aan het onderwijs (hosting, cms systemen);
 - Is eindverantwoordelijk voor het organiseren van FDND evenementen (EXPO's, stagemarkten, afstuderen, werkveldsessies);
-- Is eindverantwoordelijk voor stages;
-- Is eindverantwoordelijk voor het managen van alle externe FDND contacten.
+- Is mede verantwoordelijk voor stages en het contact leggen met en onderhouden van relevante stagebedrijven;
+- Is eindverantwoordelijk voor het managen van alle externe FDND contacten;
+- Neemt deel aan Standup, Plan & Review, Programmacoordinatie en Retrospective meetings.
 
 ### Assessoren
 
