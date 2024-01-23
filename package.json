@@ -5,9 +5,9 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "reload-browser": "reload -b -w ./ -e now -d build",
-    "watch-src": "nodemon -e \"*\" --watch src --delay 50ms  --exec \"npm run build && touch .reload.now\"",
-    "watch-docs": "nodemon -e \"*\" --watch docs --delay 50ms  --exec \"npm run build && touch .reload.now\"",
+    "reload-browser": "reload -v -b -w ./ -e now -d build",
+    "watch-src": "nodemon -e \"*\" --watch src --delay 150ms  --exec \"npm run build && touch .reload.now\"",
+    "watch-docs": "nodemon -e \"*\" --watch docs --delay 150ms  --exec \"npm run build && touch .reload.now\"",
     "build": "node ./src/main.js",
     "dev": "npm-run-all --parallel reload-browser watch-src watch-docs",
     "write": "npm-run-all --parallel reload-browser watch-docs"
@@ -58,5 +58,8 @@
     "to-vfile": "^7.2.4",
     "unified": "^10.1.2",
     "vfile-reporter": "^7.0.5"
+  },
+  "dependencies": {
+    "hast-util-select": "^6.0.2"
   }
 }

@@ -46,8 +46,6 @@ export default function fdndDiscussions(options = {}) {
         const discussion =
           discussions.length > 0 ? discussions.find((discussion) => discussion.title === node.properties.id) : null
 
-        node.children[0] = h('span', node.children[0])
-
         if (discussion) {
           node.children.push(
             h(
