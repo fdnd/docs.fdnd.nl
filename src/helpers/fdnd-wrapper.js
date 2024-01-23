@@ -9,7 +9,7 @@ import { h } from 'hastscript'
 export default function fdndWrap() {
   return function (tree, file) {
     let submenu = selectAll('h3', tree).map((element) => {
-      return h('li', h('a', { href: `#${element.properties.id}` }, element.children[1].children[0].value))
+      return h('li', h('a', { href: `#${element.properties.id}` }, element.children[0].children[0].value))
     })
 
     if (submenu.length > 0) {
@@ -82,15 +82,18 @@ export default function fdndWrap() {
         ]),
       ]),
       h('main', tree),
-      h('footer', [
-        h('h2', 'Help ons dit document te verbeteren!'),
-        h(
-          'p',
-          'Alle fdnd documenten zijn open source. Zie je iets wat verkeerd of onduidelijk is? Doe een pull-request.'
-        ),
-        h('a.github', { href: 'https://github.com/fdnd/docs.fdnd.nl/blob/main/docs/' + file.basename }, 'Draag bij'),
-        h('p.copy', [h('span', '©'), ' Copyleft, all wrongs reversed.']),
-      ]),
+      h(
+        'footer',
+        h('section', [
+          h('h2', 'Help ons dit document te verbeteren!'),
+          h(
+            'p',
+            'Alle fdnd documenten zijn open source. Zie je iets wat verkeerd of onduidelijk is? Doe een pull-request.'
+          ),
+          h('a.github', { href: 'https://github.com/fdnd/docs.fdnd.nl/blob/main/docs/' + file.basename }, 'Draag bij'),
+          h('p.copy', [h('span', '©'), ' Copyleft, all wrongs reversed.']),
+        ])
+      ),
     ]
   }
 }

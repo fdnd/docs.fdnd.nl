@@ -31,7 +31,7 @@
 *:before,
 *:after {
   box-sizing: border-box;
-  /* margin: 0; */
+  margin: 0;
   padding: 0;
 }
 
@@ -63,6 +63,8 @@ body {
   font-family: Open Sans, sans-serif;
   background: var(--color-background);
   color: var(--color-text);
+
+  padding: var(--gap);
 }
 
 header {
@@ -103,14 +105,6 @@ header {
 }
 
 /* Top menu (https://moderncss.dev/css-only-accessible-dropdown-navigation-menu/) */
-.dropdown__title {
-  background: var(--color-background);
-  border: 0;
-  border-radius: var(--rounded);
-  font-size: 1rem;
-  font-family: inherit;
-}
-
 header nav {
   display: grid;
   place-items: center;
@@ -140,7 +134,15 @@ header nav {
   }
 }
 
-.dropdown {
+& .dropdown__title {
+  background: var(--color-background);
+  border: 0;
+  border-radius: var(--rounded);
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+& .dropdown {
   position: relative;
 
   & .dropdown__menu {
@@ -150,6 +152,7 @@ header nav {
     box-shadow: var(--shadow);
     padding: var(--padding);
     min-width: 100%;
+    z-index: 99;
 
     /* Put centered below button */
     position: absolute;
@@ -197,7 +200,7 @@ header nav {
   }
 }
 
-/* header settings */
+/* header settings panel */
 .settings {
   display: none;
 }
@@ -276,7 +279,325 @@ footer {
   margin-top: auto;
 }
 
-/* HTML ELEMENTS */
+/* DOCUMENT TEXT ITEMS */
+
+/* Section headings specific styling */
+section {
+  position: relative;
+  padding-right: 0.5em;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: transparent;
+  max-width: 34rem;
+  transition: 0.2s;
+
+  &:has(.icon-discussion) {
+    border-right-color: var(--color-text);
+  }
+  &:has(.icon-discussion:hover),
+  &:has(.icon-discussion:focus),
+  &:has(.icon-new-discussion:hover),
+  &:has(.icon-new-discussion:focus) {
+    background: var(--color-active);
+    border-right-color: var(--color-text);
+  }
+
+  & h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6 {
+    & a:first-of-type {
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+      &:after {
+        content: '';
+        display: inline-block;
+        margin-left: calc(var(--gap) / 4);
+        width: 1.2rem;
+        height: 1.2rem;
+        background-repeat: none;
+        background-size: contain;
+        background-image: url('../img/link.svg');
+      }
+    }
+
+    & a.discussion-link {
+      position: absolute;
+      top: -0.2rem;
+      right: -0.7rem;
+      line-height: 1.2rem;
+
+      & .icon {
+        display: inline-block;
+        width: 1.2rem;
+        height: 1.2rem;
+        background-repeat: none;
+        background-size: contain;
+        background: var(--color-background);
+        border-radius: var(--rounded);
+      }
+      & .icon-discussion {
+        background-image: url('../img/message-exclamation.svg');
+      }
+      & .icon-new-discussion {
+        background-image: url('../img/message-plus.svg');
+      }
+    }
+  }
+}
+
+main section:first-of-type {
+  & p {
+    font-size: 1.1rem;
+    font-weight: 600;
+    & + p {
+      font-size: 1rem;
+      font-weight: 400;
+    }
+  }
+}
+
+section {
+  & p {
+    line-height: 1.5;
+  }
+}
+
+section + section {
+  & > h2,
+  & > h3 {
+    margin-top: 0.75em;
+  }
+
+  & > h4,
+  & > h5,
+  & > h6 {
+    margin-top: 1em;
+  }
+}
+
+main a,
+footer a {
+  color: var(--color-text);
+  white-space: inherit;
+
+  &:not(.discussion-link) {
+    &[href^='http://']:after,
+    &[href^='https://']:after,
+    &[href$='.pdf']:after,
+    &[href$='.doc']:after,
+    &[href$='.zip']:after,
+    &[href$='.rar']:after,
+    &[href$='.tar']:after {
+      content: '';
+      margin: 0 0 -0.1em 0.1em;
+      display: inline-block;
+      line-height: 1em;
+      font-size: 0.8em;
+      width: 1em;
+      height: 1em;
+      background: url('../img/link-external.svg') no-repeat 100% 0;
+      background-size: contain;
+    }
+    &[href^='http://']:after,
+    &[href^='https://']:after
+    {
+      background: url('../img/link-external.svg') no-repeat 100% 0;
+    }
+    &[href$='.pdf']:after,
+    &[href$='.doc']:after {
+      background: url('../img/file-text.svg') no-repeat 100% 0;
+    }
+    &[href$='.zip']:after,
+    &[href$='.rar']:after,
+    &[href$='.tar']:after {
+      background: url('../img/file-zip.svg') no-repeat 100% 0;
+    }
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  & + p,
+  & + ul,
+  & + ol,
+  & + blockquote,
+  & + table {
+    margin-top: 1em;
+  }
+}
+
+blockquote {
+  position: relative;
+  margin-left: 1em;
+
+  &::before {
+    position: absolute;
+    inset: 0.2em 0 0.2em -1em;
+    background: currentColor;
+    content: '';
+    width: 0.3em;
+    border-radius: 2px;
+    opacity: 0.3;
+  }
+}
+
+p,
+blockquote,
+ul,
+ol,
+table {
+  & + h1,
+  & + h2,
+  & + h3,
+  & + h4,
+  & + h5,
+  & + h6,
+  & + p,
+  & + ul,
+  & + ol,
+  & + blockquote,
+  & + table {
+    margin-top: 1em;
+  }
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1em;
+  font-weight: bold;
+  overflow-wrap: break-word;
+}
+
+h2 {
+  font-size: 3rem;
+  letter-spacing: -0.04em;
+}
+
+h3 {
+  font-size: 2.5rem;
+  line-height: 1.1;
+  letter-spacing: -0.04em;
+}
+
+h4 {
+  font-size: 2rem;
+  line-height: 1.1;
+  letter-spacing: -0.04em;
+}
+
+h5 {
+  line-height: 1.1;
+  font-size: 1.777rem;
+}
+
+h6 {
+  line-height: 1.1;
+  font-size: 1.333rem;
+}
+
+small,
+sup,
+sub {
+  font-size: 0.75rem;
+}
+
+blockquote {
+  margin-left: 1rem;
+  font-style: italic;
+}
+
+img {
+  border-radius: var(--rounded);
+  max-width: 100%;
+}
+article {
+  & ul {
+    list-style: disc;
+    padding-left: 1rem;
+
+    & li + li {
+      margin-top: 0.4em;
+    }
+  }
+
+  & ol {
+    list-style: decimal;
+    padding-left: 1rem;
+
+    & li + li {
+      margin-top: 0.4em;
+    }
+  }
+}
+
+pre {
+  padding: var(--padding);
+}
+
+table {
+  margin-bottom: 1rem;
+}
+
+table,
+tbody,
+th,
+td,
+tr,
+caption {
+  display: block;
+  text-align: left;
+}
+
+tr,
+caption {
+  margin-bottom: 0.625em;
+}
+
+caption {
+  display: block;
+  font-size: 0.75em;
+  font-style: italic;
+}
+
+thead {
+  display: block;
+  border: none;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+tbody {
+  border: 1px solid var(--color-accent);
+  padding: var(--padding);
+}
+
+sup {
+}
+
+sub {
+}
+
+section.footnotes p {
+  display: inline;
+}
 
 img {
   border-radius: var(--rounded);
