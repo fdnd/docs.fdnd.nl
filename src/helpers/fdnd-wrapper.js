@@ -19,6 +19,7 @@ export default function fdndWrap() {
           h(
             'button.dropdown__title',
             {
+              id: 'paragraph-button',
               type: 'button',
               'aria-expanded': 'false',
               'aria-controls': 'paragraph-dropdown',
@@ -48,6 +49,7 @@ export default function fdndWrap() {
               h(
                 'button.dropdown__title',
                 {
+                  id: 'document-button',
                   type: 'button',
                   'aria-expanded': 'false',
                   'aria-controls': 'document-dropdown',
@@ -76,9 +78,13 @@ export default function fdndWrap() {
           )
         ),
         h('div.settings', [
-          h('button', { id: 'theme', 'aria-pressed': 'false', disabled: true }, h('span', 'Thema')),
-          h('button', { id: 'discussion', 'aria-pressed': 'false', disabled: true }, h('span', 'Discussies')),
-          h('button', { id: 'changes', 'aria-pressed': 'false', disabled: true }, h('span', 'Wijzigingen')),
+          h('button.theme', { id: 'theme', 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Thema')),
+          h(
+            'button.discussion',
+            { id: 'discussion', 'aria-pressed': 'false', disabled: true },
+            h('span', 'Discussies')
+          ),
+          h('button.changes', { id: 'changes', 'aria-pressed': 'false', disabled: true }, h('span', 'Wijzigingen')),
         ]),
       ]),
       h('main', tree),
