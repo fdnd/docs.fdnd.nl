@@ -61,7 +61,7 @@ function scrollHandler() {
   const currentParagraph = passedParagraph[passedParagraph.length - 1]?.id
 
   if (currentParagraph !== undefined && currentParagraph !== lastParagraph) {
-    document.getElementById('paragraph-button').innerHTML =
+    document.getElementById('paragraph-button').firstChild.innerHTML =
       document.getElementById(currentParagraph).firstChild.textContent
     lastParagraph = currentParagraph
   }

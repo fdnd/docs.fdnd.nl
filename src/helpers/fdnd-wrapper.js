@@ -24,7 +24,7 @@ export default function fdndWrap() {
               'aria-expanded': 'false',
               'aria-controls': 'paragraph-dropdown',
             },
-            'Paragraaf'
+            h('span', 'Paragraaf')
           ),
           h('ul.dropdown__menu', { id: 'paragraph-dropdown' }, submenu),
         ]),
@@ -54,7 +54,7 @@ export default function fdndWrap() {
                   'aria-expanded': 'false',
                   'aria-controls': 'document-dropdown',
                 },
-                file.menu.find((item) => item.basename === file.basename).menuname
+                h('span', file.menu.find((item) => item.basename === file.basename).menuname)
               ),
               h(
                 'ul.dropdown__menu',
