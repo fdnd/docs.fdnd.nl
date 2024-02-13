@@ -193,13 +193,8 @@ header {
   /* Breadcrumb / dropdown */
   & nav {
     flex-grow: 1;
-    min-width: 0;
-
-    display: grid;
-    place-items: center left;
 
     & ul {
-      /* background: hotpink; */
       list-style: none;
       margin: 0;
       padding: 0;
@@ -208,42 +203,39 @@ header {
 
     & > ul {
       display: flex;
+      width: 100%;
       justify-content: flex-start;
 
       & > li {
-        flex: 1 1 auto;
-
         &.delimiter {
-          display: grid;
-          place-items: center;
-        }
-
-        & a,
-        & .dropdown__title {
-          text-decoration: none;
-          display: block;
           padding: var(--nav-padding);
         }
 
         & .dropdown__title {
-          color: var(--color-nav-text);
-          background: var(--color-nav-background);
+          display: flex;
+          flex-flow: row nowrap;
+          padding: var(--nav-padding);
           border: 0;
           border-radius: var(--rounded);
+          color: var(--color-nav-text);
+          background: var(--color-nav-background);
           font-size: 1rem;
           font-family: inherit;
-          min-width: 0;
 
           & span {
+            display: block;
+            text-align: left;
             overflow: hidden;
-            text-wrap: nowrap;
+            min-width: 0;
             text-overflow: ellipsis;
+            height: 1lh;
+            text-wrap: nowrap;
           }
 
           &#paragraph-button {
-            /* background: dodgerblue; */
-            min-width: 0;
-            overflow: hidden;
+            & span {
+              text-wrap: wrap;
+            }
           }
         }
       }
@@ -275,8 +267,10 @@ header {
       z-index: 99;
 
       & a {
-        color: var(--color-text);
         display: block;
+        padding: var(--nav-padding);
+        text-decoration: none;
+        color: var(--color-text);
 
         &:hover {
           text-decoration: underline;
@@ -472,6 +466,7 @@ section {
   & h4,
   & h5,
   & h6 {
+    text-wrap: balance;
     scroll-margin-top: calc(var(--gap) * 4.5);
 
     & a:first-of-type {
