@@ -23,7 +23,7 @@ Direct na het bijwonen van een checkpoint maakt de student daarvan verslag in ~~
 
 Studenten schrijven feedback in correct Nederlands.
 
-#### Feedback waarderen
+#### ~~Feedback waarderen~~
 
 ~~Als studenten feedback in Feedpulse hebben geschreven, dan lezen docenten dit aandachtig door en waarderen de inzet van iedere student op het niveau van gedragsindicatoren met een smiley. Deze smileys geven aan hoe de docent de inzet/activiteit/aanwezigheid van de student in betreffende periode ervaart. Deze waardering is geheel formatief en staat niet in relatie tot het assessment. Een voordeel van deze formatieve waardering is dat zowel studenten als docenten inzichtelijk hebben hoe het met de studiehouding van de student staat. Waar nodig kan dan bijgestuurd worden. Deze formatieve waardering is altijd een momentopname en kan per week/opdracht/sprint veranderen. Hieronder een grove indicatie voor het gebruik van smileys:~~
 

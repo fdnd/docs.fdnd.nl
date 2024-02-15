@@ -5,7 +5,7 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "reload-browser": "reload -v -b -w ./ -e now -d build",
+    "reload-browser": "reload -b -w ./ -e now -d build",
     "watch-src": "nodemon -e \"*\" --watch src --delay 150ms  --exec \"npm run build && touch .reload.now\"",
     "watch-docs": "nodemon -e \"*\" --watch docs --delay 150ms  --exec \"npm run build && touch .reload.now\"",
     "build": "node ./src/main.js",

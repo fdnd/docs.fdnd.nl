@@ -94,10 +94,13 @@ export default function fdndWrap() {
           h('h2', 'Help ons dit document te verbeteren!'),
           h(
             'p',
-            'Alle fdnd documenten zijn open source. Zie je iets wat verkeerd of onduidelijk is? Doe een pull-request.'
+            'Alle fdnd documenten zijn open source. Zie je iets wat verkeerd of onduidelijk is en weet je hoe je het zelf kunt aanpassen? Maak aanpassingen en doe een pull-request...'
           ),
           h('a.github', { href: 'https://github.com/fdnd/docs.fdnd.nl/blob/main/docs/' + file.basename }, 'Draag bij'),
-          h('p.copy', [h('span', '©'), ' Copyleft, all wrongs reversed.']),
+          h('p.copy', [
+            h('span', '©'),
+            ` Copyright 2020-${new Date().getFullYear()} FDND, this site including all content is distributed under the terms of the GNU General Public License.`,
+          ]),
         ])
       ),
     ]

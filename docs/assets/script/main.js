@@ -1,15 +1,16 @@
+// Theme switching
 const storageKey = 'theme-preference'
-const theme = { value: getColorPreference() }
+let currentTheme = getColorPreference()
 
 reflectPreference()
 
-document.querySelector('#theme').addEventListener('click', () => {
-  theme.value = theme.value === 'light' ? 'dark' : 'light'
+document.querySelector('button#theme').addEventListener('click', () => {
+  currentTheme = currentTheme === 'light' ? 'dark' : 'light'
   setPreference()
 })
 
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', ({ matches: isDark }) => {
-  theme.value = isDark ? 'dark' : 'light'
+  currentTheme = isDark ? 'dark' : 'light'
   setPreference()
 })
 
@@ -19,60 +20,73 @@ function getColorPreference() {
 }
 
 function reflectPreference() {
-  document.firstElementChild.setAttribute('data-theme', theme.value)
-  document.querySelector('#theme')?.setAttribute('aria-label', theme.value)
+  document.firstElementChild.setAttribute('data-theme', currentTheme)
+  document.querySelector('button#theme')?.setAttribute('aria-label', currentTheme)
 }
 
 function setPreference() {
-  localStorage.setItem(storageKey, theme.value)
+  localStorage.setItem(storageKey, currentTheme)
   reflectPreference()
 }
 
-// Scrolling functions
-const paragraphItems = Array.from(document.querySelectorAll('#paragraph-dropdown a'))
-const articleParagraphs = paragraphItems.map((item) => document.getElementById(decodeURI(item.hash).replace('#', '')))
+// Scroll functions
+const paragraphButton = document.querySelector('#paragraph-button > span'),
+  subnavLinks = Array.from(document.querySelectorAll('.subnav a')),
+  articleHeadings = subnavLinks.map((link) => document.getElementById(decodeURI(link.hash).replace('#', '')))
 
-const subnavItems = Array.from(document.querySelectorAll('.subnav a'))
-const articleItems = subnavItems.map((item) => document.getElementById(decodeURI(item.hash).replace('#', '')))
+let currentParagraph = null,
+  currentHeading = null,
+  ticking = false
 
-const delta = 5
+document.addEventListener('scroll', scrollHandler)
 
-let scrolled
-let lastItem
-let lastParagraph
-let lastScrollTop = 0
-
-window.addEventListener('scroll', () => {
-  scrolled = true
-})
-
-setInterval(() => {
-  if (scrolled) {
-    scrollHandler()
-    scrolled = false
+function scrollHandler(event) {
+  if (!ticking) {
+    ticking = true
+    window.requestAnimationFrame(() => {
+      checkScrollPosition(window.scrollY)
+      ticking = false
+    })
   }
-}, 200)
+}
 
-function scrollHandler() {
-  const scrollTop = window.pageYOffset || document.documentElement.scrollTop
+function checkScrollPosition(scrollPosition) {
+  const headings = getElementsAbove(articleHeadings, scrollPosition)
+  if (changeCurrentParagraph(getNearestElement(headings, 'H3'))) updateParagraphButton()
+  if (changeCurrentHeading(getLast(headings))) updateSubnav()
+}
 
-  // set text on paragraph button
-  const passedParagraph = articleParagraphs.filter((item) => item.offsetParent.offsetTop < scrollTop)
-  const currentParagraph = passedParagraph[passedParagraph.length - 1]?.id
+function getElementsAbove(elements, scrollPosition) {
+  return elements.filter((element) => element.offsetParent.offsetTop < scrollPosition)
+}
 
-  if (currentParagraph !== undefined && currentParagraph !== lastParagraph) {
-    document.getElementById('paragraph-button').firstChild.innerHTML =
-      document.getElementById(currentParagraph).firstChild.textContent
-    lastParagraph = currentParagraph
-  }
+function changeCurrentParagraph(newParagraph) {
+  if (currentParagraph == newParagraph) return false
+  currentParagraph = newParagraph
+  return true
+}
 
-  // highlight the correct toc item
-  const passedItems = articleItems.filter((item) => item.offsetParent.offsetTop < scrollTop)
-  const currentItem = passedItems[passedItems.length - 1]?.id
+function getNearestElement(elements, tagName) {
+  return elements.findLast((element) => element.tagName === tagName)
+}
 
-  if (currentItem !== undefined && currentItem !== lastItem) {
-    document.querySelector(`.subnav a[href$='#${lastItem}']`)?.classList.remove('active')
-    document.querySelector(`.subnav a[href$='#${currentItem}']`)?.classList.add('active')
-    lastItem = currentItem
-  }
+function updateParagraphButton() {
+  paragraphButton.innerHTML = currentParagraph?.firstChild.textContent || 'Paragraaf'
+}
+
+function changeCurrentHeading(newHeading) {
+  if (currentHeading == newHeading) return false
+  currentHeading = newHeading
+  return true
+}
+
+function getLast(elements) {
+  return elements.at(-1)
+}
+
+function updateSubnav() {
+  subnavLinks.forEach((link) => {
+    link.classList.remove('active')
+    if (decodeURI(link.hash).replace('#', '') === currentHeading?.id) link.classList.add('active')
+  })
 }
