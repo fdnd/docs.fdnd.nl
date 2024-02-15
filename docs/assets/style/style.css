@@ -1,18 +1,22 @@
 :root {
   /* Color definitions */
   --color-blue: #050542;
+
   --color-green: #66e5bf;
+  --color-green-negative: #991a40;
   --color-green-oklch: oklch(83.97% 0.126 170.74);
+  --color-green-oklch-negative: oklch(44.95% 0.161 10.15);
+
   --color-purple: #a675f5;
+  --color-purple-negative: #598a0a;
   --color-purple-oklch: oklch(66.85% 0.186 298.97);
+  --color-purple-oklch-negative: oklch(57.63% 0.153 130.45);
+
   --color-white: #ffffff;
   --color-yellow: #fffc86;
+  --color-yellow-negative: #000379;
 
-  --angle: 42deg;
-  --gradient: linear-gradient(var(--angle), var(--color-purple) 0%, var(--color-green) 100%);
-  @media (color-gamut: p3) {
-    --gradient: linear-gradient(var(--angle) in oklch, oklch(66.85% 0.186 298.97) 0%, oklch(83.97% 0.126 170.74) 100%);
-  }
+  --gradient-angle: 42deg;
 
   /* Sizing definitions */
   --rounded: 0.5rem;
@@ -36,6 +40,15 @@
   --color-active: var(--color-yellow);
   --color-active-text: var(--color-blue);
   --svg-filter: invert(4%) sepia(84%) saturate(7069%) hue-rotate(246deg) brightness(64%) contrast(105%);
+
+  --gradient: linear-gradient(var(--gradient-angle), var(--color-purple) 0%, var(--color-green) 100%);
+  @media (color-gamut: p3) {
+    --gradient: linear-gradient(
+      var(--gradient-angle) in oklch,
+      var(--color-purple-oklch) 0%,
+      var(--color-green-oklch) 100%
+    );
+  }
 }
 [data-theme='dark'] {
   --color-text: var(--color-white);
@@ -50,6 +63,15 @@
   --color-active: var(--color-yellow);
   --color-active-text: var(--color-blue);
   --svg-filter: invert(92%) sepia(93%) saturate(32%) hue-rotate(252deg) brightness(105%) contrast(100%);
+
+  --gradient: linear-gradient(var(--gradient-angle), var(--color-purple-negative) 0%, var(--color-green-negative) 100%);
+  @media (color-gamut: p3) {
+    --gradient: linear-gradient(
+      var(--gradient-angle) in oklch,
+      var(--color-purple-oklch-negative) 0%,
+      var(--color-green-oklch-negative) 100%
+    );
+  }
 }
 
 *,
@@ -436,6 +458,30 @@ nav.subnav {
 footer {
   grid-area: footer;
   margin-top: auto;
+
+  & h2 {
+    /* Same as main > h5 */
+    line-height: 1.1;
+    font-size: 1.777rem;
+  }
+
+  & a.github {
+    display: inline-block;
+    margin: var(--gap) 0;
+    padding: var(--nav-padding);
+    border-radius: var(--rounded);
+    border: 1px solid var(--color-text);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--color-blue);
+      background: var(--color-yellow);
+    }
+  }
+
+  & p.copy {
+    margin-bottom: var(--gap);
+  }
 }
 
 /* DOCUMENT TEXT ITEMS */

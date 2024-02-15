@@ -50,7 +50,7 @@ Kom je een type-foutje tegen of wens je een inhoudelijke verandering? Je kunt ee
 
 ### Pull-requests
 
-Onze documenten staan in een open-source omgeving, zodoende staat het je vrij aanpassingen zelfstandig door te voeren. Als je verandering wilt kan je dat dus ook doen door een pull-request in te sturen. Zorg daarbij altijd voor een duidelijke beschrijving van de verandering. FDND neemt pull-requests zeer serieus, alle serieuze voorstellen worden door meerdere docenten bekeken en besproken. Je krijgt hoe dan ook reactie, of we jouw PR nou mergen of niet.
+Onze documenten staan in een open-source omgeving, zodoende staat het je vrij aanpassingen zelfstandig door te voeren. Als je verandering wilt kan je dat dus ook doen door een pull-request in te sturen. Zorg daarbij altijd voor een duidelijke beschrijving van de verandering. FDND neemt pull-requests zeer serieus, alle serieuze voorstellen worden door meerdere docenten bekeken en besproken.
 
 
 
