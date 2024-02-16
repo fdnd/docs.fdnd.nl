@@ -1,38 +1,41 @@
-// Theme switching
-const storageKey = 'theme-preference'
-let currentTheme = getColorPreference()
+// Settings button functionality, relies on localStorage
+reflectPreference('theme', getPreference('theme'))
+reflectPreference('changes', getPreference('changes'))
+reflectPreference('discussion', getPreference('discussion'))
 
-reflectPreference()
-
-document.querySelector('button#theme').addEventListener('click', () => {
-  currentTheme = currentTheme === 'light' ? 'dark' : 'light'
-  setPreference()
-})
+document.querySelector('button#theme').addEventListener('click', clickHandler)
+document.querySelector('button#changes').addEventListener('click', clickHandler)
+document.querySelector('button#discussion').addEventListener('click', clickHandler)
 
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', ({ matches: isDark }) => {
-  currentTheme = isDark ? 'dark' : 'light'
-  setPreference()
+  setPreference('theme', isDark ? 'dark' : 'light')
 })
 
-function getColorPreference() {
-  if (localStorage.getItem(storageKey)) return localStorage.getItem(storageKey)
-  else return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+function reflectPreference(setting, value) {
+  document.firstElementChild.setAttribute(`data-${setting}`, value)
+  document.querySelector(`button#${setting}`)?.setAttribute('aria-label', value)
 }
 
-function reflectPreference() {
-  document.firstElementChild.setAttribute('data-theme', currentTheme)
-  document.querySelector('button#theme')?.setAttribute('aria-label', currentTheme)
+function getPreference(setting) {
+  if (localStorage.getItem(`${setting}-preference`)) return localStorage.getItem(`${setting}-preference`)
+  else if (setting === 'theme') return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+  return false
 }
 
-function setPreference() {
-  localStorage.setItem(storageKey, currentTheme)
-  reflectPreference()
+function clickHandler(clickEvent) {
+  let options = clickEvent.target.id === 'theme' ? ['light', 'dark'] : ['true', 'false']
+  setPreference(clickEvent.target.id, getPreference(clickEvent.target.id) === options[0] ? options[1] : options[0])
+}
+
+function setPreference(setting, value) {
+  localStorage.setItem(`${setting}-preference`, value)
+  reflectPreference(setting, value)
 }
 
 // Scroll functions
 const paragraphButton = document.querySelector('#paragraph-button > span'),
   subnavLinks = Array.from(document.querySelectorAll('.subnav a')),
-  articleHeadings = subnavLinks.map((link) => document.getElementById(decodeURI(link.hash).replace('#', '')))
+  headings = subnavLinks.map((link) => document.getElementById(decodeURI(link.hash).replace('#', '')))
 
 let currentParagraph = null,
   currentHeading = null,
@@ -51,13 +54,13 @@ function scrollHandler(event) {
 }
 
 function checkScrollPosition(scrollPosition) {
-  const headings = getElementsAbove(articleHeadings, scrollPosition)
-  if (changeCurrentParagraph(getNearestElement(headings, 'H3'))) updateParagraphButton()
-  if (changeCurrentHeading(getLast(headings))) updateSubnav()
+  const passedHeadings = getElementsAbove(headings, scrollPosition)
+  if (changeCurrentParagraph(getNearestElement(passedHeadings, 'H3'))) updateParagraphButton()
+  if (changeCurrentHeading(getLast(passedHeadings))) updateSubnav()
 }
 
 function getElementsAbove(elements, scrollPosition) {
-  return elements.filter((element) => element.offsetParent.offsetTop < scrollPosition)
+  return elements.filter((element) => element.offsetParent?.offsetTop < scrollPosition)
 }
 
 function changeCurrentParagraph(newParagraph) {

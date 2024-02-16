@@ -78,13 +78,9 @@ export default function fdndWrap() {
           )
         ),
         h('div.settings', [
-          h('button.theme', { id: 'theme', 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Thema')),
-          h(
-            'button.discussion',
-            { id: 'discussion', 'aria-pressed': 'false', disabled: true },
-            h('span', 'Discussies')
-          ),
-          h('button.changes', { id: 'changes', 'aria-pressed': 'false', disabled: true }, h('span', 'Wijzigingen')),
+          h('button#theme', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Thema')),
+          h('button#discussion', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Discussies')),
+          h('button#changes', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Wijzigingen')),
         ]),
       ]),
       h('main', tree),
