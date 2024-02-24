@@ -330,9 +330,6 @@ header {
   }
   @media (min-width: 32rem) {
     .settings {
-      /* position: absolute;
-      right: var(--gap); */
-
       display: grid;
       gap: calc(var(--gap) / 4);
       place-items: center;
@@ -348,7 +345,6 @@ header {
         touch-action: manipulation;
         -webkit-tap-highlight-color: transparent;
         outline-offset: 5px;
-        /* transition: 0.2s; */
 
         & span {
           position: absolute;
@@ -390,6 +386,20 @@ header {
           float: right;
         }
       }
+      & [aria-label='false'] {
+        &:before {
+          content: '0';
+          float: left;
+        }
+      }
+      & [aria-label='true'] {
+        background: var(--color-active);
+
+        &:before {
+          content: '1';
+          float: right;
+        }
+      }
 
       & :disabled {
         opacity: 0.4;
@@ -399,6 +409,30 @@ header {
         }
       }
     }
+  }
+}
+
+/* Wijzigingen (changes) invisible */
+[data-changes='false'] {
+  & del {
+    display: none;
+  }
+  & h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6,
+  & li {
+    &:has(del) {
+      display: none;
+    }
+  }
+}
+
+/* Discussies (discussion) invisible */
+[data-discussion='false'] {
+  & a.discussion-link {
+    display: none;
   }
 }
 
@@ -493,19 +527,6 @@ section {
   border-right-style: solid;
   border-right-color: transparent;
   max-width: 34rem;
-  transition: 0.2s;
-
-  &:has(.icon-discussion) {
-    border-right-color: var(--color-text);
-  }
-  &:has(.icon-discussion:hover),
-  &:has(.icon-discussion:focus),
-  &:has(.icon-new-discussion:hover),
-  &:has(.icon-new-discussion:focus) {
-    background: var(--color-active);
-    color: var(--color-active-text);
-    border-right-color: var(--color-active-text);
-  }
 
   & h2,
   & h3,
@@ -536,6 +557,7 @@ section {
       }
     }
 
+    /* Discussions (if visible) */
     & a.discussion-link {
       position: absolute;
       top: -0.2rem;
@@ -565,6 +587,21 @@ section {
       & .icon-new-discussion::before {
         background-image: url('../img/message-plus.svg');
       }
+    }
+  }
+  &:has(.icon-discussion) {
+    border-right-color: var(--color-text);
+  }
+  &:has(.icon-discussion:hover),
+  &:has(.icon-discussion:focus),
+  &:has(.icon-new-discussion:hover),
+  &:has(.icon-new-discussion:focus) {
+    background: var(--color-active);
+    color: var(--color-active-text);
+    border-right-color: var(--color-active-text);
+
+    & a:after {
+      filter: none !important;
     }
   }
 }
@@ -603,7 +640,7 @@ section + section {
 
 main a,
 footer a {
-  color: var(--color-text);
+  color: currentColor;
   white-space: inherit;
 
   &:not(.discussion-link) {
@@ -823,11 +860,4 @@ section.footnotes p {
 img {
   border-radius: var(--rounded);
   max-width: 100%;
-}
-
-p,
-li {
-  &:has(> del) {
-    display: none;
-  }
 }
