@@ -37,7 +37,7 @@ export default function fdndWrap() {
           h('h1', [
             h('abbr', { title: 'Frontend Design & Development' }, h('span', 'FDND')),
             { type: 'text', value: ' ' },
-            h('span', 'Docs'),
+            h('span', { 'data-title': file.menu.find((item) => item.basename === file.basename).menuname }, 'Docs'),
           ]),
         ]),
         h(
