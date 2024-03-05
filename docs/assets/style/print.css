@@ -39,13 +39,23 @@ main {
   float: none;
 }
 
+nav.subnav {
+  page-break-before: always;
+  font-family: Open Sans, sans-serif;
+}
+nav.subnav::before {
+  display: block;
+  content: 'Inhoudsopgave';
+  font-size: 2rem;
+  font-weight: bold;
+}
 nav.subnav ol {
   padding: 0;
   list-style-position: inside;
 }
 
 li.toc-item::marker {
-  content: counters(list-item, '.') '. ';
+  content: counters(list-item, '.') ': ';
 }
 
 ol.toc-level-2,
@@ -65,6 +75,15 @@ img {
 a {
   color: currentColor;
   text-decoration: none;
+}
+
+p a[href^="https://"]:after
+{
+  word-wrap: break-word;
+  content: ' (' attr(href) ')';
+}
+a {
+  color: #000;
 }
 
 @page {

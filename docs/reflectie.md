@@ -74,6 +74,7 @@ Inzet 2e jaars in begeleiding van 1e jaars noemen.
 ### Vrije ruimte
 
 Alle opties opsommen en individuele studenten laten reflecteren op hoe dat gaat
+Mogelijkheden opsommen, learnings op een rij, ervaring van studenten en docenten.
 
 #### Stage
 10 of 20 weken
@@ -87,15 +88,28 @@ Op bachelorniveau, afstuderen in je eigen agency!
 
 ### Afstudeerprogramma
 
+Afstuderen bij een bedrijf
+Eigen opdracht
+Begeleiding
+
 Verwijzen naar Standaard 4.
 
 ### Organisatiestructuur
 
 Sociocratisch model evalueren, verwijzen naar organisatie document
 
+agile inrichting
+s30 structuur, 360º en Retrospect beschrijven
+
 ### Studentenbegeleiding
 
 Evalueren met de opleidingscommissie. Verwijzen naar onderwijs document
+
+Cijfers uit de NSE en blokenquete, stukje van de decaan
+
+### Studiekeuzecheck
+
+Verplichting is afgeschaft, we merken dat meeloopdagen interessanter zijn dan een georganiseerde middag. Wss helemaal vervangen voor meeloopdagen.
 
 ### Diversiteit en differentiatie
 
@@ -119,11 +133,100 @@ _‌De opleiding beschikt over een adequaat systeem van toetsing._
 
 De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor de inrichting van het toetsprogramma en voor het proces van toetsing. Ook de kwaliteit van de toetsing wordt in dit toetsbeleid geborgd. Dit beleid is voor de opleiding Frontend Design & Development (FDND) uitgewerkt in het document ‘Didactiek en toetsing’ en de Onderwijs- en Examenregeling van de opleiding. In het toetsbeleid zijn de twee functies van toetsen: stimuleren van het leerproces en beoordelen, onlosmakelijk met elkaar verbonden en de validiteit, betrouwbaarheid, transparantie en kwaliteit van toetsen zijn geborgd.
 
+Andere opleidingen bij FDND komen kijken om te leren hoe wij met toetsing omgaan. Desondanks denken wij dat het beter kan. Toetsen kost tijd, liever bezig met inhoudelijke feedback dan het invullen van formulieren. We zoeken naar een juiste balans tussen nakijktijd/systemen en aandacht voor studenten.
+
 ### Vormgeving van de toetsing
+
+Verhouden tot TNO dossier, huidige vorm beschrijven bij kopje onderwijs! (link) Aantal highlights noemen.
 
 Moeilijk, zoekend naar de perfecte feedbackstructuur, verschillende invalshoeken langs: checkpoint hell, feedpulse + ontwikkeldossier en zware assessments, checkpoint hell + portflow assessments nieuwe stijl, nieuwe inrichting portflow + checkpoints
 
+### De twee functies van toetsing
+
+Formatief vs summatief, de mid- en endterm momenten zijn duidelijk summatief. Retrospect en reviews zijn formatief. De checkpoints hangen er een beetje tussen en we zijn ons wel eens verloren in het ‘afvinken’, wat we juist niet willen. We zoeken naar een juiste vorm van formatieve feedback waarbij het zweet op de juiste ruggen staat én de resultaten valide en betrouwbaar zijn. Transparantie is evident.
+
+### Onze toetsen zijn valide
+
+De constructive alignment met de assessmentdriehoek (A. van Berkel) werkt naar behoren. Gerichtheid van deel- en leertaken, formatieve en summatieve feedback en beoordeling zijn altijd gericht op de niveaumatrix. Oplopende complexiteit is ingebouwd in het curriculum, te zien aan deel- en leertaken.
+
+### Onze toetsen zijn betrouwbaar
+
+Het assessment heeft een vaste structuur (zie onderwijs) en is ingericht aan de hand van de niveaumatrix. 
+
+Zoals overeengekomen met onze excie is voorwaarde voor assesseren het volgen van een workshop. Daarnaast wordt een beginnend assessor altijd ingedeeld met een ervaren assessor. We hebben een handleiding/handreiking voor de flow van het gesprek. Na een aantal keer oefenen als 2e assessor mag een beginnend assessor een gesprek leiden. Daarnaast kalibreren squad-leaders voorafgaand aan assessments zodat gespreken op eenduidige wijze worden voorbereid.
+
+Omdat doorlopend feedback gegeven wordt aan de hand van de niveaumatrix welke ook als summatief beoordelingsinstrument gebruikt wordt weet de student goed waar deze aan toe is.
+
+BAS op 45 EC is prima, studenten die een BAS ontvangen tonen weinig tot geen inzet. Bij bijzondere omstandigheden maakt de excie uitzondering. Overigens is in de OER opgenomen dat toelating bij excie aangevraagd kan worden.
+
+### Onze toetsen zijn transparant
+
+Zowel formatieve als summatieve feedback is gericht op de jaarlijks vastgestelde niveaumatrix en wordt vastgelegd in Portflow. Portflow is ingericht op basis van de criteria en wordt gebruikt als bewijslast voor beoordeling. Het beoordelingsformulier is digitaal gemaakt, dit heeft als voordeel archivering en snelheid. Studenten zijn nu direct op de hoogte van hun beoordeling en ontvangen feedback.
+
+Bij de kickoff van een semster en de sprintplanning wordt de gerichtheid van respectivelijk semester en sprint besproken. Studenten
+
+### Organisatie en kwaliteitsborging van het toetsprogramma
+
+Jaarlijkse OER, op details mbt. nieuwe organisatiebrede richtlijnen na inhoudelijk niet hoeven bijstellen.
+
+Borging kwaliteit van toetsing:
+- Resultaten worden besproken per semester, logischer om het mee te nemen in algehele onderwijsevaluatie.
+- Niveaumatrix wordt jaarlijks bekritiseerd en bijgesteld waar nodig (zie historie op GitHub)
+- Doorlopend collegiale consultatie, we spreken over cursussen en scholing
+- OAR blijkt niet zo systematisch, we praten doorlopend met bedrijven en nemen inzichten mee naar de opleiding. Validering, actualisering en borging eindniveau wordt gedaan dmv. vragen aan stagebedrijven, maar 2024 is pas de 1e échte brede ronde stages (38 studenten).
+- Borgingsagenda excie, inmiddels ook toetscie
+
+### Kwaliteitsborging door examencommissie
+
+Stuk geschreven door de excie (of toetscie?), reflecterend op Standaard 3 in het TNO dossier.
 
 ## Standaard 4: Gerealiseerde leerresultaten
 
 _De opleiding toont aan dat de beoogde leerresultaten zijn gerealiseerd._
+
+Uit NVAO stuk:
+> Het realiseren van de beoogde leerresultaten blijkt uit de uitkomsten van toetsen, de eindwerken en de wijze waarop afgestudeerden in de praktijk of in een vervolgopleiding functioneren.
+
+> **Toelichting op de beoordeling van gerealiseerde leerresultaten**\
+> Als onderdeel van de beoordeling van gerealiseerde leerresultaten bestudeert het panel een ruime selectie eindwerken. Hieronder zijn een aantal richtlijnen opgenomen voor de selectie en de beoordeling om een evenwichtige selectie en gelijke behandeling te waarborgen.
+> In de zelfevaluatie beschrijft de opleiding hoe zij de realisatie van de gerealiseerde leerresultaten heeft getoetst. Dat kan aan de hand van diverse producten of proeven die hier worden samengenomen onder het begrip eindwerk. Een niet limitatieve opsomming van eindwerken is: de eindscriptie, een portfolio, een beroepsproduct, een (reeks van) tentamen(s), een artikel of een artistieke prestatie of een combinatie hiervan. Het panel richt zich op de producten of toetsen waarmee de studenten de opleiding afsluiten.
+
+> **Selectie van eindwerken**\
+> Om de gerealiseerde leerresultaten te beoordelen, selecteert en bestudeert het panel recente eindwerken van ten minste 15 afgestudeerden van de opleiding. De opleiding verschaft het panel hiertoe een lijst met studentnummers met daarbij de informatie die nodig is om een adequate selectie te maken. In het geval de opleiding minder dan 15 afgestudeerden had in de te beoordelen periode, bestudeert het panel alle eindwerken. 
+
+> De selectie kent een evenwichtige verdeling over voldoende, goede en zeer goede eindwerken. De selectie is zo gekozen dat het panel hiermee een onderbouwd oordeel kan vellen over de hantering van de cesuur tussen voldoende en onvoldoende door de opleiding, over het algemene niveau van de eindwerken, en over de becijfering van de eindwerken en de daarbij gehanteerde methodiek.
+
+> De selectie is voldoende dekkend ten aanzien van varianten, locaties, specialisaties, afstudeertrajecten en programma’s, zodat mogelijke kwaliteitsverschillen daartussen kunnen worden vastgesteld. Hiervoor kan het panel besluiten het aantal te beoordelen eindwerken op te hogen.
+
+> **Uitvoering van de beoordeling**\
+> De beoordeling door het panel is erop gericht een oordeel te kunnen geven over de realisatie van de leerresultaten, de wijze waarop de beoordeling tot stand is gekomen en de manier waarop de opleiding een correcte beoordeling van eindwerken borgt. De opleiding stelt het panel in de gelegenheid om zich voorafgaand aan het locatiebezoek een oordeel te vormen over deze eindwerken en de beoordeling daarvan door de opleiding. Het panel heeft de eindwerken voorafgaand aan het vooroverleg bestudeerd en de bevindingen onderling gedeeld. In het geval een panellid de beoordeling van een eindwerk in twijfel trekt, bestudeert ten minste één ander panellid ook dit eindwerk. Het panel heeft de mogelijkheid om meer eindwerken op te vragen om een beter beeld te krijgen of de kwaliteit van de eindwerken voldoende is. In bijzondere gevallen kan het panel de eindwerken ook tijdens het locatiebezoek bestuderen, bijvoorbeeld in het geval van uitvoerende kunsten.
+> Tijdens het locatiebezoek spreekt het panel met beoordelaars/examinatoren van de opleiding om een goed inzicht te krijgen in de wijze waarop de beoordeling tot stand is gekomen en de realisatie van het niveau wordt bewaakt.
+
+### Uitkomsten van toetsen
+
+### Eindwerken
+
+#### Cohort 2022-23
+
+Alle afstudeerwerken…
+
+Screenshot en beschrijving van een selectie eindopdrachten en links naar dossiers (achter login).
+
+#### Cohort 2023-24
+
+Selectie afstudeerwerken
+
+Screenshot en beschrijving van een selectie eindopdrachten en links naar dossiers (achter login).
+
+### Alumni aan het woord
+
+[intro]
+
+#### Cohort 2022-23
+
+Boudewijn, Daan, Daphne, Finn, Justin, Matthijs, Shauri
+
+#### Cohort 2023-24
+
+wordt tzt. aangevuld met nieuwe inzichten.
+
