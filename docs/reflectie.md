@@ -141,6 +141,10 @@ Verhouden tot TNO dossier, huidige vorm beschrijven bij kopje onderwijs! (link) 
 
 Moeilijk, zoekend naar de perfecte feedbackstructuur, verschillende invalshoeken langs: checkpoint hell, feedpulse + ontwikkeldossier en zware assessments, checkpoint hell + portflow assessments nieuwe stijl, nieuwe inrichting portflow + checkpoints
 
+We hebben een bepaalde gerichtheid, de niveaumatrix. Die eisen, vertellen we dat en dwingen we dat vervolgens af (en hoe dan) of laten we dit open en stimuleren we ze hier zelf uit te komen (en hoe dan).
+
+Hoe houd je dit organiseerbaar… misschien is het niet erg om in S1 te drillen, of moeten we ons er juist niet mee bemoeien..
+
 ### De twee functies van toetsing
 
 Formatief vs summatief, de mid- en endterm momenten zijn duidelijk summatief. Retrospect en reviews zijn formatief. De checkpoints hangen er een beetje tussen en we zijn ons wel eens verloren in het ‘afvinken’, wat we juist niet willen. We zoeken naar een juiste vorm van formatieve feedback waarbij het zweet op de juiste ruggen staat én de resultaten valide en betrouwbaar zijn. Transparantie is evident.
