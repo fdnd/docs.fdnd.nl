@@ -1,16 +1,18 @@
 # Body of Knowledge, Skills and Attitude
 
-Dit document beschrijft het corpus en de gerichtheid van de opleiding Frontend Design & Development. In hoger onderwijs wordt dit de body of knowledge skills and attitude (BOKSA) genoemd.
+Dit document beschrijft de gerichtheid en het corpus van de opleiding Frontend Design & Development. In hoger onderwijs wordt dit de body of knowledge skills and attitude (BOKSA) genoemd.
 
 Allereerst wordt beschreven wat wij verstaan onder de term ‘frontender’ omdat dit verhelderd waar wij voor opleiden. Daarna wordt aan de hand van de development lifecycle (DLC) gepoogd de BOKSA zo volledig mogelijk in kaart te brengen. Vanzelfsprekend en geheel in lijn met de aard van het vakgebied, is dit een levend document wat doorlopend aan verandering onderhevig is.
 
 ## De Frontender
 
-Wat is een frontender?
-- [Defining what a front-end developer is](https://css-tricks.com/getting-nowhere-job-titles/)
-- [What makes a good front-end developer?](https://css-tricks.com/what-makes-a-good-front-end-developer/)
-- [The great Divide](https://css-tricks.com/the-great-divide/) - Brad Frost schrijft over de 'divide' in front-end development. Frontend Dev vs. Frontend Design vs. Full Stack Development.
-- [front-of-the-front-end and back-of-the-front-end web development](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/) - Een vervolg over beroepen en werkzaamheden van Frontend - UI - Backend beroepen. 
+Het is lastig om te beschrijven wat een frontender precies doet. Er is geen algemeen geaccepteerde en gebruikte functietitel die specifiek gericht is op vaardigheden in HTML, CSS en JS. Er zijn in het vakgebied wel wat suggesties — voorbeelden zijn: CSS/HTML Developer, Frontend Developer, Frontend Engineer, Frontend Web Designer, UI Developer, Mobile Frontend Developer, Frontend SEO Expert, Frontend Toegankelijkheidsexpert, Frontend DevOps, Frontend Tester — maar deze hebben allemaal hun eigen beperkingen ([Cohier, 2017](https://css-tricks.com/getting-nowhere-job-titles/)).
+
+Zoals overal binnen de ICT vind ook binnen het frontend vakgebied *arbeidsdeling* plaats. Enerzijds zijn er frontenders die zich meer richten op HTML, CSS en gebruikerservaring. Deze *front-of-the-front-end* ontwikkelaars zijn verantwoordelijk voor de vormgeving en het uiterlijk van een website door middel van HTML, CSS en presentatie JavaScript. Anderzijds zijn er frontenders die zich focussen op JavaScript, frameworks en tools. Deze *back-of-the-front-end* ontwikkelaars schrijven de bedrijfslogica en functionaliteit van een website met JavaScript door bijvoorbeeld gegevens van API's op te halen en weer te geven. ([Frost, 2021](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)) Deze twee groepen lopen steeds meer uit elkaar door de groeiende complexiteit van JavaScript. Dit ligt ten grondslag aan eerder beschreven onduidelijkheid over functiebeschrijvingen en waardering van vaardigheden. ([Cohier, 2019](https://css-tricks.com/the-great-divide/)) FDND omarmt en bedient beide specialisaties omdat ze elkaar aanvullen en blijft daarmee gericht op het geheel.
+
+Een goede frontender wordt gekenmerkt door een aantal belangrijke eigenschappen. Vooraleerst beschikt deze over sterke technische vaardigheden op het gebied van HTML, CSS en JavaScript en ontwerpen voor het web. Heel belangrijk is gedegen kennis op het gebied van gebruiksvriendelijkheid en toegankelijkheid. Een frontender kan zich inleven in de gebruiker en stelt deze centraal in het ontwerp- en ontwikkelproces. Daarbovenop heeft een frontender uitstekende communicatieve vaardigheden en lost met een team op een constructieve manier problemen op. Tenslote blijven frontenders voortdurend bijleren gezien de snelle ontwikkelingen in het vak. ([Cohier, 2018](https://css-tricks.com/what-makes-a-good-front-end-developer/))
+
+
 - [The spectrum of design roles in 2018](https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966) Op UX-collective worden verschillende Designer rollen neest elkaar gezet. 
 
 - [Concept to Code, code literay](https://uxmag.com/articles/concept-to-code) Code is the material that breathes life into a user experience, so we ought to get familiar with it. The enthusiast. The mash-up artist. The inventor. The wizard.

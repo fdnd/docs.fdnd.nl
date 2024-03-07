@@ -6,38 +6,62 @@ Aan de hand van het dossier ten behoeve van de Toets Nieuwe Opleiding, daar staa
 
 _De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen._
 
-De opleiding Frontend Design & Development (FDND) is samen met het werkveld ontwikkeld en ook bij het aanbieden van onderwijs wordt het bedrijfsleven ingezet. Deze samenwerking draagt aanzienlijk bij aan onze visie op het beroep die ten grondslag ligt aan onze leerresultaten.
+De opleiding Frontend Design & Development (FDND) is samen met het werkveld ontwikkeld en bij het aanbieden van onderwijs wordt het bedrijfsleven op verschillende vlakken ingezet. Deze samenwerking draagt doorlopend bij aan onze visie op het beroep welke ten grondslag ligt aan onze leerresultaten.
 
 ### Visie op het beroep
 *Reflectie op ontwikkelingen in het vakgebied*
 
-In hoeverre is het frontend vakgebied veranderd in de afgelopen 3 jaren, welke grote technologische ontwikkelingen omarmen wij
+In hoeverre is het frontend vakgebied veranderd in de afgelopen 3 jaren, welke grote technologische ontwikkelingen omarmen wij.
+
+Komst van ML/AI en invloed op junior frontend functies, inzichten ophalen tijdens strategiedagen.
+
+Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders.
 
 ### Frontend op Ad niveau
 
+Verwijzing naar opgesteld verschil niveau 5/6/7 uit de TNO.
+
 Vooralsnog enige Ad Frontend, dus wij schrijven het landelijk profiel. Zitten te springen om partnerschap, via Chain 5 contact gelegd met Pixel Antwerpen waar 2 practoraten Web-development en Web-design aan verbonden zijn, eerste overleg moet nog plaats vinden.
 
-Terugblik op de verhouding tot de profielen, voldoen ze nog? HBO-ICT model, CMD model, Europees digitaal passport etc..
+Terugblik op de verhouding tot de profielen, voldoen ze nog? HBO-ICT model, CMD model, Europees digitaal passport etc.
 
-Geluiden over ontwikkeling Ad Frontend aan de HAN, LAdO!!
+Geluiden over ontwikkeling Ad Frontend aan de HAN, wellicht de oprichting van een LAdO!!
 
 ### Leerresultaten
 
-Verandering in de niveaumatrix en reden van veranderen. Manier van veranderen ook bespreken.
+Manier van veranderen uitleggen, jaarlijkse cyclus.
+
+Veranderingen in de niveaumatrix en reden van veranderen uitleggen.
+
+Ervaring met de leerresultaten zoals die zijn opgesteld.
+
+Student aan het woord? Zoe (OC) en Stefan
+
+Docent aan het woord? Krijn en Dorien
 
 ### Internationaal perspectief
 
-Gastsprekers, bronnen.. spelen met het idee van een internationaal opengestelde klas.
+Gastsprekers, bronnen.. spelen met het idee van een internationaal opengestelde klas, native engelse SL, maar vooralsnog gerichtheid op metropoolregio Amsterdam.
 
 ### Na afronding
 
-Cijfers, reactie van stagebedrijven, reflectie vanuit de 1e lichting.
+Statistieken
+
+Reactie van stagebedrijven, citaten
+
+Reflectie vanuit de 1e lichting, Daan/Justin en Finn
+
+Reflectie vanuit huidige cohort, Ralph, Duneya
 
 ### Aansluiten bij de actualiteit
 
 Veranderingen in het vakgebied en hoe die omarmd worden binnen de opleiding
 
-5 voorbeelden
+Voorbeelden, bijv caroussel van Krijn obv artikel wat verscheen..
+
+Reactie van tijdelijke co-teacher, Martijn
+
+Reactie van (stage)bedrijven, obv excel.
 
 ## Standaard 2: De onderwijs­leeromgeving
 
@@ -47,25 +71,44 @@ De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige 
 
 ### Didactisch concept
 
-Wij zijn blij HEAL structuur uitleggen. Studenten zijn blij, blokenquetes, NSE resultaten. Opleidingscommissie aan het woord.
+Wij zijn blij, wijze van evalueren HEAL structuur uitleggen. 
+
+Studenten zijn overwegend blij, blokenquetes, NSE resultaten.
+
+Student aan het woord
+- Ruben (1D), Rosa (2A)
 
 ### Praktijkvraagstukken in een rijke leeromgeving
 
-Is gelukt en komt goed uit de verf, testimonials van opdrachtgevers en challenges (s6/s12).
+> Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever.   Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. <cite>Opmerking van een student in de blokenquete</cite>
+
+Is gelukt en komt goed uit de verf, testimonials van opdrachtgevers en mini-meesterproef (s6/s12).
+- Vervoersregio (opdrachtgever)
+- Lars van Funda (mini-meesterproef)
+
+Studenten aan het woord
+- Sammy (1D), Tristan (2B)
 
 ### Studenten aan het roer
 
-Opleidingscommissie en studenten vragen om feedback aan de hand van de paragraaf.
+Gerichtheid, afnemende sturing, toenemende complexiteit
 
 ### Toetsing als leermoment
 
 Evaluatie op toetsing uit de blokenquetes en gesprek met studenten uit de verschillende jaren.
 
-Lukt het motiveren in alle gevallen?
+Kritische noot: Lukt het motiveren in alle gevallen?
 
 ### Vormgeving van de opleiding
 
-Opbouw werkt prima, paar aanpassingen op inhoud, die even bespreken met het waarom.
+Opbouw werkt prima, heel flexibel inspelen op leerbehoefte van studenten. 
+
+S06W2-03-Code Design-review: Inzet code/design-review (die staan er al) om functie in het leerproces van studenten te voorzien, even de focus op HTML omdat we daar wat hiaten zien.
+
+Paar aanpassingen op inhoud, die even bespreken met het waarom.
+- Hernoemen/hereiken gerichtheid sprints.. weeffoutjes, The campaign > Look & Feel (over huisstijl)
+- Verandering toetsing
+- 
 
 Insteek langs gaan, wat werkt wel en wat niet…
 
@@ -77,14 +120,34 @@ Alle opties opsommen en individuele studenten laten reflecteren op hoe dat gaat
 Mogelijkheden opsommen, learnings op een rij, ervaring van studenten en docenten.
 
 #### Stage
+
 10 of 20 weken
+
+Ervaring Milan
+
+Stagebegeleider aan het woord (Martijn?)
 
 #### Schakelprogamma CMD
 
+Franciska
+
+Shauri
+
+Eliza
+
 #### Minor Ondernemen
+
 Op bachelorniveau, afstuderen in je eigen agency!
 
+Rutger
+
+Rosa
+
 #### Blok les bij een andere FDMCI Ad
+
+Ervaring Michael (CS)
+
+Ervaring Fatih
 
 ### Afstudeerprogramma
 
@@ -98,8 +161,7 @@ Verwijzen naar Standaard 4.
 
 Sociocratisch model evalueren, verwijzen naar organisatie document
 
-agile inrichting
-s30 structuur, 360º en Retrospect beschrijven
+Agile inrichting: s30 meetings, 360º en Retrospect beschrijven
 
 ### Studentenbegeleiding
 
@@ -117,15 +179,19 @@ Speerpunt van de HvA, evalueren met harde cijfers instroom, achtergrond etc. doc
 
 ### Taal
 
-Moeilijk punt, wij verwijzen door maar het is soms echt heftig ondermaats. Wat vinden studenten hier van?
+Moeilijk punt, wij verwijzen door maar het is soms echt heftig ondermaats. 
+
+Wat vinden studenten hier van?
 
 ### Opleidingscommissie
 
-Evalueren of die werkt.
+Evalueren of die werkt? Vraag aan OC specifiek…
 
 ### Personeel
 
-Inzet co-teachers, uren zoals bij elke HBO opleiding onder druk, 1:25 is beoogd uitgangspunt. Verhouding OP/OBP is prima..
+Inzet squad-leaders, aanspreekpunt voor studenten
+
+Inzet co-teachers, uren zoals bij elke HBO opleiding onder druk, 1:25 is beoogd uitgangspunt. Verhouding OP/OBP werkt prima.
 
 ## Standaard 3: Toetsing
 
@@ -214,11 +280,11 @@ Uit NVAO stuk:
 
 Alle afstudeerwerken…
 
-Screenshot en beschrijving van een selectie eindopdrachten en links naar dossiers (achter login).
+Screenshot en beschrijving van de eindopdrachten en links naar dossiers (achter login).
 
 #### Cohort 2023-24
 
-Selectie afstudeerwerken
+Selectie afstudeerwerken…
 
 Screenshot en beschrijving van een selectie eindopdrachten en links naar dossiers (achter login).
 
