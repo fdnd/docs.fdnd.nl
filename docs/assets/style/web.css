@@ -431,7 +431,13 @@ header {
 
 /* Discussies (discussion) invisible */
 [data-discussion='false'] {
+  section:has(.icon-discussion) {
+    border-right-color: transparent;
+  }
   & a.discussion-link {
+    display: none;
+  }
+  section aside {
     display: none;
   }
 }
@@ -602,6 +608,27 @@ section {
 
     & a:after {
       filter: none !important;
+    }
+  }
+
+  & aside.discussion {
+    margin: var(--gap) 0;
+    padding: var(--nav-padding);
+    border-radius: var(--rounded);
+    background: #c2c2c2c2;
+
+    & span {
+      display: block;
+      clear: both;
+      &:first-of-type {
+        font-weight: bold;
+        &:before {
+          content: 'Discussie gestart door ';
+        }
+      }
+      &:last-of-type {
+        text-align: right;
+      }
     }
   }
 }
