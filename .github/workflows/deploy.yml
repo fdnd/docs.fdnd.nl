@@ -6,7 +6,8 @@ on:
   push:
     branches:
       - main
-  
+  discussion:
+    types: [created]
 jobs:
   build_site:
     runs-on: ubuntu-latest
