@@ -91,7 +91,7 @@ Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indica
 In groepjes van 5, in eigen squad, docent loopt rond
 Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.
 
-#### Sprint 3
+##### Sprint 3
 
 In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.
 
