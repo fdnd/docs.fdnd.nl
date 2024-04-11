@@ -42,6 +42,7 @@
   --svg-filter: invert(4%) sepia(84%) saturate(7069%) hue-rotate(246deg) brightness(64%) contrast(105%);
 
   --gradient: linear-gradient(var(--gradient-angle), var(--color-purple) 0%, var(--color-green) 100%);
+
   @media (color-gamut: p3) {
     --gradient: linear-gradient(
       var(--gradient-angle) in oklch,
@@ -65,6 +66,7 @@
   --svg-filter: invert(92%) sepia(93%) saturate(32%) hue-rotate(252deg) brightness(105%) contrast(100%);
 
   --gradient: linear-gradient(var(--gradient-angle), var(--color-purple-negative) 0%, var(--color-green-negative) 100%);
+
   @media (color-gamut: p3) {
     --gradient: linear-gradient(
       var(--gradient-angle) in oklch,
@@ -388,7 +390,7 @@ header {
       }
       & [aria-label='false'] {
         &:before {
-          content: '0';
+          content: '';
           float: left;
         }
       }
@@ -610,26 +612,35 @@ section {
       filter: none !important;
     }
   }
+}
 
-  & aside.discussion {
-    margin: var(--gap) 0;
-    padding: var(--nav-padding);
-    border-radius: var(--rounded);
-    background: #c2c2c2c2;
+/* Discussion contents */
+section aside.discussion {
+  margin: var(--gap) 0;
+  padding: var(--nav-padding);
+  border-radius: var(--rounded);
+  background: #c2c2c2c2;
 
-    & span {
-      display: block;
-      clear: both;
-      &:first-of-type {
-        font-weight: bold;
-        &:before {
-          content: 'Discussie gestart door ';
-        }
-      }
-      &:last-of-type {
-        text-align: right;
+  & span {
+    display: block;
+    clear: both;
+    &:first-of-type {
+      font-weight: bold;
+      &:before {
+        content: 'Discussie gestart door ';
       }
     }
+    &:last-of-type {
+      text-align: right;
+    }
+  }
+  /* large screens? */
+  @media (min-width: 52rem) {
+    position: absolute;
+    margin: 0;
+    max-width: 100%;
+    left: calc(100% + var(--gap));
+    top: 0;
   }
 }
 
