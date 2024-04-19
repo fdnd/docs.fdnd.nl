@@ -12,7 +12,6 @@ Zoals overal binnen de ICT vind ook binnen het frontend vakgebied *arbeidsdeling
 
 Een goede frontender wordt gekenmerkt door een aantal belangrijke eigenschappen. Vooraleerst beschikt deze over sterke technische vaardigheden op het gebied van HTML, CSS en JavaScript en ontwerpen voor het web. Heel belangrijk is gedegen kennis op het gebied van gebruiksvriendelijkheid en toegankelijkheid. Een frontender kan zich inleven in de gebruiker en stelt deze centraal in het ontwerp- en ontwikkelproces. Daarbovenop heeft een frontender uitstekende communicatieve vaardigheden en lost met een team op een constructieve manier problemen op. Tenslote blijven frontenders voortdurend bijleren gezien de snelle ontwikkelingen in het vak. ([Cohier, 2018](https://css-tricks.com/what-makes-a-good-front-end-developer/))
 
-
 - [The spectrum of design roles in 2018](https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966) Op UX-collective worden verschillende Designer rollen neest elkaar gezet. 
 
 - [Concept to Code, code literay](https://uxmag.com/articles/concept-to-code) Code is the material that breathes life into a user experience, so we ought to get familiar with it. The enthusiast. The mash-up artist. The inventor. The wizard.
@@ -57,6 +56,14 @@ Visual thinking, schetsen
 - Styleguides en design systems https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228
 
 #### Teamcanvas
+
+Een raamwerk dat helpt bij het ontwikkelen en uitlijnen van hun teamdynamiek. Met aandacht invullen helpt teams bij:
+- Definiëren van doelen voor het team en voor individuele teamleden;
+- Afspraken over kernwaarden en gedragsregels;
+- In kaart brengen van sterke en zwakke punten;
+- Bespreken van behoeften en verwachtingen.
+
+Lees meer op: [https://www.theteamcanvas.com/](https://www.theteamcanvas.com/)
 
 #### Conventies
 
