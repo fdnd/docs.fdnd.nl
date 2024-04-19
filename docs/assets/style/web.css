@@ -616,6 +616,8 @@ section {
 
 /* Discussion contents */
 section aside.discussion {
+  position: relative;
+  font-size: 0.9rem;
   margin: var(--gap) 0;
   padding: var(--nav-padding);
   border-radius: var(--rounded);
@@ -636,11 +638,12 @@ section aside.discussion {
   }
   /* large screens? */
   @media (min-width: 52rem) {
-    position: absolute;
-    margin: 0;
-    max-width: 100%;
-    left: calc(100% + var(--gap));
-    top: 0;
+    float: right;
+    clear: right;
+    margin-left: calc(100% + var(--gap));
+    /* top: 0; */
+
+    /* max-width: 100%; */
   }
 }
 
