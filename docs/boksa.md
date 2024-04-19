@@ -33,7 +33,7 @@ Bij elke leertaak wordt de DLC doorlopen. Daardoor i) ontwikkelen studenten een 
 
 De development lifecycle hanteert de volgende fasering:
 
-1. [Analyseren](#analyseren) - bijvoorbeeld: grip krijgen op een taak door gesprekken met een opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, overzicht creëren, plannen, definition of done etc.
+1. [Analyseren](#analyseren) - bijvoorbeeld: teamorganisatie, grip krijgen op een opdracht door gesprekken met een opdrachtgever, schrijven van een debriefing, maken van een takenlijst, inventarisatie van bestaande informatie, overzicht creëren, plannen, definition of done et cetera.
 2. [Ontwerpen](#ontwerpen) - bijvoorbeeld: het maken van idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
 3. [Bouwen](#bouwen) - bijvoorbeeld: toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgens conventies en wetgeving, documenteren en bijhouden van een changelog.
 4. [Integreren](#integreren) - bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
@@ -41,19 +41,9 @@ De development lifecycle hanteert de volgende fasering:
 
 ### Analyseren
 
-In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
+In de analyse fase onderzoek en inventariseer je wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die je hierbij kunt gebruiken. De aanpak verschilt per sprint afhankelijk van de fase in je project. 
 
-Grip krijgen op een taak door gesprekken met een opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, overzicht creëren, plannen, definition of done etc.
-
-Bij analyse hoort bijvoorbeeld briefing, debriefing, planning  en functionaliteiten beschrijven, job stories schrijven en burnpoints bepalen. 
-Analyseer de briefing. Breng het probleem in kaart en kies een belangrijk gebied om op te focussen qua oplossing. 
-Debriefing schrijven, probleem definitie, planning bepalen. En communiceren. 
-Visual thinking, schetsen
-
-- Briefing/debriefing https://www.joho.org/en/hoe-stel-je-een-goede-briefing-en-debriefing-onderzoeksomschrijving-en-terugkoppeling-daarop-op
-- 5 Tips For Writing A Job Story https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9
-- visual thinking
-- Styleguides en design systems https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228
+Als je voor de eerste keer met een team samenwerkt is het handig om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreek je de opdrachtgever in een [briefing en debriefing](#briefing-en-debriefing) sessie.
 
 #### Teamcanvas
 
@@ -71,9 +61,13 @@ Code Conventies, naamgeving, etc…
 
 BEM, CUBE etc.
 
-#### Briefing en Debriefing
+- Styleguides en design systems https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228
+
+#### Briefing en debriefing
 
 Briefing, Gesprek opdrachtgever
+
+- Briefing/debriefing https://www.joho.org/en/hoe-stel-je-een-goede-briefing-en-debriefing-onderzoeksomschrijving-en-terugkoppeling-daarop-op
 
 #### Contentanalyse
 
@@ -81,29 +75,32 @@ Welke gegevens zijn beschikbaar, welke moeten gemaakt worden
 
 #### Projectbord inrichten
 
-Github Projects, Trello, Linear.app
+Github Projects, Trello, Linear.app, Todo List
 
 #### Projectinrichting
 
 Github, forks, boilerplates
 
-##### Taken vaststellen
+#### Taken vaststellen
 
 User scenario’s, User Stories, Job Stories
-Definition of Done, Todo List
+Definition of Done
 
-##### Planning poker
+- User scenario's https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/
+- 5 Tips For Writing A Job Story https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9
+
+#### Planning poker
 
 Planning Poker
 
-##### MoSCoW Prioritering
+#### MoSCoW Prioritering
 
 Must-haves\
 Should-haves\
 Could-haves\
 Want to have but will not have this sprint
 
-#### Budget
+#### Budgetten
 
 Beschikbare uren voor het project
 
@@ -111,45 +108,38 @@ Performance budget, hoeveel seconden mag een site inladen op welke snelheid. Wel
 
 a11y budget, welke WCAG standaard moet gehaald worden A+, A++, A+++
 
-#### Tech-stack vaststellen
+#### Tech-stack bepalen
 
 Onderbouwen met valide argumenten
 
 ### Ontwerpen
 
-Bij de start van deze fase weet je wat het doel en het resultaat van je project zijn.
+Bij de start van deze fase ken je het doel, beoogde resultaat en aanwezige materiaal voor jouw project. Je weet welke eisen opdrachtgever, eindgebruikers en andere belangrijke partijen aan het resultaat stellen. Het doel van de ontwerpfase is het maken van een ontwerp om te verkennen wat mogelijke oplossingsrichtingen zijn en een duidelijk beeld te vormen wat je gaat maken.
 
-Je weet ook welke eisen de opdrachtgever en andere belangrijke partijen aan het resultaat stellen (Wat moet het kunnen en wat niet? Waar moet men rekening mee houden? Etc.)
+Soms maak je het ontwerp van een website *from scratch* maar in het frontend-vak krijg je vaak een ontwerp of huisstijl aangeleverd. Doorgaans is dit ontwerp onvolledig of slechts op één resolutie uitgewerkt. Heel af en toe is het ontwerp goed uitgewerkt en zijn alle *states* van (micro)interacties en transities tussen pagina’s ontworpen of beschreven. Als frontender neem je doorlopend ontwerpbeslissingen met betrekking tot structuur (semantiek), flow (breakpoints), (micro)interacties, animaties, toegankelijkheid en prestaties.
 
-Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien.
+Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van dit project eruit zal zien. Je maakt keuzes en evenutele alternatieve ontwerpen vallen af.
 
-Dit is een belangrijk moment in het project. Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen.
-https://werken-aan-projecten.nl/fasen-project/ontwerpfase/
+~~In de ontwerpfase maakt een frontender idee-schetsen, wireframes, wireflows, break-down schetsen, site-maps en actor-diagrams. Maar ook inspiratie opdoen, patterns onderzoeken en ontwerp variaties maken... User scenario's bedenken, Customer Journey mapping, Job stories onderzoeken, Wireframes, wireflows, break-down schetsen, actor-diagrams maken.~~
 
-Het maken van idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
+#### Visual Thinking
 
-In de ontwerpfase moet een frontender wireframes, wireflows, break-down schetsen en actor-diagrams kunnen maken. Maar ook inspiratie opdoen, patterns onderzoeken en ontwerp variaties maken...
-User scenario's bedenken, Customer Journey mapping, Job stories onderzoeken, Wireframes, wireflows, break-down schetsen, actor-diagrams maken.
-
-
-- User scenario's https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/
-- Using Customer Journey Maps to Improve Customer Experience https://hbr.org/2010/11/using-customer-journey-maps-to
-- Wireflows: A UX Deliverable for Workflows and Apps https://www.nngroup.com/articles/wireflows/
-- Wireframing User Flow with Wireflows https://balsamiq.com/learn/articles/wireflows/
-- varieren
-
-**Interaction Engineering**
-- [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
-- UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/ + initial state
-- Activity Diagram
+Visual thinking leert studenten en docenten hun gedachten en doelen te verbeelden. Het helpt ze bij het creëren van overzicht en het overbrengen van hun boodschap. Kijk voor een overzicht van tekenmethodes op [visualthinking.school](https://visualthinking.school)
 
 #### Ideation
 
 Technieken gericht op het genereren van ideeën. 
 
-##### StyleTile
 ##### Moodboard
+
+
+
+##### Style Tile
+
+Een *style tile* bestaat uit lettertypen, kleuren en interface-elementen die de essentie van een visueel merk voor het web communiceren. Ze helpen een gemeenschappelijke visuele taal te vormen tussen ontwerpers en belanghebbenden binnen een project kunnen helpen bij het vaststellen van voorkeuren en doelen van de opdrachtgever. Kijk voor meer uitleg en voorbeelden op [styletil.es](https://styletil.es/)
+
 ##### Morphological Chart
+
 ##### Harris Profile
 
 #### Modelling
@@ -158,8 +148,16 @@ Technieken gericht op het genereren van ideeën.
 ##### Sitemap (Hierarchie)
 ##### Breakdown Schets
 ##### Wireframe
+
+Wireframing User Flow with Wireflows https://balsamiq.com/learn/articles/wireflows/
+
 ##### Wireflow
+
+Wireflows: A UX Deliverable for Workflows and Apps https://www.nngroup.com/articles/wireflows/
+
 ##### Datamodel
+
+##### Activity Diagram
 
 #### Schetsen
 ##### Low-fi schetsen
@@ -170,9 +168,18 @@ Figma, Adobe XD
 
 #### Principes
 ##### Atomic Design
+
+[atomic design @ bradfrost.com](https://bradfrost.com/blog/post/atomic-web-design/)
+
 ##### Not ignoring the UI-Stack
+
+UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/ + initial state
+
 ##### Divergeren Convergeren
 ##### Responsive Design
+
+[Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+
 ##### Kleuren en contrast
 ##### Hierarchie
 ##### Afstand/Nabijheid
