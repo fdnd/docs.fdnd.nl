@@ -13,29 +13,23 @@ De opleiding Frontend Design & Development (FDND) wordt samen met het werkveld d
 
 De door ons [in 2020 opgestelde visie op het beroep](http://localhost:8080/TNO-dossier.html#visie-op-het-beroep) lijkt de tand des tijds aardig te doorstaan. Wel zijn er een aantal mondiale ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt in moordend tempo en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. De laatste jaren onstaat in het beroepenveld iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)). Tenslotte is er iv) de opkomst van het fenomeen *Large Language Model (LLM)* en de impact op het werk van frontend design & developers.
 
-Snelle evolutie en vervanging van technologie, frameworks en tools -> leren, leren, leren
+Snelle evolutie en vervanging van technologie, frameworks en tools -> leren, leren, leren. Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders en kan rond juni ingevuld worden.
 
-Blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties
+Blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties. Wordt ook belangrijker na vaststelling van toegankelijkheidswetgeving in 2025.
 
 Kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars
 
-LLM’s
-
-In hoeverre is het frontend vakgebied veranderd in de afgelopen 3 jaren, welke grote technologische ontwikkelingen omarmen wij.
-
-Komst van ML/AI en invloed op junior frontend functies, inzichten ophalen tijdens strategiedagen.
-
-Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders en kan rond juni ingevuld worden.
+LLM’s - Komst van ML/AI en invloed op junior frontend functies.
 
 ### Frontend op Ad niveau
 
 Verwijzing naar opgesteld verschil niveau 5/6/7 uit de TNO.
 
-Vooralsnog enige Ad Frontend, dus wij schrijven het landelijk profiel. Zitten te springen om partnerschap, via Chain 5 contact gelegd met Pixel Antwerpen, alhoewel niet precies hetzelfde zijn er 2 practoraten Web-development en Web-design verbonden, eerste overleg moet nog plaats vinden.
+Vooralsnog zijn we de enige Ad Frontend, dus wij schrijven het landelijk profiel. We zitten te springen om partnerschap, via Chain 5 contact gelegd met Pixel Antwerpen, alhoewel niet precies hetzelfde zijn er 2 practoraten Web-development en Web-design, eerste overleg moet nog plaats vinden.
 
 Terugblik op de verhouding tot de profielen, voldoen ze nog? HBO-ICT model, CMD model, Europees digitaal passport etc.
 
-Geluiden over ontwikkeling Ad Frontend aan de HAN, wellicht de oprichting van een LAdO!!
+Geluiden over ontwikkeling Ad Frontend aan de HAN, wellicht de oprichting van een Landelijk Associate degree Overleg (LAdO).
 
 ### Leerresultaten
 
@@ -45,10 +39,6 @@ Veranderingen in de niveaumatrix en reden van veranderen uitleggen.
 
 Ervaring met de leerresultaten zoals die zijn opgesteld.
 
-Student aan het woord? Zoe (OC) en Stefan
-
-Docent aan het woord? Krijn en Dorien
-
 ### Internationaal perspectief
 
 Gastsprekers, bronnen.. spelen met het idee van een internationaal opengestelde klas, native engelse SL, maar vooralsnog gerichtheid op metropoolregio Amsterdam.
@@ -57,21 +47,19 @@ Gastsprekers, bronnen.. spelen met het idee van een internationaal opengestelde 
 
 Statistieken
 
-Reactie van stagebedrijven, citaten
+Reactie van stagebedrijven in de vorm van een aantal citaten..
 
-Reflectie vanuit de 1e lichting, Daan/Justin en Finn
-
-Reflectie vanuit huidige cohort, Ralph, Duneya
+Reflectie vanuit de 1e lichting..
 
 ### Aansluiten bij de actualiteit
 
 Veranderingen in het vakgebied en hoe die omarmd worden binnen de opleiding
 
-Voorbeelden, bijv caroussel van Krijn obv artikel wat verscheen..
+Voorbeelden: Caroussel van Krijn obv. artikel wat verscheen..
 
-Reactie van tijdelijke co-teacher, Martijn
+Reactie van tijdelijke co-teacher, Martijn vragen?
 
-Reactie van (stage)bedrijven, obv excel.
+Reactie van (stage)bedrijven, vragen tijdens het 2e stagebezoek.
 
 ## Standaard 2: De onderwijs­leeromgeving
 
@@ -85,19 +73,13 @@ Wij zijn blij, wijze van evalueren HEAL structuur uitleggen.
 
 Studenten zijn overwegend blij, blokenquetes, NSE resultaten.
 
-Student aan het woord
-- Ruben (1D), Rosa (2A)
-
 ### Praktijkvraagstukken in een rijke leeromgeving
 
-> Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever.   Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. <cite>Opmerking van een student in de blokenquete</cite>
+> Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. <cite>Student in de blokenquete</cite>
 
-Is gelukt en komt goed uit de verf, testimonials van opdrachtgevers en mini-meesterproef (s6/s12).
-- Vervoersregio (opdrachtgever)
-- Lars van Funda (mini-meesterproef)
-
-Studenten aan het woord
-- Sammy (1D), Tristan (2B)
+Is gelukt en komt goed uit de verf, zou mooi zijn als we hier wat testimonials van opdrachtgevers en mini-meesterproef (s6/s12).
+- Vervoersregio (opdrachtgever)?
+- Funda (mini-meesterproef)?
 
 ### Studenten aan het roer
 
@@ -111,47 +93,51 @@ Kritische noot: Lukt het motiveren in alle gevallen?
 
 ### Vormgeving van de opleiding
 
-Opbouw werkt prima, heel flexibel inspelen op leerbehoefte van studenten. 
+Opbouw werkt prima, we kunnen flexibel inspelen op leerbehoefte van studenten. 
 
 S06W2-03-Code Design-review: Inzet code/design-review (die staan er al) om functie in het leerproces van studenten te voorzien, even de focus op HTML omdat we daar wat hiaten zien.
 
-Paar aanpassingen op inhoud, die even bespreken met het waarom.
+We hebben een paar aanpassingen op inhoud gemaakt, die even bespreken met het waarom.
 - Hernoemen/hereiken gerichtheid sprints.. weeffoutjes, The campaign > Look & Feel (over huisstijl)
-- Verandering toetsing
-- 
+- Verandering inrichting van de toetsing. Van ontwikkeldocument naar Portflow, van alle indicatoren een aparte collection (15) naar een per criterium (5).
 
-Insteek langs gaan, wat werkt wel en wat niet…
+Insteek van het programma langs gaan, wat werkt wel en wat niet.
 
-Inzet 2e jaars in begeleiding van 1e jaars noemen.
+Teamlead rol: De inzet 2e jaars in begeleiding van 1e jaars.
 
 ### Vrije ruimte
 
 Alle opties opsommen en individuele studenten laten reflecteren op hoe dat gaat
 Mogelijkheden opsommen, learnings op een rij, ervaring van studenten en docenten.
 
+- 10 weken stage
+- 20 weken stage
+- FDND-Agency
+- Minor ondernemerschap
+- Onderwijs bij een andere Ad
+- Schakelprogramma CMD
+
 #### Stage
 
 10 of 20 weken
 
-Ervaring Milan
-
-Stagebegeleider aan het woord (Martijn?)
+Stagebegeleider aan het woord
 
 #### Schakelprogamma CMD
 
-Franciska
+Docent van CMD aan het woord
 
-Shauri
+Alumnus schakelaar aan het woord (Shauri)
 
-Eliza
+Huidige schakelaar aan het woord
 
 #### Minor Ondernemen
 
 Op bachelorniveau, afstuderen in je eigen agency!
 
-Rutger
+Begeleider van de minor aan het woord.
 
-Rosa
+Ervaring van Rosa, Joelle en Sander
 
 #### Blok les bij een andere FDMCI Ad
 
@@ -179,9 +165,11 @@ Evalueren met de opleidingscommissie. Verwijzen naar onderwijs document
 
 Cijfers uit de NSE en blokenquete, stukje van de decaan
 
+Gezichtsveld vanuit de student
+
 ### Studiekeuzecheck
 
-Verplichting is afgeschaft, we merken dat meeloopdagen interessanter zijn dan een georganiseerde middag. Wss helemaal vervangen voor meeloopdagen.
+Verplichting is afgeschaft, we merken dat meeloopdagen interessanter zijn dan een georganiseerde middag. Aankomend jaar waarschijnlijk helemaal vervangen voor meeloopdagen.
 
 ### Diversiteit en differentiatie
 
@@ -189,7 +177,7 @@ Speerpunt van de HvA, evalueren met harde cijfers instroom, achtergrond etc. doc
 
 ### Taal
 
-Moeilijk punt, wij verwijzen door maar het is soms echt heftig ondermaats. 
+Nederlands en Engels.. Moeilijk punt, wij verwijzen door maar het is soms echt heftig ondermaats. 
 
 Wat vinden studenten hier van?
 
@@ -233,7 +221,7 @@ De constructive alignment met de assessmentdriehoek (A. van Berkel) werkt naar b
 
 Het assessment heeft een vaste structuur (zie onderwijs) en is ingericht aan de hand van de niveaumatrix. 
 
-Zoals overeengekomen met onze excie is voorwaarde voor assesseren het volgen van een workshop. Daarnaast wordt een beginnend assessor altijd ingedeeld met een ervaren assessor. We hebben een handleiding/handreiking voor de flow van het gesprek. Na een aantal keer oefenen als 2e assessor mag een beginnend assessor een gesprek leiden. Daarnaast kalibreren squad-leaders voorafgaand aan assessments zodat gespreken op eenduidige wijze worden voorbereid.
+Zoals overeengekomen met onze excie is voorwaarde voor assesseren het volgen van een workshop. Daarnaast wordt een beginnend assessor altijd ingedeeld met een ervaren assessor. We hebben een handleiding/handreiking voor de flow van het gesprek. Na een aantal keer oefenen als 2e assessor mag een beginnend assessor een gesprek leiden. Daarnaast kalibreren squad-leaders voorafgaand aan assessments zodat gesprekken op eenduidige wijze worden voorbereid.
 
 Omdat doorlopend feedback gegeven wordt aan de hand van de niveaumatrix welke ook als summatief beoordelingsinstrument gebruikt wordt weet de student goed waar deze aan toe is.
 
@@ -284,6 +272,8 @@ Uit NVAO stuk:
 
 ### Uitkomsten van toetsen
 
+Toetsstatistiek en slagingspercentages.
+
 ### Eindwerken
 
 #### Cohort 2022-23
@@ -304,14 +294,15 @@ Screenshot en beschrijving van een selectie eindopdrachten en links naar dossier
 
 #### Cohort 2022-23
 
-Boudewijn, Daan, Daphne, Finn, Justin, Matthijs, Shauri
+Alle afstudeerdossiers achter een wachtwoord beschikbaar stellen.
 
 #### Cohort 2023-24
 
-wordt tzt. aangevuld met nieuwe inzichten.
+Een selectie van afstudeerdossiers achter een wachtwoord beschikbaar stellen.
 
 ## Studenten aan het woord
 
-Welke onderwerpen verdienen nog aandacht en zijn hierboven niet aangestipt?
+Dit hoofdstuk is van studenten. Wij nemen serieuze anekdotes over en redigeren hooguit op taal, maar niet op inhoud.
 
-Wat vertel jij over je opleiding op een feestje?
+- Welke onderwerpen verdienen nog aandacht en zijn hierboven niet aangestipt?
+- Wat vertel jij over je opleiding op een feestje?

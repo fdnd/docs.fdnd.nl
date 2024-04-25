@@ -499,7 +499,7 @@ nav.subnav {
 /* Footer */
 footer {
   grid-area: footer;
-  margin-top: auto;
+  margin-top: calc(var(--gap) * 3);
 
   & h2 {
     /* Same as main > h5 */
@@ -514,6 +514,7 @@ footer {
     border-radius: var(--rounded);
     border: 1px solid var(--color-text);
     text-decoration: none;
+    box-shadow: var(--shadow);
 
     &:hover {
       color: var(--color-blue);
