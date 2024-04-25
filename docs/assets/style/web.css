@@ -614,7 +614,7 @@ section {
   }
 }
 
-/* Discussion contents */
+/* Discussion content */
 section aside.discussion {
   position: relative;
   font-size: 0.9rem;
@@ -638,9 +638,9 @@ section aside.discussion {
   }
   /* large screens? */
   @media (min-width: 52rem) {
-    float: right;
-    clear: right;
-    margin-left: calc(100% + var(--gap));
+    /* float: right; */
+    /* clear: right; */
+    /* margin-left: calc(100% + var(--gap)); */
     /* top: 0; */
 
     /* max-width: 100%; */

@@ -6,22 +6,32 @@ Aan de hand van het dossier ten behoeve van de Toets Nieuwe Opleiding, daar staa
 
 _De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen._
 
-De opleiding Frontend Design & Development (FDND) is samen met het werkveld ontwikkeld en bij het aanbieden van onderwijs wordt het bedrijfsleven op verschillende vlakken ingezet. Deze samenwerking draagt doorlopend bij aan onze visie op het beroep welke ten grondslag ligt aan onze leerresultaten.
+De opleiding Frontend Design & Development (FDND) wordt samen met het werkveld doorlopend ontwikkeld en bij het aanbieden van onderwijs wordt het bedrijfsleven op verschillende vlakken ingezet. Deze samenwerking draagt bij aan onze visie op het beroep welke ten grondslag ligt aan onze leerresultaten.
 
 ### Visie op het beroep
 *Reflectie op ontwikkelingen in het vakgebied*
+
+De door ons [in 2020 opgestelde visie op het beroep](http://localhost:8080/TNO-dossier.html#visie-op-het-beroep) lijkt de tand des tijds aardig te doorstaan. Wel zijn er een aantal mondiale ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt in moordend tempo en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. De laatste jaren onstaat in het beroepenveld iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)). Tenslotte is er iv) de opkomst van het fenomeen *Large Language Model (LLM)* en de impact op het werk van frontend design & developers.
+
+Snelle evolutie en vervanging van technologie, frameworks en tools -> leren, leren, leren
+
+Blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties
+
+Kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars
+
+LLM’s
 
 In hoeverre is het frontend vakgebied veranderd in de afgelopen 3 jaren, welke grote technologische ontwikkelingen omarmen wij.
 
 Komst van ML/AI en invloed op junior frontend functies, inzichten ophalen tijdens strategiedagen.
 
-Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders.
+Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders en kan rond juni ingevuld worden.
 
 ### Frontend op Ad niveau
 
 Verwijzing naar opgesteld verschil niveau 5/6/7 uit de TNO.
 
-Vooralsnog enige Ad Frontend, dus wij schrijven het landelijk profiel. Zitten te springen om partnerschap, via Chain 5 contact gelegd met Pixel Antwerpen waar 2 practoraten Web-development en Web-design aan verbonden zijn, eerste overleg moet nog plaats vinden.
+Vooralsnog enige Ad Frontend, dus wij schrijven het landelijk profiel. Zitten te springen om partnerschap, via Chain 5 contact gelegd met Pixel Antwerpen, alhoewel niet precies hetzelfde zijn er 2 practoraten Web-development en Web-design verbonden, eerste overleg moet nog plaats vinden.
 
 Terugblik op de verhouding tot de profielen, voldoen ze nog? HBO-ICT model, CMD model, Europees digitaal passport etc.
 
