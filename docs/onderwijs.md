@@ -91,7 +91,7 @@ Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indica
 In groepjes van 5, in eigen squad, docent loopt rond
 Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.
 
-#### Sprint 3
+##### Sprint 3
 
 In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.
 
@@ -158,3 +158,31 @@ _Gedragsindicator 4.5.2 Maakt zelfstandig nieuwe materie eigen, gebruikt dit bij
 Bron: Betts, Ryan, Concept to code, Ux Magazine, 2017, https://uxmag.com/articles/concept-to-code
 
 Bron: Grootendorst, Annemiek, Professionele Identiteit ontwikkelen gedurende de hbo-opleiding, 2019, HRO
+
+## Werken aan projecten
+
+Studenten werken vanaf het eerste jaar in sprint 2 doorlopend aan projecten voor echte opdrachtgevers. Elke sprint start met een sprint planning. Bij de sprint planning begeleiden de coaches de studenten bij het werken aan de projecten.
+
+### Opzetten project
+Repo met backlog klaarzetten.
+
+#### Opdrachtgever 
+Briefen, user stories/taken bedenken, backlog, content verzamelen, design (figma) 
+
+#### Coach
+User stories/taken in backlog zetten (baseren op figma), 
+
+### Sprint planning
+Structuur, tips & tricks, werkvormen
+
+#### sprint 2
+Kennismaken met de opdracht en het project. Briefing /  Debriefing, user stories/taken
+
+#### Sprint 8
+Content first, data modellering, api, cms
+
+### Sprint review
+Structuur, tips & tricks, werkvormen
+
+### FDND Agency
+Repo, backlog, release candidate

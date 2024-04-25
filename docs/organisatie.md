@@ -160,3 +160,10 @@ Twee keer, rond de Endterm, staat de HEAL in het teken van een retrospective. He
 5. Sluiting
 
 Een hulpmiddel voor het plannen van activiteiten voor de verschilende fases is [retromat.org](https://retromat.org/).
+
+### We ❤️ Web
+
+Elke tweede week van de sprints organiseren we We ❤️ Web talks. Sprekers uit het vakgebied vertellen over uiteenlopende onderwerpen ter inspiratie voor studenten.
+
+De We ❤️ Web talks staan op 3 plekken vermeld; in de jaarplanning, in de sprint planning van elke sprint op [programma.fdnd.nl](https://programma.fdnd.nl/) en in de We ❤️ Web repository onder de [fdnd.nl GitHub organisatie](https://github.com/fdnd/weloveweb.fdnd.nl/). De We ❤️ Web repository is de single source of truth!
+
