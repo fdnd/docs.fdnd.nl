@@ -290,7 +290,10 @@ Screenshot en beschrijving van een selectie eindopdrachten en links naar dossier
 
 ### Alumni aan het woord
 
-[intro]
+Hoe kijken alumni terug op hun tijd bij FDND?
+- Wat vonden ze prettig?
+- Wat heeft het ze gebracht?
+- Wat kan er beter?
 
 #### Cohort 2022-23
 
