@@ -278,13 +278,13 @@ Uit NVAO stuk:
 
 #### Cohort 2022-23
 
-Alle afstudeerwerken…
+4 afstudeerwerken…
 
 Screenshot en beschrijving van de eindopdrachten en links naar dossiers (achter login).
 
 #### Cohort 2023-24
 
-Selectie afstudeerwerken…
+6 afstudeerwerken…
 
 Screenshot en beschrijving van een selectie eindopdrachten en links naar dossiers (achter login).
 
@@ -300,3 +300,8 @@ Boudewijn, Daan, Daphne, Finn, Justin, Matthijs, Shauri
 
 wordt tzt. aangevuld met nieuwe inzichten.
 
+## Studenten aan het woord
+
+Welke onderwerpen verdienen nog aandacht en zijn hierboven niet aangestipt?
+
+Wat vertel jij over je opleiding op een feestje?

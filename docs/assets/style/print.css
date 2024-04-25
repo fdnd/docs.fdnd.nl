@@ -29,7 +29,8 @@ header h1 > span::after {
 
 header nav,
 header .settings,
-footer {
+footer,
+section aside {
   display: none;
 }
 

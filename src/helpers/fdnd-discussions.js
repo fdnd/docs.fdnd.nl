@@ -1,11 +1,12 @@
 import 'dotenv/config'
 
+import { SKIP, visit } from 'unist-util-visit'
+
 import { graphql } from '@octokit/graphql'
 import { h } from 'hastscript'
 import { hasProperty } from 'hast-util-has-property'
 import { headingRank } from 'hast-util-heading-rank'
 import { slug } from 'github-slugger'
-import { visit } from 'unist-util-visit'
 
 const graphqlWithAuth = graphql.defaults({
   headers: { authorization: `token ${process.env.GITHUB_TOKEN}` },
@@ -26,7 +27,7 @@ const response = await graphqlWithAuth(`
             comments {
               totalCount
             }
-            bodyHTML
+            body
             url
           }
         }
@@ -41,7 +42,7 @@ export default function fdndDiscussions(options = {}) {
     const filenameSlug = slug(file.menu.find((item) => item.basename === file.basename).menuname)
     const discussions = allDiscussions.filter((discussion) => discussion.category.slug === filenameSlug)
 
-    visit(tree, 'element', (node) => {
+    visit(tree, 'element', (node, index, parent) => {
       if (headingRank(node) && node.properties && hasProperty(node, 'id')) {
         const discussion =
           discussions.length > 0 ? discussions.find((discussion) => discussion.title === node.properties.id) : null
@@ -53,6 +54,15 @@ export default function fdndDiscussions(options = {}) {
               { 'aria-hidden': 'true', href: discussion.url, class: 'discussion-link', title: 'Ga naar de discussie' },
               h('span', { class: 'icon icon-discussion' })
             )
+          )
+          parent.children.splice(
+            index + 1,
+            0,
+            h('aside', { class: 'discussion' }, [
+              h('span', `${discussion.author.login}: `),
+              `${discussion.body} `,
+              h('span', `${discussion.comments.totalCount} reacties`),
+            ])
           )
         } else {
           node.children.push(
