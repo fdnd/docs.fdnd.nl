@@ -55,13 +55,16 @@ Een raamwerk dat helpt bij het ontwikkelen en uitlijnen van hun teamdynamiek. Me
 
 Lees meer op: [https://www.theteamcanvas.com/](https://www.theteamcanvas.com/)
 
-#### Conventies
+#### (Code) Conventies
 
-Code Conventies, naamgeving, etc…
+*(Code) Conventies* zijn richtlijnen voor programmeurs om de leesbaarheid en onderhoud van broncode te verbeteren. Ze omvatten zaken als bestandsorganisatie, inspringen, commentaar, naamgeving en programmeerpraktijken. Het volgen van deze richtlijnen kan de onderhoudskosten van software verlagen en de kwaliteit verbeteren.
 
-BEM, CUBE etc.
+> Even bad code can function. But if code isnt clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. - Robert C. Martin
 
-- Styleguides en design systems https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228
+Voorbeelden:
+- [Styleguides en design systems](https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 
 #### Briefing en debriefing
 
