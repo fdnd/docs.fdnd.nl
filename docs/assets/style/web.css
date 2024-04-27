@@ -452,7 +452,7 @@ nav.subnav {
   max-height: calc(100vh - (var(--gap) * 6));
   padding-left: calc(var(--gap) / 2);
   font-size: 0.9rem;
-  overflow: scroll;
+  overflow: auto;
 
   & ol {
     list-style: none;
