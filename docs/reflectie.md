@@ -1,25 +1,26 @@
 # Kritische reflectie
 
-Aan de hand van het dossier ten behoeve van de Toets Nieuwe Opleiding, daar staat de beoogde en vergunde opleiding in beschreven. We lopen met het docententeam, de opleidingscommissie, de studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragraven waar wij ontwikkelingen in voorzien of gemaakt hebben. Dit document heeft daarmee dezelfde structuur als ons TNO document.
+In dit document reflecteert FDND ten behoeve van de Midterm Review op 21 november 2024 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](/TNO-dossier.html) welke eveneens op deze website te vinden is. In dat document staat immers de beoogde en vergunde opleiding beschreven. We lopen met het docententeam, de opleidingscommissie, de studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragraven waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en volgt qua opbouw de standaarden van de NVAO.
 
 ## Standaard 1: Beoogde leer­resultaten
 
 _De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen._
 
-De opleiding Frontend Design & Development (FDND) wordt samen met het werkveld doorlopend ontwikkeld en bij het aanbieden van onderwijs wordt het bedrijfsleven op verschillende vlakken ingezet. Deze samenwerking draagt bij aan onze visie op het beroep welke ten grondslag ligt aan onze leerresultaten.
+De opleiding Frontend Design & Development (FDND) wordt doorlopend en in overleg met het werkveld doorontwikkeld en bij het aanbieden van onderwijs wordt het bedrijfsleven op verschillende vlakken ingezet. Deze samenwerking draagt bij aan onze visie op het beroep welke ten grondslag ligt aan onze leerresultaten.
 
 ### Visie op het beroep
-*Reflectie op ontwikkelingen in het vakgebied*
 
-De door ons [in 2020 opgestelde visie op het beroep](http://localhost:8080/TNO-dossier.html#visie-op-het-beroep) lijkt de tand des tijds aardig te doorstaan. Wel zijn er een aantal mondiale ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt in moordend tempo en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. De laatste jaren onstaat in het beroepenveld iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)). Tenslotte is er iv) de opkomst van het fenomeen *Large Language Model (LLM)* en de impact op het werk van frontend design & developers.
+De door ons in 2020 opgestelde [visie op het beroep](/TNO-dossier.html#visie-op-het-beroep) lijkt de tand des tijds aardig te doorstaan. Wel zijn er een aantal ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt in moordend tempo en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. Maar ook nieuwe uitdagingen zoals het ontstaan van iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)) en de iv) opkomst van het fenomeen *Large Language Model (LLM)* en de impact op het werk van frontend design & developers.
 
-Snelle evolutie en vervanging van technologie, frameworks en tools -> leren, leren, leren. Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders en kan rond juni ingevuld worden.
+De halfwaardetijd van kennis met betrekking tot libraries, frameworks en tooling is in het frontendvakgebied vrij kort. Daarentegen verandert er in de basis van HTML/ CSS/ JS minder: Weliswaar zijn er maandelijks uitbreidingen op CSS, het selecteren van HTML elementen om stijlregels te koppelen is nog steeds hetzelfde en ook is de semantiek van HTML elementen al jaren gelijk.
+
+Onze kracht ligt in de basis, HTML/CSS/JS, daarom Sveltekit omarmd. Snelle evolutie en vervanging van technologie, frameworks en tools -> leren, leren, leren. Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders en kan rond juni ingevuld worden.
 
 Blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties. Wordt ook belangrijker na vaststelling van toegankelijkheidswetgeving in 2025.
 
-Kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars
+Kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars. Vooralsnog bedienen we beide maar we blijven gericht op de font of the frontend. Deze keuze heeft nu al impact op de inhoud van het curriculum. In plaats van meer backend zijn 2 sprints meer naar de frontend toe bewogen.
 
-LLM’s - Komst van ML/AI en invloed op junior frontend functies.
+LLM’s en de hype er omheen - Komst van ML/AI en invloed op junior frontend functies. Beslissing Linux teams om AI-generated code te weigeren…
 
 ### Frontend op Ad niveau
 
@@ -33,13 +34,14 @@ Geluiden over ontwikkeling Ad Frontend aan de HAN, wellicht de oprichting van ee
 
 ### Leerresultaten
 
-Manier van veranderen uitleggen, jaarlijkse cyclus.
+De leerresultaten van FDND zijn vastgelegd in de [niveaumatrix](https://niveaumatrix.fdnd.nl), welke worden uitgesplitst aan de hand van de door het Overlegplatform Associate degree vastgestelde vijf Ad gedragscriteria. Elk van deze gedragscriteria worden weer beschreven door drie indicatoren. 
 
-Veranderingen in de niveaumatrix en reden van veranderen uitleggen.
+Onze niveaumatrix is prettig in gebruik: Docenten en studenten weten waar ze aan toe zijn omdat alles wat ze bij de opleiding doen: sprints, leer- en deeltaken, portfolio en assessments, gericht is op het niveau zoals beschreven in de matrix. Voor bedrijfsbegeleiders bij de stage geeft de matrix richting voor verwachtingen en houvast bij feedback die ze hun stagairs kunnen geven.
 
-Ervaring met de leerresultaten zoals die zijn opgesteld.
+Onze niveaumatrix wordt jaarlijks vastgesteld. Door middel van issues wordt inhoudelijk [feedback](https://github.com/fdnd/niveaumatrix.fdnd.nl/issues) opgehaald welke één maal per jaar wordt verwerkt in de vorm van een pull-request. Voor vaststelling - mergen van het pull-request - moeten meerdere docenten het eens zijn met de beoogde verandering en het pull-request reviewen en accorderen. Zie bijvoorbeeld de [aanpassingen voor schooljaar 2023/24](https://github.com/fdnd/niveaumatrix.fdnd.nl/pull/3). Bovendien worden [jaarlijkse releases](https://github.com/fdnd/niveaumatrix.fdnd.nl/releases) als archief bijgehouden zodat men altijd terug kan kijken naar matrices uit het verleden.
 
 ### Internationaal perspectief
+
 
 Gastsprekers, bronnen.. spelen met het idee van een internationaal opengestelde klas, native engelse SL, maar vooralsnog gerichtheid op metropoolregio Amsterdam.
 
