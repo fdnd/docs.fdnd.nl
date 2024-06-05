@@ -51,7 +51,31 @@ Bij FDND is het assessment hét summatieve toetsinstrument. Assessments vinden, 
 
 Per semester zijn er twee assessments, bij de endterm toont de student aan het leerresultaat te beheersen en bij de midterm laat de student zien onderweg te zijn naar het te behalen leerresultaat. Jaarlijks zijn er dus vier summatieve toetsmomenten, gezamenlijk 60EC, die een oordeel geven over de leergang van studenten. 
 
-Assessments worden voorbereid door het beoordelen van het ontwikkelportfolio van studenten.
+Assessments worden voorbereid door het beoordelen van het ontwikkelportfolio van studenten. Bij de voorbereiding houden assessoren de richtlijnen in acht.
+
+##### Richtlijnen voor het geven van feedback
+
+Geef een beknopte beschrijving van de bewijslast, noem hierbij de bewijslast expliciet en maak deze vetgedrukt. Hier zit nog geen mening in verwerkt maar is een feitelijke beschrijving van wat je aantreft.
+
+Loop door de facetten van de indicator en benoem welke onderdelen bewezen zijn, hierin ligt feitelijk de beoordeling. Afhankelijk van de volledigheid van de bewijslast zijn er twee opties:
+
+###### Optie 1: Er zijn nog niet bewezen facetten van de indicator
+
+Selecteer ‘hier is nog wat werk nodig’ (0 punten), dit betekent dat de bewijslast voor deze indicator nog niet volledig is. Benoem vervolgens in in het commentaarvak de facetten van de indicator die nog niet bewezen zijn. Formuleer vragen op basis van de nog niet bewezen facetten van de indicator zodat de student tijdens het assessment de mogelijkheid heeft deze aan te tonen.
+
+###### Optie 2: De bewijslast is volledig
+
+Selecteer afhankelijk van de kwaliteit van de bewijslast ‘Op cesuur’ (1 punt) of ‘Ophoging’ (2 punten). Als de bewijslast op cesuur is maar je als assessor vermoed dat er reden is voor ophoging kan je vragen formuleren om te polsen of ophoging terecht is.
+
+###### Tijdens het assessment
+
+Notulen zijn heel belangrijk! Allereerst biedt het de student de mogelijkheid de strekking van het gesprek terug te lezen. Daarnaast wordt bij steekproeven van de toets- of examencommissie én bij de accreditatie de kwaliteit van het FDND toetsproces afgemeten aan de validiteit, betrouwaarheid en transparantie. Kortom, de waarde en bewijslast van het gesprek moeten gereflecteerd worden in de notulen per indicator zodat duidelijk wordt waar het oordeel op gebaseerd is.
+
+In het advies onderaan het formulier benoem je na het gesprek de kracht van de student en algemene zaken die je opvallen, wellicht heb je nog wat tips voor de volgende periode. Ook kan je hier belangrijke leervragen van de student herhalen zodat deze in een helder overzicht te vinden zijn.
+
+###### Reparatie?
+In het geval van een reparatie beschrijf je per indicator wat gerepareerd moet worden en een suggestie hoe de student dit aan kan tonen. Dit doe je door het nummer van de indicator op te nemen en er achter te noteren wat je verwacht, bijvoorbeeld: 
+- **3.5.1**: Ga mailinglijsten volgen en écht artikelen lezen. Neem inzichten of een samenvatting op in jouw *i love web*-site.
 
 ##### Portfoliotoets (programmatisch toetsen)
 
