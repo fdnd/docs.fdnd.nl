@@ -543,7 +543,7 @@ section {
   & h5,
   & h6 {
     text-wrap: balance;
-    scroll-margin-top: calc(var(--gap) * 4.5);
+    scroll-margin-top: calc(var(--gap) * 4);
 
     & a:first-of-type {
       text-decoration: none;
