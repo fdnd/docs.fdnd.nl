@@ -74,7 +74,7 @@ function getNearestElement(elements, tagName) {
 }
 
 function updateParagraphButton() {
-  paragraphButton.innerHTML = currentParagraph?.firstChild.textContent || 'Paragraaf'
+  paragraphButton.innerHTML = currentParagraph?.textContent || 'Paragraaf'
 }
 
 function changeCurrentHeading(newHeading) {

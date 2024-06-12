@@ -9,7 +9,7 @@ import { h } from 'hastscript'
 export default function fdndWrap() {
   return function (tree, file) {
     let submenu = selectAll('h3', tree).map((element) => {
-      return h('li', h('a', { href: `#${element.properties.id}` }, element.children[0].children[0].value))
+      return h('li', h('a', { href: `#${element.properties.id}` }, element.children[1].value))
     })
 
     if (submenu.length > 0) {
