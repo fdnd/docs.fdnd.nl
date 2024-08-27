@@ -1,28 +1,50 @@
 # Onderwijs
 
+## Werkwijze
+
+### Leertaken
+Studenten werken aan de hand van leertaken.
+
+### Werken met issues
+elke stap van de totstandkoming van een taak wordt in een gh-issue vastgelegd (niet in wiki!).
+
+### Werken in teams
+gh-projects
+
 ## Studentbegeleiding
 
 Dit document beschrijft hoe wij door middel van afnemende sturing in de studentbenadering toewerken naar het ontwikkelen van een professionele identiteit gericht op zelfregulatie.
 
-### Checkpoints
+### Feedback
 
-Regulier worden checkpoints afgenomen op vrijdag, dit kunnen deel- of leertaken zijn. Checkpoints in semester 1 worden strak georganiseerd aan de hand van verschillende werkvormen. In semester 2 en 3 is sprake van afnemende sturing en worden studenten steeds meer geacht zelfstandig checkpoints te organiseren. Op maandag of woensdag is ruimte voor uitzonderingen, bijvoorbeeld voor studenten die er op een vrijdag niet konden zijn.
+Studenten ontvangen tijdens de sprints doorlopend feedback op het gemaakte werk in de vorm van issues op Github. Studenten ontvangen feedback van peers, co-teachers en opdrachtgevers en externen. Feedback geldt als een low-stake meetpunt in het programmatisch toetsmodel en wordt tijdens de retrospect gebruikt als basis voor bewijslast en reflectie.
 
-Checkpoints gaan altijd over de gedragscriteria. Ontvangen feedback wordt door studenten zelf in feedpulse opgenomen. Er zijn regels voor het schrijven van feedback, zie daarvoor het kopje hieronder.
+### Retrospect
 
-Docenten controleren de feedback en waarderen de inzet van studenten in de korte periode waar het checkpoint over gaat met een smiley. Smileys hebben geen connectie met het assessment of met summatieve beoordeling en vormen dus puur inzicht in hoe het op dat moment met de student gaat. Onder het kopje waardering staat in detail uitgelegd waar de smileys precies voor staan.
+Tijdens een retrospect reflecteren studenten aan de hand van de niveaumatrix op het gemaakte werk en het proces in de afgelopen sprint. Hierbij verzamelen ze bewijslast en schrijven ze hun reflectie in hun portfolio (Portflow). Het portfolio wordt gebruikt als basis voor het assessment (criteriumgericht interview).
 
-#### Feedback schrijven
+### Coaching en mentoring
 
-Direct na het bijwonen van een checkpoint maakt de student daarvan verslag in ~~Feedpulse~~ PortFlow van het betreffende semester. In dit verslag kan de student de volgende punten gebruiken:
-- Wat betekent de gedragsindicator in relatie tot de opdracht?
-- Neem een link op naar je wiki of code.
-- Beschrijf waarom dit goede bewijslast is voor deze gedragsindicator.
-- Heb je een leervraag?
-- Wat kreeg je voor feedback van de docent?
+Na reflectie tijdens de retrospect bespreekt de student diens voortgang en bewijslast met een squad-leader, co-teacher of mentor tijdens een coachgesprek. Hier worden waar nodig persoonlijke leervragen opgesteld en kunnen docenten sturen op studievoortgang. Indien gewenst maakt de coach of mentor een notitie in Portflow.
 
-Studenten schrijven feedback in correct Nederlands.
+### ~~Checkpoints~~
 
+~~Regulier worden checkpoints afgenomen op vrijdag, dit kunnen deel- of leertaken zijn. Checkpoints in semester 1 worden strak georganiseerd aan de hand van verschillende werkvormen. In semester 2 en 3 is sprake van afnemende sturing en worden studenten steeds meer geacht zelfstandig checkpoints te organiseren. Op maandag of woensdag is ruimte voor uitzonderingen, bijvoorbeeld voor studenten die er op een vrijdag niet konden zijn.~~
+
+~~Checkpoints gaan altijd over de gedragscriteria. Ontvangen feedback wordt door studenten zelf in feedpulse opgenomen. Er zijn regels voor het schrijven van feedback, zie daarvoor het kopje hieronder.~~
+
+~~Docenten controleren de feedback en waarderen de inzet van studenten in de korte periode waar het checkpoint over gaat met een smiley. Smileys hebben geen connectie met het assessment of met summatieve beoordeling en vormen dus puur inzicht in hoe het op dat moment met de student gaat. Onder het kopje waardering staat in detail uitgelegd waar de smileys precies voor staan.~~
+
+#### ~~Feedback schrijven~~
+
+~~Direct na het bijwonen van een checkpoint maakt de student daarvan verslag in Feedpulse PortFlow van het betreffende semester. In dit verslag kan de student de volgende punten gebruiken:~~
+- ~~Wat betekent de gedragsindicator in relatie tot de opdracht?~~
+- ~~Neem een link op naar je wiki of code.~~
+- ~~Beschrijf waarom dit goede bewijslast is voor deze gedragsindicator.~~
+- ~~Heb je een leervraag?~~
+- ~~Wat kreeg je voor feedback van de docent?~~
+
+~~Studenten schrijven feedback in correct Nederlands.~~
 
 #### ~~Feedback waarderen~~
 
@@ -35,15 +57,15 @@ Studenten schrijven feedback in correct Nederlands.
 
 ~~Als docent bevestig je de feedback door een kort berichtje te typen. Je kunt dan aangeven of het in orde is of dat de student nog een belangrijk punt van feedback gemist heeft.~~
 
-#### Verhouding checkpoints assessments
+#### ~~Verhouding checkpoints assessments~~
 
-Doel van deze verandering is onderscheid te kunnen maken tussen formele, beoordelende assesments en programmatisch toetsen waarbij studenten een cijfer krijgen op basis van hun portfolio en reflectie in Feedpulse.
+~~Doel van deze verandering is onderscheid te kunnen maken tussen formele, beoordelende assesments en programmatisch toetsen waarbij studenten een cijfer krijgen op basis van hun portfolio en reflectie in Feedpulse.~~
 
-- Alles in orde en lekker op weg: beoordeling aan de hand van portfolio en een presentatie als overgangsmoment tussen fases in de opleiding.
+- ~~Alles in orde en lekker op weg: beoordeling aan de hand van portfolio en een presentatie als overgangsmoment tussen fases in de opleiding.~~
 
-- Docenten hebben twijfels: Formeel criteriumgericht interview (assessment) aan de hand van de gedragscriteria om die twijfels weg te nemen
+- ~~Docenten hebben twijfels: Formeel criteriumgericht interview (assessment) aan de hand van de gedragscriteria om die twijfels weg te nemen~~
 
-Todo: Hoe zorgen we voor meer ruimte bij de roostering van assessments.
+~~Todo: Hoe zorgen we voor meer ruimte bij de roostering van assessments.~~
 
 #### Assessments
 
@@ -79,7 +101,7 @@ In het geval van een reparatie beschrijf je per indicator wat gerepareerd moet w
 
 ##### Portfoliotoets (programmatisch toetsen)
 
-Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast per indicator tijdens deze meetpunten vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
+Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast per criterium aan de hand van indicatoren vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
 
 In de laatste sprint voorafgaand aan het assessment worden door de squad-leader en co-teacher(s) van een squad alle ontwikkelportfolia doorgenomen. Bevindingen worden als draft vastgelegd in het beoordelingsformulier in DLO. Deze portfoliotoets is indicatief voor het type assessment wat een student zal afleggen. Er zijn twee vormen assessments.
 
@@ -95,31 +117,30 @@ Als squad-leader en co-teacher(s) gedurende de programmatische toetsing twijfele
 
 De voorbereiding voor de student is hetzelfde, deze bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria. In plaats van een presentatie wordt de student gedurende 20 minuten geïnterviewd over de hiaten in diens bewijslast. Daarna nemen de assessoren 10 minuten voor het definitief vaststellen van een summatief oordeel.
 
-###### Organisatie
+###### ~~Organisatie~~
 
-Wat doen tribe-leaders qua schema en wanneer kan dit verwacht worden door studenten en docenten.
+~~Wat doen tribe-leaders qua schema en wanneer kan dit verwacht worden door studenten en docenten.~~
 
+#### ~~Checkpoints blok 1~~
 
-#### Checkpoints blok 1
+~~Voor blok 1 hebben we een beknopte beschrijving van de manier van invullen van de checkpoints. Dit om het principe afnemende sturing goed invulling te geven in deze cruciale fase van de studie.~~
 
-Voor blok 1 hebben we een beknopte beschrijving van de manier van invullen van de checkpoints. Dit om het principe afnemende sturing goed invulling te geven in deze cruciale fase van de studie.
+##### ~~Sprint 1~~
 
-##### Sprint 1
+~~In groepjes van 12 met een docent, in de eigen squad~~
 
-In groepjes van 12 met een docent, in de eigen squad
+~~Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Daarna indicator Y, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Onder begeleiding van een docent, geleide feedback sessies.~~
 
-Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Daarna indicator Y, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Onder begeleiding van een docent, geleide feedback sessies.
+##### ~~Sprint 2~~
 
-##### Sprint 2
+~~In groepjes van 5, in eigen squad, docent loopt rond~~
+~~Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.~~
 
-In groepjes van 5, in eigen squad, docent loopt rond
-Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.
+##### ~~Sprint 3~~
 
-##### Sprint 3
+~~In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.~~
 
-In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.
-
-Zeggen dat ze gaan reflecteren op indicatoren.
+~~Zeggen dat ze gaan reflecteren op indicatoren.~~
 
 ### Aanspreken op niveau
 

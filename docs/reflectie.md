@@ -10,13 +10,11 @@ De opleiding Frontend Design & Development (FDND) wordt doorlopend en in overleg
 
 ### Visie op het beroep
 
-De door ons in 2020 opgestelde [visie op het beroep](/TNO-dossier.html#visie-op-het-beroep) lijkt de tand des tijds aardig te doorstaan. Wel zijn er een aantal ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt in moordend tempo en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. Maar ook nieuwe uitdagingen zoals het ontstaan van iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)) en de iv) opkomst van het fenomeen *Large Language Model (LLM)* en de impact op het werk van frontend design & developers.
+De door ons in 2020 opgestelde [visie op het beroep](/TNO-dossier.html#visie-op-het-beroep) lijkt de tand des tijds te doorstaan. In het vakgebied zijn een aantal ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt in moordend tempo en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. Maar ook nieuwe uitdagingen zoals het ontstaan van iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)) en de iv) opkomst van het fenomeen *Large Language Model (LLM)* en de impact op het werk van frontend design & developers.
 
-De halfwaardetijd van kennis met betrekking tot libraries, frameworks en tooling is in het frontendvakgebied vrij kort. Daarentegen verandert er in de basis van HTML/ CSS/ JS minder: Weliswaar zijn er maandelijks uitbreidingen op CSS, het selecteren van HTML elementen om stijlregels te koppelen is nog steeds hetzelfde en ook is de semantiek van HTML elementen al jaren gelijk.
+De halfwaardetijd van kennis met betrekking tot libraries, frameworks en tooling is in het frontendvakgebied vrij kort. Daarentegen verandert er in de basis van webtechnologie HTML/ CSS/ JS minder. Natuurlijk zijn er maandelijks uitbreidingen op CSS, het selecteren van HTML elementen om stijlregels te koppelen is nog steeds hetzelfde en ook de semantiek van HTML elementen is al jaren gelijk. Die tweeledigheid wordt gereflecteerd in de inhoud van het curriculum, we bieden studenten een stevige basis én de capaciteit verandering te omarmen.
 
-Onze kracht ligt in de basis, HTML/CSS/JS, daarom Sveltekit omarmd. Snelle evolutie en vervanging van technologie, frameworks en tools -> leren, leren, leren. Inzichten (werkwijze, tech-stack, niveaumatrix) uit de stageperiode meenemen, die krijgen we terug van stagebegeleiders en kan rond juni ingevuld worden.
-
-Blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties. Wordt ook belangrijker na vaststelling van toegankelijkheidswetgeving in 2025.
+ Het vakgebied vraagt ook wat van docenten, die hebben een blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties waarbij met name toegankelijkheid belangrijker na invoering van aangekondigde wetgeving 2025. Docenten houden ontwikkelingen bij, leren van elkaar en bezoeken conferenties. Daarmee garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
 
 Kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars. Vooralsnog bedienen we beide maar we blijven gericht op de font of the frontend. Deze keuze heeft nu al impact op de inhoud van het curriculum. In plaats van meer backend zijn 2 sprints meer naar de frontend toe bewogen.
 
@@ -24,26 +22,21 @@ LLM’s en de hype er omheen - Komst van ML/AI en invloed op junior frontend fun
 
 ### Frontend op Ad niveau
 
-Verwijzing naar opgesteld verschil niveau 5/6/7 uit de TNO.
+Vooralsnog zijn we de enige Ad Frontend en daarom schreven wij tijdens de TNO ons eigen profiel. Wij hebben beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) op pagina 15. Ook hebben we [onze leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de bijbehorende gedragscriteria en -indicatoren getoetst aan het landelijk profiel CMD, HBO-ICT, de kwaliteitsraamwerken NLQF en EQF, de Dublin Descriptoren en tenslotte het e-Competence framework.
 
-Vooralsnog zijn we de enige Ad Frontend, dus wij schrijven het landelijk profiel. We zitten te springen om partnerschap, via Chain 5 contact gelegd met Pixel Antwerpen, alhoewel niet precies hetzelfde zijn er 2 practoraten Web-development en Web-design, eerste overleg moet nog plaats vinden.
-
-Terugblik op de verhouding tot de profielen, voldoen ze nog? HBO-ICT model, CMD model, Europees digitaal passport etc.
-
-Geluiden over ontwikkeling Ad Frontend aan de HAN, wellicht de oprichting van een Landelijk Associate degree Overleg (LAdO).
+Wij missen vergelijkbare opleidingen. Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Er waren geluiden over ontwikkeling van een Associate degree richting Frontend aan de HAN, wellicht biedt dit de mogelijkheid voor oprichting van een nieuw LAdO. Tot die tijd zoeken wij partnerschap buiten Nederland. Via Chain 5 zijn we in contact gekomen met Pixel Antwerpen. Alhoewel de gerichtheid niet precies is zijn daar 2 practoraten, Web-development en Web-design. Een eerste officieel overleg moet nog plaats vinden.
 
 ### Leerresultaten
 
-De leerresultaten van FDND zijn vastgelegd in de [niveaumatrix](https://niveaumatrix.fdnd.nl), welke worden uitgesplitst aan de hand van de door het Overlegplatform Associate degree vastgestelde vijf Ad gedragscriteria. Elk van deze gedragscriteria worden weer beschreven door drie indicatoren. 
+Onze leerresultaten van zijn vastgelegd in de [niveaumatrix](https://niveaumatrix.fdnd.nl), welke worden uitgesplitst aan de hand van de door het Overlegplatform Associate degree vastgestelde vijf Ad gedragscriteria. Elk van deze gedragscriteria worden weer beschreven door drie indicatoren.
 
-Onze niveaumatrix is prettig in gebruik: Docenten en studenten weten waar ze aan toe zijn omdat alles wat ze bij de opleiding doen: sprints, leer- en deeltaken, portfolio en assessments, gericht is op het niveau zoals beschreven in de matrix. Voor bedrijfsbegeleiders bij de stage geeft de matrix richting voor verwachtingen en houvast bij feedback die ze hun stagairs kunnen geven.
+Onze niveaumatrix is prettig in gebruik: Docenten en studenten weten waar ze aan toe zijn omdat alles wat ze bij de opleiding doen: sprints, leer- en deeltaken, portfolio en assessments, gericht is op het niveau zoals beschreven in de matrix. Daarnaast geeft de matrix bedrijfsbegeleiders tijdens de stage richting en houvast bij het geven van feedback.
 
-Onze niveaumatrix wordt jaarlijks vastgesteld. Door middel van issues wordt inhoudelijk [feedback](https://github.com/fdnd/niveaumatrix.fdnd.nl/issues) opgehaald welke één maal per jaar wordt verwerkt in de vorm van een pull-request. Voor vaststelling - mergen van het pull-request - moeten meerdere docenten het eens zijn met de beoogde verandering en het pull-request reviewen en accorderen. Zie bijvoorbeeld de [aanpassingen voor schooljaar 2023/24](https://github.com/fdnd/niveaumatrix.fdnd.nl/pull/3). Bovendien worden [jaarlijkse releases](https://github.com/fdnd/niveaumatrix.fdnd.nl/releases) als archief bijgehouden zodat men altijd terug kan kijken naar matrices uit het verleden.
+Onze niveaumatrix wordt jaarlijks vastgesteld. Door middel van issues wordt inhoudelijk [feedback](https://github.com/fdnd/niveaumatrix.fdnd.nl/issues) opgehaald welke één maal per jaar wordt verwerkt in de vorm van een *pull-request*. Voor vaststelling (lees: *mergen*) moeten meerdere docenten het eens zijn met de beoogde verandering door middel van *review* en *accordering*. Zie bijvoorbeeld de [aanpassingen voor schooljaar 2023/24](https://github.com/fdnd/niveaumatrix.fdnd.nl/pull/3). Bovendien worden [jaarlijkse releases](https://github.com/fdnd/niveaumatrix.fdnd.nl/releases) als archief bijgehouden zodat men altijd terug kan kijken naar matrices uit het verleden.
 
 ### Internationaal perspectief
 
-
-Gastsprekers, bronnen.. spelen met het idee van een internationaal opengestelde klas, native engelse SL, maar vooralsnog gerichtheid op metropoolregio Amsterdam.
+Het frontend vakgebied is internationaal maar onze voertaal is Nederlands. Zodoende is veel van het bronmateriaal wat wij studenten aanreiken Engelstalig. Scroll voor een indruk even door de [BOKSA](/boksa.html), een document dat doorlopend in ontwikkeling is. Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) een gastspreker uit, vaak zijn dit internationale sprekers. Onze afstudeerders vinden een baan als frontender in de metropoolregio Amsterdam.
 
 ### Na afronding
 
