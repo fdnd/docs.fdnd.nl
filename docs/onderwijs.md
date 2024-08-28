@@ -1,19 +1,35 @@
 # Onderwijs
 
+Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handvatten aan docenten en studenten. Het waarom oftewel de didactische onderbouwing staat in het [TNO-dossier](./tno-dossier.md).
+
 ## Werkwijze
 
-### Leertaken
-Studenten werken aan de hand van leertaken.
+
+### Leer- en deeltaken
+
+Studenten werken aan de hand van leer- en deeltaken die in overeenstemming met de niveaumatrix door docenten zijn opgesteld gericht op het behalen van het leerresultaat. Leertaken zijn verzameld in de Github organisatie [FDND-task](https://github.com/fdnd-task) en voorzien van labels om de volgorde in het programma te verhelderen.
+
+Bij de (door)ontwikkeling van leertaken worden de principes afnemende sturing en toenemende complexiteit gehanteerd. Kort gezegd worden leertaken moeilijker naarmate het programma vordert en verandert [de manier van aanspreken](#aanspreken-op-niveau).
 
 ### Werken met issues
-elke stap van de totstandkoming van een taak wordt in een gh-issue vastgelegd (niet in wiki!).
+
+Tijdens het werken aan een leertaak worden meerdere stappen genomen waarbij beroepsproducten worden ontworpen en ontwikkeld. Studenten delen een grote leertaak op in behapbare stukjes werk welke als issue worden toegevoegd op de betreffende repository. Elke stap van de totstandkoming van een taak wordt op deze manier door de student vastgelegd in Github issues. Dit is ook de plaats waar studenten inhoudelijke [feedback](#feedback) op hun gemaakte werk ontvangen, persoonlijke feedback wordt vastgelegd in het [learning journal](#learning-journal).
 
 ### Werken in teams
-gh-projects
+
+Als frontender werk je meestal in teams en dus moeten studenten vaardigheid in samenwerken ontwikkelen. Omdat leertaken al opgesplitst worden in issues kan bij teamwerk gebruik gemaakt worden van een Github project board. Deze functionaliteit ligt al besloten in het werken met issues en spiegelt de manier van werken in de beroepspraktijk.
+
+### Learning journal
+
+Het learning journal kent een routinematig deel en een etalage; bijvoorbeeld een blog, linkdump of digital garden. Er is een speciale leertaak genaamd [i love web](https://github.com/fdnd-task/i-love-web) waarin het learning journal in principe wordt bijgehouden.
+
+Het routinematige deel wordt dagelijks bijgehouden in de vorm van een *daily-checkout* of *one-minute-paper*. Aantekeningen uit een talk, we-love-web, een link naar een blogpost of andere bron, sketchnotes of iets interessants wat ze bij een medestudent of mentor gezien hebben worden hier verzameld. We vragen ze ook om dagelijks 3 studievragen op te stellen over hetgeen ze geleerd hebben (link naar theorie?). Studenten ontwikkelen op deze manier in de loop van de opleiding de gewoonte om datgene wat ze leren vast te leggen, hier zit namelijk een schat aan bewijslast voor assessments. Docenten sturen op het bijhouden van aantekeningen tijdens [coaching en mentoring](#coaching-en-mentoring) sessies.
+
+De vorm van de etalage is vrij, studenten worden gestimuleerd om door middel van Github pages een eigen vette, creatieve weblog, link dump, of digital garden te maken. (20% regel + link naar artikel?)
 
 ## Studentbegeleiding
 
-Dit document beschrijft hoe wij door middel van afnemende sturing in de studentbenadering toewerken naar het ontwikkelen van een professionele identiteit gericht op zelfregulatie.
+Door middel van afnemende sturing in de studentbenadering werken we toe naar het ontwikkelen van een professionele identiteit gericht op zelfregulatie.
 
 ### Feedback
 
@@ -67,7 +83,7 @@ Na reflectie tijdens de retrospect bespreekt de student diens voortgang en bewij
 
 ~~Todo: Hoe zorgen we voor meer ruimte bij de roostering van assessments.~~
 
-#### Assessments
+## Assessments
 
 Bij FDND is het assessment hét summatieve toetsinstrument. Assessments vinden, met uitzondering van het eindassessment, plaats in week tien van ieder blok. Bij elk assessment ontvangt de student, mits ze die met een voldoende behaald, 15EC. Haalt de student het assesment niet dan is er mogelijkheid voor reparatie aan het eind van de eerstvolgende of daarop volgende sprint.
 
@@ -75,43 +91,43 @@ Per semester zijn er twee assessments, bij de endterm toont de student aan het l
 
 Assessments worden voorbereid door het beoordelen van het ontwikkelportfolio van studenten. Bij de voorbereiding houden assessoren de richtlijnen in acht.
 
-##### Richtlijnen voor het geven van feedback
+### Richtlijnen voor het geven van feedback
 
 Geef een beknopte beschrijving van de bewijslast, noem hierbij de bewijslast expliciet en maak deze vetgedrukt. Hier zit nog geen mening in verwerkt maar is een feitelijke beschrijving van wat je aantreft.
 
 Loop door de facetten van de indicator en benoem welke onderdelen bewezen zijn, hierin ligt feitelijk de beoordeling. Afhankelijk van de volledigheid van de bewijslast zijn er twee opties:
 
-###### Optie 1: Er zijn nog niet bewezen facetten van de indicator
+#### Optie 1: Er zijn nog niet bewezen facetten van de indicator
 
 Selecteer ‘hier is nog wat werk nodig’ (0 punten), dit betekent dat de bewijslast voor deze indicator nog niet volledig is. Benoem vervolgens in in het commentaarvak de facetten van de indicator die nog niet bewezen zijn. Formuleer vragen op basis van de nog niet bewezen facetten van de indicator zodat de student tijdens het assessment de mogelijkheid heeft deze aan te tonen.
 
-###### Optie 2: De bewijslast is volledig
+#### Optie 2: De bewijslast is volledig
 
 Selecteer afhankelijk van de kwaliteit van de bewijslast ‘Op cesuur’ (1 punt) of ‘Ophoging’ (2 punten). Als de bewijslast op cesuur is maar je als assessor vermoed dat er reden is voor ophoging kan je vragen formuleren om te polsen of ophoging terecht is.
 
-###### Tijdens het assessment
+#### Tijdens het assessment
 
 Notulen zijn heel belangrijk! Allereerst biedt het de student de mogelijkheid de strekking van het gesprek terug te lezen. Daarnaast wordt bij steekproeven van de toets- of examencommissie én bij de accreditatie de kwaliteit van het FDND toetsproces afgemeten aan de validiteit, betrouwaarheid en transparantie. Kortom, de waarde en bewijslast van het gesprek moeten gereflecteerd worden in de notulen per indicator zodat duidelijk wordt waar het oordeel op gebaseerd is.
 
 In het advies onderaan het formulier benoem je na het gesprek de kracht van de student en algemene zaken die je opvallen, wellicht heb je nog wat tips voor de volgende periode. Ook kan je hier belangrijke leervragen van de student herhalen zodat deze in een helder overzicht te vinden zijn.
 
-###### Reparatie?
+#### Reparatie?
 In het geval van een reparatie beschrijf je per indicator wat gerepareerd moet worden en een suggestie hoe de student dit aan kan tonen. Dit doe je door het nummer van de indicator op te nemen en er achter te noteren wat je verwacht, bijvoorbeeld: 
 - **3.5.1**: Ga mailinglijsten volgen en écht artikelen lezen. Neem inzichten of een samenvatting op in jouw *i love web*-site.
 
-##### Portfoliotoets (programmatisch toetsen)
+### Portfoliotoets (programmatisch toetsen)
 
 Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast per criterium aan de hand van indicatoren vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
 
 In de laatste sprint voorafgaand aan het assessment worden door de squad-leader en co-teacher(s) van een squad alle ontwikkelportfolia doorgenomen. Bevindingen worden als draft vastgelegd in het beoordelingsformulier in DLO. Deze portfoliotoets is indicatief voor het type assessment wat een student zal afleggen. Er zijn twee vormen assessments.
 
-###### Presentatie
+#### Presentatie
 
 Als squad-leader en co-teacher(s) gedurende de portfoliotoets oordelen dat de student op niveau is, dan volgt summatieve beoordeling op basis van een presentatie over de verhouding van de bewijslast tot het leerresultaat. Het is zeer onwaarschijnlijk dat een onvoldoende volgt maar uitzonderingen zijn natuurlijk mogelijk.
 
 De student bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria, en demonstreert in 10 minuten het leerresultaat te beheersen. Docenten nemen daarna 10 minuten voor het stellen van vragen en tenslotte 10 minuten voor het definitief vaststellen van een summatief oordeel.
 
-###### Criterium gericht interview
+#### Criterium gericht interview
 
 Als squad-leader en co-teacher(s) gedurende de programmatische toetsing twijfelen over het niveau van de student omdat er onvoldoende bewijslast bij bepaalde criteria/indicatoren is dan volgt een criterium gericht interview. Assessoren nemen 30 minuten om het CGI voor te bereiden. Ze stellen op basis van het draft in DLO vragen op om de hiaten in de bewijslast aan de kaak te stellen. De student kan tijdens het interview meer inzicht geven en dus bewijs leveren voor de ontbrekende onderdelen.
 
@@ -142,11 +158,11 @@ De voorbereiding voor de student is hetzelfde, deze bereidt een presentatie voor
 
 ~~Zeggen dat ze gaan reflecteren op indicatoren.~~
 
-### Aanspreken op niveau
+## Aanspreken op niveau
 
 Aan de hand van het artikel Concept to Code van Ryan Betts (2017) spreken wij gedurende de opleiding studenten aan op een steeds complexer niveau.
 
-#### Semester 1: The enthusiast
+### Semester 1: The enthusiast
 
 > Enthusiasts understand the principles of code, and no more. They may have tried their hands at writing code once or twice, but didn’t necessarily enjoy it—at least not yet. Most importantly, they understand the thought and process that goes into writing code. Remember when you were first exploring user experience? Enthusiasts can:
 >
@@ -161,7 +177,7 @@ Docent: In dit artikel staan de verschillende states toegelicht. Je hebt geen \<
 
 _Gedragsindicator 1.5.2 Maakt aangeboden materie eigen en gebruikt dit bij leertaken._
 
-#### Semester 2: The mash-up artist
+### Semester 2: The mash-up artist
 
 > Further along the continuum are the mash-up artists—people whose code curiosity has blossomed. They’ve learned enough about code and feel comfortable enough to start playing with it. Mash-up artists are able to:
 >
@@ -177,7 +193,7 @@ Docent: Geen idee? Zoek eens op MDN wat het verschil is en laat me weten welke j
 
 _Gedragsindicator 2.5.2 Maakt aangeboden en zelf gevonden materie eigen en gebruikt dit bij leertaken, deelt ervaring binnen de squad._
 
-#### Semester 3: The inventor
+### Semester 3: The inventor
 
 > The inventor is well equipped for an environment where UX best practices are non-existent or in a constant state of flux. The inventor knows:
 >
@@ -194,13 +210,13 @@ Docent: Wat denk je dat je moet doen? Is er een tutorial om Sveltekit te leren?
 
 _Gedragsindicator 3.5.2 Maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen._
 
-#### Semester 4: Zelfregulatie
+### Semester 4: Zelfregulatie
 
 Studenten bewijzen zelfstandig dat ze het leerresultaat beheersen. Docenten praten over het bewijsmateriaal en bijbehorende indicatoren. Inhoudelijke hulp halen ze bij jaargenoten, op het internet of bij professionals. Als ze oplossingen vinden die het delen waard zijn brengen ze dat in de groep. Docenten verwijzen naar de groep.
 
 _Gedragsindicator 4.5.2 Maakt zelfstandig nieuwe materie eigen, gebruikt dit bij beroepstaken, deelt ervaring met belanghebbenden en leert van anderen._
 
-Bron: Betts, Ryan, Concept to code, Ux Magazine, 2017, https://uxmag.com/articles/concept-to-code
+Bron: [Betts, Ryan, Concept to code, Ux Magazine, 2017](https://uxmag.com/articles/concept-to-code)
 
 Bron: Grootendorst, Annemiek, Professionele Identiteit ontwikkelen gedurende de hbo-opleiding, 2019, HRO
 
