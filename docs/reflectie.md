@@ -1,6 +1,6 @@
 # Kritische reflectie
 
-In dit document reflecteert FDND ten behoeve van de Midterm Review op 21 november 2024 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](/TNO-dossier.html) welke eveneens op deze website te vinden is. In dat document staat immers de beoogde en vergunde opleiding beschreven. We lopen met het docententeam, de opleidingscommissie, de studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragraven waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en volgt qua opbouw de standaarden van de NVAO.
+In dit document reflecteert FDND ten behoeve van de Midterm Review op 21 november 2024 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](/TNO-dossier.html) welke eveneens op deze website te vinden is. In dat document staat immers de beoogde en vergunde opleiding beschreven. We lopen met het docententeam, de opleidingscommissie, de studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en volgt qua opbouw de standaarden van de NVAO.
 
 ## Standaard 1: Beoogde leer­resultaten
 
