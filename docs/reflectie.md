@@ -72,6 +72,10 @@ Wij zijn blij, wijze van evalueren HEAL structuur uitleggen.
 Studenten zijn overwegend blij, blokenquetes, NSE resultaten.
 
 ### Praktijkvraagstukken in een rijke leeromgeving
+Studenten werken tijdens de opleiding continu voor echte opdrachtgevers aan echte projecten. Langlopende projecten krijgen in samenwerking met de opdrachtgevers steeds meer betekenis en urgentie. Dit zorgt merkbaar voor meer betrokkenheid en inzet bij studenten. In het kader van afnemende sturing kunnen studenten gedurende de opleiding steeds meer de verantwoordelijkheid nemen over een project. Uiteindelijk kan in semester 4 een student bijvoorbeeld alleen verantwoordelijk zijn voor een project en een adviserende rol naar de opdrachtgever innemen (bijvoorbeeld Ryan @ Vervoerregio). De projecten lopen door alle semesters heen; waar studenten in semester 1: Static Web eenvoudigere vraagstukken oppakken, wordt de complexiteit geleidelijk hoger in de opvolgende semesters. Hiermee hebben we invulling gegeven aan het principe van afnemende sturing en toenemende complexiteit uit de HILL theorie _[BRON TOEVOEGEN]_ 
+
+De studenten werken taakgericht aan de projecten in onze agile workspace. Hierbij krijgen ze ondersteuning van docenten en co-teachers. De co-teachers zijn, in het vakgebied actieve, frontend-experts. Eerstejaars- en tweedejaarsstudenten werken samen aan projecten. De tweedejaarsstudenten nemen hierbij een mentorrol in. Daarnaast werken onze studenten regelmatig samen aan de projecten met studenten van andere opleidingen (CMD, SE MBO en SE AD, HBO-ICT). Hierdoor krijgt het team nog meer het karakter van een multidisciplinair team en wordt de beroepspraktijk nog beter nagebootst. Al deze aspecten dragen bij aan een rijke leeromgeving.
+
 
 > Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. <cite>Student in de blokenquete</cite>
 
