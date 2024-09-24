@@ -117,43 +117,39 @@ Mentor rol: De inzet 2e jaars in begeleiding van 1e jaars.
 
 ### Vrije ruimte
 
-Alle opties opsommen en individuele studenten laten reflecteren op hoe dat gaat
-Mogelijkheden opsommen, learnings op een rij, ervaring van studenten en docenten.
+In het eerste blok van semester 4 in de opleiding, halverwege het 2e jaar, hebben studenten de zogenaamde vrije ruimte. Studenten kunnen 15 EC naar eigen inzicht invullen, lijkend op de minor uit bacheloropleidingen. Verschil met een traditionele minor is dat studenten tijdens hun vrije ruimte ongeacht de keuze gewoon hun portfolio vullen met bewijslast en bij FDND beoordeeld worden middels een assessment. 
 
-- 10 weken stage
-- 20 weken stage
-- FDND-Agency
-- Minor ondernemerschap
-- Onderwijs bij een andere Ad
-- Schakelprogramma CMD
+Studenten kunnen hun vrije ruimte op verschillende manieren invullen.
 
 #### Stage
 
-10 of 20 weken
+Studenten kunnen stagelopen bij een frontend gerichte onderneming. Een belangrijke eis hierbij is dat er binnen de onderneming een senior frontender is die ruimte heeft om de student tijdens de stage te begeleiden.
 
-Stagebegeleider aan het woord
+In het geval van een 10 weken stage loopt de student mee als frontender. Na de stage doet de student de meesterproef bij FDND-Agency. Studenten kunnen ook kiezen voor een 20 weken stage. Tijdens de tweede helft voert de student de meesterproef uit bij het stagebedrijf. De student moet in dit geval eindverantwoording krijgen voor een project bij het bedrijf.
 
-#### Schakelprogamma CMD
+[citaat stagebegeleider]
 
-Docent van CMD aan het woord
+#### FDND Agency
 
-Alumnus schakelaar aan het woord (Shauri)
+Studenten kunnen bij FDND ook intern stagelopen. FDND-Agency is een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien. Het verschil met de eerdere drie semesters is dat studenten zelf eindverantwoordelijk zijn voor hun projecten en daarbij geen ondersteunende lessen krijgen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen en geven feedback en handelen *pull-requests* af.
 
-Huidige schakelaar aan het woord
+[citaat FDND-student]
 
-#### Minor Ondernemen
+#### Minor ondernemerschap
 
-Op bachelorniveau, afstuderen in je eigen agency!
+Studenten kunnen de minor ondernemerschap, gericht op bachelorstudenten, als Ad student volgen. Onze enige eis is dat ze websites maken, bijvoorbeeld de marketinguitingen van een onderneming. Op deze manier kunnen studenten bij FDND afstuderen binnen hun eigen onderneming.
 
-Begeleider van de minor aan het woord.
+[citaat Rosa]
 
-Ervaring van Rosa, Joelle en Sander
+#### Onderwijs bij een andere FDMCI Ad
 
-#### Blok les bij een andere FDMCI Ad
+Wij hebben in de vrije ruimte ook uitwisseling met de andere Ad’s van FDMCI. FDND studenten kunnen een blok lessen volgen bij Smart Media Production, Cybersecurity of Software Development. Tot nu toe is er één student die in schooljaar 2023/24 onderwijs gevolgd heeft bij Cybersecurity.
 
-Ervaring Michael (CS)
+#### Schakelprogramma CMD
 
-Ervaring Fatih
+Tenslotte kunnen studenten het schakelprogramma voor doorstroom naar de CMD Bachelor volgen. Ze krijgen een selectie vakken aangeboden die gericht zijn op theoretische diepgang en onderzoek ten behoeve van het ontwerpproces omdat dat bij FDND onderbelicht blijft. In schooljaar 2022/23 hebben twee, en in schooljaar 2023/24 vijf studenten deelgenomen aan het schakelprogramma.
+
+[citaat Shauri of Emona]
 
 ### Afstudeerprogramma
 
