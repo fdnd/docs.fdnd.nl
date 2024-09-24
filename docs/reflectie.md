@@ -36,13 +36,15 @@ Onze niveaumatrix wordt jaarlijks vastgesteld. Door middel van issues wordt inho
 
 ### Internationaal perspectief
 
-Het frontend vakgebied is internationaal maar onze voertaal is Nederlands. Veel van het bronmateriaal wat wij studenten aanreiken is Engelstalig. Scroll voor een indruk even door de [BOKSA](/boksa.html), een document dat doorlopend in ontwikkeling is. Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) een gastspreker uit, vaak zijn dit internationale sprekers. Onze afstudeerders vinden na hun studie een baan als frontender in de metropoolregio Amsterdam.
+Het frontend vakgebied is internationaal maar onze voertaal is Nederlands. Veel van het bronmateriaal wat wij studenten aanreiken is Engelstalig. Scroll voor een indruk even door de [BOKSA](/boksa.html), een document dat doorlopend in ontwikkeling is.
+
+Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) een gastspreker uit, vaak zijn dit internationale sprekers. Onze afstudeerders vinden na hun studie een baan als frontender in de metropoolregio Amsterdam.
 
 ### Na afronding
 
 Statistieken
 
-Reactie van stagebedrijven in de vorm van een aantal citaten..
+Reactie van stagebedrijven in de vorm van een aantal citaten.
 
 Reflectie vanuit de 1e lichting..
 
@@ -64,9 +66,13 @@ De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige 
 
 ### Didactisch concept
 
-Wij zijn blij, wijze van evalueren HEAL structuur uitleggen. 
+We zijn kritisch op onze geleverde prestaties. Zoals bij elk nieuw te ontwikkelen onderwijsprogramma zijn er weeffoutjes of kinderziektes die pas opvallen als het programma draait. Om hiermee om te gaan hanteren we een iteratieve aanpak. Aan het eind van elk semester vindt een zogenaamde [Higher Education Agile Learning (HEAL)](/organisatie.html#higher-education-agile-learning-heal) sessie plaats waarin wij het onderwijs evalueren middels een [retrospect](/organisatie.html#retrospect). Hierbij inzichten en verbeterpunten uit twee van dit soort sessies:
 
-Studenten zijn overwegend blij, blokenquetes, NSE resultaten.
+> Het hele eerste blok is een _onboarding_ periode, we hadden in het ontwerp de eerste sprint aangemerkt maar dit is bij lange na niet het eind van het wennen aan ons onderwijsmodel. Daarnaast is eind semester 1 voor studenten het startpunt in plaats van het eindpunt voor het omarmen van de webtechnieken HTML/CSS/JS. - inzicht uit retrospect 9 maart 2023
+
+> S4: Er is piekbelasting in de laatste week voor de assessments. Het beoordelen van portfolia, met name in semester 4, kost te veel tijd. De bewijslast moet volledig in Portflow, nu linken studenten vaak door en staat het bewijs extern en de reflectie/onderbouwing in Portflow. S1-4: De uitvoer van checkpoints voelt als afvinklijst en studenten halen er niet altijd de formatieve waarde uit (zien het als ‘moetje’). We herontwerpen het programmatisch toetsproces zonder de doelen daarvan uit het oog te verliezen. We willen hierbij meer richten op de vijf criteria ipv. de 15 indicatoren. S1-3: We willen talks meer actionable maken. 80% leertaken 20% tijd voor eigen site/portfolio/garden. - selectie verbeterpunten uit retrospect 1 juli 2024
+
+Studenten zijn overwegend blij, dit blijkt uit prachtige NSE resultaten en de blokenquetes.
 
 ### Praktijkvraagstukken in een rijke leeromgeving
 Studenten werken tijdens de opleiding continu aan échte projecten voor échte opdrachtgevers. Langlopende projecten krijgen in samenwerking met de opdrachtgevers steeds meer betekenis en urgentie _[Bieb In Bloei]_. Dit zorgt merkbaar voor meer betrokkenheid en inzet bij studenten. In het kader van afnemende sturing kunnen studenten gedurende de opleiding steeds meer de verantwoordelijkheid nemen over een project. Uiteindelijk kan in semester 4 een student bijvoorbeeld alleen verantwoordelijk zijn voor een project en een adviserende rol naar de opdrachtgever innemen _[Ryan & Mokhtar @ Vervoerregio]_. De projecten draaien door in alle semesters; waar studenten in semester 1: Static Web eenvoudigere vraagstukken oppakken, wordt de complexiteit geleidelijk hoger in de opvolgende semesters. Hiermee hebben we invulling gegeven aan het principe van afnemende sturing en toenemende complexiteit uit de [HILL theorie]() _[URL TOEVOEGEN]_ 
