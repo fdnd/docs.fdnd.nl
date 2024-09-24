@@ -82,9 +82,14 @@ De studenten werken taakgericht aan de projecten in onze agile workspace. Hierbi
 > Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. <cite>Student in de blokenquete</cite>
 
 Is gelukt en komt goed uit de verf, zou mooi zijn als we hier wat testimonials van opdrachtgevers en mini-meesterproef (s6/s12).
-- Bieb in Bloei (opdrachtgever)?
-- Vervoersregio (opdrachtgever)?
-- De Voorhoede (mini-meesterproef DDA)?
+
+#### Testimonials
+
+> Wij werken graag samen met CMD en FDND om in persoon inzicht te krijgen in de nieuwe generatie web developers. Het curriculum van CMD(delen van) en FDND(in zijn geheel) sluiten naadloos aan bij onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiele werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van CMD en FDND. _~ Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
+
+> Bieb in Bloei is een project dat door studenten van FDND, in opdracht van Buurtcampus Oost wordt uitgevoerd... _~ Mariska Gunsink, Project Manager Duurzaamheid bij [Buurtcampus Oost](https://www.buurtcampusoost.nl/)_
+
+> Toolgankelijk is een project dat door studenten van FDND, in opdracht van Vervoerregio Amsterdam wordt uitgevoerd... _~ Willeke Passmore, Projectleider Toegankelijkheid bij de [Vervoerregio Amsterdam](https://vervoerregio.nl/)_
 
 ### Studenten aan het roer
 
