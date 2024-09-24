@@ -16,16 +16,13 @@ De halfwaardetijd van kennis met betrekking tot libraries, frameworks en tooling
 
  Het vakgebied vraagt ook wat van docenten, die hebben een blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties waarbij met name toegankelijkheid belangrijker na invoering van aangekondigde wetgeving 2025. Docenten houden ontwikkelingen bij, leren van elkaar en bezoeken conferenties. Daarmee garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
 
-Er bestaat een kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars. Vooralsnog bedienen we beide maar we blijven gericht op de front van de frontend. Deze keuze heeft nu al impact op de inhoud van het curriculum. In plaats van meer backend zijn 2 sprints meer naar de frontend toe bewogen.
+Er is een groeiende een kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars. Binnen de HvA bestaat een Ad opleiding Software Development waar ze webtechnieken richten op de backend van websites, daarnaast wordt ook een beetje aandacht besteed aan de frontend. Bij FDND richten wij voornamelijk op de frontend maar leren we studenten in semester 2 en 3 ook wat backend technieken. De gerichtheid bij het aanbod van backend technieken blijft bij ons altijd de *front of the frontend*. Deze keuze heeft impact op de inhoud van het curriculum. In plaats van meer backend zijn 2 sprints in het 2e semester naar de frontend toe bewogen.
 
-LLM’s en de hype er omheen - Komst van ML/AI en invloed op junior frontend functies. Beslissing Linux teams om AI-generated code te weigeren.
-Studenten.
-
-LLM's zoals ChatGPT kunnen een verleidelijk hulpmiddel zijn voor aankomende junior frontenders, vooral in termen van snelheid, ondersteuning en leermogelijkheden. In de praktijk merken we dat studenten er veelvuldig gebruik van maken. Echter zien we terug in de dagelijkse begeleiding van studenten én in de Assessments dat studenten die doorschieten in het gebruik van deze technologie juist minder grip krijgen op wat ze doen [Kids who use ChatGPT as a study assistant do worse on tests](https://www.popsci.com/technology/kids-who-use-chatgpt-as-a-study-assistant-do-worse-on-tests/). LLM's zijn wat ons betreft dus geen vervanging voor diepgaand leren, experimenteren, en samenwerking met anderen. Wij leren de studenten om balans te vinden tussen het gebruik van deze technologie en het zelf ontwikkelen van vaardigheden door praktijkervaring en het opdoen van kennis uit betrouwbare bronnen, waarbij de nadruk ligt op het laatste.
+LLM's zoals ChatGPT kunnen een verleidelijk hulpmiddel zijn voor aankomende junior frontenders, vooral in termen van snelheid, ondersteuning en leermogelijkheden. In de praktijk merken we dat studenten er veelvuldig gebruik van maken. Echter zien we terug in de dagelijkse begeleiding van studenten én bij assessments dat studenten die doorschieten in het gebruik van deze technologie juist minder grip krijgen op wat ze doen [Kids who use ChatGPT as a study assistant do worse on tests](https://www.popsci.com/technology/kids-who-use-chatgpt-as-a-study-assistant-do-worse-on-tests/). LLM's zijn wat ons betreft dus geen vervanging voor diepgaand leren, experimenteren, en samenwerking met anderen. Wij leren de studenten om balans te vinden tussen het gebruik van deze technologie en het zelf ontwikkelen van vaardigheden door praktijkervaring en het opdoen van kennis uit betrouwbare bronnen, waarbij de nadruk ligt op het laatste.
 
 ### Frontend op Ad niveau
 
-Vooralsnog zijn we de enige Ad Frontend en daarom schreven wij tijdens de TNO ons eigen profiel. Wij hebben beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) op pagina 15. Ook hebben we [onze leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de bijbehorende gedragscriteria en -indicatoren getoetst aan het landelijk profiel CMD, HBO-ICT, de kwaliteitsraamwerken NLQF en EQF, de Dublin Descriptoren en tenslotte het e-Competence framework.
+Vooralsnog zijn we de enige Ad Frontend in Nederland en daarom schreven wij tijdens de TNO ons eigen profiel. Wij hebben beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) op pagina 15. Ook hebben we [onze leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de bijbehorende gedragscriteria en -indicatoren getoetst aan het landelijk profiel CMD, HBO-ICT, de kwaliteitsraamwerken NLQF en EQF, de Dublin Descriptoren en tenslotte het e-Competence framework.
 
 Wij missen vergelijkbare opleidingen. Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Er waren geluiden over ontwikkeling van een Associate degree richting Frontend aan de HAN, wellicht biedt dit de mogelijkheid voor oprichting van een nieuw LAdO. Tot die tijd zoeken wij partnerschap buiten Nederland. Via Chain 5 zijn we in contact gekomen met Pixel Antwerpen. Alhoewel de gerichtheid niet precies is zijn daar 2 practoraten, Web-development en Web-design. Een eerste officieel overleg moet nog plaats vinden.
 
@@ -35,17 +32,19 @@ Onze leerresultaten van zijn vastgelegd in de [niveaumatrix](https://niveaumatri
 
 Onze niveaumatrix is prettig in gebruik: Docenten en studenten weten waar ze aan toe zijn omdat alles wat ze bij de opleiding doen: sprints, leer- en deeltaken, portfolio en assessments, gericht is op het niveau zoals beschreven in de matrix. Daarnaast geeft de matrix bedrijfsbegeleiders tijdens de stage richting en houvast bij het geven van feedback.
 
-Onze niveaumatrix wordt jaarlijks vastgesteld. Door middel van issues wordt inhoudelijk [feedback](https://github.com/fdnd/niveaumatrix.fdnd.nl/issues) opgehaald welke één maal per jaar wordt verwerkt in de vorm van een *pull-request*. Voor vaststelling (lees: *mergen*) moeten meerdere docenten het eens zijn met de beoogde verandering door middel van *review* en *accordering*. Zie bijvoorbeeld de [aanpassingen voor schooljaar 2023/24](https://github.com/fdnd/niveaumatrix.fdnd.nl/pull/3). Bovendien worden [jaarlijkse releases](https://github.com/fdnd/niveaumatrix.fdnd.nl/releases) als archief bijgehouden zodat men altijd terug kan kijken naar matrices uit het verleden.
+Onze niveaumatrix wordt jaarlijks vastgesteld. Door middel van issues wordt inhoudelijk [feedback](https://github.com/fdnd/niveaumatrix.fdnd.nl/issues) opgehaald welke één maal per jaar wordt verwerkt in de vorm van een *pull-request*. Voor vaststelling (lees: *mergen*) moeten meerdere docenten het eens zijn met de beoogde verandering door middel van *review* en *accordering*. Zie bijvoorbeeld de [aanpassingen voor schooljaar 2023/24](https://github.com/fdnd/niveaumatrix.fdnd.nl/pull/3) of [schooljaar 2024/25](https://github.com/fdnd/niveaumatrix.fdnd.nl/pull/16). Bovendien worden [jaarlijkse releases](https://github.com/fdnd/niveaumatrix.fdnd.nl/releases) als archief bijgehouden zodat men altijd terug kan kijken naar matrices uit het verleden.
 
 ### Internationaal perspectief
 
-Het frontend vakgebied is internationaal maar onze voertaal is Nederlands. Zodoende is veel van het bronmateriaal wat wij studenten aanreiken Engelstalig. Scroll voor een indruk even door de [BOKSA](/boksa.html), een document dat doorlopend in ontwikkeling is. Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) een gastspreker uit, vaak zijn dit internationale sprekers. Onze afstudeerders vinden een baan als frontender in de metropoolregio Amsterdam.
+Het frontend vakgebied is internationaal maar onze voertaal is Nederlands. Veel van het bronmateriaal wat wij studenten aanreiken is Engelstalig. Scroll voor een indruk even door de [BOKSA](/boksa.html), een document dat doorlopend in ontwikkeling is.
+
+Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) een gastspreker uit, vaak zijn dit internationale sprekers. Onze afstudeerders vinden na hun studie een baan als frontender in de metropoolregio Amsterdam.
 
 ### Na afronding
 
 Statistieken
 
-Reactie van stagebedrijven in de vorm van een aantal citaten..
+Reactie van stagebedrijven in de vorm van een aantal citaten.
 
 Reflectie vanuit de 1e lichting..
 
@@ -67,9 +66,13 @@ De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige 
 
 ### Didactisch concept
 
-Wij zijn blij, wijze van evalueren HEAL structuur uitleggen. 
+We zijn kritisch op door ons geleverde prestaties. Zoals bij elk nieuw te ontwikkelen onderwijsprogramma zijn er weeffoutjes of kinderziektes die pas opvallen als het programma draait. Om hiermee om te gaan hanteren we een iteratieve aanpak. Aan het eind van elk semester vindt een zogenaamde [Higher Education Agile Learning (HEAL)](/organisatie.html#higher-education-agile-learning-heal) sessie plaats waarin wij het onderwijs evalueren middels een [retrospect](/organisatie.html#retrospect). Hierbij inzichten en verbeterpunten uit twee van dit soort sessies:
 
-Studenten zijn overwegend blij, blokenquetes, NSE resultaten.
+> Het hele eerste blok is een _onboarding_ periode, we hadden in het ontwerp de eerste sprint aangemerkt maar dit is bij lange na niet het eind van het wennen aan ons onderwijsmodel. Daarnaast is eind semester 1 voor studenten het startpunt in plaats van het eindpunt voor het omarmen van de webtechnieken HTML/CSS/JS. - inzicht uit retrospect 9 maart 2023
+
+> S4: Er is piekbelasting in de laatste week voor de assessments. Het beoordelen van portfolia, met name in semester 4, kost te veel tijd. De bewijslast moet volledig in Portflow, nu linken studenten vaak door en staat het bewijs extern en de reflectie/onderbouwing in Portflow. S1-4: De uitvoer van checkpoints voelt als afvinklijst en studenten halen er niet altijd de formatieve waarde uit (zien het als ‘moetje’). We herontwerpen het programmatisch toetsproces zonder de doelen daarvan uit het oog te verliezen. We willen hierbij meer richten op de vijf criteria ipv. de 15 indicatoren. S1-3: We willen talks meer actionable maken. 80% leertaken 20% tijd voor eigen site/portfolio/garden. - selectie verbeterpunten uit retrospect 1 juli 2024
+
+Studenten zijn overwegend blij. Dit blijkt uit prachtige NSE resultaten, schooljaar 2023/24 kreeg FDND het predicaat Topopleiding en voor 2024/25 ligt dit opnieuw in de lijn der verwachting. Daarnaast hebben wij nog een aantal kwaliteitsinstrumenten zoals de 100-dagen-monitor, blokenquêtes en panelgesprekken, die door onze kwaliteitszorgmedewerker bewaakt worden.
 
 ### Praktijkvraagstukken in een rijke leeromgeving
 Studenten werken tijdens de opleiding continu aan échte projecten voor échte opdrachtgevers. Langlopende projecten krijgen in samenwerking met de opdrachtgevers steeds meer betekenis en urgentie _[Bieb In Bloei]_. Dit zorgt merkbaar voor meer betrokkenheid en inzet bij studenten. In het kader van afnemende sturing kunnen studenten gedurende de opleiding steeds meer de verantwoordelijkheid nemen over een project. Uiteindelijk kan in semester 4 een student bijvoorbeeld alleen verantwoordelijk zijn voor een project en een adviserende rol naar de opdrachtgever innemen _[Ryan & Mokhtar @ Vervoerregio]_. De projecten draaien door in alle semesters; waar studenten in semester 1: Static Web eenvoudigere vraagstukken oppakken, wordt de complexiteit geleidelijk hoger in de opvolgende semesters. Hiermee hebben we invulling gegeven aan het principe van afnemende sturing en toenemende complexiteit uit de [HILL theorie]() _[URL TOEVOEGEN]_ 
@@ -105,7 +108,7 @@ We hebben een paar aanpassingen op inhoud gemaakt, die even bespreken met het wa
 
 Insteek van het programma langs gaan, wat werkt wel en wat niet.
 
-Teamlead rol: De inzet 2e jaars in begeleiding van 1e jaars.
+Mentor rol: De inzet 2e jaars in begeleiding van 1e jaars.
 
 ### Vrije ruimte
 
@@ -150,8 +153,10 @@ Ervaring Fatih
 ### Afstudeerprogramma
 
 Afstuderen bij een bedrijf
-Eigen opdracht
-Begeleiding
+
+FDND-Agency
+
+Begeleiding door Joost en Justus
 
 Verwijzen naar Standaard 4.
 
@@ -298,13 +303,9 @@ Hoe kijken alumni terug op hun tijd bij FDND?
 - Wat kan er beter?
 - Wat vertel jij over je opleiding op een feestje?
 
-#### Cohort 2022-23
-
-Alle afstudeerdossiers achter een wachtwoord beschikbaar stellen.
-
 #### Cohort 2023-24
 
-Een selectie van afstudeerdossiers achter een wachtwoord beschikbaar stellen.
+Alle afstudeerdossiers staan in onze digitale leeromgeving (Brightspace). Panelleden ontvangen t.z.t. een account waarmee ze de dossiers en de beoordeling kunnen inzien.
 
 ## Studenten aan het woord
 
