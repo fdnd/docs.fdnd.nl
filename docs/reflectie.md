@@ -76,10 +76,10 @@ Studenten werken tijdens de opleiding continu aan échte projecten voor échte o
 
 De studenten werken taakgericht aan de projecten in onze agile workspace. Hierbij krijgen ze ondersteuning van docenten en co-teachers. De co-teachers zijn in het vakgebied actieve frontend-experts die hun kennis bij het werken aan projecten overdragen aan de studenten. Eerstejaars- en tweedejaarsstudenten werken samen aan projecten. De tweedejaarsstudenten nemen hierbij een mentorrol in. Daarnaast werken onze studenten regelmatig samen aan de projecten met studenten van andere opleidingen (CMD, SE MBO en SE AD, HBO-ICT). Hierdoor krijgt het team nog meer het karakter van een multidisciplinair team en wordt de beroepspraktijk nog beter nagebootst. Al deze aspecten dragen bij aan een rijke, motiverende leeromgeving waarin studenten de benodigde soft- en hard skills leren. Van stagebdrijven krijgen we terug dat studenten moeiteloos meekunnen draaien in een multidisciplinair team _[Referentie Triple? Schiphol?]_.  
 
-
 > Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. <cite>Student in de blokenquete</cite>
 
 Is gelukt en komt goed uit de verf, zou mooi zijn als we hier wat testimonials van opdrachtgevers en mini-meesterproef (s6/s12).
+- Bieb in Bloei (opdrachtgever)?
 - Vervoersregio (opdrachtgever)?
 - Funda (mini-meesterproef)?
 
