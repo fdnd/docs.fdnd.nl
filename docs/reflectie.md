@@ -84,7 +84,7 @@ De studenten werken taakgericht aan de projecten in onze agile workspace. Hierbi
 Is gelukt en komt goed uit de verf, zou mooi zijn als we hier wat testimonials van opdrachtgevers en mini-meesterproef (s6/s12).
 - Bieb in Bloei (opdrachtgever)?
 - Vervoersregio (opdrachtgever)?
-- Funda (mini-meesterproef)?
+- De Voorhoede (mini-meesterproef DDA)?
 
 ### Studenten aan het roer
 
