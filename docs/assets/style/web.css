@@ -494,6 +494,11 @@ nav.subnav {
   & .toc-link-h3 {
     font-weight: bold;
   }
+  & .toc-level-4 {
+    margin-left: 1.15rem;
+    font-size: .9em;
+    list-style-type:circle
+  }
 }
 
 /* Footer */
