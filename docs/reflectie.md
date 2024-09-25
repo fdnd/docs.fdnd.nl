@@ -101,17 +101,17 @@ Bij het aanbieden van het eerste jaar merkten we dat we meer houvast nodig hadde
 
 ### Toetsing als leermoment
 
-Wij beogen toetsing in dienst van het leerproces te plaatsen maar de werkelijkheid is weerbarstig. De opbouw van het toetsprogramma voldeed na helemaal aan de programmatisch toetsen theorie. We hadden meerdere low-stake formatieve beoordelingsmomenten in de vorm van checkpoints en elk blok een high-stake summatief beoordelingsmoment in de vorm van een assessment, in didactische termen een criterium gericht interview op basis van een portfolio.
+Wij beogen toetsing in dienst van het leerproces te plaatsen maar de werkelijkheid is weerbarstig. De opbouw van het toetsprogramma voldeed helemaal aan de programmatisch toetsen theorie. We hadden meerdere low-stake formatieve beoordelingsmomenten (checkpoints) en elk blok een high-stake summatief beoordelingsmoment (assessment). In didactische termen een criterium gericht interview op basis van een portfolio.
 
-Toch voelde de afgelopen jaren de checkpoints als curse-life voor docenten en afvinklijstje voor studenten. Ook de voorbereiding op het assessment wordt ervaren als erg veel werk. Eerst voor studenten omdat we ze vroegen op basis van onze 15 gedragsindicatoren, aan de hand van de STARR methode een ontwikkeldocument op te stellen. Later voor docenten omdat we per student bij 15 gedragsindicatoren de bewijslast naliepen om het assessment voor te bereiden.
+Toch voelde de afgelopen jaren de checkpoints als curse-life voor docenten en afvinklijstje voor studenten. Ook de voorbereiding op het assessment wordt ervaren als erg veel werk. Eerst voor studenten omdat we ze vroegen op basis van onze 15 gedragsindicatoren, aan de hand van de STARR methode een ontwikkeldocument op te stellen. Later voor docenten omdat we per student bij 15 gedragsindicatoren de bewijslast naliepen om het assessment voor te bereiden. Ook was er twijfel of wij het assessment wel voldoende als feedback/ feedup/ feedfoward moment in het leertraject van studenten plaatsten.
+
+Overigens zijn wij wat dit betreft als docententeam veel kritischer dan onze studenten:
+
+> Binnen de assements en één op één momenten wordt aandacht gegeven aan onze persoonlijke groei en wij krijgen opbouwende feedback gebaseerd op onze persoonlijke leerdoelen. Ook is er binnen de studie een fijne leeromgeving gecreëerd waar je als student ook van andere studenten leert. Er zijn soms bepaalde momenten tijdens leertaken waarin wij naar medestudenten worden gestuurd over onze vragen, terwijl het juist handiger is dat die momenten worden opgepakt door leraren. *- Daan, Rick en Youssra*
 
 Dit jaar is we de toetsmethodiek bijgesteld. We vragen studenten doorlopend een *learning-journal* bij te houden. We verzamelen bewijslast in Portflow tijdens de retrospect (elke 3e / laatste vrijdag in een sprint) aan de hand van de niveaumatrix. Ook delen we Portflow nu in op de vijf gedragscriteria (ipv. 15 gedragsindicatoren).
 
-
-
-Evaluatie op toetsing uit de blokenquetes en gesprek met studenten uit de verschillende jaren.
-
-Kritische noot: Lukt het motiveren in alle gevallen?
+We hopen met deze aanpassing het doel, toetsing als leermoment, beter te bedienen en zowel bij de retrospect (formatief) als bij assessments (summatief) meer aandacht te hebben voor feedback/ feedforward en feedup.
 
 ### Vormgeving van de opleiding
 
@@ -137,13 +137,16 @@ Studenten kunnen stage lopen bij een frontend gerichte onderneming. Een belangri
 
 In het geval van een 10 weken stage loopt de student mee als frontender. Na de stage doet de student de meesterproef bij FDND-Agency. Studenten kunnen ook kiezen voor een 20 weken stage. Tijdens de tweede helft voert de student de meesterproef uit bij het stagebedrijf. De student moet in dit geval eindverantwoording krijgen voor een project bij het bedrijf.
 
+> Ik stel voor de stage verplicht te maken voor minimaal 10 weken. Op stage leer je veel op het gebied van frontend development wat je echt mist op school, technische kennis, (javascript, frameworks), samenwerking en omgaan met deadlines(inschattingen). School zou dan meer opties moeten bieden voor stage bedrijven. <cite>Tim Oosterveer</cite>
+
 [citaat stagebegeleider]
 
 #### FDND Agency
 
 Studenten kunnen ook intern bij FDND stage lopen. FDND-Agency is een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien. Het verschil met de eerdere drie semesters is dat studenten zelf eindverantwoordelijk zijn voor hun projecten en daarbij geen ondersteunende lessen krijgen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen, geven feedback en handelen *pull-requests* af. Ze stellen zich hierbij op als senior frontender, net als bij de stage.
 
-[citaat FDND-student]
+> Tops: Professionele werksfeer en houding. Variatie aan projecten beschikbaar. Veel zelfstandigheid. Open communicatie tussen teams en docenten. Flexibele planning. Je wordt gemotiveerd om je best te doen door docenten en mede studenten. Moeilijkheidsgraad zelf te kiezen\
+> Tips: Meer verbinding leggen met het bedrijfsleven. Meer opties voor vorm van projecten (buiten al bestaande FDND projecten). Meer voorzieningen (schermen, werkplek, vergoeding). <cite>Mohktar Akle</cite>
 
 #### Minor ondernemerschap
 
@@ -163,19 +166,13 @@ Tenslotte kunnen studenten het schakelprogramma voor doorstroom naar de CMD Bach
 
 ### Afstudeerprogramma
 
-Afstuderen bij een bedrijf
-
-FDND-Agency
-
-Begeleiding door Joost en Justus
-
-Verwijzen naar Standaard 4.
+Studenten hebben de keuze om hun meesterproef bij een bedrijf óf bij FDND-Agency te volbrengen. In beide gevallen heeft de student zelf eindverantwoording over het project. Tijdens de meesterproef verzamelt de student zelfstandig bewijslast die het behalen van het leerresultaat demonstreert. Meer over de behaalde resultaten bij [Standaard 4: Gerealiseerde leerresultaten](#standaard-4-gerealiseerde-leerresultaten).
 
 ### Organisatiestructuur
 
-Sociocratisch model evalueren, verwijzen naar organisatie document
+FDND is een [Agile organisatie](/organisatie.html#agile-organisatie) ingericht volgens het Spotify model waarbij de [sociocratische werkwijze](/organisatie.html#werkwijze) wordt omarmd als vergader- en beslissingsstructuur. Docenten hebben bij FDND verschillende [rollen](/organisatie.html#rollen) die verwijzen naar bovenstaand model.
 
-Agile inrichting: s30 meetings, 360º en Retrospect beschrijven
+Deze structuur bevalt goed, bij tijd en wijlen verslapt de frequentie van overleggen waarop we besluiten de regel weer beter na te leven. Dit is een golfbeweging die samenhangt met piekmomenten in het jaar, als het druk is leven we de regel iets minder netjes na.
 
 ### Studentenbegeleiding
 
