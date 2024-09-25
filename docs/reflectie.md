@@ -14,7 +14,7 @@ De door ons in 2020 opgestelde [visie op het beroep](/TNO-dossier.html#visie-op-
 
 De halfwaardetijd van kennis met betrekking tot libraries, frameworks en tooling is in het frontendvakgebied vrij kort. Daarentegen verandert er in de basis van webtechnologie HTML/ CSS/ JS minder. Natuurlijk zijn er maandelijks uitbreidingen op CSS, echter het selecteren van HTML elementen om stijlregels te koppelen is nog steeds hetzelfde en ook de semantiek van HTML elementen is al jaren gelijk. Die tweeledigheid wordt gereflecteerd in de inhoud van het curriculum, we bieden studenten een stevige basis én de capaciteit verandering te omarmen.
 
- Het vakgebied vraagt ook wat van docenten, die hebben een blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties waarbij met name toegankelijkheid belangrijker na invoering van aangekondigde wetgeving 2025. Docenten houden ontwikkelingen bij, leren van elkaar en bezoeken conferenties. Daarmee garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
+Het vakgebied vraagt ook wat van docenten, die hebben een blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties waarbij met name toegankelijkheid belangrijker na invoering van aangekondigde wetgeving 2025. Docenten houden ontwikkelingen bij, leren van elkaar en bezoeken conferenties. Daarmee garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
 
 Er is een groeiende een kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars. Binnen de HvA bestaat een Ad opleiding Software Development waar ze webtechnieken richten op de backend van websites, daarnaast wordt ook een beetje aandacht besteed aan de frontend. Bij FDND richten wij voornamelijk op de frontend maar leren we studenten in semester 2 en 3 ook wat backend technieken. De gerichtheid bij het aanbod van backend technieken blijft bij ons altijd de *front of the frontend*. Deze keuze heeft impact op de inhoud van het curriculum. In plaats van meer backend zijn 2 sprints in het 2e semester naar de frontend toe bewogen.
 
@@ -42,7 +42,7 @@ Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/
 
 ### Na afronding
 
-Statistieken
+~~Statistieken~~ beschrijving over onze afstudeerders
 
 Reactie van stagebedrijven in de vorm van een aantal citaten.
 
@@ -79,7 +79,7 @@ Studenten werken tijdens de opleiding continu aan échte projecten voor échte o
 
 De studenten werken taakgericht aan de projecten in onze agile workspace. Hierbij krijgen ze ondersteuning van docenten en co-teachers. De co-teachers zijn in het vakgebied actieve frontend-experts die hun kennis bij het werken aan projecten overdragen aan de studenten. Eerstejaars- en tweedejaarsstudenten werken samen aan projecten. De tweedejaarsstudenten nemen hierbij een mentorrol in. Daarnaast werken onze studenten regelmatig samen aan de projecten met studenten van andere opleidingen (CMD, SE MBO en SE AD, HBO-ICT). Hierdoor krijgt het team nog meer het karakter van een multidisciplinair team en wordt de beroepspraktijk nog beter nagebootst. Al deze aspecten dragen bij aan een rijke, motiverende leeromgeving waarin studenten de benodigde soft- en hard skills leren. Van stagebdrijven krijgen we terug dat studenten moeiteloos meekunnen draaien in een multidisciplinair team _[Referentie Triple? Schiphol?]_.  
 
-> Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. <cite>Student in de blokenquete</cite>
+> Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. _- Student in de blokenquete_
 
 #### Testimonials
 We zijn erg tevreden over de waarde van het embedden van echte projecten in het curriculum. Door langlopende projecten over meerdere semesters (en meerdere opleidingen) te spreiden, ontstaat er steeds meer betekenis voor alle partijen in een rijke leeromgeving. Onderstaande testimonials geven weer hoe dat is voor onze partners.
@@ -92,7 +92,11 @@ We zijn erg tevreden over de waarde van het embedden van echte projecten in het 
 
 ### Studenten aan het roer
 
-Gerichtheid, afnemende sturing, toenemende complexiteit
+Zelfstandigheid van studenten is een van de drie funderende principes van FDND. Bij de ontwikkeling van het curriculum is hier rekening mee gehouden in de vorm van afnemende sturing en toenemende complexiteit.
+
+Toenemende complexiteit wordt concreet in de volgorde van leertaken. In semester 1 is de focus op de basis van HTML en CSS en het ontwerpen en realiseren van eenvoudige websites. Eind semester 3 maken studenten zonder aarzeling zelfstandig nieuwe *site generators* en *headless CMS-en* eigen om vervolgens met een strak georganiseerd team websites voor een opdrachtgever te produceren.
+
+Bij het aanbieden van het eerste jaar merkten we dat we meer houvast nodig hadden om afnemende sturing te borgen. Wij hebben op basis van het stuk Professionele Identiteit ontwikkelen gedurende de hbo-opleiding van Annemiek Grootendorst (2019, HRO) en het artikel [Concept to Code van Ryan Betts (2017)](https://uxmag.com/articles/concept-to-code) een manier van [aanspreken van studenten](/onderwijs.html#aanspreken-op-niveau) in de verschillende semesters opgesteld. Deze manier van aanspreen biedt houvast bij de concretisering van afnemende sturing.
 
 ### Toetsing als leermoment
 
@@ -116,13 +120,11 @@ Mentor rol: De inzet 2e jaars in begeleiding van 1e jaars.
 
 ### Vrije ruimte
 
-In het eerste blok van semester 4 in de opleiding, halverwege het 2e jaar, hebben studenten de zogenaamde vrije ruimte. Studenten kunnen 15 EC naar eigen inzicht invullen, lijkend op de minor uit bacheloropleidingen. Verschil met een traditionele minor is dat studenten tijdens hun vrije ruimte ongeacht de keuze gewoon hun portfolio vullen met bewijslast en bij FDND beoordeeld worden middels een assessment. 
-
-Studenten kunnen hun vrije ruimte op verschillende manieren invullen.
+In het eerste blok van semester 4 in de opleiding, halverwege het 2e jaar, hebben studenten de zogenaamde vrije ruimte. Studenten kunnen 15 EC naar eigen inzicht invullen, lijkend op de minor uit bacheloropleidingen. Verschil met een traditionele minor is dat studenten tijdens hun vrije ruimte ongeacht de keuze gewoon hun portfolio vullen met bewijslast en bij FDND beoordeeld worden middels een assessment. Studenten kunnen hun vrije ruimte op verschillende manieren invullen.
 
 #### Stage
 
-Studenten kunnen stagelopen bij een frontend gerichte onderneming. Een belangrijke eis hierbij is dat er binnen de onderneming een senior frontender is die ruimte heeft om de student tijdens de stage te begeleiden.
+Studenten kunnen stage lopen bij een frontend gerichte onderneming. Een belangrijke eis hierbij is dat er binnen de onderneming een senior frontender is die ruimte heeft om de student tijdens de stage te begeleiden.
 
 In het geval van een 10 weken stage loopt de student mee als frontender. Na de stage doet de student de meesterproef bij FDND-Agency. Studenten kunnen ook kiezen voor een 20 weken stage. Tijdens de tweede helft voert de student de meesterproef uit bij het stagebedrijf. De student moet in dit geval eindverantwoording krijgen voor een project bij het bedrijf.
 
@@ -130,7 +132,7 @@ In het geval van een 10 weken stage loopt de student mee als frontender. Na de s
 
 #### FDND Agency
 
-Studenten kunnen bij FDND ook intern stagelopen. FDND-Agency is een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien. Het verschil met de eerdere drie semesters is dat studenten zelf eindverantwoordelijk zijn voor hun projecten en daarbij geen ondersteunende lessen krijgen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen en geven feedback en handelen *pull-requests* af.
+Studenten kunnen ook intern bij FDND stage lopen. FDND-Agency is een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien. Het verschil met de eerdere drie semesters is dat studenten zelf eindverantwoordelijk zijn voor hun projecten en daarbij geen ondersteunende lessen krijgen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen, geven feedback en handelen *pull-requests* af. Ze stellen zich hierbij op als senior frontender, net als bij de stage.
 
 [citaat FDND-student]
 
@@ -222,7 +224,7 @@ Formatief vs summatief, de mid- en endterm momenten zijn duidelijk summatief. Re
 
 ### Onze toetsen zijn valide
 
-De constructive alignment met de assessmentdriehoek (A. van Berkel) werkt naar behoren. Gerichtheid van deel- en leertaken, formatieve en summatieve feedback en beoordeling zijn altijd gericht op de niveaumatrix. Oplopende complexiteit is ingebouwd in het curriculum, te zien aan deel- en leertaken.
+De constructive alignment met de assessmentdriehoek (A. van Berkel) werkt naar behoren. Gerichtheid van deel- en leertaken, formatieve en summatieve feedback en beoordeling zijn altijd gericht op de niveaumatrix. Oplopende complexiteit is ingebouwd in het curriculum en dit is te zien aan deel- en leertaken.
 
 ### Onze toetsen zijn betrouwbaar
 
@@ -253,7 +255,7 @@ Borging kwaliteit van toetsing:
 
 ### Kwaliteitsborging door examencommissie
 
-Stuk geschreven door de excie (of toetscie?), reflecterend op Standaard 3 in het TNO dossier.
+Stuk geschreven door de excie (of toetscie?), reflecterend op Standaard 3 in het TNO dossier. nav. sessie op 21 okt?
 
 ## Standaard 4: Gerealiseerde leerresultaten
 
