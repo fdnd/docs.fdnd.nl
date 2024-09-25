@@ -188,7 +188,11 @@ Gezichtsveld vanuit de student
 
 ### Studiekeuzecheck
 
-Verplichting is afgeschaft, we merken dat meeloopdagen interessanter zijn dan een georganiseerde middag. Aankomend jaar waarschijnlijk helemaal vervangen voor meeloopdagen.
+De verplichting voor aankomend studenten om een studiekeuzecheck te doen is HvA breed afgeschaft. We merkten dat meeloopdagen interessanter zijn dan een georganiseerde middag waarop je praat over je reeds gemaakte keuze.
+
+> Als student heb ik twee keer deelgenomen aan de open dag van mijn opleiding en heb ik geholpen bij het beantwoorden van vragen van andere studenten. Tijdens deze ervaringen viel het me op dat veel studenten soms twijfelen of de opleiding echt bij hen past, zelfs als ze weten dat ze bijvoorbeeld websites gaan bouwen met verschillende frameworks. Ik geloof dat een studiekeuze check (optioneel) een waardevolle manier is om te ontdekken of een opleiding echt bij je past. <cite>Badr Amara</cite>
+
+Inmiddels is de studiekeuzecheck helemaal vervangen voor meeloopdagen omdat we merken dat aankomend studenten meerwaarde halen uit meekijken met huidige studenten. Tijdens een meeloopdag kunnen ze al hun vragen stellen aan huidige studenten en docenten. Meelopen kan elke maandag gedurende het hele jaar.
 
 ### Diversiteit en differentiatie
 
@@ -216,7 +220,7 @@ _‌De opleiding beschikt over een adequaat systeem van toetsing._
 
 De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor de inrichting van het toetsprogramma en voor het proces van toetsing. Ook de kwaliteit van de toetsing wordt in dit toetsbeleid geborgd. Dit beleid is voor de opleiding Frontend Design & Development (FDND) uitgewerkt in het document ‘Didactiek en toetsing’ en de Onderwijs- en Examenregeling van de opleiding. In het toetsbeleid zijn de twee functies van toetsen: stimuleren van het leerproces en beoordelen, onlosmakelijk met elkaar verbonden en de validiteit, betrouwbaarheid, transparantie en kwaliteit van toetsen zijn geborgd.
 
-Andere opleidingen bij FDND komen kijken om te leren hoe wij met toetsing omgaan. Desondanks denken wij dat het beter kan. Toetsen kost tijd, liever bezig met inhoudelijke feedback dan het invullen van formulieren. We zoeken naar een juiste balans tussen nakijktijd/systemen en aandacht voor studenten.
+Andere opleidingen komen bij FDND kijken om te leren hoe wij met toetsing omgaan. Desondanks denken wij dat het beter kan. Toetsen kostte voorheen te veel tijd en wij zijn liever bezig met inhoudelijke feedback dan het invullen van Portflow checkpoints. We zoeken naar een juiste balans tussen nakijktijd/ systemen en aandacht voor studenten.
 
 ### Vormgeving van de toetsing
 
