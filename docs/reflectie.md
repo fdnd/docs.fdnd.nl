@@ -117,7 +117,7 @@ We hopen met deze aanpassing het doel, toetsing als leermoment, beter te bediene
 ### Vormgeving van de opleiding
 
 #### Opbouw Curriculum
-Het curriculum werkt in grote lijnen zeer goed. De opbouw in toenemende complexiteit komt vanaf het begin duidelijk naar voren. Wel hebben we op enkele punten de thema's of de volgorde van de sprints aangepast. Zo hebben we op semesterniveau belangrijke front-endprincipes in dezelfde volgorde van sprints aangeboden. Door de herhaling van lesstof uit voorgaande semesters wordt de stof geleidelijk steeds complexer. Een voorbeeld hiervan is sprint 10 in semester 2, die we hebben hernoemd van _Performance Matters_ naar _User Experience_, waardoor deze sprint beter aansluit bij sprint 4 uit semester 1, _Look and Feel_.
+Het curriculum werkt in grote lijnen zeer goed. De opbouw in toenemende complexiteit komt vanaf het begin duidelijk naar voren. Wel hebben we op enkele punten de thema's of de volgorde van de sprints aangepast. Zo hebben we op semesterniveau belangrijke front-endprincipes in dezelfde volgorde van sprints aangeboden. Vanuit herhaling van lesstof uit voorgaande semesters wordt de stof geleidelijk steeds complexer in opvolgende semesters. Een voorbeeld hiervan is sprint 10 in semester 2, die we hebben hernoemd van _Performance Matters_ naar _User Experience_, waardoor deze sprint beter aansluit bij sprint 4 uit semester 1, _Look and Feel_.
 
 Vanaf het begin van de opleiding behandelen we in de eerste sprint van elk semester (in de context van de Tribe) de volledige complexiteit en inhoud van het semester. Hiermee spelen we in op de leerbehoeften van studenten, doordat zij een duidelijk beeld krijgen van wat ze dat semester kunnen verwachten te leren.
 
