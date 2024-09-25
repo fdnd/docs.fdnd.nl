@@ -80,10 +80,10 @@ Studenten werken tijdens de opleiding continu aan échte projecten voor échte o
 
 De studenten werken taakgericht aan de projecten in onze agile workspace. Hierbij krijgen ze ondersteuning van docenten en co-teachers. De co-teachers zijn in het vakgebied actieve frontend-experts die hun kennis bij het werken aan projecten overdragen aan de studenten. Eerstejaars- en tweedejaarsstudenten werken samen aan projecten. De tweedejaarsstudenten nemen hierbij een mentorrol in. Daarnaast werken onze studenten regelmatig samen aan de projecten met studenten van andere opleidingen (CMD, SE MBO en SE AD, HBO-ICT). Hierdoor krijgt het team nog meer het karakter van een multidisciplinair team en wordt de beroepspraktijk nog beter nagebootst. Al deze aspecten dragen bij aan een rijke, motiverende leeromgeving waarin studenten de benodigde soft- en hard skills leren. Van stagebdrijven krijgen we terug dat studenten moeiteloos meekunnen draaien in een multidisciplinair team _[Referentie Triple? Schiphol?]_.  
 
+We zijn erg tevreden over de waarde van het embedden van echte projecten in het curriculum. Door langlopende projecten over meerdere semesters (en meerdere opleidingen) te spreiden, ontstaat er steeds meer betekenis voor alle partijen in een rijke leeromgeving. Onderstaande testimonials geven weer hoe dat is voor de studenten en opdrachtgevers.
+
 > Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. _- Student in de blokenquete_
 
-#### Testimonials
-We zijn erg tevreden over de waarde van het embedden van echte projecten in het curriculum. Door langlopende projecten over meerdere semesters (en meerdere opleidingen) te spreiden, ontstaat er steeds meer betekenis voor alle partijen in een rijke leeromgeving. Onderstaande testimonials geven weer hoe dat is voor onze partners.
 
 > Wij werken graag samen met CMD en FDND om in persoon inzicht te krijgen in de nieuwe generatie web developers. Het curriculum van CMD(delen van) en FDND(in zijn geheel) sluiten naadloos aan bij onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiele werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van CMD en FDND. _- Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
 
@@ -115,15 +115,16 @@ We hopen met deze aanpassing het doel, toetsing als leermoment, beter te bediene
 
 ### Vormgeving van de opleiding
 
-Opbouw werkt prima, we kunnen flexibel inspelen op leerbehoefte van studenten. 
+Het curriculum werkt in grote lijnen zeer goed. De opbouw in toenemende complexiteit komt vanaf het begin duidelijk naar voren. Wel hebben we op enkele punten de thema's of de volgorde van de sprints aangepast. Zo hebben we op semesterniveau belangrijke front-endprincipes in dezelfde volgorde van sprints aangeboden. Door de herhaling van lesstof uit voorgaande semesters wordt de stof geleidelijk steeds complexer. Een voorbeeld hiervan is sprint 10 in semester 2, die we hebben hernoemd van _Performance Matters_ naar _User Experience_, waardoor deze sprint beter aansluit bij sprint 4 uit semester 1, _Look and Feel_.
 
-S06W2-03-Code Design-review: Inzet code/design-review (die staan er al) om functie in het leerproces van studenten te voorzien, even de focus op HTML omdat we daar wat hiaten zien.
+Ook op sprintniveau bevalt de opbouw van het curriculum vanaf de start van de opleiding uitstekend. Het vaste ritme van drie weken per sprint, met vaste instructiemomenten en differentiatiedagen, biedt duidelijkheid en structuur, wat goed werkt voor de studenten [verwijzing naar feedback uit enquête]. Ook hier hebben we enkele aanpassingen gedaan om beter in te spelen op de leerbehoeften van de studenten. Zo hebben we bijvoorbeeld de manier waarop studenten feedback verzamelen aangepast. Zoals beschreven in het hoofdstuk _[Vormgeving van toetsing](#vormgeving-van-toetsing)_, kregen de checkpoints een te prominente rol. We hebben nu de feedbackloop anders ingericht: op de eerste twee vrijdagen van elke sprint voeren studenten (en coaches) design- en codereviews uit op elkaars werk. De feedback uit deze reviews wordt omgezet in issues op GitHub. Tijdens de _Retrospect_ op de laatste vrijdag van de sprint reflecteren studenten op de ontvangen feedback en gebruiken ze deze om hun bewijslast in Portflow te onderbouwen. In de volgende sprint bespreken ze deze reflectie met een coach om te ebwijslast te valideren.
 
-We hebben een paar aanpassingen op inhoud gemaakt, die even bespreken met het waarom.
-- Hernoemen/hereiken gerichtheid sprints.. weeffoutjes, The campaign > Look & Feel (over huisstijl)
-- Verandering inrichting van de toetsing. Van ontwikkeldocument naar Portflow, van alle indicatoren een aparte collection (15) naar een per criterium (5).
+De opbouw van het programma leent zich ook uitstekend voor langlopende projecten met echte opdrachtgevers. Door te werken in sprints, zoals gebruikelijk is in het vakgebied, kunnen we agile aan de projecten voor echte opdrachtgevers werken en in meerdere iteraties steeds meer betekenis aan de projecten geven. Hoewel de thema's over het algemeen goed aansluiten bij de opdrachtomschrijvingen, hebben we in de afgelopen leerjaren enkele aanpassingen doorgevoerd. Zo hebben we bijvoorbeeld de leertaak Creative Coding in sprint 17 meer afgestemd op de lopende projecten, waar deze voorheen veel vrijer was. Ook hebben we de laaste sprint van Semester 3, sprint 18 hernoemd naar _Release Candidate_, waar het voorheen _Let's JAM_ heette. Nu staat de sprint in het teken van het afronden van de projecten in plaats, waar de sprint voorheen in het teken van een aparte opdracht voor 3 weken stond. Hiermee spelen we beter in op de leerbehoeften van de studenten [verwijzing naar feedback uit studenten enquête].
 
-Insteek van het programma langs gaan, wat werkt wel en wat niet.
+Dankzij de opbouw van het curriculum en de agile werkomgeving hebben we vanaf de start van de opleiding een mentorrol kunnen aanbieden. Tweedejaarsstudenten fungeren als mentor voor een aantal eerstejaarsstudenten. Dit biedt een duidelijke meerwaarde voor de eerstejaars: de mentor helpt hen niet alleen bij het begrijpen van complexe vakinhoudelijke stof, maar geeft ook praktische begeleiding binnen de gang van zaken bij FDND. Voor de tweedejaarsstudenten is de mentorrol eveneens waardevol, omdat zij hiermee hun communicatieve vaardigheden verder ontwikkelen. Zo leren ze bijvoorbeeld hoe ze complexe informatie kunnen overbrengen, rekening houdend met verschillende kennisniveaus. Daarnaast worden tweedejaarsstudenten in hun mentorrol gestimuleerd om na te denken over hun eigen studievoortgang, bijvoorbeeld wanneer ze een vraag krijgen van een eerstejaarsstudent waarop ze zelf nog geen volledig antwoord hebben. Met de mentorrol spelen we in op de leerbehoeften van zowel eerstejaars- als tweedejaarsstudenten [verwijzing naar feedback van studenten].
+
+_Verandering inrichting van de toetsing. Van ontwikkeldocument naar Portflow, van alle indicatoren een aparte collection (15) naar een per criterium (5). <- moet dit niet bij vormgeving van toetsing?_
+
 
 Mentor rol: De inzet 2e jaars in begeleiding van 1e jaars.
 
@@ -226,7 +227,7 @@ Hoe houd je dit organiseerbaar… misschien is het niet erg om in S1 te drillen,
 
 ### De twee functies van toetsing
 
-Formatief vs summatief, de mid- en endterm momenten zijn duidelijk summatief. Retrospect en reviews zijn formatief. De checkpoints hangen er een beetje tussen en we zijn ons wel eens verloren in het ‘afvinken’, wat we juist niet willen. We zoeken naar een juiste vorm van formatieve feedback waarbij het zweet op de juiste ruggen staat én de resultaten valide en betrouwbaar zijn. Transparantie is evident.
+Formatief vs summatief, de mid- en endterm momenten zijn duidelijk summatief. Retrospect en reviews zijn formatief. De Vormgeving van de toetsings hangen er een beetje tussen en we zijn ons wel eens verloren in het ‘afvinken’, wat we juist niet willen. We zoeken naar een juiste vorm van formatieve feedback waarbij het zweet op de juiste ruggen staat én de resultaten valide en betrouwbaar zijn. Transparantie is evident.
 
 ### Onze toetsen zijn valide
 
