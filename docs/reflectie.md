@@ -24,7 +24,7 @@ LLM's zoals ChatGPT kunnen een verleidelijk hulpmiddel zijn voor aankomende juni
 
 Vooralsnog zijn we de enige Ad Frontend in Nederland en daarom schreven wij tijdens de TNO ons eigen profiel. Wij hebben beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) op pagina 15. Ook hebben we [onze leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de bijbehorende gedragscriteria en -indicatoren getoetst aan het landelijk profiel CMD, HBO-ICT, de kwaliteitsraamwerken NLQF en EQF, de Dublin Descriptoren en tenslotte het e-Competence framework.
 
-Wij missen vergelijkbare opleidingen. Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Er waren geluiden over ontwikkeling van een Associate degree richting Frontend aan de HAN, wellicht biedt dit de mogelijkheid voor oprichting van een nieuw LAdO. Tot die tijd zoeken wij partnerschap buiten Nederland. Via Chain 5 zijn we in contact gekomen met Pixel Antwerpen. Alhoewel de gerichtheid niet precies is zijn daar 2 practoraten, Web-development en Web-design. Een eerste officieel overleg moet nog plaats vinden.
+Wij missen vergelijkbare opleidingen. Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Er waren geluiden over ontwikkeling van een Associate degree richting Frontend aan de HAN, wellicht biedt dit de mogelijkheid voor oprichting van een nieuw LAdO. Tot die tijd zoeken wij partnerschap buiten Nederland. Via Chain 5 zijn we in contact gekomen met Pixel Antwerpen. Alhoewel de gerichtheid niet precies hetzelfde is zijn daar 2 practoraten, Web-development en Web-design. Een eerste officieel overleg moet nog plaats vinden.
 
 ### Leerresultaten
 
@@ -45,7 +45,6 @@ Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/
 Op dit moment, drie maanden na het afstuderen, heeft 60% van onze ex-studenten uit cohort 2023/24 een baan als frontender. Uit cohort 2022/23 heeft 60% een baan als frontender en is 30% doorgestroomd naar de CMD Bachelor. Hier zijn wij als opleiding trots op. Aangezien we net na de zomer meten ligt het in de lijn der verwachting dat dit aantal de komende tijd nog zal oplopen.
 
 > Wij werken graag samen met FDND en CMD om in persoon inzicht te krijgen in de nieuwe generatie web developers. De curricula van FDND (in zijn geheel) en CMD (delen van) sluiten naadloos aan op onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiële werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van FDND en CMD. _- Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
-
 
 ### Aansluiten bij de actualiteit
 
