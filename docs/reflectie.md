@@ -84,7 +84,7 @@ Om de studenten te laten kennismaken met het vakgebied, werken ze in sprint 6 _T
 
 > Bieb in Bloei is een project dat door studenten van FDND, in opdracht van Buurtcampus Oost wordt uitgevoerd... _- Mariska Gunsink, Project Manager Duurzaamheid bij [Buurtcampus Oost](https://www.buurtcampusoost.nl/)_
 
-> Toolgankelijk is een project dat door studenten van FDND, in opdracht van Vervoerregio Amsterdam wordt uitgevoerd... _- Willeke Passmore, Projectleider Toegankelijkheid bij de [Vervoerregio Amsterdam](https://vervoerregio.nl/)_
+> Deze samenwerking is waardevol voor zowel studenten als collega's van de Vervoerregio. Beide leren meer over de inhoud, toegankelijkheid van websites, maar ook over opdrachtgeverschap en opdrachtnemerschap. Met de frisse blik van studenten worden wij getoetst op wat we precies uit het product willen halen. Tegelijkertijd leren studenten zo wat er nodig is om de vraag scherp te stellen en de vertaling te maken vanuit hun technische kennis en jargon naar begrijpelijke taal voor de klant zonder technische voorkennis. Toolgankelijk kan de Vervoerregio echt verder brengen in onze vraag; het toetsen van toegankelijkheid van websites. _- Elise Kamps, Assistent Projectleider bij de [Vervoerregio Amsterdam](https://vervoerregio.nl/)_
 
 ### Studenten aan het roer
 
