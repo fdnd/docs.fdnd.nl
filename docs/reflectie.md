@@ -42,6 +42,8 @@ Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/
 
 ### Na afronding
 
+
+
 ~~Statistieken~~ beschrijving over onze afstudeerders
 
 Reactie van stagebedrijven in de vorm van een aantal citaten.
@@ -50,13 +52,11 @@ Reflectie vanuit de 1e lichting..
 
 ### Aansluiten bij de actualiteit
 
-Veranderingen in het vakgebied en hoe die omarmd worden binnen de opleiding
+FDND wil *up-to-date* te blijven met veranderingen in de HTML/CSS/JS standaarden. Dit betekent concreet dat docenten doorlopend met elkaar, van elkaar en van studenten leren. Binnen de tribe hebben docenten naast hun overlap in frontenderschap elk hun eigen expertise, doordat we met meerdere docenten tegelijk in de groep staan leren we tijdens het werken. Daarnaast houden we elkaar voortdurend op de hoogte van ontwikkelingen middels onze teamskanalen en bezoeken we regelmatig beroepsspecifieke conferenties.
 
-Voorbeelden: Caroussel van Krijn obv. artikel wat verscheen..
+Zo is bijvoorbeeld vandaag (26 september 2024) een [artikel van Alvaro Montoro](https://alvaromontoro.com/blog/68062/new-values-and-functions-in-CSS) gedeeld waarin de volgende *Public Working Draft* voor *CSS Values and Units Module Level 5* wordt besproken. Hierin worden updates met betrekking tot CSS besproken die in ontwikkeling zijn en hoogstwaarschijnlijk aankomende maanden door browsers omarmd worden.
 
-Reactie van tijdelijke co-teacher, Martijn vragen?
-
-Reactie van (stage)bedrijven, vragen tijdens het 2e stagebezoek.
+Een ander voorbeeld is een talk die vorig semester werd gegeven over het *responsive* en *progressive enhanced* opmaken van een caroussel die een dag na het verschijnen van een waardevol artikel bij ons gehouden werd. Deze talk was dermate *actionable* dat zowel 1e als 2e jaars de inzichten direct konden implementeren in hun werk.
 
 ## Standaard 2: De onderwijs­leeromgeving
 
