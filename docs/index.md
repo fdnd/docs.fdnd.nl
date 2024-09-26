@@ -28,11 +28,18 @@ Hieronder een overzicht en beknopte omschrijving van de verschillende documenten
 
 [Uitleg over het downloaden van een ePub]
 
+-->
+
 ## Liever lezen op papier?
 
-[Uitleg over het printen]
+Naast een web-layout is ook aandacht besteed aan een nette print indeling. Je kunt de documenten op deze website afdrukken of downloaden als PDF, dat doe je als volgt:
 
--->
+- Om te printen in Google Chrome, open je de betreffende pagina en druk je op Ctrl+P op een PC of ⌘+P op een Mac.
+- In Safari druk je op ⌘+P.
+- In Microsoft Edge druk je op Ctrl+P.
+- In Mozilla Firefox open je het Settings menu (≡) en klik je op print om de huidige pagina 
+
+In veel gevallen kan je in het print menu kiezen om het te printen document op te slaan als PDF. Op deze manier kan je het document ook lezen op een e-reader.
 
 ## Wil je bijdragen?
 
@@ -42,7 +49,7 @@ FDND nodigt je van harte uit bij te dragen aan deze website. Je kunt bijdragen d
 
 Als je ergens op deze site een fout ontdekt of als je ideeën hebt voor uitbreiding, dan horen wij dat graag door middel van een issue op Github. Wij maken bij issues onderscheid tussen goede ideeën, technische fouten en tekstuele aanpassingen. Kies alsjeblieft het juiste type issue dan worden de labels automagisch correct toegevoegd.
 
-Heb je een goed idee? [Stuur jouw idee in](https://github.com/fdnd/docs.fdnd.nl/issues/new?assignees=&labels=enhancement&projects=&template=goed-idee.md&title=) als issue op Github. Het is lastig om in jouw hoofd te kijken. Zorg bij het invullen van het issue dat je voldoende context geeft om jouw idee te interpreteren. Schetsen of screenshots helpen ons te begrijpen wat je precies bedoeld.
+Heb je een goed idee? [Stuur jouw idee in](https://github.com/fdnd/docs.fdnd.nl/issues/new?assignees=&labels=enhancement&projects=&template=goed-idee.md&title=) als issue op Github. Het is lastig om in jouw hoofd te kijken. Zorg bij het invullen van het issue dat je voldoende context geeft om jouw idee te interpreteren. Schetsen of screenshots helpen ons te begrijpen wat je precies bedoelt.
 
 Kom je een bug tegen? Je kunt een [technische fout rapporteren](https://github.com/fdnd/docs.fdnd.nl/issues/new?assignees=&labels=bug&projects=&template=fout-rapporteren.md&title=%5BFOUT%5D) door een issue aan te maken op Github. Om de bug te reproduceren is context noodzakelijk dus vul alsjeblieft het hele formulier in.
 
