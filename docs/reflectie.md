@@ -18,7 +18,7 @@ Het vakgebied vraagt ook wat van docenten, die hebben een blijvende zorg voor co
 
 Er is een groeiende een kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars. Binnen de HvA bestaat een Ad opleiding Software Development waar ze webtechnieken richten op de backend van websites, daarnaast wordt ook een beetje aandacht besteed aan de frontend. Bij FDND richten wij voornamelijk op de frontend maar leren we studenten in semester 2 en 3 ook wat backend technieken. De gerichtheid bij het aanbod van backend technieken blijft bij ons altijd de *front of the frontend*. Deze keuze heeft impact op de inhoud van het curriculum. In plaats van meer backend zijn 2 sprints in het 2e semester naar de frontend toe bewogen.
 
-LLM's zoals ChatGPT kunnen een verleidelijk hulpmiddel zijn voor aankomende junior frontenders, vooral in termen van snelheid, ondersteuning en leermogelijkheden. In de praktijk merken we dat studenten er veelvuldig gebruik van maken. Echter zien we terug in de dagelijkse begeleiding van studenten én bij assessments dat studenten die doorschieten in het gebruik van deze technologie juist minder grip krijgen op wat ze doen. Wij herkennen de conlusie van dit artikel over het leerrendment van het gebruik van LLM's: [Kids who use ChatGPT as a study assistant do worse on tests](https://www.popsci.com/technology/kids-who-use-chatgpt-as-a-study-assistant-do-worse-on-tests/). LLM's zijn wat ons betreft dus geen vervanging voor diepgaand leren, experimenteren, en samenwerking met anderen. Wij leren de studenten om balans te vinden tussen het gebruik van deze technologie en het zelf ontwikkelen van vaardigheden door praktijkervaring en het opdoen van kennis uit betrouwbare bronnen, waarbij de nadruk ligt op het laatste.
+LLM's, zoals ChatGPT, en AI-tools, zoals Co-Pilot, kunnen een verleidelijk hulpmiddel zijn voor aankomende junior frontenders, vooral in termen van snelheid, ondersteuning en leermogelijkheden. In de praktijk merken we dat studenten er veelvuldig gebruik van maken. Echter zien we terug in de dagelijkse begeleiding van studenten én bij assessments dat studenten die doorschieten in het gebruik van deze technologie juist minder grip krijgen op wat ze doen. Wij herkennen de conlusie van dit artikel over het leerrendment van het gebruik van LLM's: [Kids who use ChatGPT as a study assistant do worse on tests](https://www.popsci.com/technology/kids-who-use-chatgpt-as-a-study-assistant-do-worse-on-tests/). LLM's zijn wat ons betreft dus geen vervanging voor diepgaand leren, experimenteren, en samenwerking met anderen. Wij leren de studenten om balans te vinden tussen het gebruik van deze technologie en het zelf ontwikkelen van vaardigheden door praktijkervaring en het opdoen van kennis uit betrouwbare bronnen, waarbij de nadruk ligt op het laatste.
 
 ### Frontend op Ad niveau
 
@@ -53,6 +53,8 @@ FDND wil *up-to-date* te blijven met veranderingen in de HTML/CSS/JS standaarden
 Zo is bijvoorbeeld vandaag (26 september 2024) een [artikel van Alvaro Montoro](https://alvaromontoro.com/blog/68062/new-values-and-functions-in-CSS) gedeeld waarin de volgende *Public Working Draft* voor *CSS Values and Units Module Level 5* wordt besproken. Hierin worden updates met betrekking tot CSS besproken die in ontwikkeling zijn en hoogstwaarschijnlijk aankomende maanden door browsers omarmd worden.
 
 Een ander voorbeeld is een talk die vorig semester werd gegeven over het *responsive* en *progressive enhanced* opmaken van een caroussel die een dag na het verschijnen van een waardevol artikel bij ons gehouden werd. Deze talk was dermate *actionable* dat zowel 1e als 2e jaars de inzichten direct konden implementeren in hun werk.
+
+> De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van de web te blijven. Dit doen ze door goede blogs, website, events enz. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied.<cite>Sascha Davidson</cite>
 
 ## Standaard 2: De onderwijs­leeromgeving
 
@@ -202,11 +204,19 @@ Studenten leveren werk voornamelijk op in het Nederlands, enkele uitzonderingen 
 
 ### Opleidingscommissie
 
-Inzichten overnemen uit het OC jaarverslag…
+In 2022 werden Suus en Stefan onderdeel van de OC. Samen met de docenten Koop en Suus vormen zij de definitieve OC. Hiermee werd de gewenste balans tussen docenten en studenten behouden. De formatie van de OC verliep soepel. 
+
+Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraakmogelijkheden. Gaandeweg kregen we meer duidelijkheid over onze rol, inclusief inspraak op onder andere: de OER, het budget van de opleiding, het deelnemen aan externe OC-vergaderingen en het opzetten van interne vergaderingen. 
+
+> We hadden regelmatig meetings met de OC. Vaak liepen we inhoudelijk vast op onderwerpen als budgetten en de OER, waardoor er soms weinig concreets uit de vergaderingen kwam. <cite>Suus van Harsveld, OC-lid 2022/23</cite>
+
+> Over het algemeen hebben we het proces van de OC goed uitgevoerd. Ik heb actief deelgenomen aan externe vergaderingen, trainingen en interne vergaderingen. Ik denk dat ik onze opleiding tijdens deze momenten goed heb vertegenwoordigd. Daarnaast heb ik me ook ingezet voor het werven van een nieuw OC-lid. Over het algemeen ben ik tevreden over de OC, en ik hoop in de toekomst mijn taak over te dragen aan een andere enthousiaste deelnemer. <cite>Stefan Espant, OC-voorzitter 2022/24</cite>
 
 ### Personeel
 
 De docent/ student-ratio is bij FDND 1 fte/ 25 studenten. Daarvan wordt 0,9 fte direct ingezet voor studenten. Uit de 0,1 fte overhead die over blijft bekostigen wij de tribe-leaders en de alliance officer welke indirect ten goede komen aan het onderwijs. Deze uren staan op dit moment, zoals bij elke HBO opleiding in Nederland onder druk. De verhouding OP/OBP (1 fte / 250 studenten) lijkt voldoende omdat docenten dichtbij studenten staan en veel vragen zelf afhandelen.
+
+> De docenten van FDND hebben veel kennis van front-end development. De opdrachten die wij maken binnen de opleiding worden goed bijgehouden door de docenten. Voor alle vragen en problemen binnen front-end development kunnen wij terecht bij de docenten. <cite>Sascha Davidson</cite>
 
 ## Standaard 3: Toetsing
 
