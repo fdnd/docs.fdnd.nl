@@ -68,7 +68,7 @@ We zijn kritisch op door ons geleverde prestaties. Zoals bij elk nieuw te ontwik
 
 > S4: Er is piekbelasting in de laatste week voor de assessments. Het beoordelen van portfolia, met name in semester 4, kost te veel tijd. De bewijslast moet volledig in Portflow, nu linken studenten vaak door en staat het bewijs extern en de reflectie/onderbouwing in Portflow. S1-4: De uitvoer van checkpoints voelt als afvinklijst en studenten halen er niet altijd de formatieve waarde uit (zien het als ‘moetje’). We herontwerpen het programmatisch toetsproces zonder de doelen daarvan uit het oog te verliezen. We willen hierbij meer richten op de vijf criteria ipv. de 15 indicatoren. S1-3: We willen talks meer actionable maken. 80% leertaken 20% tijd voor eigen site/portfolio/garden. - selectie verbeterpunten uit retrospect 1 juli 2024
 
-Studenten zijn overwegend blij. Dit blijkt uit prachtige NSE resultaten, schooljaar 2023/24 kreeg FDND het predicaat Topopleiding en voor 2024/25 ligt dit opnieuw in de lijn der verwachting. Daarnaast hebben wij nog een aantal kwaliteitsinstrumenten zoals de 100-dagen-monitor, blokenquêtes en panelgesprekken, die door onze kwaliteitszorgmedewerker bewaakt worden.
+Studenten zijn overwegend tevreden. Dit blijkt uit prachtige NSE resultaten, schooljaar 2023/24 kreeg FDND het predicaat Topopleiding en voor 2024/25 ligt dit opnieuw in de lijn der verwachting. Daarnaast hebben wij nog een aantal kwaliteitsinstrumenten zoals de 100-dagen-monitor, blokenquêtes en panelgesprekken, die door onze kwaliteitszorgmedewerker bewaakt worden.
 
 ### Praktijkvraagstukken in een rijke leeromgeving
 
