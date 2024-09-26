@@ -4,6 +4,12 @@ Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handva
 
 ## Werkwijze
 
+Hoe werken we met sprints,
+sprint planning (coach + studenten samen optrekken, grip krijgen op opdracht), sprint review en mentoren.
+
+Werkwijze deel en leertaken learning-journal
+
+Vrije ruimte + stage richtlijnen e.d. beschrijven
 
 ### Leer- en deeltaken
 
