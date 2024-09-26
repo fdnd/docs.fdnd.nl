@@ -150,7 +150,7 @@ In het geval van een 10 weken stage loopt de student mee als frontender. Na de s
 Studenten kunnen ook intern bij FDND stage lopen. FDND-Agency is een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien. Het verschil met de eerdere drie semesters is dat studenten zelf eindverantwoordelijk zijn voor hun projecten en daarbij geen ondersteunende lessen krijgen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen, geven feedback en handelen *pull-requests* af. Ze stellen zich hierbij op als senior frontender, net als bij de stage.
 
 > Tops: Professionele werksfeer en houding. Variatie aan projecten beschikbaar. Veel zelfstandigheid. Open communicatie tussen teams en docenten. Flexibele planning. Je wordt gemotiveerd om je best te doen door docenten en mede studenten. Moeilijkheidsgraad zelf te kiezen\
-> Tips: Meer verbinding leggen met het bedrijfsleven. Meer opties voor vorm van projecten (buiten al bestaande FDND projecten). Meer voorzieningen (schermen, werkplek, vergoeding). <cite>Mohktar Akle</cite>
+> Tips: Meer verbinding leggen met het bedrijfsleven. Meer opties voor vorm van projecten (buiten al bestaande FDND projecten). Meer voorzieningen (schermen, werkplek, vergoeding). <cite>Feedback van Mohktar Akle</cite>
 
 #### Minor ondernemerschap
 
@@ -196,13 +196,15 @@ Inmiddels is de studiekeuzecheck helemaal vervangen voor meeloopdagen omdat we m
 
 ### Diversiteit en differentiatie
 
-Speerpunt van de HvA, evalueren met harde cijfers instroom, achtergrond etc. docententeam als aandachtspunt noemen (hoog percentage kalende witte mannen).
+FDND heeft op gebied van culturele- en genderdiversiteit een directe opdracht vanuit het bedrijfsleven. Frontend teams zijn over het algemeen vrij homogeen, dat wil zeggen bestaan uit voornamelijk roze mannen. Daarbovenop is diversiteit als een van de 3 D’s, speerpunt van de Hogeschool van Amsterdam. 
+
+Wat instroom, uitval en afstudeerders studenten betreft behalen wij onze diversiteitsdoelen. Bij het uitnodigen van gastsprekers houden we rekening met het tonen van een diverse groep rolmodellen aan studenten. Wat betreft docententeam hebben we een vrij groot percentage kalende roze mannen, dit is een aandachtspunt bij het zoeken naar nieuwe collegae. 
 
 ### Taal
 
-Nederlands en Engels.. Moeilijk punt, wij verwijzen door maar het is soms echt heftig ondermaats. 
+Bij FDND worden zowel Nederlandse als Engelse bronnen (artikelen, video’s etc.) aan studenten aangeboden. Dit is onvermijdelijk gezien het internationale karakter van het beroep. Studenten worden geacht deze bronnen eigen te kunnen maken.
 
-Wat vinden studenten hier van?
+Studenten leveren werk voornamelijk op in het Nederlands, enkele uitzonderingen daargelaten. Wij beoordelen niet op de kwaliteit van het Nederlands en Engels. Soms is die kwaliteit echt heftig ondermaats, wij verwijzen dan door naar de taalwinkel van de HvA of het decanaat.
 
 ### Opleidingscommissie
 
@@ -210,9 +212,7 @@ Evalueren of die werkt? Vraag aan OC specifiek…
 
 ### Personeel
 
-Inzet squad-leaders, aanspreekpunt voor studenten
-
-Inzet co-teachers, uren zoals bij elke HBO opleiding onder druk, 1:25 is beoogd uitgangspunt. Verhouding OP/OBP werkt prima.
+De docent/ student-ratio is bij FDND 1 fte/ 25 studenten. Daarvan wordt 0,9 fte direct ingezet voor studenten. Uit de 0,1 fte overhead die over blijft bekostigen wij de tribe-leaders en de alliance officer welke indirect ten goede komen aan het onderwijs. Deze uren staan op dit moment, zoals bij elke HBO opleiding in Nederland onder druk. De verhouding OP/OBP (1 fte / 250 studenten) lijkt voldoende omdat docenten dichtbij studenten staan en veel vragen zelf afhandelen.
 
 ## Standaard 3: Toetsing
 
