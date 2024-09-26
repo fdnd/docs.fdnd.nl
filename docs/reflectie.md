@@ -203,7 +203,7 @@ Studenten leveren werk voornamelijk op in het Nederlands, enkele uitzonderingen 
 
 ### Opleidingscommissie
 
-Evalueren of die werkt? Vraag aan OC specifiek…
+Inzichten overnemen uit het OC jaarverslag…
 
 ### Personeel
 
@@ -213,7 +213,9 @@ De docent/ student-ratio is bij FDND 1 fte/ 25 studenten. Daarvan wordt 0,9 fte 
 
 _‌De opleiding beschikt over een adequaat systeem van toetsing._
 
-De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor de inrichting van het toetsprogramma en voor het proces van toetsing. Ook de kwaliteit van de toetsing wordt in dit toetsbeleid geborgd. Dit beleid is voor de opleiding Frontend Design & Development (FDND) uitgewerkt in het document ‘Didactiek en toetsing’ en de Onderwijs- en Examenregeling van de opleiding. In het toetsbeleid zijn de twee functies van toetsen: stimuleren van het leerproces en beoordelen, onlosmakelijk met elkaar verbonden en de validiteit, betrouwbaarheid, transparantie en kwaliteit van toetsen zijn geborgd.
+De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor de inrichting van het toetsprogramma en voor het proces van toetsing. Ook de kwaliteit van de toetsing wordt in dit toetsbeleid geborgd. In 2025 vindt HvA-breed visitatie voor integraal toets en kwaliteitsbeleid plaats tijdens de ITK.
+
+Dit beleid is voor de opleiding Frontend Design & Development (FDND) uitgewerkt in het document [Didactiek en toetsing](/assets/docs/Bijlage06_DidactiekEnToetsing.pdf) en de [Onderwijs- en Examenregeling](https://studiegids.hva.nl/fdnd-advt) van de opleiding. In het toetsbeleid zijn de twee functies van toetsen: stimuleren van het leerproces en beoordelen, onlosmakelijk met elkaar verbonden en de validiteit, betrouwbaarheid, transparantie en kwaliteit van toetsen zijn geborgd.
 
 Andere opleidingen komen bij FDND kijken om te leren hoe wij met toetsing omgaan. Desondanks denken wij dat het beter kan. Toetsen kostte voorheen te veel tijd en wij zijn liever bezig met inhoudelijke feedback dan het invullen van Portflow checkpoints. We zoeken naar een juiste balans tussen nakijktijd/ systemen en aandacht voor studenten.
 
@@ -247,9 +249,11 @@ BAS op 45 EC is prima, studenten die een BAS ontvangen tonen weinig tot geen inz
 
 ### Onze toetsen zijn transparant
 
-Zowel formatieve als summatieve feedback is gericht op de jaarlijks vastgestelde niveaumatrix en wordt vastgelegd in Portflow. Portflow is ingericht op basis van de criteria en wordt gebruikt als bewijslast voor beoordeling. Het beoordelingsformulier is digitaal gemaakt, dit heeft als voordeel archivering en snelheid. Studenten zijn nu direct op de hoogte van hun beoordeling en ontvangen feedback.
+Bij de kickoff van een semster en bij elke sprintplanning (de eerste maandag van een sprint) wordt de gerichtheid van respectievelijk semester en sprint besproken. Daarbij worden onder andere het leerresultaat en de bijbehorende vijf criteria en vijftien indicatoren besproken. Omdat deze manier van beoordelen gedurende 2 jaar hetzelfde blijft leren studenten de niveaumatrix steeds beter zelf te raadplegen en te interpreteren. 
 
-Bij de kickoff van een semster en de sprintplanning wordt de gerichtheid van respectivelijk semester en sprint besproken. Studenten
+Ook bij het toetsproces is sprake van afnemende sturing (de student aan het roer). In semester 1 worden studenten bij de hand genomen en wordt het proces meerdere malen stap voor stap uitgelegd en geoefend, in semester vier zijn studenten in staat zelfstandig hun bewijslast te verzorgen.
+
+Bij FDND is zowel formatieve als summatieve feedback gericht op de jaarlijks vastgestelde niveaumatrix. Formatieve feedback wordt vastgelegd in Portflow, summatieve feedback in de digitale leeromgeving waar studenten voorafgaand aan hun assessment een snapshot van hun Portflow inleveren. Zowel Portflow als het beoordelingsformulier in DLO zijn ingericht op basis van de vijf gedragscriteria. Het beoordelingsformulier is digitaal, dit heeft goede archivering en snelheid als voordeel. Studenten zijn na hun assessment direct op de hoogte van de totstandkoming van hun beoordeling, de behandelde vragen en hun antwoorden en de ontvangen feedback. Daarnaast worden courses op DLO goed gearchiveerd en zeven jaar bewaard.
 
 ### Organisatie en kwaliteitsborging van het toetsprogramma
 
