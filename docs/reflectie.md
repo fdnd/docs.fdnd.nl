@@ -54,6 +54,8 @@ Zo is bijvoorbeeld vandaag (26 september 2024) een [artikel van Alvaro Montoro](
 
 Een ander voorbeeld is een talk die vorig semester werd gegeven over het *responsive* en *progressive enhanced* opmaken van een caroussel die een dag na het verschijnen van een waardevol artikel bij ons gehouden werd. Deze talk was dermate *actionable* dat zowel 1e als 2e jaars de inzichten direct konden implementeren in hun werk.
 
+> De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van de web te blijven. Dit doen ze door goede blogs, website, events enz. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied.<cite>Sascha Davidson</cite>
+
 ## Standaard 2: De onderwijs­leeromgeving
 
 _Het programma, de onderwijsleeromgeving en de kwaliteit van het docententeam maken het voor de instromende studenten mogelijk de beoogde leerresultaten te realiseren._
@@ -202,11 +204,19 @@ Studenten leveren werk voornamelijk op in het Nederlands, enkele uitzonderingen 
 
 ### Opleidingscommissie
 
-Inzichten overnemen uit het OC jaarverslag…
+In 2022 werden Suus en Stefan onderdeel van de OC. Samen met de docenten Koop en Suus vormen zij de definitieve OC. Hiermee werd de gewenste balans tussen docenten en studenten behouden. De formatie van de OC verliep soepel. 
+
+Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraakmogelijkheden. Gaandeweg kregen we meer duidelijkheid over onze rol, inclusief inspraak op onder andere: de OER, het budget van de opleiding, het deelnemen aan externe OC-vergaderingen en het opzetten van interne vergaderingen. 
+
+> We hadden regelmatig meetings met de OC. Vaak liepen we inhoudelijk vast op onderwerpen als budgetten en de OER, waardoor er soms weinig concreets uit de vergaderingen kwam. <cite>Suus van Harsveld, OC-lid 2022/23</cite>
+
+> Over het algemeen hebben we het proces van de OC goed uitgevoerd. Ik heb actief deelgenomen aan externe vergaderingen, trainingen en interne vergaderingen. Ik denk dat ik onze opleiding tijdens deze momenten goed heb vertegenwoordigd. Daarnaast heb ik me ook ingezet voor het werven van een nieuw OC-lid. Over het algemeen ben ik tevreden over de OC, en ik hoop in de toekomst mijn taak over te dragen aan een andere enthousiaste deelnemer. <cite>Stefan Espant, OC-voorzitter 2022/24</cite>
 
 ### Personeel
 
 De docent/ student-ratio is bij FDND 1 fte/ 25 studenten. Daarvan wordt 0,9 fte direct ingezet voor studenten. Uit de 0,1 fte overhead die over blijft bekostigen wij de tribe-leaders en de alliance officer welke indirect ten goede komen aan het onderwijs. Deze uren staan op dit moment, zoals bij elke HBO opleiding in Nederland onder druk. De verhouding OP/OBP (1 fte / 250 studenten) lijkt voldoende omdat docenten dichtbij studenten staan en veel vragen zelf afhandelen.
+
+> De docenten van FDND hebben veel kennis van front-end development. De opdrachten die wij maken binnen de opleiding worden goed bijgehouden door de docenten. Voor alle vragen en problemen binnen front-end development kunnen wij terecht bij de docenten. <cite>Sascha Davidson</cite>
 
 ## Standaard 3: Toetsing
 
