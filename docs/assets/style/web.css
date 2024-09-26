@@ -495,18 +495,18 @@ nav.subnav {
     font-weight: bold;
   }
   & .toc-level-4 {
-    margin-left: 1.15rem;
     font-size: .9em;
   }
 
-  & .toc-level-4 li {
+  & .toc-level-4 li a {
     position: relative;
+    padding-left:1.5rem;
   }
-  & .toc-level-4 li::before {
+  & .toc-level-4 a::before {
     content:"~";
     position:absolute;
     top:.25rem;
-    left:-.5rem;
+    left:.5rem;
   }
 
 }
