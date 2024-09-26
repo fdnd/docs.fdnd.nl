@@ -298,29 +298,37 @@ Toetsstatistiek en slagingspercentages.
 
 ### Eindwerken
 
-#### Cohort 2022-23
-
-4 afstudeerwerken…
-
-Screenshot en beschrijving van de eindopdrachten en links naar dossiers (achter login).
-
-#### Cohort 2023-24
-
-6 afstudeerwerken…
-
-Screenshot en beschrijving van een selectie eindopdrachten en links naar dossiers (achter login).
+Zoals eerder beschreven staan alle eindwerken in onze digitale leeromgeving (Brightspace). Panelleden ontvangen t.z.t. een account waarmee ze de dossiers, de totstandkoming van de beoordeling, de beoordeling en het advies kunnen inzien. Hiertoe krijgen zij toegang tot twee courses.
 
 ### Alumni aan het woord
 
-Hoe kijken alumni terug op hun tijd bij FDND?
-- Wat vond je prettig?
-- Wat heeft het je gebracht?
-- Wat kan er beter?
-- Wat vertel jij over je opleiding op een feestje?
+Hoe kijken alumni terug op hun opleiding bij FDND? Met die vraag in het achterhoofd hebben we aan Daphne Zwuup (cohort 2022/23) en Rosa Hoffer (cohort 2023/24) vier vragen gesteld. De hieronder gegeven citaties zijn hun letterlijke antwoorden op deze vragen:
 
-#### Cohort 2023-24
+#### Wat vond je prettig?
 
-Alle afstudeerdossiers staan in onze digitale leeromgeving (Brightspace). Panelleden ontvangen t.z.t. een account waarmee ze de dossiers en de beoordeling kunnen inzien.
+> Ik vond het heel erg prettig dat ik met meerdere opdrachtgevers had gewerkt in de opleiding. Door met meerdere opdrachtgevers te werken had ik heel veel websites om in mijn portfolio te doen. Ik had ook in die projecten met veel verschillende frameworks en libraries gewerkt om uitzoeken welke frontend technologieën het leukste is en om meer ervaring op te doen. Mijn portfolio en ervaring heeft me heel veel geholpen met het vinden van een baan. Heel veel reqruiters en twee bedrijven waren heel erg onder de indruk van mijn portfolio. Voor de rest vind ik Flexbox, Grid, UI states, Accessiblity en Performance belangrijke onderwerpen om te leren. Omdat dat mij ook veel heeft geholpen met mijn websites en kenningsmakingsgesprekken. Ik vond het ook altijd fijn om bijlessen te krijgen over bijvoorbeeld Eleventy en andere libraries. <cite>Daphne Zwuup</cite>
+
+> Ik vond het prettig dat je op de opleiding geen 'nummertje' bent. Je wordt serieus genomen, ze kennen je bij naam, en je voelt je echt gezien. <cite>Rosa Hoffer</cite>
+
+#### Wat heeft FDND je gebracht?
+
+> Innovative365 had voordat ik er was geen ontwerper en ze waren helemaal niet van plan om een Frontend Developer aan te nemen, omdat ze een CTO en Fullstack developer hebben naast hun backend developers. Maar toen ik ze mijn portfolio had laten zien en mijn ervaring had verteld, wouden ze me heel graag aannemen. Mijn werk draait voornamelijk om het Blazor-framework (C# framework) in combinatie met de componentenbibliotheek Radzen. Ik werk met verschillende talen, waaronder HTML, CSS, en een heeel klein beetje JavaScript (alleen voor één specifiek component). Sinds ik Blazor en Radzen gebruik om pagina’s te maken, heb ik geen JavaScript meer nodig (behalve voor die ene rich text component lol). In de website "Automate" van Innovative maak ik gebruik van de programmeertaal C# voor interacties en koppelingen, CSS voor de styling, en combineer ik Radzen- en HTML-elementen om de pagina’s te bouwen. Altijd wanneer ik klaar ben met een paginakunnen de backenders de backend koppelen aan mijn Frontend. Ik ben de enigste frontender en vrouw in het bedrijf en ik werk samen met 4 backenders, 1 fullstack developer en een CTO.\
+\
+Ze hadden een bootstrap ontwerp voor hun Automate website en geen goede gebruikerservaring in sommige pagina's (bijv. heel veel onnodig drukken voor bepaalde acties). Daarom had ik een nieuwe huisstijl en nieuwe ontwerpen voor hun website gemaakt. Het is me gelukt om na 6 maanden hun oude website om te toveren naar mijn nieuwe ontwerp en om al de frontend te bouwen. Door mij zijn ze meer geïnteresserd geworden in de frontend willen ze dat mijn ontwerpen zelfs nog beter worden in de toekomst. Dus ik moet mijn ontwerpen nog meer verbeteren :). In de eerste 6 maanden was het doel die het bedrijf aan me heeft gegeven dat ik Blazor en Radzen leer. Dat doel is gelukt! Het volgende doel die ze aan me hebben gegeven is om de frontend te koppelen aan de backend data. Het gaat me denk ik zeker lukken om dit doel te behalen, omdat het me al gelukt is om twee pagina's te koppelen aan de backend. <cite>Daphne Zwuup</cite>
+
+> De opleiding heeft me veel gebracht, waaronder mijn eigen onderneming! Dat is natuurlijk supergaaf en iets waar ik best wel trots op ben. <cite>Rosa Hoffer</cite>
+
+#### Wat kan er beter?
+
+> Soms waren er lessen niet gedaan en hadden we minder begeleiding in het tweede jaar, omdat docenten het druk hadden met de eerste jaars studenten. De PWA les (offline internet websites) was bijvoorbeeld niet gedaan of vergeten door de drukte met de eerstejaars. Ook kon ik een aantal keer niet met mijn begeleider Joost afspreken, omdat hij het te druk had of ziek was. Daarom zit ik meetal in mijn eentje met de opdrachtgever Iskandar wanneer ik bijvoorbeeld eerstejaars zit te begeleiden. Ik was ook een keertje helemaal alleen met de eerstejaars zonder Joost en Iskandar. Ik was hierdoor heel erg gestrest geraakt, omdat ik de brieving voor de eerstejaars helemaal in mijn eentje moest doen. Ik had de belangrijkste informatie verteld. Maar door de stress was ik helemaal vergeten om de huisstijl uit te leggen en om te laten zien welke websites ik heb gemaakt voor Coding The Curbs, zodat ze een idee hebben wat de nieuwe huisstijl van CTC is. Nandita was er wel, maar zij had geen verstand van CTC, dus ze kon me niet helpen herinnneren wat ik moest vertellen of laten zien. <cite>Daphne Zwuup</cite>
+
+> Ik heb eigenlijk weinig negatieve ervaringen gehad. Soms duurden de checkpoints wat lang, maar als dat het enige is, valt het allemaal wel mee. <cite>Rosa Hoffer</cite>
+
+#### Wat vertel jij over je opleiding op een feestje?
+
+> Ik heb niet heel veel over FDND gezegd in feestjes. Ik vertel meestal wat ik doe in mijn Frontend Designer & Developer baan. Welke frameworks ik doe, programmeertalen, libraries etc. <cite>Daphne Zwuup</cite>
+
+> Ik vertel vaak dat de opleiding geweldig is, vooral omdat je veel leert van mensen uit het vakgebied. We hadden wekelijks sprekers, soms ook internationaal, die vertelden over hun werk en ervaringen. Dat gaf me veel inspiratie. Daarnaast zijn de coaches stuk voor stuk experts op verschillende gebieden. De ene is bijvoorbeeld heel goed in HTML, de andere in animaties, en weer een ander in design. Deze diversiteit helpt je ontdekken wat je zelf echt leuk vindt om te doen. <cite>Rosa Hoffer</cite>
 
 ## Studenten aan het woord
 
