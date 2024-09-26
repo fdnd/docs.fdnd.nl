@@ -145,13 +145,13 @@ In het geval van een 10 weken stage loopt de student mee als frontender. Na de s
 Studenten kunnen ook intern bij FDND stage lopen. FDND-Agency is een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien. Het verschil met de eerdere drie semesters is dat studenten zelf eindverantwoordelijk zijn voor hun projecten en daarbij geen ondersteunende lessen krijgen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen, geven feedback en handelen *pull-requests* af. Ze stellen zich hierbij op als senior frontender, net als bij de stage.
 
 > Tops: Professionele werksfeer en houding. Variatie aan projecten beschikbaar. Veel zelfstandigheid. Open communicatie tussen teams en docenten. Flexibele planning. Je wordt gemotiveerd om je best te doen door docenten en mede studenten. Moeilijkheidsgraad zelf te kiezen\
-> Tips: Meer verbinding leggen met het bedrijfsleven. Meer opties voor vorm van projecten (buiten al bestaande FDND projecten). Meer voorzieningen (schermen, werkplek, vergoeding). <cite>Feedback van Mohktar Akle</cite>
+> Tips: Meer verbinding leggen met het bedrijfsleven. Meer opties voor vorm van projecten (buiten al bestaande FDND projecten). Meer voorzieningen (schermen, werkplek, vergoeding). <cite>Mohktar Akle</cite>
 
 #### Minor ondernemerschap
 
 Studenten kunnen de minor ondernemerschap, gericht op bachelorstudenten, als Ad student volgen. Onze enige eis is dat ze websites maken, bijvoorbeeld de marketinguitingen van een onderneming. Op deze manier kunnen studenten bij FDND afstuderen binnen hun eigen onderneming.
 
-[citaat Rosa]
+> De opleiding heeft me veel gebracht, waaronder mijn eigen onderneming! Dat is natuurlijk supergaaf en iets waar ik best wel trots op ben. <cite>Rosa Hoffer</cite>
 
 #### Onderwijs bij een andere FDMCI Ad
 
@@ -161,7 +161,7 @@ Wij hebben in de vrije ruimte ook uitwisseling met de andere Ad’s van FDMCI. F
 
 Tenslotte kunnen studenten het schakelprogramma voor doorstroom naar de CMD Bachelor volgen. Ze krijgen een selectie vakken aangeboden die gericht zijn op theoretische diepgang en onderzoek ten behoeve van het ontwerpproces omdat dat bij FDND onderbelicht blijft. In schooljaar 2022/23 hebben twee, en in schooljaar 2023/24 vijf studenten deelgenomen aan het schakelprogramma.
 
-[citaat Shauri of Emona]
+[citaat Shauri]
 
 ### Afstudeerprogramma
 
@@ -334,5 +334,9 @@ Ze hadden een bootstrap ontwerp voor hun Automate website en geen goede gebruike
 
 Dit hoofdstuk is van studenten. Wij nemen serieuze anekdotes over en redigeren hooguit op taal, maar niet op inhoud.
 
-- Welke onderwerpen verdienen nog aandacht en zijn hierboven niet aangestipt?
-- Wat vertel jij over je opleiding op een feestje?
+### Welke onderwerpen verdienen nog aandacht en zijn hierboven niet aangestipt?
+
+
+### Wat vertel jij over je opleiding op een feestje?
+
+> Bijna niemand snapt de titel van de opleiding, dus ik zeg altijd kortgezegd dat ik leer websites te maken dmv te gaan coderen. Als mensen een beetje verstand ervan hebben noem ik ook de talen maar dat is altijd het riedeltje wat ik doe. <cite>Sammy Bensink</cite>
