@@ -42,13 +42,10 @@ Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/
 
 ### Na afronding
 
+Op dit moment, drie maanden na het afstuderen, heeft 60% van onze ex-studenten uit cohort 2023/24 een baan als frontender. Uit cohort 2022/23 heeft 60% een baan als frontender en is 30% doorgestroomd naar de CMD Bachelor. Hier zijn wij als opleiding trots op. Aangezien we net na de zomer meten ligt het in de lijn der verwachting dat dit aantal de komende tijd nog zal oplopen.
 
+> Wij werken graag samen met FDND en CMD om in persoon inzicht te krijgen in de nieuwe generatie web developers. De curricula van FDND (in zijn geheel) en CMD (delen van) sluiten naadloos aan op onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiële werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van FDND en CMD. _- Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
 
-~~Statistieken~~ beschrijving over onze afstudeerders
-
-Reactie van stagebedrijven in de vorm van een aantal citaten.
-
-Reflectie vanuit de 1e lichting..
 
 ### Aansluiten bij de actualiteit
 
@@ -85,8 +82,6 @@ We zijn erg tevreden over de waarde van het embedden van echte projecten in het 
 Om de studenten te laten kennismaken met het vakgebied, werken ze in sprint 6 _The Startup_ en sprint 12 _Proof of Concept_ aan een Design Challenge voor een Digital Agency. Met een Briefing en een Sprint Review op locatie krijgen ze een kijkje in de keuken van Digital Agency en krijgen ze feedback op hun werk van professionals uit het vakgebied. Door op deze manier aan te sluiten bij de beroepspraktijk geven we nog meer invulling aan de rijke leeromgeving.
 
 > Ik zag sprint 4 en 5 als een periode van nieuwe dingen leren en maken voor de opdrachtgever. Sprint 6 zag ik als een periode waarbij je alles mocht inzetten wat je hebt geleerd en dat was erg leuk want je kon nog alles herhalen wat je eerder hebt geleerd en het op een creatieve manier toepassen. _- Student in de blokenquete_
-
-> Wij werken graag samen met CMD en FDND om in persoon inzicht te krijgen in de nieuwe generatie web developers. Het curriculum van CMD(delen van) en FDND(in zijn geheel) sluiten naadloos aan bij onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiele werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van CMD en FDND. _- Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
 
 > Bieb in Bloei is een project dat door studenten van FDND, in opdracht van Buurtcampus Oost wordt uitgevoerd... _- Mariska Gunsink, Project Manager Duurzaamheid bij [Buurtcampus Oost](https://www.buurtcampusoost.nl/)_
 
