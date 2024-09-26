@@ -38,7 +38,7 @@ Onze niveaumatrix wordt jaarlijks vastgesteld. Door middel van issues wordt inho
 
 Het frontend vakgebied is internationaal maar onze voertaal is Nederlands. Veel van het bronmateriaal wat wij studenten aanreiken is Engelstalig. Scroll voor een indruk even door de [BOKSA](/boksa.html), een document dat doorlopend in ontwikkeling is.
 
-Wij nodigen elke 2e week in een sprint tijdens de [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) een gastspreker uit, vaak zijn dit internationale sprekers. Onze afstudeerders vinden na hun studie een baan als frontender in de metropoolregio Amsterdam.
+Voor de [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) nodigen we elke sprint een gastspreker uit, vaak zijn dit internationale sprekers. Onze afstudeerders vinden na hun studie een baan als frontender in de metropoolregio Amsterdam.
 
 ### Na afronding
 
