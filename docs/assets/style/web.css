@@ -497,8 +497,18 @@ nav.subnav {
   & .toc-level-4 {
     margin-left: 1.15rem;
     font-size: .9em;
-    list-style-type:circle
   }
+
+  & .toc-level-4 li {
+    position: relative;
+  }
+  & .toc-level-4 li::before {
+    content:"~";
+    position:absolute;
+    top:.25rem;
+    left:-.5rem;
+  }
+
 }
 
 /* Footer */
