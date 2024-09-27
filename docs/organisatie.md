@@ -41,7 +41,7 @@ Een squad-leader:
 - Heeft de basiskwalificatie didactische bekwaamheid (BDB) en de basiskwalificatie examinator (BKE) of is bezig deze te behalen;
 - Heeft deelgenomen aan de assessorentraining of is bereid deze te volgen;
 - Is eindverantwoordelijk voor het leerproces binnen de squad;
-- Kent de studenten in de squad en begeleid bij het volbrengen van deel- en leertaken;
+- Kent de studenten in de squad en begeleidt bij het volbrengen van deel- en leertaken;
 - Is op de hoogte van en draagt bij aan de invulling van het onderwijsprogramma;
 - Verzorgt regelmatig talks en workshops in afstemming met andere squad-leaders;
 - Overlegt en stemt af met co-teachers en gastsprekers;
