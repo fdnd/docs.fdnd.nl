@@ -68,17 +68,55 @@ Voorbeelden:
 
 #### Briefing en debriefing
 
-Briefing, Gesprek opdrachtgever
+Een briefing is de initiële instructie waarin de opdrachtgever duidelijk maakt wat er onderzocht moet worden. Dit omvat de hoofdvraag, doelen, de afbakening van het onderzoek en de verwachtingen van de opdrachtgever. Het helpt om het onderzoeksproces in goede banen te leiden en zorgt ervoor dat de onderzoeker weet wat er verwacht wordt.
 
-- Briefing/debriefing https://www.joho.org/en/hoe-stel-je-een-goede-briefing-en-debriefing-onderzoeksomschrijving-en-terugkoppeling-daarop-op
+Een debriefing is de terugkoppeling van de onderzoeker aan de opdrachtgever om te bevestigen dat hij de opdracht goed heeft begrepen. Tijdens de debriefing worden onduidelijkheden opgehelderd en wordt besproken of de onderzoeker op de juiste weg zit. Het doel is om misverstanden te voorkomen en ervoor te zorgen dat het onderzoek aansluit bij de verwachtingen.
+
+Bronnen:
+- [Preparing an Effective Briefing @ Imperial College London](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/staff-development/public/ipd/Preparing-an-effective-briefing.pdf)
 
 #### Contentanalyse
 
-Welke gegevens zijn beschikbaar, welke moeten gemaakt worden
+Een contentanalyse voor een website is een gestructureerde methode om de inhoud van een website te evalueren en te beoordelen. Het doel is om te begrijpen hoe effectief de content is in het bereiken van de doelgroep en het behalen van bedrijfsdoelen. Dit proces omvat vaak de volgende stappen:
+
+**Inventarisatie van content**: Een volledige lijst maken van alle inhoud op de website, inclusief tekst, afbeeldingen, video's, blogs, productpagina's, enz.
+
+**Evaluatie van kwaliteit en relevantie**: Beoordelen of de content voldoet aan de doelen van de website, zoals informatie verstrekken, de gebruiker begeleiden, of een merkboodschap overbrengen. 
+
+**SEO-analyse**: Controleren of de content geoptimaliseerd is voor zoekmachines. Dit omvat het analyseren van de juiste gebruik van zoekwoorden, meta tags, en andere SEO-elementen die de zichtbaarheid in zoekresultaten beïnvloeden.
+
+**Gebruikerservaring (UX)**: Beoordelen hoe goed de content georganiseerd is en of het gemakkelijk te navigeren en te consumeren is. Dit houdt in dat gekeken wordt naar de lay-out, leesbaarheid, en hoe intuïtief de site is.
+
+Een goede contentanalyse helpt bij het identificeren van zwakke plekken in de inhoud en biedt een strategie om deze te verbeteren om beter aan de behoeften van de doelgroep en bedrijfsdoelen te voldoen.
+
+Bronnen:
+- [How (and Why) to Perform a Content Analysis](https://fivechannels.com/how-to-perform-a-content-analysis/)
 
 #### Projectbord inrichten
 
-Github Projects, Trello, Linear.app, Todo List
+Een projectbord is een visueel hulpmiddel om de voortgang van een project te organiseren en te beheren. Het helpt teams om hun taken, deadlines, en verantwoordelijkheden duidelijk te visualiseren. Een goed ingericht projectboard bestaat vaak uit een aantal standaard componenten die bijdragen aan overzicht en efficiëntie.
+
+Stappen om een projectboard in te richten:
+
+1. **Kies een tool**: Er zijn verschillende tools beschikbaar voor projectboards, zoals Github, Trello, Asana, Jira, of MS Azure Devops. Elk biedt aanpasbare borden waarmee je taken en statussen kunt bijhouden. Bij FDND gebruiken wij voornamelijk Github maar op stage kom je wellicht andere tools tegen.
+
+2. **Maak kolommen aan**: Organiseer het projectboard door kolommen te creëren die de workflow representeren. Veelvoorkomende kolommen zijn: To do, In progress, Review, Done. Afhankelijk van de aard van het project kunnen extra kolommen nuttig zijn, zoals "Blokkerende issues" of "Afwachting goedkeuring".
+
+3. **Maak taken (cards)**: Voeg specifieke taken toe als cards (op Github, Trello of Jira bijvoorbeeld) binnen de kolommen. Elke taak bevat gedetailleerde informatie zoals beschrijvingen, subtaken, deadlines, en verantwoordelijke teamleden.
+
+4. **Toewijzen van verantwoordelijkheden**: Wijs teamleden toe aan de taken. Zo is duidelijk wie verantwoordelijk is voor welke stap in het proces.
+
+5. **Prioriteiten stellen**: Geef aan welke taken het meest urgent zijn door prioriteitslabels of kleuren te gebruiken. Dit helpt het team om zich te focussen op wat het eerst moet worden aangepakt.
+
+6. **Bijwerken en onderhouden**: Een projectboard moet dynamisch zijn. Update het regelmatig om de voortgang bij te houden, taken te verplaatsen tussen kolommen, en nieuwe taken toe te voegen als dat nodig is.
+
+7. **Tijdslijnen en deadlines toevoegen**: Gebruik tijdsmanagementfuncties zoals deadlines, kalenderintegraties, en herinneringen. Zo blijft iedereen op de hoogte van de planning en kan er tijdig worden ingegrepen.
+
+Belangrijke tips:
+
+- **Gebruik visuele elementen**: Voeg labels, kleuren of tags toe om verschillende taken of fasen van elkaar te onderscheiden.
+- **Communicatie**: Sommige tools bieden communicatie- of commentaarsecties binnen taken, wat handig is voor snelle updates of vragen.
+- **Rapportages**: Zorg dat je een overzicht hebt van voltooid werk, werk in uitvoering, en wat nog gepland is. Dit kan helpen bij rapportages of evaluaties van projectvoortgang.
 
 #### Projectinrichting
 
@@ -86,8 +124,7 @@ Github, forks, boilerplates
 
 #### Taken vaststellen
 
-User scenario’s, User Stories, Job Stories
-Definition of Done
+Epics > User Stories > Job Stories > Tasks
 
 - User scenario's https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/
 - 5 Tips For Writing A Job Story https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9
@@ -334,48 +371,47 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 - [Usabilitytesting: doe het zelf!](https://blog.q42.nl/usabilitytesting-5c223bc7e8b5/)
 - [Real World Wednesdays Dropbox](https://medium.com/dropbox-design/how-to-run-a-research-session-if-youre-not-a-design-researcher-2d6c1c769557)
 
-Roast/ Design Critique
+##### Roast/ Design Critique
 
-Tab/Keyboard test
+##### Tab/Keyboard test
 
-Kleurenblindheid test
+##### Kleurenblindheid test
 
-Brillentest
+##### Brillentest
 
-Feedback sessie opdrachtgever (acceptatietest)
+##### Acceptatietest
+(review/oplevering opdrachtgever)
 
-Usertest
+##### Usertest
 
-Testen in Usability Lab
+##### Testen in Usability Lab
 
-Colorcontrast
+##### Colorcontrast
 
-Browsertest
+##### Browsertest
 
-Elderly test
+##### Elderly test
 
-Performance test
+##### Performance test
 
-Waterval performance
+##### Waterval performance
 
-Expert review
+##### Expert review
 
-Client review
+##### Client review
 
-Code review
+##### Code/Design review
 
-Design review
+##### Geautomatiseerde tests
 
-lighthouse
+###### W3C validator
 
-validator
+###### WCAG-test
 
-WCAG-test
+###### A11Y-test
 
-a11y
+##### screenreader test
 
-screenreader test
+##### device test
 
-device test
-
-Quality assurance
+##### Quality assurance
