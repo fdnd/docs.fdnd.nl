@@ -347,22 +347,22 @@ Dit hoofdstuk is van studenten. Wij nemen serieuze anekdotes over en redigeren h
 
 ### Welke onderwerpen verdienen nog aandacht en zijn hierboven niet aangestipt?
 
-> Ik zou graag meerdere introductielessen JavaScript willen volgen, aangezien ik momenteel een beperkte kennis heb van JavaScript. Dit is noodzakelijk voor mijn stage, waar dit nu van mij wordt verwacht, terwijl ik pas net begin met het leren ervan. <cite>Marwa Hello, Alumna</cite>
+> ~~Ik zou graag meerdere introductielessen JavaScript willen volgen, aangezien ik momenteel een beperkte kennis heb van JavaScript. Dit is noodzakelijk voor mijn stage, waar dit nu van mij wordt verwacht, terwijl ik pas net begin met het leren ervan. <cite>Marwa Hello, Alumna</cite>~~
 
-> Hoewel onze beoordeling heel relaxed en duidelijk is en je niet uit een boek hoeft te leren, is het toch gebaseerd op praktijk en beoordeling. Toch vind ik het soms bevooroordeeld door de beoordeling van leraren, omdat de ene dit leuk vindt en de andere niet. <cite>Marwa Hello, Alumna</cite>
+> ~~Hoewel onze beoordeling heel relaxed en duidelijk is en je niet uit een boek hoeft te leren, is het toch gebaseerd op praktijk en beoordeling. Toch vind ik het soms bevooroordeeld door de beoordeling van leraren, omdat de ene dit leuk vindt en de andere niet. <cite>Marwa Hello, Alumna</cite>~~
 
-> Het zou ook fijn zijn als de lessen worden gefilmd voor mensen die niet aanwezig kunnen zijn of die ze later willen terugkijken. <cite>Marwa Hello, Alumna</cite>
+> ~~Het zou ook fijn zijn als de lessen worden gefilmd voor mensen die niet aanwezig kunnen zijn of die ze later willen terugkijken. <cite>Marwa Hello, Alumna</cite>~~
 
 ### Wat vertel jij over je opleiding op een feestje?
 
-> Je kunt een meer persoonlijke band opbouwen met je docenten. <cite>Marwa Hello, Alumna</cite>
+> ~~Je kunt een meer persoonlijke band opbouwen met je docenten. <cite>Marwa Hello, Alumna</cite>~~
 
-> Het is een tweejarige opleiding. <cite>Marwa Hello, Alumna</cite>
+> ~~Het is een tweejarige opleiding. <cite>Marwa Hello, Alumna</cite>~~
 
-> We hanteren het motto WORK HARD PLAY HARD aan het einde van elke sprint. <cite>Marwa Hello, Alumna</cite>
+> ~~We hanteren het motto WORK HARD PLAY HARD aan het einde van elke sprint. <cite>Marwa Hello, Alumna</cite>~~
 
-> Er worden automatisch evenementen georganiseerd om in contact te komen met het bedrijfsleven. <cite>Marwa Hello, Alumna</cite>
+> ~~Er worden automatisch evenementen georganiseerd om in contact te komen met het bedrijfsleven. <cite>Marwa Hello, Alumna</cite>~~
 
-> Hier kun je zijn wie je wilt zijn. <cite>Marwa Hello, Alumna</cite>
+> ~~Hier kun je zijn wie je wilt zijn. <cite>Marwa Hello, Alumna</cite>~~
 
-> Bijna niemand snapt de titel van de opleiding, dus ik zeg altijd kortgezegd dat ik leer websites te maken dmv te gaan coderen. Als mensen een beetje verstand ervan hebben noem ik ook de talen maar dat is altijd het riedeltje wat ik doe. <cite>Sammy Bensink, 2e jaars</cite>
+> ~~Bijna niemand snapt de titel van de opleiding, dus ik zeg altijd kortgezegd dat ik leer websites te maken dmv te gaan coderen. Als mensen een beetje verstand ervan hebben noem ik ook de talen maar dat is altijd het riedeltje wat ik doe. <cite>Sammy Bensink, 2e jaars</cite>~~
