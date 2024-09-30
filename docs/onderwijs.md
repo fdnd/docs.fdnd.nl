@@ -227,29 +227,24 @@ Bron: [Betts, Ryan, Concept to code, Ux Magazine, 2017](https://uxmag.com/articl
 Bron: Grootendorst, Annemiek, Professionele Identiteit ontwikkelen gedurende de hbo-opleiding, 2019, HRO
 
 ## Werken aan projecten
+Studenten werken vanaf sprint 2 van het eerste jaar doorlopend aan projecten van meerdere voor echte opdrachtgevers. Projecten kunnen grote, langlopende projecten zijn van meerdere sprint achter elkaar en een doorlooptijd van meerdere semesters en meerdere leerjaren. Elke 2e sprint van een semester start met een sprint planning mét de opdrachtgever in de FDND. 
 
-Studenten werken vanaf het eerste jaar in sprint 2 doorlopend aan projecten voor echte opdrachtgevers. Elke sprint start met een sprint planning. Bij de sprint planning begeleiden de coaches de studenten bij het werken aan de projecten.
-
-### Opzetten project
-Repo met backlog klaarzetten.
-
-#### Opdrachtgever 
-Briefen, user stories/taken bedenken, backlog, content verzamelen, design (figma) 
-
-#### Coach
-User stories/taken in backlog zetten (baseren op figma), 
-
+### Opzet projecten op GitHub
+De langlopende projecten staan in de GitHub organization [https://github.com/fdnd-agency](https://github.com/fdnd-agency). Elk project heeft een _design-challenge branch_ met een opdrachtomschrijving van het project. Er zijn links opgenomen naar de backlog, designs, content en de api.
+ 
 ### Sprint planning
-Structuur, tips & tricks, werkvormen
+Per team begeleiden de coaches de studenten én de opdrachtgevers de sprint planning, aan de hand van werkvormen en tip & tricks. 
 
-#### sprint 2
-Kennismaken met de opdracht en het project. Briefing /  Debriefing, user stories/taken
+#### Sprint 2 The Client
+Bij de sprint planning van [Sprint 2 The Client](https://programma.fdnd.nl/static-web/the-client) maken de leden van de teams kennis  met elkaar. Het is de briefing van het project, waarbij de opdrachtgever de design challenge toelicht aan het team. Tijdens de briefing stellen de studnete gericht vragen en maken ze afspraken over de sprint reviews en eventuele andere contact momenten en communicatielijnen (whatsapp, teams, slack, etc.). Tijdens dit semester werken de studenten individueel aan hun eigen code.
 
-#### Sprint 8
-Content first, data modellering, api, cms
+#### Sprint 8 Server Side Rendering
+Bij de sprint planning van [Sprint 8 Server Side Rendering](https://programma.fdnd.nl/data-driven-web/server-side-rendering) ligt de focus op de content, data modellering en het dynamisch maken van de website. De studenten maken kennis met de API. Aan de hand van wat er reeds gemaakt is kijken de teams welke taken nog open staan of welke nieuwe taken moeten worden opgepakt. Hieruit rijst de vraag of alle benodigde content te ontsluiten is uit de API. Tijdens dit semester zijn er meerdere teams per project bezig met een eigen codebase.
 
-### Sprint review
-Structuur, tips & tricks, werkvormen
 
-### FDND Agency
-Repo, backlog, release candidate
+#### Sprint 14 Lose Your Head
+Bij de sprint planning van [Sprint 14 Lose your head](https://programma.fdnd.nl/workflow-tooling-frameworks/lose-your-head) wordt weer vanuit het perspectief van de content bekeken hoe het project ervoor staat. De studenten maken kennis met het Headless CMS en krijgen meer controle over de API. Sprint 14 is de aanzet voor het toewerken naar een Release Candidate, een eerste goed werkende oplevering van de web applicatie. Tijdens dit semester gaan de studenten samenwerken één code base.
+
+### Sprint Review
+Aan het eind van elke sprint is er een Sprint Review. De opdrachtgever en studenten bespreken, aan de hand van een [draaiboek NOG LINKEN](), de voortgang van het project. Hierbij wordt de status van de backlog bijgewerkt; Bestaande taken worden, waar nodig in de juiste kolom geplaatst. Studenten verzamelen feedback op hun werk en maken zelf issues aan op GitHub. Deze issues kunnen waar nodig als taken worden opgenomen in de Backlog 
+
