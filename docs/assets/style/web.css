@@ -570,7 +570,7 @@ section {
       &:after {
         content: '';
         display: inline-block;
-        margin-left: calc(var(--gap) / 4);
+        margin-left: calc(var(--gap) / 4 * -4);
         width: 0.6em;
         height: 0.6em;
         line-height: 1em;
