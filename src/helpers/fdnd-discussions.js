@@ -2,20 +2,24 @@ import 'dotenv/config'
 
 import { SKIP, visit } from 'unist-util-visit'
 
-import { graphql } from '@octokit/graphql'
+import { Octokit } from '@octokit/core'
 import { h } from 'hastscript'
 import { hasProperty } from 'hast-util-has-property'
 import { headingRank } from 'hast-util-heading-rank'
+import { paginateGraphQL } from '@octokit/plugin-paginate-graphql'
 import { slug } from 'github-slugger'
 
-const graphqlWithAuth = graphql.defaults({
-  headers: { authorization: `token ${process.env.GITHUB_TOKEN}` },
-})
-const response = await graphqlWithAuth(`
-  {
+const MyOctokit = Octokit.plugin(paginateGraphQL)
+const octokit = new MyOctokit({ auth: `token ${process.env.GITHUB_TOKEN}` })
+const response = await octokit.graphql.paginate(`
+  query paginate($cursor: String) {
     organization(login: "fdnd") {
       repository(name: "docs.fdnd.nl") {
-        discussions(first: 100, states: OPEN) {
+        discussions(first: 100, after: $cursor, states: OPEN) {
+          pageInfo {
+            hasNextPage
+            endCursor
+          }
           nodes {
             category {
               slug
@@ -44,40 +48,33 @@ export default function fdndDiscussions(options = {}) {
 
     visit(tree, 'element', (node, index, parent) => {
       if (headingRank(node) && node.properties && hasProperty(node, 'id')) {
-        const discussion =
-          discussions.length > 0 ? discussions.find((discussion) => discussion.title === node.properties.id) : null
+        const ontopic =
+          discussions.length > 0 ? discussions.filter((discussion) => discussion.title === node.properties.id) : null
 
-        if (discussion) {
-          node.children.push(
-            h(
-              'a',
-              { 'aria-hidden': 'true', href: discussion.url, class: 'discussion-link', title: 'Ga naar de discussie' },
-              h('span', { class: 'icon icon-discussion' })
-            )
+        node.children.push(
+          h(
+            'a',
+            {
+              'aria-hidden': 'true',
+              href: `https://github.com/fdnd/docs.fdnd.nl/discussions/new?category=${filenameSlug}&title=${node.properties.id}`,
+              class: 'discussion-link',
+              title: 'Start een nieuwe discussie',
+            },
+            h('span', { class: 'icon icon-new-discussion' })
           )
+        )
+
+        ontopic.forEach((discussion) => {
           parent.children.splice(
             index + 1,
             0,
             h('aside', { class: 'discussion' }, [
               h('span', `${discussion.author.login}: `),
               `${discussion.body} `,
-              h('span', `${discussion.comments.totalCount} reacties`),
+              h('span', [`${discussion.comments.totalCount} reacties, `, h('a', { href: discussion.url }, 'reageer')]),
             ])
           )
-        } else {
-          node.children.push(
-            h(
-              'a',
-              {
-                'aria-hidden': 'true',
-                href: `https://github.com/fdnd/docs.fdnd.nl/discussions/new?category=${filenameSlug}&title=${node.properties.id}`,
-                class: 'discussion-link',
-                title: 'Start een nieuwe discussie',
-              },
-              h('span', { class: 'icon icon-new-discussion' })
-            )
-          )
-        }
+        })
       }
     })
   }
