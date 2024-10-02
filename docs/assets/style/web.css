@@ -570,7 +570,7 @@ section {
       &:after {
         content: '';
         display: inline-block;
-        margin-left: calc(var(--gap) / 4 * -4);
+        margin-left: 0;
         width: 0.6em;
         height: 0.6em;
         line-height: 1em;
@@ -578,6 +578,9 @@ section {
         background-size: contain;
         background-image: url('../img/link.svg');
         filter: var(--svg-filter);
+        position: absolute;
+        left: -1rem;
+        top: .35em;
       }
     }
 
