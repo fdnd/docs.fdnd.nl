@@ -192,18 +192,17 @@ Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met 
 
 
 ##### Informatie architectuur
-Informatie architectuur is een ontwerp discipline die zich bezig houdt met het structureren en organiseren van de content van een website zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie doe je door passende organisatie systemen te ontwerpen voor de content, en duidelijke labels en navigatie systemen te gebruiken. 
+Informatie architectuur is een ontwerp discipline die zich bezig houdt met het structureren en organiseren van de content van een website zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie doe je door passende organisatie systemen te ontwerpen voor de content, en duidelijke labels en navigatie systemen te gebruiken.
 
 ##### Sitemap (Hierarchie)
 Een sitemap geeft een gestructureerd overzicht van alle pagina's van een website.
-Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan oo zorgen voor gerichheid van een project.
+Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan ook zorgen voor gerichtheid van een project.
 
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
 [Sitemaps & Information Architecture (IA)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
 
-
 ##### Breakdown Schets
-Een breakdown schets is een Wireframe of Wireflow met annotaties voor de HTML, CSS en/of JS. Het is een methode die frontenders gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code.
+Een Breakdown schets is een Wireframe of Wireflow met annotaties voor de HTML, CSS en/of JS. Het is een methode die frontenders gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code.
 Door blokken in de schets te tekenen voor de HTML, de CSS properties te annoteren en ideeën op te schrijven voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Dan kan je inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. Dit gaat je ook helpen als je iets online gaat zoeken, zo kan je gericht zoeken naar oplossingen.
 
 ##### Wireframe
@@ -217,14 +216,13 @@ Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit 
 - [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows)
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
-
 ##### Datamodel
 Een Datamodel laat de logische structuur van een database zien, inclusief de relaties tussen tabellen.
 
 - [Directus Data Model](https://docs.directus.io/app/data-model.html)
 
 ##### Data Flow Diagram
-Een Data Flow diagram is een manier om systemen en software te visualiseren met behulp van Unified Modeling Language (UML). Developers maken diagrammen om inzicht te krijgen in de ontwerpen, codearchitectuur en implementatie van complexe softwaresystemen.
+Een Data Flow Diagram is een manier om systemen en software te visualiseren met behulp van Unified Modeling Language (UML). Developers maken diagrammen om inzicht te krijgen in de ontwerpen, codearchitectuur en implementatie van complexe softwaresystemen.
 
 - [What is a data flow diagram?](https://miro.com/diagramming/what-is-a-data-flow-diagram/)
 - [What is a UML diagram?](https://miro.com/diagramming/what-is-a-uml-diagram/)
@@ -235,7 +233,6 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/) 
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
-
 
 
 #### Principes
