@@ -194,9 +194,17 @@ Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig 
 
 
 ##### Breakdown Schets
-##### Wireframe
 
-Wireframing User Flow with Wireflows https://balsamiq.com/learn/articles/wireflows/
+
+
+##### Wireframe
+Een Wireframe is een schematische tekening van een pagina. Met een Wireframe kun je (snel) schetsen hoe een pagina er uit kan komen te zien, wat belangrijk is, welke onderdelen waar komen te staan, wat in de viewpoort staat en wat de interactieve elementen zijn. 
+
+Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met meer detail en kleuren. Voor een HiFi Wireframe kun je goed prototype software gebruiken zoals Figma. Door LoFI Wireframes te schetsen kan je snel verschillende layouts uitproberen, ideeën visualiseren, bespreken en aanpassen.
+
+- [What is wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
+- [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows)
+- [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
 ##### Wireflow
 
