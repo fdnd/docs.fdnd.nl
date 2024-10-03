@@ -41,7 +41,7 @@ De development lifecycle hanteert de volgende fasering:
 
 ### Analyseren
 
-In de analyse fase onderzoek en inventariseer je wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die je hierbij kunt gebruiken. De aanpak verschilt per sprint afhankelijk van de fase in je project. 
+In de analyse fase onderzoek en inventariseer je wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die je hierbij kunt gebruiken. De aanpak verschilt per sprint afhankelijk van de fase in je project.
 
 Als je voor de eerste keer met een team samenwerkt is het handig om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreek je de opdrachtgever in een [briefing en debriefing](#briefing-en-debriefing) sessie.
 
@@ -73,6 +73,8 @@ Een briefing is de initiële instructie waarin de opdrachtgever duidelijk maakt 
 Een debriefing is de terugkoppeling van de onderzoeker aan de opdrachtgever om te bevestigen dat hij de opdracht goed heeft begrepen. Tijdens de debriefing worden onduidelijkheden opgehelderd en wordt besproken of de onderzoeker op de juiste weg zit. Het doel is om misverstanden te voorkomen en ervoor te zorgen dat het onderzoek aansluit bij de verwachtingen.
 
 Bronnen:
+ - [Checklist voor de ultieme debriefing – in 11 stappen naar resultaat](https://www.frankwatching.com/archive/2020/09/10/ultieme-debriefing-checklist-11-stappen/)
+ - [Hoe stel je een goede briefing en debriefing (onderzoeksomschrijving en terugkoppeling daarop) op?](https://www.joho.org/en/hoe-stel-je-een-goede-briefing-en-debriefing-onderzoeksomschrijving-en-terugkoppeling-daarop-op)
 - [Preparing an Effective Briefing @ Imperial College London](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/staff-development/public/ipd/Preparing-an-effective-briefing.pdf)
 
 #### Contentanalyse
