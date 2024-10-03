@@ -266,6 +266,13 @@ UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-you
 
 ##### Kleuren en contrast
 ##### Hierarchie
+Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn.
+Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van tekst of elementen, gebruik van kleur en contrast, en witruime en positie van elementen op het scherm. In deze workshop ga je leren wat visuele hiërarchie is en hoe je het kunt gebruiken om met je team verschillende variaties van jullie website te maken.
+
+- [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
+- [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
+
+
 ##### Afstand/Nabijheid
 ##### Contrast
 
