@@ -253,6 +253,13 @@ UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-you
 ##### Responsive Design
 
 
+- [Beginner guide to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
+- [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [Whatsmyviewport](https://whatismyviewport.com/)
+- Een browser die _Responsive_ makkelijker maakt? 🚀 Gebruik [Polypane](https://polypane.app/) (gratis voor studenten)
+
+
 ##### Touch
 
 [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
