@@ -222,6 +222,11 @@ Een datamodel laat de logische structuur van een database zien, inclusief de rel
 
 - [Directus Data Model](https://docs.directus.io/app/data-model.html)
 
+##### Data Flow Diagram
+Een Data Flow diagram is een manier om systemen en software te visualiseren met behulp van Unified Modeling Language (UML). Developers maken diagrammen om inzicht te krijgen in de ontwerpen, codearchitectuur en implementatie van complexe softwaresystemen.
+
+[What is a data flow diagram?](https://miro.com/diagramming/what-is-a-data-flow-diagram/)
+
 
 ##### Activity Diagram
 
