@@ -252,6 +252,9 @@ UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-you
 
 ##### Responsive Design
 
+
+##### Touch
+
 [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
 ##### Kleuren en contrast
