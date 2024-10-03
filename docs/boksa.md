@@ -192,9 +192,9 @@ Een *style tile* bestaat uit lettertypen, kleuren en interface-elementen die de 
 
 ##### Sitemap (Hierarchie)
 Een sitemap geeft een gestructureerd overzicht van alle pagina's van een website.
-Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan oo zorgen voor gerichheid van een project. 
-- [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
+Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan oo zorgen voor gerichheid van een project.
 
+- [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
 
 ##### Breakdown Schets
 Een breakdown schets is een Wireframe of Wireflow met annotaties voor de HTML, CSS en/of JS. Het is een methode die frontenders gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code.
@@ -259,7 +259,11 @@ Link naar MDN
 
 Link naar web.dev
 
-[HTML Structural elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+
+- [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
 
 #### Cascading Stylesheets
 
