@@ -188,6 +188,11 @@ Een *style tile* bestaat uit lettertypen, kleuren en interface-elementen die de 
 
 ##### Informatie architectuur
 ##### Sitemap (Hierarchie)
+Een sitemap geeft een gestructureerd overzicht van alle pagina's van een website.
+Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan oo zorgen voor gerichheid van een project. 
+- [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
+
+
 ##### Breakdown Schets
 ##### Wireframe
 
