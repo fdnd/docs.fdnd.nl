@@ -172,6 +172,9 @@ Visual thinking leert studenten en docenten hun gedachten en doelen te verbeelde
 
 Technieken gericht op het genereren van ideeën. 
 
+##### Divergeren Convergeren
+
+
 ##### Moodboard
 
 
@@ -236,6 +239,8 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 
 
 #### Principes
+
+
 ##### Atomic Design
 
 [atomic design @ bradfrost.com](https://bradfrost.com/blog/post/atomic-web-design/)
@@ -244,7 +249,7 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 
 UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/ + initial state
 
-##### Divergeren Convergeren
+
 ##### Responsive Design
 
 [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
