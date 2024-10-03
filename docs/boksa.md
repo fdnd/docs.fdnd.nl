@@ -240,6 +240,8 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 
 #### Principes
 
+- [Principles of User Interface Design, door Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
+
 
 ##### Atomic Design
 
@@ -395,7 +397,14 @@ wiki
 
 docs
 
-Readme.md
+##### Readme.md
+
+De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat jullie hebben gemaakt, je kan screenshots laten toevoegen en vertellen wie de website hebben genaakt. De Readme is het uithangbord van jullie project.
+
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+
+
+
 
 Gitbook
 
