@@ -184,7 +184,12 @@ Een *style tile* bestaat uit lettertypen, kleuren en interface-elementen die de 
 
 ##### Harris Profile
 
-#### Modelling
+#### Prototyping
+Om een ontwerpprobleem op te lossen kan je verschillende (schets) technieken toepassen om grip krijgen op de opdracht, ideeën te verkennen en te onderzoeken. In de ontwerpfase van het project is het doel om snel een prototype te maken dat je kan testen en uitproberen. Zo zorg je ervoor dat je precies weet wat je moet gaan bouwen.
+Een prototype kan van alles zijn, bijvoorbeeld een schets om te bespreken met iemand uit je squad, een paper-prototype om snel te kunnen testen met een gebruiker of een gedetailleerd uitgewerkt design in Figma.
+
+Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met meer detail en kleuren. Voor een HiFi Wireframe kun je goed prototype software gebruiken zoals Figma. Door LoFI Wireframes te schetsen kan je snel verschillende layouts uitproberen, ideeën visualiseren, bespreken en aanpassen.
+
 
 ##### Informatie architectuur
 
@@ -202,7 +207,7 @@ Door blokken in de schets te tekenen voor de HTML, de CSS properties te annotere
 
 ##### Wireframe
 Een Wireframe is een schematische tekening van een pagina. Met een Wireframe kun je (snel) schetsen hoe een pagina er uit kan komen te zien, wat belangrijk is, welke onderdelen waar komen te staan, wat in de viewpoort staat en wat de interactieve elementen zijn.
-Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met meer detail en kleuren. Voor een HiFi Wireframe kun je goed prototype software gebruiken zoals Figma. Door LoFI Wireframes te schetsen kan je snel verschillende layouts uitproberen, ideeën visualiseren, bespreken en aanpassen.
+
 
 - [What is wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
 
@@ -217,12 +222,6 @@ Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit 
 
 ##### Activity Diagram
 
-#### Schetsen
-##### Low-fi schetsen
-Pen en papier, Materiaal
-
-##### Hi-fi schetsen
-Figma, Adobe XD
 
 #### Principes
 ##### Atomic Design
@@ -258,7 +257,6 @@ Introductie naar HTML, cursus, uitleg, beschrijvend artikel…
 Link naar MDN
 
 Link naar web.dev
-
 
 - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
