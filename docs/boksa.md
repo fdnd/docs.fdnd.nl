@@ -208,7 +208,6 @@ Door blokken in de schets te tekenen voor de HTML, de CSS properties te annotere
 ##### Wireframe
 Een Wireframe is een schematische tekening van een pagina. Met een Wireframe kun je (snel) schetsen hoe een pagina er uit kan komen te zien, wat belangrijk is, welke onderdelen waar komen te staan, wat in de viewpoort staat en wat de interactieve elementen zijn.
 
-
 - [What is wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
 
 ##### Wireflow
@@ -219,6 +218,10 @@ Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit 
 
 
 ##### Datamodel
+Een datamodel laat de logische structuur van een database zien, inclusief de relaties tussen tabellen.
+
+- [Directus Data Model](https://docs.directus.io/app/data-model.html)
+
 
 ##### Activity Diagram
 
