@@ -192,8 +192,7 @@ Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met 
 
 
 ##### Informatie architectuur
-
-
+Informatie architectuur is een ontwerp discipline die zich bezig houdt met het structureren en organiseren van de content van een website zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie doe je door passende organisatie systemen te ontwerpen voor de content, en duidelijke labels en navigatie systemen te gebruiken. 
 
 ##### Sitemap (Hierarchie)
 Een sitemap geeft een gestructureerd overzicht van alle pagina's van een website.
