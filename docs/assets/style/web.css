@@ -108,6 +108,7 @@ body {
   font-family: Open Sans, sans-serif;
   color: var(--color-text);
   min-height: 100vh;
+  container-type:inline-size;
 }
 
 /* Main Layout */
@@ -562,6 +563,7 @@ section {
 
     & a:first-of-type {
       text-decoration: none;
+      
 
       &:hover,
       &:focus {
@@ -579,8 +581,9 @@ section {
         background-image: url('../img/link.svg');
         filter: var(--svg-filter);
         position: absolute;
-        left: -1rem;
+        left: -1.25rem;
         top: .35em;
+        right:auto;
       }
     }
 
@@ -630,6 +633,13 @@ section {
     & a:after {
       filter: none !important;
     }
+  }
+}
+
+@container (max-width: 540px) {
+  section *:first-child a:first-of-type:after {
+    left:auto;
+    right:-.5rem;
   }
 }
 
