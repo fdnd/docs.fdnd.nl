@@ -638,8 +638,11 @@ section {
 
 @container (max-width: 540px) {
   section *:first-child a:first-of-type:after {
-    left:auto;
-    right:-.5rem;
+    left: auto;
+    right: -.75rem;
+    width: .5em;
+    height: .5em;
+    top: 1.65rem;
   }
 }
 
