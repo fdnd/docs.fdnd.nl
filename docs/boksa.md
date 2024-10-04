@@ -159,19 +159,16 @@ Een voorbeeld van epic kan zijn: _“Gebruikers kunnen inloggen en hun profiel b
 
 2. **User Stories:** uit een epic leid je user stories af, die specifieke delen van de epic beschrijven vanuit het perspectief van de gebruiker. Een user story focust op wat de gebruiker wil bereiken met de functionaliteit, geschreven in eenvoudige, niet-technische taal.
 
-Template van een user story: Als [type gebruiker] wil ik [doel], zodat [reden].
+Template van een user story: _Als [type gebruiker] wil ik [doel], zodat [reden]._
 
-Voorbeeld: Als ingelogde gebruiker wil ik mijn profielgegevens kunnen wijzigen, zodat ik mijn persoonlijke informatie kan updaten.
+Voorbeeld: _Als ingelogde gebruiker wil ik mijn profielgegevens kunnen wijzigen, zodat ik mijn persoonlijke informatie kan updaten._
 
 3. **Job Stories:**
 Job stories zijn een alternatief voor user stories, waarbij de focus meer ligt op de context en motivatie achter het gebruik van een functie. Het legt uit wat een gebruiker probeert te bereiken in een specifieke situatie, wat handig kan zijn bij het verfijnen van de functionaliteit.
 
-Template van een job story:
+Template van een job story: _Wanneer [situatie], wil ik [actie], zodat [uitkomst]_.
 
-Wanneer [situatie], wil ik [actie], zodat [uitkomst].
-Voorbeeld:
-
-Wanneer ik mijn adres wil updaten, wil ik een intuïtieve manier om dit te doen op mijn profielpagina, zodat ik zeker weet dat mijn leveringen goed aankomen.
+Voorbeeld:_Wanneer ik mijn adres wil updaten, wil ik een intuïtieve manier om dit te doen op mijn profielpagina, zodat ik zeker weet dat mijn leveringen goed aankomen._
 
 4. **Taken afleiden:**
 Uit zowel user stories als job stories kunnen concrete taken worden afgeleid. Deze taken zijn specifieke acties die nodig zijn om de vereiste functionaliteiten te realiseren.
