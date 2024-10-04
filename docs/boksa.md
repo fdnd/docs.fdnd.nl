@@ -122,14 +122,73 @@ Belangrijke tips:
 
 #### Projectinrichting
 
-Github, forks, boilerplates
+GitHub is in het vakgebied een van de meest gebruikte platformen om samen te werken aan webprojecten. heeft verschillende tools om een project in te richten. Hieronder een samenvatting van de meest gebruikte tools:
+
+* **Project Board:** een project board geeft een visueel overzicht van de voortgang van taken, met kolommen zoals "To Do", "In Progress" en "Done". Het helpt bij het organiseren van werk en het volgen van de status van het project.
+
+* **Repository:** een repository (repo) is een centrale opslagplaats op GitHub voor projectbestanden en de volledige geschiedenis van wijzigingen. Het bevat broncode, documentatie en andere bestanden. Met behulp van versiebeheer (zoals Git) kunnen teams wijzigingen bijhouden, samenwerken en terugdraaien naar eerdere versies.
+
+* **Commit:** een commit is een wijziging in een Git-repository. Het legt vast wat er is veranderd in de code en bevat een beschrijving (commit message) van die wijziging. Elke commit functioneert als een versie van het project, waardoor je terug kunt keren naar eerdere versies van de code.
+
+* **Forks:** een fork is een kopie van een project naar een eigen GitHub-account. Het stelt ontwikkelaars in staat om aanpassingen te maken zonder de originele code te beïnvloeden. Dit is handig voor experimenteren of bijdragen aan externe projecten.
+
+* **README.md:** de README.md bevat belangrijke informatie over het project, zoals installatie-instructies, gebruikshandleidingen en doelstellingen. Het helpt teamleden en bijdragers om snel aan de slag te gaan.
+
+* **Issues:** issues worden gebruikt om taken, bugs of verbeteringen bij te houden. Ze zorgen voor een overzicht van wat er gedaan moet worden, wie eraan werkt en de prioriteit van verschillende taken binnen het webproject.
+
+* **Pull Requests (PR's):** een pull request is een voorstel om wijzigingen uit een afzonderlijke branch te integreren in de hoofdtak. Het team kan de voorgestelde wijzigingen beoordelen, feedback geven en, indien goedgekeurd, samenvoegen.
+
+* **Branches:** een branch is een aparte versie van de code die onafhankelijk van de hoofdtak ontwikkeld kan worden. Voor elke nieuwe feature of bugfix wordt een aparte branch aangemaakt om gefocust te werken zonder de stabiele versie te verstoren.
+
+Bronnen:
+- [Project Boards](https://docs.github.com/en/issues/planning-and-tracking-with-projects/about-project-boards)
+- [Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+- [Commit](https://docs.github.com/en/get-started/using-git/about-commits)
+- [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- [README](https://docs.github.com/en/get-started/quickstart/create-a-repo#commit-your-first-changes)
+- [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+- [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
+- [Branches](https://docs.github.com/en/get-started/quickstart/github-flow)
 
 #### Taken vaststellen
+In een webproject worden epics, user stories en job stories gebruikt om het werk te structureren en overzichtelijk te maken. Hier is een uitleg over hoe je deze elementen kunt afleiden en hoe je ze uiteindelijk vertaalt naar concrete taken binnen het project.
 
-Epics > User Stories > Job Stories > Tasks
+1. **Epics:** een epic is een grote, overkoepelende functie of onderdeel van een project dat vaak te complex is om in één keer af te ronden. Het beschrijft een kernfunctionaliteit van de webapplicatie op hoog niveau.
 
-- User scenario's https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/
-- 5 Tips For Writing A Job Story https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9
+Een voorbeeld van epic kan zijn: _“Gebruikers kunnen inloggen en hun profiel beheren”_.
+
+2. **User Stories:** uit een epic leid je user stories af, die specifieke delen van de epic beschrijven vanuit het perspectief van de gebruiker. Een user story focust op wat de gebruiker wil bereiken met de functionaliteit, geschreven in eenvoudige, niet-technische taal.
+
+Template van een user story: Als [type gebruiker] wil ik [doel], zodat [reden].
+
+Voorbeeld: Als ingelogde gebruiker wil ik mijn profielgegevens kunnen wijzigen, zodat ik mijn persoonlijke informatie kan updaten.
+
+3. **Job Stories:**
+Job stories zijn een alternatief voor user stories, waarbij de focus meer ligt op de context en motivatie achter het gebruik van een functie. Het legt uit wat een gebruiker probeert te bereiken in een specifieke situatie, wat handig kan zijn bij het verfijnen van de functionaliteit.
+
+Template van een job story:
+
+Wanneer [situatie], wil ik [actie], zodat [uitkomst].
+Voorbeeld:
+
+Wanneer ik mijn adres wil updaten, wil ik een intuïtieve manier om dit te doen op mijn profielpagina, zodat ik zeker weet dat mijn leveringen goed aankomen.
+
+4. **Taken afleiden:**
+Uit zowel user stories als job stories kunnen concrete taken worden afgeleid. Deze taken zijn specifieke acties die nodig zijn om de vereiste functionaliteiten te realiseren.
+
+Voorbeeldtaken afgeleid van de bovenstaande user/job stories:
+
+- Ontwerp en implementeer een "Bewerk profiel"-pagina.
+- Voeg een formulier toe om naam, e-mail en adres te wijzigen.
+- Zorg voor validatie van het formulier.
+- Implementeer back-end API om profielwijzigingen op te slaan.
+- Test de functionaliteit en de mobiele versie.
+
+Bronnen:
+- [User scenario's](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
+- [5 Tips For Writing A Job Story](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9)
+- [User Stories and Epics for Your Product Backlog](https://www.christianstrunk.com/blog/user-stories-and-epics-for-the-win)
+
 
 #### Planning poker
 
