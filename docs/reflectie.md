@@ -68,17 +68,25 @@ Het frontend vakgebied ligt binnen de passie van onze docenten en daardoor lukt 
 
 _Het programma, de onderwijsleeromgeving en de kwaliteit van het docententeam maken het voor de instromende studenten mogelijk de beoogde leerresultaten te realiseren._
 
+Na reflectie op het [didactisch concept](/reflectie.html#didactisch-concept) reflecteren we bij [Vormgeving van de opleiding](/reflectie.html#vormgeving-van-de-opleiding) op de structuur. Het gaat te ver voor deze kritische reflectie om een volledige inleiding in onze onderwijsleeromgeving te geven, hiervoor verwijzen wij naar [standaard 2 in het TNO dossier](/TNO-dossier.html#standaard-2-de-onderwijsleeromgeving). Om toch enige context te bieden bij het lezen van deze kritische reflectie volgt een korte schets van de structuur van de opleiding.
+
 De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige en praktijkgerichte Frontend professionals op die goed functioneren binnen een snel ontwikkelende en veranderlijke beroepspraktijk. Bij FDND staat de beroepspraktijk centraal en het onderwijsprogramma is een vertaling van beroepstaken en daarbij behorende kennis, vaardigheden en gedrag naar leerresultaten.
 
-Voor een volledige inleiding in onze onderwijsleeromgeving verwijzen wij naar [standaard 2 in het TNO dossier](/TNO-dossier.html#standaard-2-de-onderwijsleeromgeving). Hier volgt in enkele schetsen de context benodigd om deze kritische reflectie te kunnen lezen.
-
-Het onderwijs is bij FDND ingedeeld in sprints en semesters. Een sprint duurt drie weken en na drie sprints worden studenten beoordeeld bij een assessment. Elk semester heeft een midterm en een endterm assessment. In onderstaande afbeelding is ingezoomd op semester 1.
+Het onderwijs is bij FDND ingedeeld in sprints en semesters. Een sprint duurt drie weken en na drie sprints worden studenten beoordeeld bij een assessment. Elk semester heeft een midterm en een endterm assessment. Tijdens sprints werken studenten aan leertaken. In onderstaande afbeelding is ingezoomd op semester 1, sommige sprintnamen zijn inmiddels aangepast.
 
 ![Overzicht van semester 1](./assets/img/curriculum.png)
 
+Voor een actueel overzicht van sprintnamen verwijzen wij naar [programma.fdnd.nl](https://programma.fdnd.nl/). FDND heeft een vaste weekindeling en studenten en docenten gebruiken deze site dan ook als rooster.
+
+Sprints hebben een vaste cadans en volgen onderstaand schema waarbij jaar 1 tussen 09:00 - 13:00 en jaar 2 tussen 13:00 - 17:00 les hebben. Maandag, woensdag en vrijdag zijn studenten allemaal aanwezig en dinsdag en donderdag zijn differentiatiedagen waarop studenten naar eigen inzicht kiezen of ze hier aanwezig willen zijn. Vrijdagen staan altijd in het teken van feedback en reflectie.
+
+![Overzicht van een sprint](./assets/img/sprint.png)
+
+Met deze beknopte intro duiken we nu snel in onze reflectie.
+
 ### Didactisch concept
 
-We zijn kritisch op door ons geleverde prestaties. Zoals bij elk nieuw te ontwikkelen onderwijsprogramma zijn er weeffoutjes of kinderziektes die pas opvallen als het programma draait. Om hiermee om te gaan hanteren we een iteratieve aanpak. Aan het eind van elk semester houdt het docententeam een zogenaamde [Higher Education Agile Learning (HEAL)](/organisatie.html#higher-education-agile-learning-heal) sessie waarin wij het onderwijs evalueren middels een [retrospect](/organisatie.html#retrospect). De onderstaande inzichten en verbeterpunten komen bijvoorbeeld uit dit soort sessies:
+We zijn over het algemeen best tevreden over de inrichting van onze opleiding, toch blijven we altijd kritisch op door ons geleverde prestaties. Zoals bij elk nieuw te ontwikkelen onderwijsprogramma zijn er weeffoutjes of kinderziektes die pas opvallen als het programma draait. Om hiermee om te gaan hanteren we op alle vlakken een iteratieve aanpak. Aan het eind van elk semester houdt het docententeam een zogenaamde [Higher Education Agile Learning (HEAL)](/organisatie.html#higher-education-agile-learning-heal) sessie waarin wij het onderwijs evalueren middels een [retrospect](/organisatie.html#retrospect). De onderstaande inzichten en verbeterpunten komen bijvoorbeeld uit dit soort sessies:
 
 > Het hele eerste blok is een _onboarding_ periode, we hadden in het ontwerp alleen de eerste sprint aangemerkt maar dit is bij lange na niet het eind van het wennen aan ons onderwijsmodel. Daarnaast is eind semester 1 voor studenten het startpunt in plaats van het eindpunt voor het omarmen van de webtechnieken HTML/CSS/JS. - inzicht uit retrospect 9 maart 2023
 
@@ -112,28 +120,20 @@ Zelfstandigheid van studenten is een van de drie funderende principes van FDND. 
 
 Toenemende complexiteit wordt concreet in de volgorde van leertaken. In semester 1 is de focus op de basis van HTML en CSS en het ontwerpen en realiseren van eenvoudige websites. Eind semester 3 maken studenten zonder aarzeling zelfstandig nieuwe *site generators* en *headless CMS-en* eigen om vervolgens met een strak georganiseerd team websites voor een opdrachtgever te produceren.
 
-Bij het aanbieden van het eerste jaar merkten we dat we meer houvast nodig hadden om afnemende sturing, en daarmee toenemende zelfstandigheid, te borgen. Wij hebben op basis van het stuk [Professionele Identiteit ontwikkelen gedurende de hbo-opleiding van Annemiek Grootendorst (2019, HRO](https://hbo-kennisbank.nl/details/sharekit_hr:oai:surfsharekit.nl:1a08e26f-f745-4516-bcae-7d852664c7ee)) en het artikel [Concept to Code van Ryan Betts (2017)](https://uxmag.com/articles/concept-to-code) een manier van [aanspreken van studenten](/onderwijs.html#aanspreken-op-niveau) in de verschillende semesters opgesteld. Deze manier van aanspreken biedt meer houvast bij de concretisering van afnemende sturing maar het blijft een didactisch ingewikkeld proces.
+Bij het aanbieden van het eerste jaar merkten we dat we meer houvast nodig hadden om afnemende sturing, en daarmee toenemende zelfstandigheid, te borgen. Wij hebben op basis van het stuk [Professionele Identiteit ontwikkelen gedurende de hbo-opleiding van Annemiek Grootendorst (2019, HRO](https://hbo-kennisbank.nl/details/sharekit_hr:oai:surfsharekit.nl:1a08e26f-f745-4516-bcae-7d852664c7ee)) en het artikel [Concept to Code van Ryan Betts (2017)](https://uxmag.com/articles/concept-to-code) een manier van [aanspreken van studenten](/onderwijs.html#aanspreken-op-niveau) in de verschillende semesters opgesteld. Deze manier van aanspreken biedt meer houvast bij de concretisering van afnemende sturing maar het blijft een didactisch ingewikkeld proces. We merken de effecten van deze aanpak, studenten nemen meer dan voorheen de verantwoording voor hun eigen studieproces en het is voor docenten duidelijker hoe we in de verschillende semesters met studenten omgaan.
 
 ### Toetsing als leermoment
 
-Wij beogen toetsing in dienst van het leerproces te plaatsen maar de werkelijkheid is weerbarstig. De opbouw van het toetsprogramma voldeed helemaal aan de programmatisch toetsen theorie. We hadden meerdere low-stake formatieve beoordelingsmomenten (checkpoints) en elk blok een high-stake summatief beoordelingsmoment (assessment). In didactische termen een criterium gericht interview op basis van een portfolio.
+Toetsing staat bij FDND in dienst van het leerproces. Het midterm en endterm assessment geeft docenten en studenten een goed beeld van het gerealiseerde niveau en we besteden veel tijd aan formatieve feedbackmomenten. Naast doorlopende vraaggestuurde feedback en het mentoring programma geven en ontvangen studenten elke vrijdag feedback van docenten en hun peers tijdens de *design/code review* en *retrospect* sessies.
 
-Toch voelde de afgelopen jaren de checkpoints als curse-life voor docenten en afvinklijstje voor studenten. Ook de voorbereiding op het assessment wordt ervaren als erg veel werk. Eerst voor studenten omdat we ze vroegen op basis van onze 15 gedragsindicatoren, aan de hand van de STARR methode een ontwikkeldocument op te stellen. Later voor docenten omdat we per student bij 15 gedragsindicatoren de bewijslast naliepen om het assessment voor te bereiden. Ook was er twijfel of wij het assessment wel voldoende als feedback/ feedup/ feedfoward moment in het leertraject van studenten plaatsten.
-
-Overigens zijn wij wat dit betreft als docententeam veel kritischer dan onze studenten:
-
-> Binnen de assements en één op één momenten wordt aandacht gegeven aan onze persoonlijke groei en wij krijgen opbouwende feedback gebaseerd op onze persoonlijke leerdoelen. Ook is er binnen de studie een fijne leeromgeving gecreëerd waar je als student ook van andere studenten leert. Er zijn soms bepaalde momenten tijdens leertaken waarin wij naar medestudenten worden gestuurd over onze vragen, terwijl het juist handiger is dat die momenten worden opgepakt door leraren. *- Daan, Rick en Youssra*
-
-Dit jaar is we de toetsmethodiek bijgesteld. We vragen studenten doorlopend een *learning-journal* bij te houden. We verzamelen bewijslast in Portflow tijdens de retrospect (elke 3e / laatste vrijdag in een sprint) aan de hand van de niveaumatrix. Ook delen we Portflow nu in op de vijf gedragscriteria (ipv. 15 gedragsindicatoren).
-
-We hopen met deze aanpassing het doel, toetsing als leermoment, beter te bedienen en zowel bij de retrospect (formatief) als bij assessments (summatief) meer aandacht te hebben voor feedback/ feedforward en feedup.
+De precieze uitvoer van het toetsproces is ten opzichte van de [beoogde werkwijze in in het TNO dossier](/TNO-dossier.html#vormgeving-van-de-toetsing) een aantal keer bijgesteld. Bij [standaard 3](/reflectie.html#standaard-3-toetsing) gaan we dieper op deze iteraties in. We hopen met deze aanpassing het doel, toetsing als leermoment, nog beter te bedienen.
 
 ### Vormgeving van de opleiding
 
 #### Opbouw Curriculum
 Het curriculum werkt in grote lijnen zeer goed. De opbouw in toenemende complexiteit komt vanaf het begin duidelijk naar voren. Wel hebben we op enkele punten de thema's of de volgorde van de sprints aangepast. Zo hebben we op semesterniveau, in iteraties,  belangrijke front-endprincipes steeds meer in dezelfde volgorde van sprints aangeboden. Vanuit herhaling van lesstof uit voorgaande semesters wordt de stof geleidelijk steeds complexer in opvolgende semesters. Een voorbeeld hiervan is sprint 10 in semester 2, die we hebben hernoemd van _Performance Matters_ naar _User Experience_, waardoor deze sprint beter aansluit bij sprint 4 uit semester 1, _Look and Feel_.
 
-Vanaf het begin van de opleiding behandelen we in de eerste sprint van elk semester (in de context van de Tribe) de volledige complexiteit en inhoud van het semester. Hiermee spelen we in op de leerbehoeften van studenten, doordat zij een duidelijk beeld krijgen van wat ze dat semester gaan leren.
+Elke eerste sprint van elk semester behandelen we de volledige complexiteit en inhoud van het semester. Studenten hebben de ervaring in het diepe gegooid te worden in een nieuwe context. In semester 1, het statische web, bouwen en publiceren studenten in één sprint een eigen en een teamwebsite met core webtechnologie *HTML, CSS en JS*. In semester 2, data driven doen ze dit opnieuw, maar nu met de serverside technieken *Node.js*, *Express* en *EJS* op basis van gegevens in een *REST API*. In semester 3, workflow, tooling & frameworks doen ze dit een derde keer, nu op basis van het framework *Sveltekit* op basis van gegevens uit een *Headless CMS*. Studenten krijgen op deze manier een duidelijk beeld van wat ze dat semester gaan leren.
 
 Ook op sprintniveau bevalt de opbouw van het curriculum vanaf de start van de opleiding uitstekend. Het vaste ritme van drie weken per sprint, met vaste instructiemomenten en differentiatiedagen, biedt duidelijkheid en structuur, wat goed werkt voor de studenten [verwijzing naar feedback uit enquête]. Ook hier hebben we enkele aanpassingen gedaan om beter in te spelen op de leerbehoeften van de studenten. Zo hebben we bijvoorbeeld de manier waarop studenten feedback verzamelen aangepast. Zoals beschreven in het hoofdstuk _[Vormgeving van toetsing](#vormgeving-van-toetsing)_, kregen de checkpoints een overheersende rol (intern ook wel checkpoint-hell genoemd). We hebben nu de feedbackloop anders ingericht; op de eerste twee vrijdagen van elke sprint voeren studenten (en coaches) design- en codereviews uit op elkaars werk. De feedback uit deze reviews wordt omgezet in issues op GitHub. Tijdens de _Retrospect_ op de laatste vrijdag van de sprint reflecteren studenten op de ontvangen feedback en gebruiken ze deze om hun bewijslast in Portflow te onderbouwen. In de volgende sprint bespreken ze deze reflectie met een coach om de bewijslast te valideren.
 
@@ -244,9 +244,25 @@ De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor
 
 Dit beleid is voor de opleiding Frontend Design & Development (FDND) uitgewerkt in het document [Didactiek en toetsing](/assets/docs/Bijlage06_DidactiekEnToetsing.pdf) en de [Onderwijs- en Examenregeling](https://studiegids.hva.nl/fdnd-advt) van de opleiding. In het toetsbeleid zijn de twee functies van toetsen: stimuleren van het leerproces en beoordelen, onlosmakelijk met elkaar verbonden en de validiteit, betrouwbaarheid, transparantie en kwaliteit van toetsen zijn geborgd.
 
-Andere opleidingen komen bij FDND kijken om te leren hoe wij met toetsing omgaan. Desondanks denken wij dat het beter kan. Toetsen kostte voorheen te veel tijd en wij zijn liever bezig met inhoudelijke feedback dan het invullen van Portflow checkpoints. We zoeken naar een juiste balans tussen nakijktijd/ systemen en aandacht voor studenten.
+Wij zijn van mening dat ons toetsmodel best solide is. Andere opleidingen binnen en buiten de faculteit komen bij FDND kijken om te leren hoe wij met toetsing omgaan. Daarnaast hebben wij ons toetsmodel gepresenteerd tijdens een HvA brede Ad sessie. In november presenteren wij ons toetsmodel nogmaals op de Chain 5 conferentie in een sessie genaamd *Assessing without pain: Our journey towards a feasible, learnable and didactically sound model for examination using a programmatic approach*. Op 21 oktober wordt door onze toetscommissie een steekproef op onze afstudeerwerken uitgevoerd, wij zijn vanzelfsprekend vol vertrouwen maar ook benieuwd naar de uitkomsten/ inzichten.
+
+Desondanks denken wij dat het beter kan. Toetsen kostte voorheen te veel tijd en wij zijn liever bezig met inhoudelijke feedback dan het invullen van checkpoints. Het is om die reden dat we de werkwijze al een aantal keer herzien hebben, zonder de fundamenten van het model aan te tasten. We zoeken hierbij naar een juiste balans tussen nakijktijd, ofwel systemen, en aandacht voor studenten. Natuurlijk doen wij dit met de grootste zorg maar door de aanpassingen kan de validiteit, transparantie en kwaliteit van onze toetsing aangetast zijn. Daarom is toetsing expliciet aandachtspunt bij onze midterm review.
 
 ### Vormgeving van de toetsing
+
+Wij beogen toetsing in dienst van het leerproces te plaatsen maar de werkelijkheid is weerbarstig. De opbouw van het toetsprogramma voldeed helemaal aan de programmatisch toetsen theorie. We hadden meerdere low-stake formatieve beoordelingsmomenten (checkpoints) en elk blok een high-stake summatief beoordelingsmoment (assessment). In didactische termen een criterium gericht interview op basis van een portfolio.
+
+Toch voelde de afgelopen jaren de checkpoints als curse-life voor docenten en afvinklijstje voor studenten. Ook de voorbereiding op het assessment wordt ervaren als erg veel werk. Eerst voor studenten omdat we ze vroegen op basis van onze 15 gedragsindicatoren, aan de hand van de STARR methode een ontwikkeldocument op te stellen. Later voor docenten omdat we per student bij 15 gedragsindicatoren de bewijslast naliepen om het assessment voor te bereiden. Ook was er twijfel of wij het assessment wel voldoende als feedback/ feedup/ feedfoward moment in het leertraject van studenten plaatsten.
+
+Overigens zijn wij wat dit betreft als docententeam veel kritischer dan onze studenten:
+
+> Binnen de assements en één op één momenten wordt aandacht gegeven aan onze persoonlijke groei en wij krijgen opbouwende feedback gebaseerd op onze persoonlijke leerdoelen. Ook is er binnen de studie een fijne leeromgeving gecreëerd waar je als student ook van andere studenten leert. Er zijn soms bepaalde momenten tijdens leertaken waarin wij naar medestudenten worden gestuurd over onze vragen, terwijl het juist handiger is dat die momenten worden opgepakt door leraren. *- Daan, Rick en Youssra, alumni*
+
+Dit jaar is we de toetsmethodiek bijgesteld. We vragen studenten doorlopend een *learning-journal* bij te houden. We verzamelen bewijslast in Portflow tijdens de retrospect (elke 3e / laatste vrijdag in een sprint) aan de hand van de niveaumatrix. Ook delen we Portflow nu in op de vijf gedragscriteria (ipv. 15 gedragsindicatoren).
+
+We hopen met deze aanpassing het doel, toetsing als leermoment, beter te bedienen en zowel bij de retrospect (formatief) als bij assessments (summatief) meer aandacht te hebben voor feedback/ feedforward en feedup.
+
+--- oud ---
 
 Verhouden tot TNO dossier, huidige vorm beschrijven bij kopje onderwijs! (link) Aantal highlights noemen.
 
