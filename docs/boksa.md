@@ -65,6 +65,11 @@ Voorbeelden:
 - [Styleguides en design systems](https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
+In Semester 1 beginnen we met de 3 basisregels voor *code conventies*:
+- Geef je HTML ademruimte
+- Schrijf je CSS selectors in dezelfde volgorde als de HTML
+- Nest je media queries
+
 
 #### Briefing en debriefing
 
@@ -267,6 +272,8 @@ UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-you
 [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
 ##### Kleuren en contrast
+
+
 ##### Hierarchie
 Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn.
 Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van tekst of elementen, gebruik van kleur en contrast, en witruime en positie van elementen op het scherm. In deze workshop ga je leren wat visuele hiërarchie is en hoe je het kunt gebruiken om met je team verschillende variaties van jullie website te maken.
@@ -274,8 +281,9 @@ Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
 
-
 ##### Afstand/Nabijheid
+
+
 ##### Contrast
 
 ### Bouwen
