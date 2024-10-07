@@ -311,41 +311,29 @@ Bij FDND is zowel formatieve als summatieve feedback gericht op de jaarlijks vas
 Wij stellen de manier van werken jaarlijks vast in een onderwijs en examenreglement (OER). Dit document wordt organisatiebreed ingericht en FDND vult details in in het programma *oerwrite*. Wij hebben onze OER naast een paar inhoudelijke details nauwelijks hoeven aanpassen ten opzichte van de OER die bij de TNO is ingediend.
 
 Wij borgen de kwaliteit van toetsing op de volgende wijze:
-- Resultaten worden besproken in de [HEAL Retrospect](/organisatie.html#retrospect) die docenten aan het eind van elk semester uitvoeren.
+- Resultaten worden besproken in de [HEAL Retrospect](/organisatie.html#retrospect) die docenten aan het eind van elk semester uitvoeren. Inzichten worden meegenomen bij onderwijs(door)ontwikkeling.
 - De niveaumatrix kent net als de OER een jaarlijkse cyclus en wordt door het docententeam geevalueerd en bijgesteld waar nodig ([zie historie op GitHub](https://github.com/fdnd/niveaumatrix.fdnd.nl/releases)).
-- Doorlopend collegiale consultatie
-- Wij hebben geen speciale OAR sessies maar praten doorlopend met bedrijven en nemen inzichten mee naar de opleiding. Validering, actualisering en borging eindniveau wordt gedaan dmv. vragen aan stagebedrijven, 2024 is pas de 1e échte brede ronde stages (38 studenten).
+- Bedrijven zijn nauw betrokken bij het onderwijsproces, als opdrachtgever, co-teacher of gastspreker. Wij praten doorlopend met bedrijven en nemen inzichten mee naar de opleiding.
+- Validering, actualisering en borging van het eindniveau wordt gedaan door gesprekken met stagebedrijven. 2024 is de 1e échte brede ronde stages (38 studenten), in 2023 ging dit om een handjevol studenten (4 studenten).
 - Borgingsagenda examencommissie, inmiddels ook voorzien van toetscommissie.
 
 ### Kwaliteitsborging door examencommissie
 
-Stuk geschreven door de excie (of toetscie?), reflecterend op Standaard 3 in het TNO dossier. nav. sessie op 21 okt?
+[Stuk geschreven door de excie]
+
+Met ingang van het studiejaar ’23-’24 is binnen FDMCI een gezamenlijke toetscommissie ingesteld. Meerwaarde van de gezamenlijkheid is dat er kruisbestuiving plaatsvindt. Zo heeft de commissie studiehandleidingen van de afstudeerfasen van de vier Ad’s bekeken op *best practices* en geadviseerd hier meer met elkaar over uit te wisselen. De toetscommissie borgt de kwaliteit van de toetsing en het eindniveau van de opleiding. Hiertoe heeft de toetscommissie een werkplan opgesteld waarin o.a. de eindwerken van verschillende opleidingen bestudeerd worden. Bij een aantal opleidingen is dit al gebeurd, op 21 oktober 2024 worden de eindwerken van FDND onder de loep genomen.
+
+### Steekproef eindwerken okt 2024
+
+[Bevindingen zullen t.z.t. op deze plaats gedeeld worden. Het Midterm panel krijgt bericht als deze gepubliceerd zijn.]
 
 ## Standaard 4: Gerealiseerde leerresultaten
 
-_De opleiding toont aan dat de beoogde leerresultaten zijn gerealiseerd._
+*De opleiding toont aan dat de beoogde leerresultaten zijn gerealiseerd. Het realiseren van de beoogde leerresultaten blijkt uit de uitkomsten van toetsen, de eindwerken en de wijze waarop afgestudeerden in de praktijk of in een vervolgopleiding functioneren.*
 
 Op dit moment, drie maanden na het afstuderen, heeft 60% van onze ex-studenten uit cohort 2023/24 een baan als frontender. Uit cohort 2022/23 heeft 60% een baan als frontender en is 30% doorgestroomd naar de CMD Bachelor. Hier zijn wij als opleiding trots op. Aangezien we net na de zomer meten ligt het in de lijn der verwachting dat dit aantal de komende tijd nog zal oplopen.
 
 > Wij werken graag samen met FDND en CMD om in persoon inzicht te krijgen in de nieuwe generatie web developers. De curricula van FDND (in zijn geheel) en CMD (delen van) sluiten naadloos aan op onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiële werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van FDND en CMD. _- Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
-
-~~Uit NVAO stuk:~~
-> ~~Het realiseren van de beoogde leerresultaten blijkt uit de uitkomsten van toetsen, de eindwerken en de wijze waarop afgestudeerden in de praktijk of in een vervolgopleiding functioneren.~~
-
-> ~~**Toelichting op de beoordeling van gerealiseerde leerresultaten**~~\
-> ~~Als onderdeel van de beoordeling van gerealiseerde leerresultaten bestudeert het panel een ruime selectie eindwerken. Hieronder zijn een aantal richtlijnen opgenomen voor de selectie en de beoordeling om een evenwichtige selectie en gelijke behandeling te waarborgen.~~
-> ~~In de zelfevaluatie beschrijft de opleiding hoe zij de realisatie van de gerealiseerde leerresultaten heeft getoetst. Dat kan aan de hand van diverse producten of proeven die hier worden samengenomen onder het begrip eindwerk. Een niet limitatieve opsomming van eindwerken is: de eindscriptie, een portfolio, een beroepsproduct, een (reeks van) tentamen(s), een artikel of een artistieke prestatie of een combinatie hiervan. Het panel richt zich op de producten of toetsen waarmee de studenten de opleiding afsluiten.~~
-
-> ~~**Selectie van eindwerken**~~\
-> ~~Om de gerealiseerde leerresultaten te beoordelen, selecteert en bestudeert het panel recente eindwerken van ten minste 15 afgestudeerden van de opleiding. De opleiding verschaft het panel hiertoe een lijst met studentnummers met daarbij de informatie die nodig is om een adequate selectie te maken. In het geval de opleiding minder dan 15 afgestudeerden had in de te beoordelen periode, bestudeert het panel alle eindwerken.~~ 
-
-> ~~De selectie kent een evenwichtige verdeling over voldoende, goede en zeer goede eindwerken. De selectie is zo gekozen dat het panel hiermee een onderbouwd oordeel kan vellen over de hantering van de cesuur tussen voldoende en onvoldoende door de opleiding, over het algemene niveau van de eindwerken, en over de becijfering van de eindwerken en de daarbij gehanteerde methodiek.~~
-
-> ~~De selectie is voldoende dekkend ten aanzien van varianten, locaties, specialisaties, afstudeertrajecten en programma’s, zodat mogelijke kwaliteitsverschillen daartussen kunnen worden vastgesteld. Hiervoor kan het panel besluiten het aantal te beoordelen eindwerken op te hogen.~~
-
-> ~~**Uitvoering van de beoordeling**~~\
-> ~~De beoordeling door het panel is erop gericht een oordeel te kunnen geven over de realisatie van de leerresultaten, de wijze waarop de beoordeling tot stand is gekomen en de manier waarop de opleiding een correcte beoordeling van eindwerken borgt. De opleiding stelt het panel in de gelegenheid om zich voorafgaand aan het locatiebezoek een oordeel te vormen over deze eindwerken en de beoordeling daarvan door de opleiding. Het panel heeft de eindwerken voorafgaand aan het vooroverleg bestudeerd en de bevindingen onderling gedeeld. In het geval een panellid de beoordeling van een eindwerk in twijfel trekt, bestudeert ten minste één ander panellid ook dit eindwerk. Het panel heeft de mogelijkheid om meer eindwerken op te vragen om een beter beeld te krijgen of de kwaliteit van de eindwerken voldoende is. In bijzondere gevallen kan het panel de eindwerken ook tijdens het locatiebezoek bestuderen, bijvoorbeeld in het geval van uitvoerende kunsten.~~
-> ~~Tijdens het locatiebezoek spreekt het panel met beoordelaars/examinatoren van de opleiding om een goed inzicht te krijgen in de wijze waarop de beoordeling tot stand is gekomen en de realisatie van het niveau wordt bewaakt.~~
 
 ### Uitkomsten van toetsen
 
@@ -387,7 +375,9 @@ Ze hadden een bootstrap ontwerp voor hun Automate website en geen goede gebruike
 
 ## Studenten aan het woord
 
-Dit hoofdstuk is van studenten. Wij nemen serieuze anekdotes over en redigeren hooguit op taal, maar niet op inhoud.
+Dit hoofdstuk is van studenten en het is om die reden dat wij de letterlijke feedback, hieronder presenteren. Om feedback te kunnen zien dient het schuifje rechtsboven met het onderschrift ‘Discussies’ aan gezet te worden. Deze open manier van werken demonstreert onze transparante werkwijze. Studenten, docenten en vakgebied worden doorlopend uitgenodigd iets te vinden van onze documenten.
+
+Onderstaande feedback is gegeven tijdens een door medewerkers van de facultaire onderwijs en onderzoek (O&O) afdeling georganiseerde sessie. Studenten hebben in groepjes overlegd en hun inzichten gedeeld, sommige studenten hebben allemaal hetzelfde gedeeld en er is dus sprake van enige dubbeling. De feedback geeft een goed beeld van de mening van studenten en is direct herleidbaar naar echte personen.
 
 ### Noem 5 kernwoorden die volgens jou typerend zijn voor de opleiding.
 	
