@@ -343,6 +343,18 @@ UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-you
 [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
 ##### Kleuren en contrast
+Kleurcontrasten in je ontwerp zijn belangrijk voor visuele hierarchie, leesbaarheid en toegankelijkheid. In de *WCAG Guidelines* wordt in de standaard *Perceivable* in onderdeel *Distinguishable* beschreven hoe je voor een gebruiker makkelijker maakt om de website te zien en horen.
+
+Wat kun je doen om ervoor te zorgen dat mensen informatie goed kunnen onderscheiden?
+1. Gebruik naast kleuren altijd alternatieve informatie
+2. Gebruik onderscheidende kleuren
+3. Zorg dat er onderscheid is in saturation en brightness
+4. Vermijd complementair contrast groen/rood
+5. [Test kleurcontrasten](#kleuren-en-contrast-test)
+
+- [WCAG 2.2 Guideline 1.4 – Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1#distinguishable)
+- [A11project kleurcontrast](https://www.a11yproject.com/checklist/#color-contrast)
+- [Accessible contrast ratios and A-levels explained](https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained/)
 
 
 ##### Hierarchie
@@ -516,6 +528,12 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 ##### Roast/ Design Critique
 
 ##### Tab/Keyboard test
+
+##### Kleuren en contrast test
+
+
+[Colour Contrast Analyser (CCA) - TPGi](https://www.tpgi.com/color-contrast-checker/)
+
 
 ##### Kleurenblindheid test
 
