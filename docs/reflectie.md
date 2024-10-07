@@ -1,8 +1,12 @@
 # Kritische reflectie
 
-In dit document reflecteert FDND ten behoeve van de Midterm Review op 21 november 2024 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](/TNO-dossier.html) welke eveneens op deze website te vinden is. In dat document staat immers de beoogde en vergunde opleiding beschreven. We lopen met het docententeam, de opleidingscommissie, de studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en volgt qua opbouw de standaarden van de NVAO.
+In dit document reflecteert FDND ten behoeve van de Midterm Review op 21 november 2024 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](/TNO-dossier.html). In dat document staat immers de beoogde en vergunde opleiding beschreven. We lopen met het docententeam, opleidingscommissie, studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en volgt qua opbouw de vier standaarden van de NVAO.
 
-~~echte USP. Het werken met het spotify model, die terminologie, github, retrospecs etc~~
+FDND is trots op de bereikte resultaten! Er staat een mooie opleiding met een gedegen fundament waar wij als team het volste vertrouwen in hebben. De beroepspraktijk is op allerlei manieren betrokken bij de opleiding en wij hanteren hetzelfde jargon. *Agility* zit verweven in ons DNA, wij *itereren* doorlopend en brengen zo onze kwaliteit naar een steeds hoger niveau. Ook studenten werken doorlopend iteratief aan échte projecten voor échte opdrachtgevers. Het omarmen van *GitHub* als publieke *code-repository* en de bijbehorende projecttools (issues, projectboard, branches, pull-requests) werpt zichtbaar vruchten af. Niet alleen zijn onze interne projecten (bijv. deze docs website) georganiseerd en transparant, ook kunnen studenten na hun opleiding naadloos door in de beroepspraktijk.
+
+FDND studenten zijn blij, dit blijkt voor het 2e jaar op rij uit lovende resultaten in de NSE ([zie studiekeuze123.nl](https://www.studiekeuze123.nl/opleidingen/20503-frontend-design-development-hogeschool-van-amsterdam-hbo-associate-degree)). In 2023 ontving FDND het predicaat Topopleiding en het ligt in de lijn der verwachting dat wij dat ook dit jaar weer zullen ontvangen. Natuurlijk is de NSE niet leidend, wij merken ook in blokenquetes en tijdens gesprekken met studenten dat ze overwegend tevreden zijn.
+
+FDND is ook kritisch, in dit document vind je onze ongefilterde zelfreflectie. Wij zien op veel vlakken mogelijkheden voor verbetering en zijn zodoende ook zeer benieuwd naar inzichten die voortkomen uit de Midterm Review.
 
 ## Standaard 1: Beoogde leer­resultaten
 
@@ -70,11 +74,11 @@ Het frontend vakgebied ligt binnen de passie van onze docenten en daardoor lukt 
 
 _Het programma, de onderwijsleeromgeving en de kwaliteit van het docententeam maken het voor de instromende studenten mogelijk de beoogde leerresultaten te realiseren._
 
-Na reflectie op het [didactisch concept](/reflectie.html#didactisch-concept) reflecteren we bij [Vormgeving van de opleiding](/reflectie.html#vormgeving-van-de-opleiding) op de structuur. Het gaat te ver voor deze kritische reflectie om een volledige inleiding in onze onderwijsleeromgeving te geven, hiervoor verwijzen wij naar [standaard 2 in het TNO dossier](/TNO-dossier.html#standaard-2-de-onderwijsleeromgeving). Om toch enige context te bieden bij het lezen van deze kritische reflectie volgt een korte schets van de structuur van de opleiding.
+In dit hoofdstuk bekijken we de onderwijsleeromgeving. Na reflectie op het [didactisch concept](/reflectie.html#didactisch-concept) reflecteren we bij [vormgeving van de opleiding](/reflectie.html#vormgeving-van-de-opleiding) op de structuur. Het gaat te ver voor deze kritische reflectie om een volledige inleiding in onze onderwijsleeromgeving te geven, hiervoor verwijzen wij naar [standaard 2 in het TNO dossier](/TNO-dossier.html#standaard-2-de-onderwijsleeromgeving). Om toch enige context te bieden bij het lezen van deze kritische reflectie volgt een korte schets van de structuur van de opleiding.
 
 De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige en praktijkgerichte Frontend professionals op die goed functioneren binnen een snel ontwikkelende en veranderlijke beroepspraktijk. Bij FDND staat de beroepspraktijk centraal en het onderwijsprogramma is een vertaling van beroepstaken en daarbij behorende kennis, vaardigheden en gedrag naar leerresultaten.
 
-Het onderwijs is bij FDND ingedeeld in sprints en semesters. Een sprint duurt drie weken en na drie sprints worden studenten beoordeeld bij een assessment. Elk semester heeft een midterm en een endterm assessment. Tijdens sprints werken studenten aan leertaken. In onderstaande afbeelding is ingezoomd op semester 1, sommige sprintnamen zijn inmiddels aangepast.
+Het onderwijs is bij FDND ingedeeld semesters en sprints. Een sprint duurt drie weken en na drie sprints worden studenten beoordeeld bij een assessment. Elk semester heeft een midterm en een endterm assessment. Tijdens sprints werken studenten aan leertaken. In onderstaande afbeelding is ingezoomd op semester 1, sommige sprintnamen zijn inmiddels aangepast.
 
 ![Overzicht van semester 1](./assets/img/curriculum.png)
 
