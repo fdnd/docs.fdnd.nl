@@ -504,11 +504,20 @@ NPM
 
 ### Testen
 
-In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij deopdrachtgever om te bespreken of de opdracht goed is. ![image](https://user-images.githubusercontent.com/1391509/132140353-08b5acdf-4080-449d-9421-67c65a64ac98.png)
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.
+Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever. 
 
-Unit testing (TDD), System test, User test, device lab test, A\B testing.
-Tests uitvoeren. Prototype testen. Device lab en browser testen. 
-Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen. 
+![image](https://user-images.githubusercontent.com/1391509/132140353-08b5acdf-4080-449d-9421-67c65a64ac98.png)
+
+Testen voor een frontender zijn bijvoorbeeld gebruikerstesten, toegankelijkheids testen, Prototype testen en browser testen. 
+Maar ook de Sprint Review met een opdrachtgever om feedback en opmerkingen meenemen naar een volgende sprint.
+
+#### Sprint Review
+De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin je het gemaakte werk bespreekt met de opdrachtgever. De opdrachtgever geeft feedback naar aanleiding van het (deel)product dat gedemonstreerd is. Het maakt niet uit dat de opdracht nog niet af is, je kan altijd laten zien waar je aan hebt gewerkt en bespreken of jouw oplossing overeenkomt met de wensen van de opdrachtgever.
+
+- [Sprint Review Meeting](https://scrumguide.nl/sprint-review/)
+- [Dit is het geheim van een succesvolle Sprint Review in Scrum](https://scrumacademy.nl/blog/dit-is-het-geheim-van-een-succesvolle-sprint-review-in-scrum/)
+
 
 #### Geautomatiseerd testen
 
@@ -518,6 +527,8 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 
 - [A designer’s guide to successful user testing](https://uxdesign.cc/a-beginners-guide-to-user-testing-for-usable-products-fa049df82f28)
 - [Measuring design quality with heuristics](https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa5140)
+
+##### Testen in Usability Lab
 
 
 ##### Real User Monitoring
@@ -542,10 +553,6 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 ##### Acceptatietest
 (review/oplevering opdrachtgever)
 
-##### Usertest
-
-##### Testen in Usability Lab
-
 ##### Colorcontrast
 
 ##### Browsertest
@@ -568,10 +575,10 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 
 ###### WCAG-test
 
-###### A11Y-test
+###### Toegankelijkheidstest / A11Y-test
 
-##### screenreader test
+##### Screenreader test
 
-##### device test
+##### Device test
 
 ##### Quality assurance
