@@ -323,9 +323,23 @@ Wij borgen de kwaliteit van toetsing op de volgende wijze:
 
 ### Kwaliteitsborging door examencommissie
 
-[Stuk geschreven door de excie]
+#### Gezamenlijke examencommissie 
 
-Met ingang van het studiejaar ’23-’24 is binnen FDMCI een gezamenlijke toetscommissie ingesteld. Meerwaarde van de gezamenlijkheid is dat er kruisbestuiving plaatsvindt. Zo heeft de commissie studiehandleidingen van de afstudeerfasen van de vier Ad’s bekeken op *best practices* en geadviseerd hier meer met elkaar over uit te wisselen. De toetscommissie borgt de kwaliteit van de toetsing en het eindniveau van de opleiding. Hiertoe heeft de toetscommissie een werkplan opgesteld waarin o.a. de eindwerken van verschillende opleidingen bestudeerd worden. Bij een aantal opleidingen is dit al gebeurd, op 21 oktober 2024 worden de eindwerken van FDND onder de loep genomen.
+De Ad Frontend Design & Development (FDND) is één van de vier Associate degrees van de faculteit Digitale Media en Creatieve Industrie (FDMCI). Deze vier Ad-opleidingen zijn zelfstandig en kennen een eigen opzet en cultuur. Tegelijkertijd hebben ze overeenkomsten, onder andere de didactische uitgangspunten: praktijkopdrachten in een rijke leeromgeving, student aan het roer en toetsing als leermoment. Dat uit zich bijvoorbeeld in het werken met portfolio’s, veel (praktijk) opdrachten en projecten, formatieve evaluatie en programmatisch toetsen. Vanwege die overeenkomsten en de schaal van de opleidingen, is besloten tot een gezamenlijke examencommissie die sinds september 2021 in functie is.  
+
+In deze examencommissie is elke Ad gelijkelijk vertegenwoordigd: de Ad Cyber Security (CS), de Ad Software Development (SD), de Ad Frontend Design & Development (FDND) en de Ad Smart Media Production (SMP). De examencommissie telt in totaal vijf leden: vier docenten die elk verbonden zijn aan een van de vier Ad-opleidingen en een voorzitter die tevens extern lid is. De examencommissie wordt ondersteund door een ambtelijk secretaris. De examencommissie vergadert twee-wekelijks (indien nodig frequenter) over zowel beleidsmatige zaken als verzoeken en bezwaren van studenten. De voorzitter van de examencommissie neemt deel aan het overleg van voorzitters examencommissies binnen de faculteit en het zogenoemde voorzittersberaad, waaraan alle voorzitters van examencommissies binnen de HvA deelnemen.
+
+#### Taken examencommissie
+
+De examencommissie is verantwoordelijk voor de afhandeling van verzoekschriften en beoordeelt aanvragen voor vrijstellingen. Ook kent de examencommissie het Bindend Studieadvies toe aan het einde van het eerste studiejaar. Het uitgangspunt bij de besluitvorming is de Onderwijs- en Examenregeling van de Ad-FDND. De examencommissie stelt jaarlijks examinatoren en assessoren aan op voordracht van de opleidingscoördinator van de Ad Frontend Design & Development (namens de opleidingsmanager).
+
+#### Borging toetsing 
+
+De examencommissie borgt de kwaliteit van de organisatie en de procedures rondom tentamens en examens. De examencommissie heeft daartoe een borgingsagenda opgesteld. Bij de borging van de kwaliteit van de toetsing werkt de examencommissie samen met de gezamenlijke toetscommissie die met ingang van het studiejaar 2023-2024 is ingesteld. Ook hier is de meerwaarde van de gezamenlijkheid dat er kruisbestuiving plaatsvindt. De toetscommissie heeft een werkplan opgesteld waarin is aangegeven hoe de toetsing per Ad-opleiding wordt geborgd. De focus lag in studiejaar 2023- 2024 op het doorvoeren van verbeteringen in toetsing van de afstudeerfase en het onderzoeken van knelpunten in het onderliggende toetsproces. Door afwezigheid van een TC_lid van de Ad FDND is de aandacht echter naar de andere Ad’s gegaan. Vanaf studiejaar 2024-2025 is er weer een TC-lid van FDND toegevoegd aan de toetscommissie.
+
+#### Borging eindniveau 
+
+Bij de borging van het eindniveau werkt de examencommissie samen met de toetscommissie. Jaarlijks worden uit de eindwerken per opleiding twee tot drie werken geselecteerd waarvan de inhoud en de beoordeling door zowel de examencommissie as de toetscommissie wordt bekeken aan de hand van vooraf opgestelde aandachtspunten (zie evaluatie eindwerken 2023-2024). Verder is de hoofdassessor altijd bevoegd examinator, wordt het vier-ogen principe gehanteerd en is de beoordelaar niet de begeleider.
 
 ### Steekproef eindwerken okt 2024
 
