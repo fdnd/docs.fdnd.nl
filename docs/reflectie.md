@@ -42,7 +42,7 @@ Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig 
 
 ### Leerresultaten
 
-Onze leerresultaten van zijn vastgelegd in de [niveaumatrix](https://niveaumatrix.fdnd.nl), welke worden uitgesplitst aan de hand van de door het Overlegplatform Associate degree vastgestelde vijf Ad gedragscriteria. Elk van deze gedragscriteria worden weer beschreven door drie indicatoren.
+Onze leerresultaten zijn vastgelegd in de [niveaumatrix](https://niveaumatrix.fdnd.nl), welke worden uitgesplitst aan de hand van de door het Overlegplatform Associate degree vastgestelde vijf Ad gedragscriteria. Elk van deze gedragscriteria worden weer beschreven door drie indicatoren.
 
 Onze niveaumatrix is prettig in gebruik: Docenten en studenten weten waar ze aan toe zijn omdat alles wat ze bij de opleiding doen: sprints, leer- en deeltaken, portfolio en assessments, gericht is op het niveau zoals beschreven in de matrix. Daarnaast geeft de matrix bedrijfsbegeleiders tijdens de stage richting en houvast bij het geven van feedback.
 
