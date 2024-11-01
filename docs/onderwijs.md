@@ -127,12 +127,13 @@ Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezame
 
 In de laatste sprint voorafgaand aan het assessment worden door de squad-leader en co-teacher(s) van een squad alle ontwikkelportfolia doorgenomen. Bevindingen worden als draft vastgelegd in het beoordelingsformulier in DLO. Deze portfoliotoets is indicatief voor het type assessment wat een student zal afleggen. Er zijn twee vormen assessments.
 
+<!--
 #### Presentatie
 
 Als squad-leader en co-teacher(s) gedurende de portfoliotoets oordelen dat de student op niveau is, dan volgt summatieve beoordeling op basis van een presentatie over de verhouding van de bewijslast tot het leerresultaat. Het is zeer onwaarschijnlijk dat een onvoldoende volgt maar uitzonderingen zijn natuurlijk mogelijk.
 
 De student bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria, en demonstreert in 10 minuten het leerresultaat te beheersen. Docenten nemen daarna 10 minuten voor het stellen van vragen en tenslotte 10 minuten voor het definitief vaststellen van een summatief oordeel.
-
+-->
 #### Criterium gericht interview
 
 Als squad-leader en co-teacher(s) gedurende de programmatische toetsing twijfelen over het niveau van de student omdat er onvoldoende bewijslast bij bepaalde criteria/indicatoren is dan volgt een criterium gericht interview. Assessoren nemen 30 minuten om het CGI voor te bereiden. Ze stellen op basis van het draft in DLO vragen op om de hiaten in de bewijslast aan de kaak te stellen. De student kan tijdens het interview meer inzicht geven en dus bewijs leveren voor de ontbrekende onderdelen.
