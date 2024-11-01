@@ -49,7 +49,7 @@ Tijdens een retrospect reflecteren studenten aan de hand van de niveaumatrix op 
 
 Na reflectie tijdens de retrospect bespreekt de student diens voortgang en bewijslast met een squad-leader, co-teacher of mentor tijdens een coachgesprek. Hier worden waar nodig persoonlijke leervragen opgesteld en kunnen docenten sturen op studievoortgang. Indien gewenst maakt de coach of mentor een notitie in Portflow.
 
-### ~~Checkpoints~~
+~~### Checkpoints~~
 
 ~~Regulier worden checkpoints afgenomen op vrijdag, dit kunnen deel- of leertaken zijn. Checkpoints in semester 1 worden strak georganiseerd aan de hand van verschillende werkvormen. In semester 2 en 3 is sprake van afnemende sturing en worden studenten steeds meer geacht zelfstandig checkpoints te organiseren. Op maandag of woensdag is ruimte voor uitzonderingen, bijvoorbeeld voor studenten die er op een vrijdag niet konden zijn.~~
 
@@ -57,7 +57,7 @@ Na reflectie tijdens de retrospect bespreekt de student diens voortgang en bewij
 
 ~~Docenten controleren de feedback en waarderen de inzet van studenten in de korte periode waar het checkpoint over gaat met een smiley. Smileys hebben geen connectie met het assessment of met summatieve beoordeling en vormen dus puur inzicht in hoe het op dat moment met de student gaat. Onder het kopje waardering staat in detail uitgelegd waar de smileys precies voor staan.~~
 
-#### ~~Feedback schrijven~~
+~~#### Feedback schrijven~~
 
 ~~Direct na het bijwonen van een checkpoint maakt de student daarvan verslag in Feedpulse PortFlow van het betreffende semester. In dit verslag kan de student de volgende punten gebruiken:~~
 - ~~Wat betekent de gedragsindicator in relatie tot de opdracht?~~
@@ -68,7 +68,7 @@ Na reflectie tijdens de retrospect bespreekt de student diens voortgang en bewij
 
 ~~Studenten schrijven feedback in correct Nederlands.~~
 
-#### ~~Feedback waarderen~~
+~~#### Feedback waarderen~~
 
 ~~Als studenten feedback in Feedpulse hebben geschreven, dan lezen docenten dit aandachtig door en waarderen de inzet van iedere student op het niveau van gedragsindicatoren met een smiley. Deze smileys geven aan hoe de docent de inzet/activiteit/aanwezigheid van de student in betreffende periode ervaart. Deze waardering is geheel formatief en staat niet in relatie tot het assessment. Een voordeel van deze formatieve waardering is dat zowel studenten als docenten inzichtelijk hebben hoe het met de studiehouding van de student staat. Waar nodig kan dan bijgestuurd worden. Deze formatieve waardering is altijd een momentopname en kan per week/opdracht/sprint veranderen. Hieronder een grove indicatie voor het gebruik van smileys:~~
 
@@ -79,7 +79,7 @@ Na reflectie tijdens de retrospect bespreekt de student diens voortgang en bewij
 
 ~~Als docent bevestig je de feedback door een kort berichtje te typen. Je kunt dan aangeven of het in orde is of dat de student nog een belangrijk punt van feedback gemist heeft.~~
 
-#### ~~Verhouding checkpoints assessments~~
+~~#### Verhouding checkpoints assessments~~
 
 ~~Doel van deze verandering is onderscheid te kunnen maken tussen formele, beoordelende assesments en programmatisch toetsen waarbij studenten een cijfer krijgen op basis van hun portfolio en reflectie in Feedpulse.~~
 
@@ -137,39 +137,39 @@ In het geval van een reparatie beschrijf je voor het criterium en/of indicator(e
 - **3.5.1**: Ga mailinglijsten volgen en écht artikelen lezen. Neem inzichten of een samenvatting op in jouw *i love web*-site.
 
 
-#### ~~Presentatie~~
+~~#### Presentatie~~
 
 ~~Als squad-leader en co-teacher(s) gedurende de portfoliotoets oordelen dat de student op niveau is, dan volgt summatieve beoordeling op basis van een presentatie over de verhouding van de bewijslast tot het leerresultaat. Het is zeer onwaarschijnlijk dat een onvoldoende volgt maar uitzonderingen zijn natuurlijk mogelijk.~~
 
 ~~De student bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria, en demonstreert in 10 minuten het leerresultaat te beheersen. Docenten nemen daarna 10 minuten voor het stellen van vragen en tenslotte 10 minuten voor het definitief vaststellen van een summatief oordeel.~~
 
-#### ~~Criterium gericht interview~~
+~~#### Criterium gericht interview~~
 
 ~~Als squad-leader en co-teacher(s) gedurende de programmatische toetsing twijfelen over het niveau van de student omdat er onvoldoende bewijslast bij bepaalde criteria/indicatoren is dan volgt een criterium gericht interview. Assessoren nemen 30 minuten om het CGI voor te bereiden. Ze stellen op basis van het draft in DLO vragen op om de hiaten in de bewijslast aan de kaak te stellen. De student kan tijdens het interview meer inzicht geven en dus bewijs leveren voor de ontbrekende onderdelen.~~
 
 ~~De voorbereiding voor de student is hetzelfde, deze bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria. In plaats van een presentatie wordt de student gedurende 20 minuten geïnterviewd over de hiaten in diens bewijslast. Daarna nemen de assessoren 10 minuten voor het definitief vaststellen van een summatief oordeel.~~
 
 
-###### ~~Organisatie~~
+~~###### Organisatie~~
 
 ~~Wat doen tribe-leaders qua schema en wanneer kan dit verwacht worden door studenten en docenten.~~
 
-#### ~~Checkpoints blok 1~~
+~~#### Checkpoints blok 1~~
 
 ~~Voor blok 1 hebben we een beknopte beschrijving van de manier van invullen van de checkpoints. Dit om het principe afnemende sturing goed invulling te geven in deze cruciale fase van de studie.~~
 
-##### ~~Sprint 1~~
+~~##### Sprint 1~~
 
 ~~In groepjes van 12 met een docent, in de eigen squad~~
 
 ~~Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Daarna indicator Y, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Onder begeleiding van een docent, geleide feedback sessies.~~
 
-##### ~~Sprint 2~~
+~~##### Sprint 2~~
 
 ~~In groepjes van 5, in eigen squad, docent loopt rond~~
 ~~Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.~~
 
-##### ~~Sprint 3~~
+~~##### Sprint 3~~
 
 ~~In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.~~
 
