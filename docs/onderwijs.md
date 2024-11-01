@@ -204,11 +204,11 @@ Geef een beknopte beschrijving van de bewijslast, noem hierbij de bewijslast exp
 
 Loop door de facetten van het criterium op basis van de indicatoren en benoem welke onderdelen bewezen zijn, hierin ligt feitelijk de beoordeling. Afhankelijk van de volledigheid van de bewijslast zijn er twee opties:
 
-#### Optie 1: Er zijn nog niet bewezen facetten van de indicator
+##### Optie 1: Er zijn nog niet bewezen facetten van de indicator
 
 Selecteer ‘Aandachtspunten’ (0 punten), dit betekent dat de bewijslast voor deze indicatoren nog niet volledig is. Benoem vervolgens in in het commentaarvak de facetten van de indicatoren die nog niet bewezen zijn. Formuleer vragen op basis van de nog niet bewezen facetten zodat de student tijdens het assessment de mogelijkheid heeft deze alsnog aan te tonen.
 
-#### Optie 2: De bewijslast is volledig
+##### Optie 2: De bewijslast is volledig
 
 Selecteer afhankelijk van de kwaliteit van de bewijslast ‘Cesuur’ (1 punt) of ‘Geavanceerd’ (2 punten). Als de bewijslast op cesuur is maar je als assessor vermoed dat er reden is voor ophoging kan je vragen formuleren om te polsen of ophoging terecht is.
 
