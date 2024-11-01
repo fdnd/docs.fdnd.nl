@@ -91,89 +91,7 @@ Na reflectie tijdens de retrospect bespreekt de student diens voortgang en bewij
 
 
 
-## Portfoliotoets (programmatisch toetsen)
 
-Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast aan de hand van indicatoren per criterium vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
-
-
-### Assessments
-
-Bij FDND is het assessment hét summatieve toetsinstrument. Assessments vinden, met uitzondering van het eindassessment, plaats in week tien van ieder blok. Bij elk assessment ontvangt de student, mits ze die met een voldoende behaald, 15EC. Haalt de student het assesment niet dan is er mogelijkheid voor reparatie aan het eind van de eerstvolgende of daarop volgende sprint.
-
-Per semester zijn er twee assessments, bij de endterm toont de student aan het leerresultaat te beheersen en bij de midterm laat de student zien onderweg te zijn naar het te behalen leerresultaat. Jaarlijks zijn er dus vier summatieve toetsmomenten, gezamenlijk 60EC, die een oordeel geven over de leergang van studenten. 
-
-Tijdens het assessment wordt de student gedurende 20 minuten geïnterviewd over diens bewijslast. Daarna nemen de assessoren 10 minuten voor het definitief vaststellen van een summatief oordeel.
-
-
-### Assessments voorbereiden
-
-In de laatste sprint voorafgaand aan het assessment worden door de squad-leader en co-teacher(s) van een squad alle ontwikkelportfolia doorgenomen. Bevindingen worden als draft vastgelegd in het beoordelingsformulier in DLO. ~~Deze portfoliotoets is indicatief voor het type assessment wat een student zal afleggen. Er zijn twee vormen assessments.~~
-
-~~Assessments worden voorbereid door het beoordelen van het ontwikkelportfolio van studenten. Bij de voorbereiding houden assessoren de richtlijnen in acht.~~
-
-#### Richtlijnen voor het schrijven van feedback
-
-Geef een beknopte beschrijving van de bewijslast, noem hierbij de bewijslast expliciet en maak deze vetgedrukt. Hier zit nog geen mening in verwerkt maar is een feitelijke beschrijving van wat je aantreft.
-
-Loop door de facetten van het criterium op basis van de indicatoren en benoem welke onderdelen bewezen zijn, hierin ligt feitelijk de beoordeling. Afhankelijk van de volledigheid van de bewijslast zijn er twee opties:
-
-#### Optie 1: Er zijn nog niet bewezen facetten van de indicator
-
-Selecteer ‘Aandachtspunten’ (0 punten), dit betekent dat de bewijslast voor deze indicatoren nog niet volledig is. Benoem vervolgens in in het commentaarvak de facetten van de indicatoren die nog niet bewezen zijn. Formuleer vragen op basis van de nog niet bewezen facetten zodat de student tijdens het assessment de mogelijkheid heeft deze alsnog aan te tonen.
-
-#### Optie 2: De bewijslast is volledig
-
-Selecteer afhankelijk van de kwaliteit van de bewijslast ‘Cesuur’ (1 punt) of ‘Geavanceerd’ (2 punten). Als de bewijslast op cesuur is maar je als assessor vermoed dat er reden is voor ophoging kan je vragen formuleren om te polsen of ophoging terecht is.
-
-### Tijdens het assessment
-
-Notulen zijn heel belangrijk! Allereerst biedt het de student de mogelijkheid de strekking van het gesprek terug te lezen. Daarnaast wordt bij steekproeven van de toets- of examencommissie én bij de accreditatie de kwaliteit van het FDND toetsproces afgemeten aan de validiteit, betrouwaarheid en transparantie. Kortom, de waarde en bewijslast van het gesprek moeten gereflecteerd worden in de notulen per criterium en indicatoren zodat duidelijk wordt waar het oordeel op gebaseerd is.
-
-In het advies onderaan het formulier benoem je na het gesprek de kracht van de student en algemene zaken die je opvallen, wellicht heb je nog wat tips voor de volgende periode. Ook kan je hier belangrijke leervragen van de student herhalen zodat deze in een helder overzicht te vinden zijn.
-
-### Reparatie?
-
-In het geval van een reparatie beschrijf je voor het criterium en/of indicator(en) wat gerepareerd moet worden en een suggestie hoe de student dit aan kan tonen. Dit doe je door het nummer van de indicator op te nemen en er achter te noteren wat je verwacht, bijvoorbeeld: 
-- **3.5.1**: Ga mailinglijsten volgen en écht artikelen lezen. Neem inzichten of een samenvatting op in jouw *i love web*-site.
-
-
-~~#### Presentatie~~
-
-~~Als squad-leader en co-teacher(s) gedurende de portfoliotoets oordelen dat de student op niveau is, dan volgt summatieve beoordeling op basis van een presentatie over de verhouding van de bewijslast tot het leerresultaat. Het is zeer onwaarschijnlijk dat een onvoldoende volgt maar uitzonderingen zijn natuurlijk mogelijk.~~
-
-~~De student bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria, en demonstreert in 10 minuten het leerresultaat te beheersen. Docenten nemen daarna 10 minuten voor het stellen van vragen en tenslotte 10 minuten voor het definitief vaststellen van een summatief oordeel.~~
-
-~~#### Criterium gericht interview~~
-
-~~Als squad-leader en co-teacher(s) gedurende de programmatische toetsing twijfelen over het niveau van de student omdat er onvoldoende bewijslast bij bepaalde criteria/indicatoren is dan volgt een criterium gericht interview. Assessoren nemen 30 minuten om het CGI voor te bereiden. Ze stellen op basis van het draft in DLO vragen op om de hiaten in de bewijslast aan de kaak te stellen. De student kan tijdens het interview meer inzicht geven en dus bewijs leveren voor de ontbrekende onderdelen.~~
-
-~~De voorbereiding voor de student is hetzelfde, deze bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria. In plaats van een presentatie wordt de student gedurende 20 minuten geïnterviewd over de hiaten in diens bewijslast. Daarna nemen de assessoren 10 minuten voor het definitief vaststellen van een summatief oordeel.~~
-
-
-~~###### Organisatie~~
-
-~~Wat doen tribe-leaders qua schema en wanneer kan dit verwacht worden door studenten en docenten.~~
-
-~~#### Checkpoints blok 1~~
-
-~~Voor blok 1 hebben we een beknopte beschrijving van de manier van invullen van de checkpoints. Dit om het principe afnemende sturing goed invulling te geven in deze cruciale fase van de studie.~~
-
-~~##### Sprint 1~~
-
-~~In groepjes van 12 met een docent, in de eigen squad~~
-
-~~Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Daarna indicator Y, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Onder begeleiding van een docent, geleide feedback sessies.~~
-
-~~##### Sprint 2~~
-
-~~In groepjes van 5, in eigen squad, docent loopt rond~~
-~~Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.~~
-
-~~##### Sprint 3~~
-
-~~In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.~~
-
-~~Zeggen dat ze gaan reflecteren op indicatoren.~~
 
 ## Aanspreken op niveau
 
@@ -258,4 +176,91 @@ Bij de sprint planning van [Sprint 14 Lose your head](https://programma.fdnd.nl/
 
 ### Sprint Review
 Aan het eind van elke sprint is er een Sprint Review. De opdrachtgever en studenten bespreken, aan de hand van instructies in de deeltaak [Sprint-Review](https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md), de voortgang van het project. Hierbij wordt de status van de backlog bijgewerkt; Bestaande taken worden, waar nodig in de juiste kolom geplaatst. Studenten verzamelen feedback op hun werk en maken zelf issues aan op GitHub. Deze issues kunnen waar nodig als taken worden opgenomen in de Backlog 
+
+
+
+## Portfoliotoets (programmatisch toetsen)
+
+Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast aan de hand van indicatoren per criterium vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
+
+
+### Assessments
+
+Bij FDND is het assessment hét summatieve toetsinstrument. Assessments vinden, met uitzondering van het eindassessment, plaats in week tien van ieder blok. Bij elk assessment ontvangt de student, mits ze die met een voldoende behaald, 15EC. Haalt de student het assesment niet dan is er mogelijkheid voor reparatie aan het eind van de eerstvolgende of daarop volgende sprint.
+
+Per semester zijn er twee assessments, bij de endterm toont de student aan het leerresultaat te beheersen en bij de midterm laat de student zien onderweg te zijn naar het te behalen leerresultaat. Jaarlijks zijn er dus vier summatieve toetsmomenten, gezamenlijk 60EC, die een oordeel geven over de leergang van studenten. 
+
+Tijdens het assessment wordt de student gedurende 20 minuten geïnterviewd over diens bewijslast. Daarna nemen de assessoren 10 minuten voor het definitief vaststellen van een summatief oordeel.
+
+
+### Assessments voorbereiden
+
+In de laatste sprint voorafgaand aan het assessment worden door de squad-leader en co-teacher(s) van een squad alle ontwikkelportfolia doorgenomen. Bevindingen worden als draft vastgelegd in het beoordelingsformulier in DLO. ~~Deze portfoliotoets is indicatief voor het type assessment wat een student zal afleggen. Er zijn twee vormen assessments.~~
+
+~~Assessments worden voorbereid door het beoordelen van het ontwikkelportfolio van studenten. Bij de voorbereiding houden assessoren de richtlijnen in acht.~~
+
+#### Richtlijnen voor het schrijven van feedback
+
+Geef een beknopte beschrijving van de bewijslast, noem hierbij de bewijslast expliciet en maak deze vetgedrukt. Hier zit nog geen mening in verwerkt maar is een feitelijke beschrijving van wat je aantreft.
+
+Loop door de facetten van het criterium op basis van de indicatoren en benoem welke onderdelen bewezen zijn, hierin ligt feitelijk de beoordeling. Afhankelijk van de volledigheid van de bewijslast zijn er twee opties:
+
+#### Optie 1: Er zijn nog niet bewezen facetten van de indicator
+
+Selecteer ‘Aandachtspunten’ (0 punten), dit betekent dat de bewijslast voor deze indicatoren nog niet volledig is. Benoem vervolgens in in het commentaarvak de facetten van de indicatoren die nog niet bewezen zijn. Formuleer vragen op basis van de nog niet bewezen facetten zodat de student tijdens het assessment de mogelijkheid heeft deze alsnog aan te tonen.
+
+#### Optie 2: De bewijslast is volledig
+
+Selecteer afhankelijk van de kwaliteit van de bewijslast ‘Cesuur’ (1 punt) of ‘Geavanceerd’ (2 punten). Als de bewijslast op cesuur is maar je als assessor vermoed dat er reden is voor ophoging kan je vragen formuleren om te polsen of ophoging terecht is.
+
+### Tijdens het assessment
+
+Notulen zijn heel belangrijk! Allereerst biedt het de student de mogelijkheid de strekking van het gesprek terug te lezen. Daarnaast wordt bij steekproeven van de toets- of examencommissie én bij de accreditatie de kwaliteit van het FDND toetsproces afgemeten aan de validiteit, betrouwaarheid en transparantie. Kortom, de waarde en bewijslast van het gesprek moeten gereflecteerd worden in de notulen per criterium en indicatoren zodat duidelijk wordt waar het oordeel op gebaseerd is.
+
+In het advies onderaan het formulier benoem je na het gesprek de kracht van de student en algemene zaken die je opvallen, wellicht heb je nog wat tips voor de volgende periode. Ook kan je hier belangrijke leervragen van de student herhalen zodat deze in een helder overzicht te vinden zijn.
+
+### Reparatie?
+
+In het geval van een reparatie beschrijf je voor het criterium en/of indicator(en) wat gerepareerd moet worden en een suggestie hoe de student dit aan kan tonen. Dit doe je door het nummer van de indicator op te nemen en er achter te noteren wat je verwacht, bijvoorbeeld: 
+- **3.5.1**: Ga mailinglijsten volgen en écht artikelen lezen. Neem inzichten of een samenvatting op in jouw *i love web*-site.
+
+
+~~#### Presentatie~~
+
+~~Als squad-leader en co-teacher(s) gedurende de portfoliotoets oordelen dat de student op niveau is, dan volgt summatieve beoordeling op basis van een presentatie over de verhouding van de bewijslast tot het leerresultaat. Het is zeer onwaarschijnlijk dat een onvoldoende volgt maar uitzonderingen zijn natuurlijk mogelijk.~~
+
+~~De student bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria, en demonstreert in 10 minuten het leerresultaat te beheersen. Docenten nemen daarna 10 minuten voor het stellen van vragen en tenslotte 10 minuten voor het definitief vaststellen van een summatief oordeel.~~
+
+~~#### Criterium gericht interview~~
+
+~~Als squad-leader en co-teacher(s) gedurende de programmatische toetsing twijfelen over het niveau van de student omdat er onvoldoende bewijslast bij bepaalde criteria/indicatoren is dan volgt een criterium gericht interview. Assessoren nemen 30 minuten om het CGI voor te bereiden. Ze stellen op basis van het draft in DLO vragen op om de hiaten in de bewijslast aan de kaak te stellen. De student kan tijdens het interview meer inzicht geven en dus bewijs leveren voor de ontbrekende onderdelen.~~
+
+~~De voorbereiding voor de student is hetzelfde, deze bereidt een presentatie voor op basis van het samengestelde ontwikkelportfolio, aan de hand van de gedragscriteria. In plaats van een presentatie wordt de student gedurende 20 minuten geïnterviewd over de hiaten in diens bewijslast. Daarna nemen de assessoren 10 minuten voor het definitief vaststellen van een summatief oordeel.~~
+
+
+~~###### Organisatie~~
+
+~~Wat doen tribe-leaders qua schema en wanneer kan dit verwacht worden door studenten en docenten.~~
+
+~~#### Checkpoints blok 1~~
+
+~~Voor blok 1 hebben we een beknopte beschrijving van de manier van invullen van de checkpoints. Dit om het principe afnemende sturing goed invulling te geven in deze cruciale fase van de studie.~~
+
+~~##### Sprint 1~~
+
+~~In groepjes van 12 met een docent, in de eigen squad~~
+
+~~Alles gescript en voorgekauwd, we gaan nu reflecteren op indicator X, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Daarna indicator Y, die indicator houdt in dat je …, je kunt bijv. dit en dit zeggen. Onder begeleiding van een docent, geleide feedback sessies.~~
+
+~~##### Sprint 2~~
+
+~~In groepjes van 5, in eigen squad, docent loopt rond~~
+~~Indicatoren gescript waar we op feedbacken, tijd inplannen per indicator. In groepjes, vragen wat de indicator betekend, na een rondje geeft de docent toelichting en wordt gereflectered. Dan door naar de volgende ronde.~~
+
+~~##### Sprint 3~~
+
+~~In duo’s, neem telkens 15 mins om te reflecteren op een indicator. Bespreek eerst wat de indicator betekent.~~
+
+~~Zeggen dat ze gaan reflecteren op indicatoren.~~
+
 
