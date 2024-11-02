@@ -34,7 +34,8 @@ Het routinematige deel wordt dagelijks bijgehouden in de vorm van een *daily-che
 De vorm van de etalage is vrij, studenten worden gestimuleerd om door middel van Github pages een eigen vette, creatieve weblog, link dump, of digital garden te maken. (20% regel + link naar artikel?)
 
 ### Werken aan projecten
-Studenten werken vanaf sprint 2 van het eerste jaar doorlopend aan projecten ~~van meerdere~~ voor echte opdrachtgevers. Projecten kunnen grote, langlopende projecten zijn van meerdere sprint achter elkaar en een doorlooptijd van meerdere semesters en meerdere leerjaren. Elke 2e sprint van een semester start met een sprint planning mét de opdrachtgever ~~in de~~ bij FDND. 
+Studenten werken vanaf sprint 2 van het eerste jaar doorlopend aan projecten voor echte opdrachtgevers. 
+Projecten kunnen grote, langlopende projecten zijn van meerdere sprints achter elkaar en een doorlooptijd van meerdere semesters en meerdere leerjaren. Elke 2e sprint van een semester start met een sprint planning mét de opdrachtgever bij FDND. 
 
 #### Opzet projecten op GitHub
 De langlopende projecten staan in de GitHub organization [https://github.com/fdnd-agency](https://github.com/fdnd-agency). Elk project heeft een _design-challenge branch_ met een opdrachtomschrijving van het project. Er zijn links opgenomen naar de backlog, designs, content en de api.
@@ -54,6 +55,8 @@ Bij de sprint planning van [Sprint 14 Lose your head](https://programma.fdnd.nl/
 #### Sprint Review
 Aan het eind van elke sprint is er een Sprint Review. De opdrachtgever en studenten bespreken~~, aan de hand van instructies in de deeltaak [Sprint-Review](https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md),~~ het gemaakte werk en de voortgang van het project. Hierbij wordt de status van de backlog bijgewerkt; Bestaande taken worden, waar nodig in de juiste kolom geplaatst. Studenten verzamelen feedback op hun werk en maken zelf issues aan op GitHub. Deze issues kunnen waar nodig als taken worden opgenomen in de Backlog 
 
+### Werken aan Design Challenges
+Naast langlopende projecten organiseren we ook projecten van één sprint. Dit zijn de [design challenges](https://partners.fdnd.nl/design-challenge) van [Sprint 6: The Startup](https://partners.fdnd.nl/design-challenge/sprint-6) en [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprint-12). In deze sprints kunnen de studenten laten zien wat ze het betreffende semester hebben geleerd én ze krijgen de kans om een kijkje in de keuken te nemen bij een digital agency of een bedrijf met een digital product team. 
 
 ## Studentbegeleiding
 
