@@ -37,26 +37,34 @@ De vorm van de etalage is vrij, studenten worden gestimuleerd om door middel van
 Studenten werken vanaf sprint 2 van het eerste jaar doorlopend aan projecten voor echte opdrachtgevers. 
 Projecten kunnen grote, langlopende projecten zijn van meerdere sprints achter elkaar en een doorlooptijd van meerdere semesters en meerdere leerjaren. Elke 2e sprint van een semester start met een sprint planning mét de opdrachtgever bij FDND. 
 
-#### Opzet projecten op GitHub
+#### Langlopende projecten
+##### Opzet projecten op GitHub
 De langlopende projecten staan in de GitHub organization [https://github.com/fdnd-agency](https://github.com/fdnd-agency). Elk project heeft een _design-challenge branch_ met een opdrachtomschrijving van het project. Er zijn links opgenomen naar de backlog, designs, content en de api.
  
-#### Sprint planning
+##### Sprint planning
 Per team begeleiden de coaches de studenten én de opdrachtgevers de sprint planning, aan de hand van werkvormen en tip & tricks. 
 
-##### Sprint 2 The Client
+###### Sprint 2 The Client
 Bij de sprint planning van [Sprint 2 The Client](https://programma.fdnd.nl/static-web/the-client) maken de leden van de teams kennis  met elkaar. Het is de briefing van het project, waarbij de opdrachtgever de design challenge toelicht aan het team. Tijdens de briefing stellen de studnete gericht vragen en maken ze afspraken over de sprint reviews en eventuele andere contact momenten en communicatielijnen (whatsapp, teams, slack, etc.). Tijdens dit semester werken de studenten individueel aan hun eigen code.
 
-##### Sprint 8 Server Side Rendering
+###### Sprint 8 Server Side Rendering
 Bij de sprint planning van [Sprint 8 Server Side Rendering](https://programma.fdnd.nl/data-driven-web/server-side-rendering) ligt de focus op de content, data modellering en het dynamisch maken van de website. De studenten maken kennis met de API. Aan de hand van wat er reeds gemaakt is kijken de teams welke taken nog open staan of welke nieuwe taken moeten worden opgepakt. Hieruit rijst de vraag of alle benodigde content te ontsluiten is uit de API. Tijdens dit semester zijn er meerdere teams per project bezig met een eigen codebase.
 
-##### Sprint 14 Lose Your Head
+###### Sprint 14 Lose Your Head
 Bij de sprint planning van [Sprint 14 Lose your head](https://programma.fdnd.nl/workflow-tooling-frameworks/lose-your-head) wordt weer vanuit het perspectief van de content bekeken hoe het project ervoor staat. De studenten maken kennis met het Headless CMS en krijgen meer controle over de API. Sprint 14 is de aanzet voor het toewerken naar een Release Candidate, een eerste goed werkende oplevering van de web applicatie. Tijdens dit semester gaan de studenten samenwerken één code base.
 
-#### Sprint Review
+##### Sprint Review
 Aan het eind van elke sprint is er een Sprint Review. De opdrachtgever en studenten bespreken~~, aan de hand van instructies in de deeltaak [Sprint-Review](https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md),~~ het gemaakte werk en de voortgang van het project. Hierbij wordt de status van de backlog bijgewerkt; Bestaande taken worden, waar nodig in de juiste kolom geplaatst. Studenten verzamelen feedback op hun werk en maken zelf issues aan op GitHub. Deze issues kunnen waar nodig als taken worden opgenomen in de Backlog 
 
-### Werken aan Design Challenges
-Naast langlopende projecten organiseren we ook projecten van één sprint. Dit zijn de [design challenges](https://partners.fdnd.nl/design-challenge) van [Sprint 6: The Startup](https://partners.fdnd.nl/design-challenge/sprint-6) en [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprint-12). In deze sprints kunnen de studenten laten zien wat ze het betreffende semester hebben geleerd én ze krijgen de kans om een kijkje in de keuken te nemen bij een digital agency of een bedrijf met een digital product team. 
+#### Werken aan Design Challenges
+Naast langlopende projecten organiseren we ook projecten van één sprint. Dit noemen wij [design challenges](https://partners.fdnd.nl/design-challenge). In deze sprints kunnen de studenten laten zien wat ze het betreffende semester allemaal hebben geleerd. Daarnaast krijgen ze de kans, bij de briefing en sprint review op locatie, om een kijkje in de keuken te nemen bij een digital agency of een bedrijf met een digital product team. 
+
+##### Sprint 6: The Startup
+In [Sprint 6: The Startup](https://partners.fdnd.nl/design-challenge/sprint-6) ontwerpen, maken en testen studenten een responsive website of webpagina op basis van een bestaand idee, concept of ontwerp.
+
+##### Sprint 12: Proof of Concept
+In [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprint-12) ontwerpen, maken en testen studenten een prototype op basis van een bestaand idee, concept of ontwerp.
+
 
 ## Studentbegeleiding
 
