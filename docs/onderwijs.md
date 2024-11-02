@@ -56,7 +56,7 @@ Bij de sprint planning van [Sprint 14 Lose your head](https://programma.fdnd.nl/
 ##### Sprint Review
 Aan het eind van elke sprint is er een Sprint Review. De opdrachtgever en studenten bespreken~~, aan de hand van instructies in de deeltaak [Sprint-Review](https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md),~~ het gemaakte werk en de voortgang van het project. Hierbij wordt de status van de backlog bijgewerkt; Bestaande taken worden, waar nodig in de juiste kolom geplaatst. Studenten verzamelen feedback op hun werk en maken zelf issues aan op GitHub. Deze issues kunnen waar nodig als taken worden opgenomen in de Backlog 
 
-#### Werken aan Design Challenges
+#### Design Challenges
 Naast langlopende projecten organiseren we ook projecten van één sprint. Dit noemen wij [design challenges](https://partners.fdnd.nl/design-challenge). In deze sprints kunnen de studenten laten zien wat ze het betreffende semester allemaal hebben geleerd. Daarnaast krijgen ze de kans, bij de briefing en sprint review op locatie, om een kijkje in de keuken te nemen bij een digital agency of een bedrijf met een digital product team. 
 
 ##### Sprint 6: The Startup
