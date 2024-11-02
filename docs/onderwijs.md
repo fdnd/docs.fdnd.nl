@@ -180,7 +180,7 @@ Bron: Grootendorst, Annemiek, Professionele Identiteit ontwikkelen gedurende de 
 
 ## Portfoliotoets (programmatisch toetsen)
 
-Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast aan de hand van indicatoren per criterium vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
+Programmatisch toetsen houdt in dat veel formatieve, low-stake meetpunten gezamenlijk voldoende inzicht bieden in de voortgang van studenten. Studenten leggen hun bewijslast aan de hand van de 5 criteria en bijhorende indicatoren vast in hun ontwikkelportolio. FDND maakt hiervoor gebruik van PortFlow.
 
 
 ### Assessments
@@ -200,13 +200,13 @@ In de laatste sprint voorafgaand aan het assessment worden door de squad-leader 
 
 #### Richtlijnen voor het schrijven van feedback
 
-Geef een beknopte beschrijving van de bewijslast, noem hierbij de bewijslast expliciet en maak deze vetgedrukt. Hier zit nog geen mening in verwerkt maar is een feitelijke beschrijving van wat je aantreft.
+Geef een beknopte beschrijving van de bewijslast ~~, noem hierbij de bewijslast expliciet en maak deze vetgedrukt~~. Hier zit nog geen mening in verwerkt maar is een feitelijke beschrijving van wat je aantreft.
 
-Loop door de facetten van het criterium op basis van de indicatoren en benoem welke onderdelen bewezen zijn, hierin ligt feitelijk de beoordeling. Afhankelijk van de volledigheid van de bewijslast zijn er twee opties:
+Loop door de facetten van het criterium op basis van de indicatoren en benoem welke onderdelen bewezen zijn, hierin ligt ~~feitelijk~~ de beoordeling. Afhankelijk van de volledigheid van de bewijslast zijn er twee opties:
 
 ##### Optie 1: Er zijn nog niet bewezen facetten van de indicator
 
-Selecteer ‘Aandachtspunten’ (0 punten), dit betekent dat de bewijslast voor deze indicatoren nog niet volledig is. Benoem vervolgens in in het commentaarvak de facetten van de indicatoren die nog niet bewezen zijn. Formuleer vragen op basis van de nog niet bewezen facetten zodat de student tijdens het assessment de mogelijkheid heeft deze alsnog aan te tonen.
+Selecteer ‘Aandachtspunten’ (0 punten), dit betekent dat de bewijslast voor het criterium nog niet volledig is. Benoem vervolgens in in het commentaarvak de facetten van het criterium en/of de indicatoren die nog niet bewezen zijn. Formuleer vragen op basis van de nog niet bewezen facetten zodat de student tijdens het assessment de mogelijkheid heeft deze alsnog aan te tonen.
 
 ##### Optie 2: De bewijslast is volledig
 
@@ -214,13 +214,13 @@ Selecteer afhankelijk van de kwaliteit van de bewijslast ‘Cesuur’ (1 punt) o
 
 ### Tijdens het assessment
 
-Notulen zijn heel belangrijk! Allereerst biedt het de student de mogelijkheid de strekking van het gesprek terug te lezen. Daarnaast wordt bij steekproeven van de toets- of examencommissie én bij de accreditatie de kwaliteit van het FDND toetsproces afgemeten aan de validiteit, betrouwaarheid en transparantie. Kortom, de waarde en bewijslast van het gesprek moeten gereflecteerd worden in de notulen per criterium en indicatoren zodat duidelijk wordt waar het oordeel op gebaseerd is.
+Notulen zijn heel belangrijk! ~~Allereerst~~ Het biedt de student de mogelijkheid de strekking van het gesprek terug te lezen. Daarnaast wordt bij steekproeven van de toets- of examencommissie én bij de accreditatie de kwaliteit van het FDND toetsproces afgemeten aan de validiteit, betrouwaarheid en transparantie. Kortom, de waarde en bewijslast van het gesprek moeten gereflecteerd worden in de notulen per criterium en indicatoren zodat duidelijk wordt waar het oordeel op gebaseerd is.
 
 In het advies onderaan het formulier benoem je na het gesprek de kracht van de student en algemene zaken die je opvallen, wellicht heb je nog wat tips voor de volgende periode. Ook kan je hier belangrijke leervragen van de student herhalen zodat deze in een helder overzicht te vinden zijn.
 
 ### Reparatie?
 
-In het geval van een reparatie beschrijf je voor het criterium en/of indicator(en) wat gerepareerd moet worden en een suggestie hoe de student dit aan kan tonen. Dit doe je door het nummer van de indicator op te nemen en er achter te noteren wat je verwacht, bijvoorbeeld: 
+In het geval van een reparatie beschrijf je voor het criterium en/of indicatoren wat gerepareerd moet worden en een suggestie hoe de student dit aan kan tonen. Dit doe je door het nummer van de indicator op te nemen en er achter te noteren wat je verwacht, bijvoorbeeld: 
 - **3.5.1**: Ga mailinglijsten volgen en écht artikelen lezen. Neem inzichten of een samenvatting op in jouw *i love web*-site.
 
 
