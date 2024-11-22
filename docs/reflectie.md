@@ -208,7 +208,7 @@ Deze organisatie- en vergader structuur bevalt goed. Bij tijd en wijlen verslapt
 
 Evalueren met de opleidingscommissie. Verwijzen naar onderwijs document
 
-Cijfers uit de NSE en blokenquete, stukje van de decaan
+Cijfers uit de NSE en blokenquête, stukje van de decaan
 
 Gezichtsveld vanuit de student
 
