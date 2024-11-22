@@ -88,7 +88,7 @@ Het onderwijs is bij FDND ingedeeld in semesters en sprints. Een sprint duurt dr
 
 Voor een actueel overzicht van sprintnamen verwijzen wij naar [programma.fdnd.nl](https://programma.fdnd.nl/). FDND heeft een vaste weekindeling en studenten en docenten gebruiken deze site dan ook als rooster.
 
-Sprints hebben een vaste cadans en volgen onderstaand schema waarbij jaar 1 tussen 09:00 - 13:00 en jaar 2 tussen 13:00 - 17:00 les hebben. Maandag, woensdag en vrijdag zijn studenten allemaal aanwezig en dinsdag en donderdag zijn differentiatiedagen waarop studenten naar eigen inzicht kiezen of ze hier aanwezig willen zijn. Vrijdagen staan altijd in het teken van feedback en reflectie.
+Sprints hebben een vaste cadans en volgen onderstaand schema, er is onloop vanaf 9:00, jaar 1 heeft les tussen 09:30 - 13:00 en jaar 2 tussen 13:30 - 17:00 les hebben. Maandag, woensdag en vrijdag zijn studenten allemaal aanwezig en dinsdag en donderdag zijn differentiatiedagen waarop studenten naar eigen inzicht kiezen of ze hier aanwezig willen zijn, op deze dagen bieden we challenges en practica aan, em is er de mogelijkheid om extra uitleg te krijgen. Vrijdagen staan altijd in het teken van feedback en reflectie.
 
 ![Overzicht van een sprint](./assets/img/sprint.png)
 
