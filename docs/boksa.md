@@ -273,12 +273,16 @@ Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met 
 ##### Informatie architectuur
 Informatie architectuur is een ontwerp discipline die zich bezig houdt met het structureren en organiseren van de content van een website zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie doe je door passende organisatie systemen te ontwerpen voor de content, en duidelijke labels en navigatie systemen te gebruiken.
 
+- [Designing Web navigation - Chapter 4. Types of Navigation](https://www.oreilly.com/library/view/designing-web-navigation/9780596528102/ch04.html)
+- [Presenting Information Architecture - Site diagrams](https://www.webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
+
+
 ##### Sitemap (Hierarchie)
 Een sitemap geeft een gestructureerd overzicht van alle pagina's van een website.
 Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan ook zorgen voor gerichtheid van een project.
 
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
-[Sitemaps & Information Architecture (IA)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
+- [Sitemaps & Information Architecture (IA)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
 
 ##### Breakdown Schets
 Een Breakdown schets is een Wireframe of Wireflow met annotaties voor de HTML, CSS en/of JS. Het is een methode die frontenders gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code.
