@@ -515,6 +515,10 @@ Maar ook de Sprint Review met een opdrachtgever om feedback en opmerkingen meene
 #### Sprint Review
 De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin je het gemaakte werk bespreekt met de opdrachtgever. De opdrachtgever geeft feedback naar aanleiding van het (deel)product dat gedemonstreerd is. Het maakt niet uit dat de opdracht nog niet af is, je kan altijd laten zien waar je aan hebt gewerkt en bespreken of jouw oplossing overeenkomt met de wensen van de opdrachtgever.
 
+Voordat je gaat testen maak je eerst een testplan. Zo zorg je ervoor dat je goed weet wat je wil testen en dat je niets vergeet tijdens een test.
+Na de test verwerk je de resultaten in issues, pas je je code aan en ga je meteen nog een keer testen om te zien of je interface is verbeterd.
+
+
 - [Sprint Review Meeting](https://scrumguide.nl/sprint-review/)
 - [Dit is het geheim van een succesvolle Sprint Review in Scrum](https://scrumacademy.nl/blog/dit-is-het-geheim-van-een-succesvolle-sprint-review-in-scrum/)
 
@@ -525,8 +529,12 @@ De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin
 
 #### Gebruikerstesten/ Usability testen
 
+Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets bouwen dat werkt, maar vooral over iets maken dat intuïtief en prettig te gebruiken is. Misschien denk je dat jouw micro-interactie perfect is – alles functioneert precies zoals jij het had bedacht – maar hoe ervaart een gebruiker jouw werk? Om dat te ontdekken, gebruik je user testing. Het doel is om te achterhalen hoe een echte gebruiker jouw werk ervaart.
+
+- [Rocket Surgery Made Easy - Steve Krug](https://sensible.com/rocket-surgery-made-easy/)
 - [A designer’s guide to successful user testing](https://uxdesign.cc/a-beginners-guide-to-user-testing-for-usable-products-fa049df82f28)
 - [Measuring design quality with heuristics](https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa5140)
+- [Topic User testing op Normal & Neilsen](https://www.nngroup.com/topic/user-testing/)
 
 ##### Testen in Usability Lab
 
