@@ -43,6 +43,7 @@ main {
 nav.subnav {
   page-break-before: always;
   font-family: Open Sans, sans-serif;
+  counter-reset: chapter;
 }
 nav.subnav::before {
   display: block;
@@ -53,6 +54,18 @@ nav.subnav::before {
 nav.subnav ol {
   padding: 0;
   list-style-position: inside;
+}
+
+ol.toc-level-2,
+ol.toc-level-3,
+ol.toc-level-4,
+ol.toc-level-5,
+ol.toc-level-6 {
+  counter-increment: chapter;
+}
+
+li.toc-item::before {
+  content: counters(chapter, '{') '~';
 }
 
 li.toc-item::marker {
@@ -67,6 +80,9 @@ ol.toc-level-3 {
 a.toc-link-h2,
 a.toc-link-h3 {
   font-weight: bold;
+}
+a.toc-link::after {
+  content: target-counter(attr(href), page);
 }
 
 img {
@@ -110,7 +126,7 @@ a {
 h2 {
   page-break-before: always;
 }
-h1.chapter:before {
+h2.chapter:before {
   counter-increment: chapternum;
   content: counter(chapternum) '. ';
 }
