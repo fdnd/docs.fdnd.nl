@@ -33,6 +33,14 @@ Het routinematige deel wordt dagelijks bijgehouden in de vorm van een *daily-che
 
 De vorm van de etalage is vrij, studenten worden gestimuleerd om door middel van Github pages een eigen vette, creatieve weblog, link dump, of digital garden te maken. (20% regel + link naar artikel?)
 
+### We ❤️ Web
+
+Elke tweede week van de sprints organiseren we We ❤️ Web talks. Sprekers uit het vakgebied vertellen over uiteenlopende onderwerpen ter inspiratie voor studenten.
+
+De We ❤️ Web talks staan op 3 plekken vermeld; in de jaarplanning, in de sprint planning van elke sprint op [programma.fdnd.nl](https://programma.fdnd.nl/) en in de We ❤️ Web repository onder de [fdnd.nl GitHub organisatie](https://github.com/fdnd/weloveweb.fdnd.nl/). De We ❤️ Web repository is de single source of truth!
+
+
+
 ### Werken aan projecten
 Studenten werken vanaf sprint 2 van het eerste jaar doorlopend aan projecten voor echte opdrachtgevers. 
 Projecten kunnen grote, langlopende projecten zijn van meerdere sprints achter elkaar en een doorlooptijd van meerdere semesters en meerdere leerjaren. Elke 2e sprint van een semester start met een sprint planning mét de opdrachtgever bij FDND. 

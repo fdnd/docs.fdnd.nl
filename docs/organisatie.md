@@ -1,5 +1,7 @@
 # Organisatie
 
+Dit document beschrijft organisatieinrichting bij FDND en biedt handvatten aan docenten en management.
+
 ## Structuur
 
 ### Agile organisatie
@@ -15,6 +17,29 @@ Squads zijn een kleinere organisatie-eenheid binnen een tribe en kunnen vergelek
 Chapters zijn groepen docenten en professionals met een bepaald expertise (bijvoorbeeld API nerds/ node.js/ design languages etc.) die met regelmaat bijeen komen om ervaring te delen en ontwikkeling bij te houden.
 
 Guilds zijn groepen docenten én studenten met een gedeeld kenmerk, bijvoorbeeld een guild voor studenten die extra aandacht nodig hebben, een guild voor engels, een guild voor hoogvliegers, een guild die het opleidingsmodel itereert, een guild die leertaken bijwerkt, een toetscommissie, opleidingscommissie et cetera.
+
+### Organigram
+
+#### Schooljaar 2024/25 (LWB)
+
+jaar 1: 2 squads, 1 tribe
+jaar 2: 2 squads, 1 tribe
+
+#### Schooljaar 2023/24 (SAR)
+
+jaar 1: 3 squads, 1 tribe
+jaar 2: 2 squads, 1 tribe
+
+#### Schooljaar 2022/23 (SAR)
+
+jaar 1: 3 squads (80?), 1 tribe
+jaar 2: 1 squad (10), 1 tribe
+
+#### Schooljaar 2021/22 (LWB)
+
+jaar 1: 1 squad (14), 1 tribe
+
+### Sociocratie
 
 ## Rollen
 
@@ -91,7 +116,7 @@ In samenwerking met de HvA Academie is een professionaliseringstraject vormgegev
 
 Bij aanvang van de opleiding in september 2021 zal zo snel mogelijk gestart worden met het formeren van een opleidingscommissie (OC) bestaande uit twee docenten en twee studenten. De rechten en plichten van deze commissie zijn vastgelegd in een HvA breed reglement. In de opstarase van de opleiding is veelvuldig overleg met de OC belangrijk. Daarom overleggen zij naast de eigen vergaderingen eenmaal per zes weken met de tribe leaders en eenmaal per blok met de opleidingsmanager van de bachelor Communicaon and Mulmedia Design over de kwaliteit van de opleiding, de uitkomsten van onderwijsevaluaes en de uitvoering van de Onderwijs- en Examenregeling (OER). De uitkomsten van deze gesprekken worden besproken met het docententeam en zijn sturend voor de onderwijsontwikkeling.
 
-## Werkwijze
+## Vergaderprogramma
 
 ### Standup Meeting
 
@@ -161,9 +186,103 @@ Twee keer, rond de Endterm, staat de HEAL in het teken van een retrospective. He
 
 Een hulpmiddel voor het plannen van activiteiten voor de verschilende fases is [retromat.org](https://retromat.org/).
 
-### We ❤️ Web
+## Kwaliteitsborging
 
-Elke tweede week van de sprints organiseren we We ❤️ Web talks. Sprekers uit het vakgebied vertellen over uiteenlopende onderwerpen ter inspiratie voor studenten.
+De HvA heeft als missie om studenten op te leiden tot professionals die beschikken over de kennis en competenties die nodig zijn om een vooraanstaande rol te spelen in beroepspraktijk en in de samenleving. Onderwijskwaliteit gaat om het realiseren van deze missie en om hoe we er als instelling voor zorgen dat studenten het onderwijs uitdagend vinden en de opleiding ervaren als een goede voorbereiding op hun professionele toekomst.
 
-De We ❤️ Web talks staan op 3 plekken vermeld; in de jaarplanning, in de sprint planning van elke sprint op [programma.fdnd.nl](https://programma.fdnd.nl/) en in de We ❤️ Web repository onder de [fdnd.nl GitHub organisatie](https://github.com/fdnd/weloveweb.fdnd.nl/). De We ❤️ Web repository is de single source of truth!
+Binnen de HvA en de opleiding vinden veel activiteiten plaats om de kwaliteit van onderwijs te evalueren. Deze paragraaf schetst de visie op kwaliteitszorg van FDND. Er wordt ingegaan op kwaliteitscultuur en het systematisch reflecteren op onderwijskwaliteit middels de PDSA-cyclus. Aan de hand van een meetplan wordt inzicht gegeven in de samenhang van de informatie over onderwijskwaliteit binnen de opleiding en de faculteit FDMCI.
+
+Onderwijskwaliteit is van alle studenten en medewerkers. Voor onderzoek en advies naar onderwijskwaliteit heeft het cluster media en design een kwaliteitsmedewerker die docenten en studenten van informatie voorziet. De kwaliteitsmedewerker werkt samen met de kwaliteitsadviseur en -onderzoeker van afdeling O&O binnen FDMCI voor afstemming, gezamenlijk onderzoek en kennisdeling.
+
+### Kwaliteitscultuur
+
+In het kwaliteitsbeleid van de HvA ‘Reflecteren en leren, samenwerken aan kwaliteit’ worden de uitgangspunten van kwaliteitscultuur benoemd. FDND implementeert deze uitgangspunten als volgt:
+
+- FDND vormt een professionele leergemeenschap binnen het frontend vakgebied. Al onze docenten zijn vakbekwaam en leren van elkaar en met elkaar door: 1) samen voor de klas te staan, 2) actief nieuwe kennis en inzichten te delen, 3) naar interesse deel te nemen aan *guilds*, 4) samen training op gebied van didactiek te volgen en 5) samen frontendconferenties te bezoeken. Ook onze studenten leren van elkaar en met elkaar, (be)geleid door onze docenten.
+
+- FDND heeft zeer betrokken studenten die binnen het programma in toenemende mate eigenaar zijn van hun eigen leerproces. Dit is verankerd in een van de funderende principes van de opleiding: [Student aan het roer](/TNO-dossier.html#studenten-aan-het-roer). Studenten zitten de opleidingscommissie voor en organiseren panelsessies voor het kwalitatief interpreteren van (blok)enquête resultaten. Tweedejaars studenten zijn mentor voor eerstejaars, groeien daarmee in hun frontenderschap en dragen hun opgedane kennis over.
+
+- FDND heeft een *Alliance Officer* welke verantwoording draagt voor het *partners in education* programma. De frontend beroepspraktijk staat centraal in de opleiding, dit is verankerd in een van de funderende principes: [Praktijkvraagstukken in een rijke leeromgeving](/TNO-dossier.html#praktijkvraagstukken-in-een-rijke-leeromgeving). Het beroepenveld draagt bij aan de opleiding in de rol van opdrachtgever, co-teacher, gastspreker of code-design reviewer. Opdrachtgevers dragen projecten aan waar onze studenten in leren. Co-teachers staan met onze squad-leaders voor de klas en helpen studenten op expertise bij hun leergang. Gastsprekers verzorgen inspirerende talks - onze [we♥web](https://weloveweb.fdnd.nl) sessies - over hun frontenderschap. Code-design reviewers geven studenten inhoudelijk feedback op hun werk.
+
+- FDND docenten vormen een resultaatverantwoordelijk team, georganiseerd volgens de sociocratie, en vallen organisatorisch direct onder de onderwijsmanager van het cluster Media & Design. Een overzicht staat in [ons organigram](#organigram). Verschillende opleidingsportefeuilles worden in overleg binnen het team verdeeld. Het team voelt zich gezamenlijk verantwoordelijk voor het gehele curriculum en het leerproces van studenten. Onze manier van werken wordt geconcretiseerd in het [vergaderprogramma](#vergaderprogramma).
+
+- FDND werkt iteratief op gebied van onderwijs (operations) en organisatie (governance) in lijn met de PDSA-cyclus. Alle facetten van ons onderwijs en onze organisatie staan beschreven in opleidingsdocumenten, deze hebben een *lifecycle* en worden in overleg en samenwerking met het bedrijfsleven op vier formele momenten geïtereerd tijdens [HEAL-sessies](#higher-education-agile-learning-heal). Opleidingsdocumenten zijn *open source* en kunnen op internet geraadpleegd en becommentarieerd worden door studenten, docenten, beroepenveld en elke andere geïnteresseerde. Itereren op gebied van onderwijs of organisatie betekent een aanpassing van de opleidingsdocumenten.
+
+- FDND is ambitieus, betrokken en betrouwbaar. Docenten geven het beste onderwijs wat ze kunnen geven. De leergemeenschap volgt ontwikkelingen in het frontend vakgebied op de voet. FDND-alumni worden gewaardeerd om hun frontenderschap en kunnen direct meedraaien binnen een professionele organisatie.
+
+### Visie op onderwijskwaliteit
+
+*‌ Beschrijf kort wat de visie is op onderwijskwaliteit. Bijvoorbeeld: wat is de gewenste onderwijskwaliteit? Strategie om de gewenste kwaliteit te bereiken? Zorg dat deze visie in overeenstemming is met de doelstellingen die in meetplan en de OPS staan beschreven.*
+
+### Reflecteren op de kwaliteit van het curriculum
+
+*De opleiding reflecteert systematisch op de kwaliteit van het onderwijsprogramma op curriculumniveau middels de Plan-Do-Study-Act-cyclus. Deze systematiek werkt wanneer vooraf plannen met doelstellingen en ambities zijn geformuleerd (Plan), zodat tijdens en na uitvoering (Do), geëvalueerd wordt of de uitvoering goed is gegaan, gewenste effecten zijn bereikt, eventuele neveneffecten zijn onderzocht (Study) en vervolgens is besproken of de plannen bijstelling behoeven. Ofwel omdat doelen zijn behaald, ofwel omdat het zinvol is maatregelen te continueren of omdat er mogelijk andere maatregelen nodig zijn (Act).* 
+*Voor het borgen van de kwaliteit van het onderwijsprogramma gaat de planvorming uit van*
+-	*Plan: de One Page Strategy van de opleiding. Dit is het jaarplan van de opleiding en loopt per kalenderjaar. Het plan is opgesteld aan de hand van de missie/visie van de opleiding op onderwijs en beroep en vloeit voort uit het HvA beleid en het A3 van de faculteit. Daarnaast gaat de opleiding voor de planvorming en activiteiten voor het onderwijs en de kwaliteitsborging uit van de accreditatiestandaarden van de NVAO. Dit is ook onderdeel van ‘Kwaliteit van de Basis’ dat de HvA hanteert om continu inzicht te hebben en te sturen op kwaliteit. Bij het opstellen van het jaarplan zijn het MT en de opleidingscommissie betrokken.*
+-	*Do. Activiteiten op het gebied van ontwikkelen, coördineren en uitvoeren van onderwijs en onderzoek. Daarbij horen deels ook de taken van de examencommissie (zie daarvoor de borgingsagenda van de Examencommissie).*
+-	*Study: Bij het evalueren van de kwaliteit van het onderwijs op curriculumniveau maakt de opleiding gebruik van een meetplan. Dit meetplan geeft weer hoe de opleiding onderzoekt of de doelstellingen worden behaald. Dit gebeurt zowel kwantitatief als kwalitatief. Gremia die hier onder andere bij zijn betrokken zijn het MT, teams, de opleidingscommissie, examencommissie, onderwijsadviesraad.*
+-	*Act: Elk jaar worden in september/oktober de OPS’en bijgesteld door MT in samenspraak met de opleidingcommissie.*
+*Invoegen: Welke persoon/functie in de opleiding ziet toe op de borging van de PDSA-cyclus? Dat gaat om documenteren van alle informatie op het gebied van plannen en evaluaties (data, gespreksverslagen) en het bijhouden van de actielijst. (wie dit gaat doen afstemmen met opleidingsmanager)*
+
+*Er is een aantal vaste momenten waarop de opleiding verantwoording aflegt over de kwaliteit:*
+-	*Accreditatie NVAO en mid term review (MTR). Eens in de zes jaar vindt externe accreditatie van de opleiding plaats en halverwege dat traject organiseert de HvA een MTR. Hier wordt onderzocht of de opleiding voldoende scoort op de vier accreditatiestandaarden en het panel geeft adviezen mee aan de opleiding over wat er eventueel beter kan.*
+*(invullen: wanneer was de laatste accreditatie/MTR van de opleiding en wanneer vindt de volgende plaats?)*
+-	*Periodiek Management Overleg (PMO): tweemaal per jaar een gesprek van de decaan en directeur bedrijfsvoering FDMCI met het opleidingsmanagement. Hierin wordt de voortgang van de OPS besproken en wordt er onder andere gekeken naar de aandachtspunten die voortkomen uit verschillende informatiebronnen over onderwijskwaliteit. De gesprekken vinden plaats medio mei en oktober.* 
+-	*Kwartaalrapportages: schriftelijke rapportage via de faculteit richting het College van Bestuur over. Hierin wordt onder andere gerapporteerd op de voortgang van de kpi’s uit Kwaliteit van de Basis en de Studievoorschotmiddelen.*
+
+### Meetplan
+
+Om de doelstellingen uit de OPS en de basiskwaliteit (‘Kwaliteit van de Basis’) te evalueren heeft de opleiding een meetplan opgesteld. In dit meetplan wordt concreet gemaakt wat er waarom geëvalueerd wordt, en bij wie en op welke wijze er informatie wordt verzameld. Met dit meetplan wordt de samenhang tussen alle activiteiten op het gebied van kwaliteitsborging duidelijk en wordt de relatie tussen het plan en de evaluatie (study) in beeld gebracht.
+Bij het evalueren van de kwaliteit van het onderwijsprogramma wordt gebruikt gemaakt van HvA-brede en landelijke instrumenten, zoals de resultaten van de Nationale Studenten Enquete (NSE), HBO monitor, 100Dagen Monitor, Medewerkers Monitor O&O en jaarcijfers van studierendementen uit HvA data. De kwaliteitsonderzoeker van de faculteit verzorgt de data-analyse hiervan en werkt samen met het kwaliteitsteam van de opleiding voor duiding. Waar nodig zet de opleiding eigen instrumenten in om de kwaliteit van het onderwijsprogramma inzichtelijk te maken en verbeteracties te kunnen formuleren.
+
+Invoegen meetplan (samenwerking OMT/kwaliteitsteam)
+
+### Onderwijsevaluaties van de opleiding
+
+Binnen de kaders die de opleiding stelt, zijn teams eigenaar van de kwaliteit (op welk niveau? Jaar/Themasemester/Stone/Module?). Om de teams te ondersteunen bij het inzichtelijk maken van de kwaliteit om het goede gesprek te kunnen voeren, zet de opleiding vragenlijsten uit onder studenten en docenten, voeren de kwaliteitsmedewerkers gesprekken met klassenvertegenwoordigers / panelgesprekken, stelt de kwaliteitsmedewerker studievoortgangsrapportages op…. etc. 
+
+*Omschrijf hier hoe de PDSA-cyclus van de onderwijseenheden eruit ziet. Welke doelstellingen kwaliteitscriteria worden gehanteerd (door wie - modulecoordinator bijvoorbeeld?), hoe wordt dat geëvalueerd (door wie? Kwaliteitsmedewerker, docententeam, studenten?), wie zijn betrokken bij bijstellen acties.* 
+
+#### Vragenlijsten (module-evaluaties en HvA brede evaluaties)
+
+##### Module evalaties
+-	Opzetten vragenlijsten. Wie is daarbij betrokken? Wat wordt waarom bevraagd? (als dit laatste al uit het meetplan blijkt, hoeft dit niet nog eens vermeld te worden)
+-	Uitzetten vragenlijsten. Wie zet de vragenlijsten uit en wanneer?
+-	Rapportages en analyses. Wie maakt de rapportages en waarmee wordt rekening gehouden?
+a.	Validiteit, representativiteit, respons
+-	Met wie gedeeld en met welk doel? Met wie, eventueel in welke volgorde, worden de resultaten gedeeld. Wordt alles gedeeld (gesloten, open vragen)? 
+Rapportages en analyses. Hoe worden rapportages en analyses gedeeld? En met wie? 
+Duiding. Waar worden de resultaten besproken en hoe worden ze geduid? 
+
+##### Panelgesprekken / klassenvertegenwoordigersoverleggen
+-	Opstellen bespreekpunten. Wie bepaalt de agenda, worden er ook onderdelen van het meetplan in deze gesprekken meegenomen? 
+-	Organiseren gesprekken. Wie organiseert de gesprekken? Wie werft deelnemers? Hoe vaak vinden de gesprekken plaats? In alle studiejaren / semesters?
+-	Verslaglegging. Wie zorgt voor verslaglegging en op welke termijn. 
+o	(anonimiteit bijvoorbeeld?). Worden er namen van deelnemers genoemd of niet.
+-	Verspreiding: met wie gedeeld en met welk doel
+o	Met wie worden de verslagen gedeeld en op welke termijn?
+
+##### Studievoortgang
+-	Welke data gerapporteerd: bron HvA data / SIS
+-	Wie maakt de rapportages en met wie worden ze gedeeld? Hoe vaak, wanneer?
+
+##### AVG
+Omschrijf hier hoe de AVG wordt toegepast op de onderzoeken van de opleiding ter verbetering van onderwijskwaliteit.
+Bij het doen van onderzoek moet rekening worden gehouden met de AVG. Binnen de AVG is het essentieel om het doel van de dataverwerking te omschrijven. In dit geval gaat het om het verzamelen van kwantitatieve en kwalitatieve data ten behoeve van het verbeteren van het onderwijs en specifiek het verbeteren van onderwijsmodules. Dit is een gerechtvaardigd belang. Bij gerechtvaardigd belang is het vragen van toestemming niet verplicht. Doelbinding betekent dat de opgehaalde informatie ook alleen voor dat doel worden gebruikt.
+Indien de opleiding de data ook wil gebruiken in jaar- en beoordelingsgesprekken van medewerkers dan gaat het om een ander doel, namelijk inzage bieden in het functioneren van medewerkers. Omschrijf voor dit proces dan ook hoe dat eruit ziet, zodat dit voor medewerkers inzichtelijk is. (dit is onderdeel van een HR-proces. Advies om HR mee te laten denken indien de opleiding evaluaties hiervoor in wil zetten. Denk aan representativiteit van uitkomsten, met wie informatie wordt gedeeld etc.)
+Binnen de AVG moet je duidelijk omschrijven hoe je met persoonsgegevens omgaat. Hierbij is minimaliseren belangrijk, dus vraag alleen uit wat echt noodzakelijk is aan persoonsgegevens en bewaar het niet langer dan noodzakelijk.
+-	Welke gegevens van student/docent worden verwerkt en met welk doel worden ze ingezet
+-	Hoe lang worden de gegevens bewaard en wie kunnen ze inzien?
+-	Welke rechten heb je als student/docent? (bijv. recht om in te zien, recht om te wijzigen, recht om vergeten te worden, recht om gegevens over te dragen, recht op informatie).
+
+##### Communicatie en betrokkenheid
+-	Wie worden betrokken bij planvorming en hoe worden plannen gecommuniceerd?
+-	Hoe worden resultaten gedeeld? (denk aan nieuwsbericht, kwaliteitspagina, etc.) Met wie en door wie? 
+-	Wie worden betrokken bij verbeteracties en hoe worden die gecommuniceerd?
+Denk hierbij aan de opleidingscommissie, docententeam, studenten (as partner), afdeling O&O FDMCI.
+
+##### Planning
+Indien dit nog niet concreet blijkt uit eerdere hoofdstukken / het meetplan, dan hier nog een concrete planning invoegen.
+
+
 
