@@ -190,7 +190,7 @@ Een hulpmiddel voor het plannen van activiteiten voor de verschilende fases is [
 
 De HvA heeft als missie om studenten op te leiden tot professionals die beschikken over de kennis en competenties die nodig zijn om een vooraanstaande rol te spelen in beroepspraktijk en in de samenleving. Onderwijskwaliteit gaat om het realiseren van deze missie en om hoe we er als instelling voor zorgen dat studenten het onderwijs uitdagend vinden en de opleiding ervaren als een goede voorbereiding op hun professionele toekomst.
 
-Binnen de HvA en de opleiding vinden veel activiteiten plaats om de kwaliteit van onderwijs te evalueren. Deze paragraaf schetst de visie op kwaliteitszorg van FDND. Er wordt ingegaan op kwaliteitscultuur en het systematisch reflecteren op onderwijskwaliteit middels de PDSA-cyclus. Aan de hand van een meetplan wordt inzicht gegeven in de samenhang van de informatie over onderwijskwaliteit binnen de opleiding en de faculteit FDMCI.
+Binnen de HvA en de opleiding vinden veel activiteiten plaats om de kwaliteit van onderwijs te evalueren. Deze paragraaf schetst de visie op kwaliteitszorg van FDND. Er wordt ingegaan op kwaliteitscultuur en het systematisch reflecteren op onderwijskwaliteit middels de PDSA-cyclus.
 
 Onderwijskwaliteit is van alle studenten en medewerkers. Voor onderzoek en advies naar onderwijskwaliteit heeft het cluster media en design een kwaliteitsmedewerker die docenten en studenten van informatie voorziet. De kwaliteitsmedewerker werkt samen met de kwaliteitsadviseur en -onderzoeker van afdeling O&O binnen FDMCI voor afstemming, gezamenlijk onderzoek en kennisdeling.
 
@@ -212,34 +212,37 @@ In het kwaliteitsbeleid van de HvA ‘Reflecteren en leren, samenwerken aan kwal
 
 ### Visie op onderwijskwaliteit
 
-*‌ Beschrijf kort wat de visie is op onderwijskwaliteit. Bijvoorbeeld: wat is de gewenste onderwijskwaliteit? Strategie om de gewenste kwaliteit te bereiken? Zorg dat deze visie in overeenstemming is met de doelstellingen die in meetplan en de OPS staan beschreven.*
+*‌ Beschrijf kort wat de visie is op onderwijskwaliteit. Bijvoorbeeld: wat is de gewenste onderwijskwaliteit? Strategie om de gewenste kwaliteit te bereiken? Zorg dat deze visie in overeenstemming is met de doelstellingen die in de OPS staan beschreven.*
+
+- iteratieve manier van werken
+- openheid over resultaten mits AVG proof (dus kwanitatief)
 
 ### Reflecteren op de kwaliteit van het curriculum
 
-*De opleiding reflecteert systematisch op de kwaliteit van het onderwijsprogramma op curriculumniveau middels de Plan-Do-Study-Act-cyclus. Deze systematiek werkt wanneer vooraf plannen met doelstellingen en ambities zijn geformuleerd (Plan), zodat tijdens en na uitvoering (Do), geëvalueerd wordt of de uitvoering goed is gegaan, gewenste effecten zijn bereikt, eventuele neveneffecten zijn onderzocht (Study) en vervolgens is besproken of de plannen bijstelling behoeven. Ofwel omdat doelen zijn behaald, ofwel omdat het zinvol is maatregelen te continueren of omdat er mogelijk andere maatregelen nodig zijn (Act).* 
-*Voor het borgen van de kwaliteit van het onderwijsprogramma gaat de planvorming uit van*
+De opleiding reflecteert systematisch op de kwaliteit van het onderwijsprogramma op curriculumniveau middels de Plan-Do-Study-Act-cyclus. Deze systematiek werkt wanneer vooraf plannen met doelstellingen en ambities zijn geformuleerd (Plan), zodat tijdens en na uitvoering (Do), geëvalueerd wordt of de uitvoering goed is gegaan, gewenste effecten zijn bereikt, eventuele neveneffecten zijn onderzocht (Study) en vervolgens is besproken of de plannen bijstelling behoeven. Ofwel omdat doelen zijn behaald, ofwel omdat het zinvol is maatregelen te continueren of omdat er mogelijk andere maatregelen nodig zijn (Act).
+
+Voor het borgen van de kwaliteit van het onderwijsprogramma gaat de planvorming uit van:
 -	*Plan: de One Page Strategy van de opleiding. Dit is het jaarplan van de opleiding en loopt per kalenderjaar. Het plan is opgesteld aan de hand van de missie/visie van de opleiding op onderwijs en beroep en vloeit voort uit het HvA beleid en het A3 van de faculteit. Daarnaast gaat de opleiding voor de planvorming en activiteiten voor het onderwijs en de kwaliteitsborging uit van de accreditatiestandaarden van de NVAO. Dit is ook onderdeel van ‘Kwaliteit van de Basis’ dat de HvA hanteert om continu inzicht te hebben en te sturen op kwaliteit. Bij het opstellen van het jaarplan zijn het MT en de opleidingscommissie betrokken.*
 -	*Do. Activiteiten op het gebied van ontwikkelen, coördineren en uitvoeren van onderwijs en onderzoek. Daarbij horen deels ook de taken van de examencommissie (zie daarvoor de borgingsagenda van de Examencommissie).*
 -	*Study: Bij het evalueren van de kwaliteit van het onderwijs op curriculumniveau maakt de opleiding gebruik van een meetplan. Dit meetplan geeft weer hoe de opleiding onderzoekt of de doelstellingen worden behaald. Dit gebeurt zowel kwantitatief als kwalitatief. Gremia die hier onder andere bij zijn betrokken zijn het MT, teams, de opleidingscommissie, examencommissie, onderwijsadviesraad.*
 -	*Act: Elk jaar worden in september/oktober de OPS’en bijgesteld door MT in samenspraak met de opleidingcommissie.*
-*Invoegen: Welke persoon/functie in de opleiding ziet toe op de borging van de PDSA-cyclus? Dat gaat om documenteren van alle informatie op het gebied van plannen en evaluaties (data, gespreksverslagen) en het bijhouden van de actielijst. (wie dit gaat doen afstemmen met opleidingsmanager)*
 
-*Er is een aantal vaste momenten waarop de opleiding verantwoording aflegt over de kwaliteit:*
--	*Accreditatie NVAO en mid term review (MTR). Eens in de zes jaar vindt externe accreditatie van de opleiding plaats en halverwege dat traject organiseert de HvA een MTR. Hier wordt onderzocht of de opleiding voldoende scoort op de vier accreditatiestandaarden en het panel geeft adviezen mee aan de opleiding over wat er eventueel beter kan.*
-*(invullen: wanneer was de laatste accreditatie/MTR van de opleiding en wanneer vindt de volgende plaats?)*
--	*Periodiek Management Overleg (PMO): tweemaal per jaar een gesprek van de decaan en directeur bedrijfsvoering FDMCI met het opleidingsmanagement. Hierin wordt de voortgang van de OPS besproken en wordt er onder andere gekeken naar de aandachtspunten die voortkomen uit verschillende informatiebronnen over onderwijskwaliteit. De gesprekken vinden plaats medio mei en oktober.* 
--	*Kwartaalrapportages: schriftelijke rapportage via de faculteit richting het College van Bestuur over. Hierin wordt onder andere gerapporteerd op de voortgang van de kpi’s uit Kwaliteit van de Basis en de Studievoorschotmiddelen.*
+*Invoegen: Welke persoon/functie in de opleiding ziet toe op de borging van de PDSA-cyclus? Dat gaat om documenteren van alle informatie op het gebied van plannen en evaluaties (data, gespreksverslagen) en het bijhouden van de actielijst. (wie dit gaat doen afstemmen met opleidingsmanager)* Ligt in de teams met eindverantwoording bij de Tribe-leaders.
 
-### Meetplan
-
-Om de doelstellingen uit de OPS en de basiskwaliteit (‘Kwaliteit van de Basis’) te evalueren heeft de opleiding een meetplan opgesteld. In dit meetplan wordt concreet gemaakt wat er waarom geëvalueerd wordt, en bij wie en op welke wijze er informatie wordt verzameld. Met dit meetplan wordt de samenhang tussen alle activiteiten op het gebied van kwaliteitsborging duidelijk en wordt de relatie tussen het plan en de evaluatie (study) in beeld gebracht.
-Bij het evalueren van de kwaliteit van het onderwijsprogramma wordt gebruikt gemaakt van HvA-brede en landelijke instrumenten, zoals de resultaten van de Nationale Studenten Enquete (NSE), HBO monitor, 100Dagen Monitor, Medewerkers Monitor O&O en jaarcijfers van studierendementen uit HvA data. De kwaliteitsonderzoeker van de faculteit verzorgt de data-analyse hiervan en werkt samen met het kwaliteitsteam van de opleiding voor duiding. Waar nodig zet de opleiding eigen instrumenten in om de kwaliteit van het onderwijsprogramma inzichtelijk te maken en verbeteracties te kunnen formuleren.
-
-Invoegen meetplan (samenwerking OMT/kwaliteitsteam)
+Er is een aantal vaste momenten waarop de opleiding verantwoording aflegt over kwaliteit:
+-	Accreditatie NVAO en midterm review (MTR). Eens in de zes jaar vindt externe accreditatie van de opleiding plaats en halverwege dat traject organiseert de HvA een MTR. Hier wordt onderzocht of de opleiding voldoende scoort op de vier accreditatiestandaarden en het panel geeft adviezen mee aan de opleiding over wat er eventueel beter kan. De toets nieuwe opleiding (TNO) is uitgevoerd op [datum] en de MTR was 21 november 2024. De eerstvolgende accreditatie vindt voorjaar 2027 plaats.
+-	Periodiek Management Overleg (PMO): tweemaal per jaar een gesprek van de decaan en directeur bedrijfsvoering FDMCI met het opleidingsmanagement. Hierin wordt de voortgang van de OPS besproken en wordt er onder andere gekeken naar de aandachtspunten die voortkomen uit verschillende informatiebronnen over onderwijskwaliteit. De gesprekken vinden plaats medio mei en oktober.
+-	Kwartaalrapportages: schriftelijke rapportage via de faculteit richting het College van Bestuur over. Hierin wordt onder andere gerapporteerd op de voortgang van de KPI’s uit Kwaliteit van de Basis.
 
 ### Onderwijsevaluaties van de opleiding
 
-Binnen de kaders die de opleiding stelt, zijn teams eigenaar van de kwaliteit (op welk niveau? Jaar/Themasemester/Stone/Module?). Om de teams te ondersteunen bij het inzichtelijk maken van de kwaliteit om het goede gesprek te kunnen voeren, zet de opleiding vragenlijsten uit onder studenten en docenten, voeren de kwaliteitsmedewerkers gesprekken met klassenvertegenwoordigers / panelgesprekken, stelt de kwaliteitsmedewerker studievoortgangsrapportages op…. etc. 
+- 100 dagen monitor
+- Nationele Studenten Enquete
+- blokenquetes, gestandaardiseerde gemeenschappelijke vragenlijst, procedure beschrijven, met wie wordt de rapportage gedeeld
+- panelgesprekken door de OC obv. blokenquetes om kwalitatief te duiden wat kwanitatief in de blokenquete geconstateerd is
+- *nieuw* oc levert resultaten als input bij de retrospect
+
+*Binnen de kaders die de opleiding stelt, zijn teams eigenaar van de kwaliteit (op welk niveau? Jaar/Themasemester/Stone/Module?). Om de teams te ondersteunen bij het inzichtelijk maken van de kwaliteit om het goede gesprek te kunnen voeren, zet de opleiding vragenlijsten uit onder studenten en docenten, voeren de kwaliteitsmedewerkers gesprekken met klassenvertegenwoordigers / panelgesprekken, stelt de kwaliteitsmedewerker studievoortgangsrapportages op…. etc.* 
 
 *Omschrijf hier hoe de PDSA-cyclus van de onderwijseenheden eruit ziet. Welke doelstellingen kwaliteitscriteria worden gehanteerd (door wie - modulecoordinator bijvoorbeeld?), hoe wordt dat geëvalueerd (door wie? Kwaliteitsmedewerker, docententeam, studenten?), wie zijn betrokken bij bijstellen acties.* 
 
@@ -262,27 +265,11 @@ o	(anonimiteit bijvoorbeeld?). Worden er namen van deelnemers genoemd of niet.
 -	Verspreiding: met wie gedeeld en met welk doel
 o	Met wie worden de verslagen gedeeld en op welke termijn?
 
-##### Studievoortgang
--	Welke data gerapporteerd: bron HvA data / SIS
--	Wie maakt de rapportages en met wie worden ze gedeeld? Hoe vaak, wanneer?
-
-##### AVG
-Omschrijf hier hoe de AVG wordt toegepast op de onderzoeken van de opleiding ter verbetering van onderwijskwaliteit.
-Bij het doen van onderzoek moet rekening worden gehouden met de AVG. Binnen de AVG is het essentieel om het doel van de dataverwerking te omschrijven. In dit geval gaat het om het verzamelen van kwantitatieve en kwalitatieve data ten behoeve van het verbeteren van het onderwijs en specifiek het verbeteren van onderwijsmodules. Dit is een gerechtvaardigd belang. Bij gerechtvaardigd belang is het vragen van toestemming niet verplicht. Doelbinding betekent dat de opgehaalde informatie ook alleen voor dat doel worden gebruikt.
-Indien de opleiding de data ook wil gebruiken in jaar- en beoordelingsgesprekken van medewerkers dan gaat het om een ander doel, namelijk inzage bieden in het functioneren van medewerkers. Omschrijf voor dit proces dan ook hoe dat eruit ziet, zodat dit voor medewerkers inzichtelijk is. (dit is onderdeel van een HR-proces. Advies om HR mee te laten denken indien de opleiding evaluaties hiervoor in wil zetten. Denk aan representativiteit van uitkomsten, met wie informatie wordt gedeeld etc.)
-Binnen de AVG moet je duidelijk omschrijven hoe je met persoonsgegevens omgaat. Hierbij is minimaliseren belangrijk, dus vraag alleen uit wat echt noodzakelijk is aan persoonsgegevens en bewaar het niet langer dan noodzakelijk.
--	Welke gegevens van student/docent worden verwerkt en met welk doel worden ze ingezet
--	Hoe lang worden de gegevens bewaard en wie kunnen ze inzien?
--	Welke rechten heb je als student/docent? (bijv. recht om in te zien, recht om te wijzigen, recht om vergeten te worden, recht om gegevens over te dragen, recht op informatie).
-
 ##### Communicatie en betrokkenheid
 -	Wie worden betrokken bij planvorming en hoe worden plannen gecommuniceerd?
 -	Hoe worden resultaten gedeeld? (denk aan nieuwsbericht, kwaliteitspagina, etc.) Met wie en door wie? 
 -	Wie worden betrokken bij verbeteracties en hoe worden die gecommuniceerd?
 Denk hierbij aan de opleidingscommissie, docententeam, studenten (as partner), afdeling O&O FDMCI.
-
-##### Planning
-Indien dit nog niet concreet blijkt uit eerdere hoofdstukken / het meetplan, dan hier nog een concrete planning invoegen.
 
 
 
