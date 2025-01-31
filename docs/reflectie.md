@@ -343,7 +343,7 @@ De examencommissie borgt de kwaliteit van de organisatie en de procedures rondom
 
 #### Borging eindniveau 
 
-Bij de borging van het eindniveau werkt de examencommissie samen met de toetscommissie. Jaarlijks worden uit de eindwerken per opleiding twee tot drie werken geselecteerd waarvan de inhoud en de beoordeling door zowel de examencommissie as de toetscommissie wordt bekeken aan de hand van vooraf opgestelde aandachtspunten (zie evaluatie eindwerken 2023-2024). Verder is de hoofdassessor altijd bevoegd examinator, wordt het vier-ogen principe gehanteerd en is de beoordelaar niet de begeleider.
+Bij de borging van het eindniveau werkt de examencommissie samen met de toetscommissie. Jaarlijks worden uit de eindwerken per opleiding twee tot drie werken geselecteerd waarvan de inhoud en de beoordeling door zowel de examencommissie as de toetscommissie wordt bekeken aan de hand van vooraf opgestelde aandachtspunten (zie evaluatie eindwerken 2023-2024). Verder is de hoofdassessor altijd bevoegd examinator en wordt het vier-ogen principe gehanteerd.
 
 ### Steekproef eindwerken okt 2024
 
