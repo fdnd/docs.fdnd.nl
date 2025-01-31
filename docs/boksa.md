@@ -2,7 +2,7 @@
 
 Dit document beschrijft de gerichtheid en het corpus van de opleiding Frontend Design & Development. In hoger onderwijs wordt dit de body of knowledge skills and attitude (BOKSA) genoemd.
 
-Allereerst wordt beschreven wat wij verstaan onder de term ‘frontender’ omdat dit verhelderd waar wij voor opleiden. Daarna wordt aan de hand van de development lifecycle (DLC) gepoogd de BOKSA zo volledig mogelijk in kaart te brengen. Vanzelfsprekend en geheel in lijn met de aard van het vakgebied, is dit een levend document wat doorlopend aan verandering onderhevig is.
+Allereerst wordt beschreven wat wij verstaan onder de term ‘frontender’ omdat dit verheldert waar wij voor opleiden. Daarna wordt aan de hand van de development lifecycle (DLC) gepoogd de BOKSA zo volledig mogelijk in kaart te brengen. Vanzelfsprekend en geheel in lijn met de aard van het vakgebied, is dit een levend document wat doorlopend aan verandering onderhevig is.
 
 ## De Frontender
 
