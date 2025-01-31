@@ -217,59 +217,39 @@ FDND verzorgt hoogwaardig actueel frontend-onderwijs. Dit wordt gewaarborgd door
 
 FDND hanteert een iteratieve werkwijze met vaste evaluatiemomenten in de vorm van retrospects. Tijdens deze bijeenkomsten worden inzichten uit verschillende kanalen samengebracht en verkend, en worden beslissingen op gebied van organisatie (governance) en onderwijs (operations) genomen.
 
-### Reflecteren op de kwaliteit van het curriculum
+### Reflectiecyclus
 
-De opleiding reflecteert systematisch op de kwaliteit van het onderwijsprogramma op curriculumniveau middels de Plan-Do-Study-Act-cyclus. Deze systematiek werkt wanneer vooraf plannen met doelstellingen en ambities zijn geformuleerd (Plan), zodat tijdens en na uitvoering (Do), geëvalueerd wordt of de uitvoering goed is gegaan, gewenste effecten zijn bereikt, eventuele neveneffecten zijn onderzocht (Study) en vervolgens is besproken of de plannen bijstelling behoeven. Ofwel omdat doelen zijn behaald, ofwel omdat het zinvol is maatregelen te continueren of omdat er mogelijk andere maatregelen nodig zijn (Act).
+De opleiding reflecteert systematisch op de kwaliteit van het onderwijsprogramma op curriculumniveau middels de Plan-Do-Study-Act-cyclus (PDSA). Wij formuleren plannen met doelen en ambities (Plan), verzamelen feedback tijdens en na uitvoering (Do), onderzoeken tijdens retrospects hoe de uitvoering is verlopen (Study) en formuleren acties voor verbetering (Act).
 
 Voor het borgen van de kwaliteit van het onderwijsprogramma gaat de planvorming uit van:
--	**Plan**: de *One Page Strategy* (OPS) vormt het jaarplan van de opleiding en loopt per kalenderjaar. De OPS wordt opgesteld aan de hand van de visie van de opleiding op onderwijs en beroep en vloeit voort uit HvA beleid en het A3 van de faculteit. Daarnaast gaat de opleiding voor de planvorming en activiteiten voor onderwijs en kwaliteitsborging uit van de accreditatiestandaarden van de NVAO. Dit is onderdeel van ‘Kwaliteit van de Basis’ dat de HvA hanteert om doorlopend inzicht te hebben en te sturen op kwaliteit. Bij het opstellen van het jaarplan zijn de opleidingsmanager, het docententeam en de opleidingscommissie betrokken.
--	**Do**: Activiteiten op het gebied van ontwikkelen, coördineren en uitvoeren van onderwijs en onderzoek. Hierbij horen deels ook de taken van de examencommissie (zie de borgingsagenda van de Examencommissie).
+-	**Plan**: de opleiding formuleert op basis van HvA beleid en de A3 van de faculteit elk kalenderjaar een *One Page Strategy* (OPS). Bij het opstellen zijn opleidingsmanager, (afvaardiging van) het docententeam en de opleidingscommissie betrokken. Daarnaast hanteren wij voor kwaliteitsborging de accreditatiestandaarden van de NVAO. Deze werkwijze is onderdeel van de richtlijn ‘Kwaliteit van de Basis’ welke de HvA hanteert om doorlopend inzicht te hebben en te sturen op kwaliteit.
+-	**Do**: Activiteiten op het gebied van ontwikkelen, coördineren en uitvoeren van onderwijs zoals beschreven bij [onderwijs](/onderwijs.html) waar de [HEAL-sessies](/organisatie.html#higher-education-agile-learning-heal) onderdeel van zijn. Hierbij horen deels ook de taken van de examencommissie (zie de borgingsagenda van de Examencommissie).
 -	**Study**: Bij het evalueren van de kwaliteit van het onderwijs op curriculumniveau maakt de opleiding gebruik van verschillende kwantitatieve en kwalitatieve instrumenten.  Hier zijn onder andere bij betrokken opleidingsmanager, docententeam, opleidingscommissie, examencommissie en onderwijsadviesraad.
--	**Act**: Elk jaar wordt in september/oktober *One Page Strategy* bijgesteld door het docententeam in samenspraak met de opleidingcommissie.
+-	**Act**: Elk jaar wordt medio oktober de *One Page Strategy* bijgesteld door het docententeam in samenspraak met de opleidingcommissie.
 
 Docenten in de rol van [tribe-leader](/organisatie.html#tribe-leader-02-fte) zien toe op de borging van de PDSA-cyclus. Zij documenteren informatie op gebied van plannen en evaluaties en houden een actielijst bij in het planboard op MS-Teams.
 
-Er is een aantal vaste momenten waarop de opleiding verantwoording aflegt over kwaliteit:
+Er is een aantal vaste momenten waarop de opleiding direct of indirect verantwoording aflegt over kwaliteit:
 -	Accreditatie NVAO en midterm review (MTR). Eens in de zes jaar vindt externe accreditatie van de opleiding plaats en ongeveer halverwege dat traject organiseert de HvA een MTR. Hier wordt onderzocht of de opleiding voldoende scoort op de vier accreditatiestandaarden en het panel geeft adviezen mee aan de opleiding over wat er beter kan. De toets nieuwe opleiding (TNO) is uitgevoerd op 15 april 2021 en de MTR was 21 november 2024. De eerstvolgende accreditatie vindt voorjaar 2026 plaats.
 -	Periodiek Management Overleg (PMO): tweemaal per jaar vindt een gesprek plaats met de decaan, directeur bedrijfsvoering van de faculteit en opleidingsmanagement. Hierin wordt de voortgang van de OPS besproken en wordt onder andere gekeken naar aandachtspunten die voortkomen uit verschillende informatiebronnen over onderwijskwaliteit. Deze gesprekken vinden plaats medio mei en oktober.
 -	Kwartaalrapportages: Periodieke schriftelijke rapportage vanuit de faculteit richting het College van Bestuur waarin gerapporteerd wordt op de voortgang van KPI’s uit ‘Kwaliteit van de Basis’.
 
-### Onderwijsevaluaties van de opleiding
+### Onderwijsevaluatie
 
-- 100 dagen monitor
-- Nationele Studenten Enquete
-- blokenquetes, gestandaardiseerde gemeenschappelijke vragenlijst, procedure beschrijven, met wie wordt de rapportage gedeeld
-- panelgesprekken door de OC obv. blokenquetes om kwalitatief te duiden wat kwanitatief in de blokenquete geconstateerd is
-- *nieuw* oc levert resultaten als input bij de retrospect
+FDND zet een aantal kwantitatieve en kwalitatieve meetinstrumenten in om haar onderwijs te evalueren en [HEAL-sessies](/organisatie.html#higher-education-agile-learning-heal) te informeren. Per instrument wordt beschreven welke doelstellingen en kwaliteitscriteria worden gehanteerd en hoe wordt dat geëvalueerd.
 
-*Binnen de kaders die de opleiding stelt, zijn teams eigenaar van de kwaliteit (op welk niveau? Jaar/Themasemester/Stone/Module?). Om de teams te ondersteunen bij het inzichtelijk maken van de kwaliteit om het goede gesprek te kunnen voeren, zet de opleiding vragenlijsten uit onder studenten en docenten, voeren de kwaliteitsmedewerkers gesprekken met klassenvertegenwoordigers / panelgesprekken, stelt de kwaliteitsmedewerker studievoortgangsrapportages op…. etc.* 
+#### Blokenquête
 
-*Omschrijf hier hoe de PDSA-cyclus van de onderwijseenheden eruit ziet. Welke doelstellingen kwaliteitscriteria worden gehanteerd (door wie - modulecoordinator bijvoorbeeld?), hoe wordt dat geëvalueerd (door wie? Kwaliteitsmedewerker, docententeam, studenten?), wie zijn betrokken bij bijstellen acties.* 
+De blokenquête wordt door de kwaliteitsmedewerker van het cluster Media Design opgesteld. Dit gebeurt in navolging van de bij FDMCI ontwikkelde standaard vragenlijst met oog op vergelijkbaarheid met andere opleidingen. De tribe-leaders dragen eindverantwoordelijkheid voor het tijdens een lesmoment uitzetten van de blokenquête rond het eind van ieder blok. De kwaliteitsmedewerker publiceert de resultaten in de map `Organisatie FDND > Metingen` op het MS Teams kanaal van de docenten zodat die voor docenten inzichtelijk zijn. De resultaten worden besproken tijdens [panelgesprekken](#panelgesprekken) en informeren de [HEAL-sessies](/organisatie.html#higher-education-agile-learning-heal).
 
-#### Vragenlijsten (module-evaluaties en HvA brede evaluaties)
+#### Panelgesprekken
 
-##### Module evalaties
--	Opzetten vragenlijsten. Wie is daarbij betrokken? Wat wordt waarom bevraagd? (als dit laatste al uit het meetplan blijkt, hoeft dit niet nog eens vermeld te worden)
--	Uitzetten vragenlijsten. Wie zet de vragenlijsten uit en wanneer?
--	Rapportages en analyses. Wie maakt de rapportages en waarmee wordt rekening gehouden?
-a.	Validiteit, representativiteit, respons
--	Met wie gedeeld en met welk doel? Met wie, eventueel in welke volgorde, worden de resultaten gedeeld. Wordt alles gedeeld (gesloten, open vragen)? 
-Rapportages en analyses. Hoe worden rapportages en analyses gedeeld? En met wie? 
-Duiding. Waar worden de resultaten besproken en hoe worden ze geduid? 
+Twee keer per jaar worden rond het eind van een semester panelgesprekken georganiseerd. Deze gesprekken worden door de kwaliteitsmedewerker en de opleidingscommissie panelgesprekken voorbereid en hebben als doel kwalitatief te duiden wat kwantitatief in meetinstrumenten geconstateerd is. Ter voorbereiding stelt de kwaliteitsmedewerker een lijst met opvallende resultaten op en nodigt de opleidingscommissie een representatieve groep studenten uit beide jaargangen uit. Verslaglegging wordt door de kwaliteitsmedewerker geanonimiseerd gedeeld in de map `Organisatie FDND > Metingen` op het MS Teams kanaal van de docenten, en door de opleidingscommissie ter informering meegebracht naar de eerstvolgende [HEAL-sessie](/organisatie.html#higher-education-agile-learning-heal).
 
-##### Panelgesprekken / klassenvertegenwoordigersoverleggen
--	Opstellen bespreekpunten. Wie bepaalt de agenda, worden er ook onderdelen van het meetplan in deze gesprekken meegenomen? 
--	Organiseren gesprekken. Wie organiseert de gesprekken? Wie werft deelnemers? Hoe vaak vinden de gesprekken plaats? In alle studiejaren / semesters?
--	Verslaglegging. Wie zorgt voor verslaglegging en op welke termijn. 
-o	(anonimiteit bijvoorbeeld?). Worden er namen van deelnemers genoemd of niet.
--	Verspreiding: met wie gedeeld en met welk doel
-o	Met wie worden de verslagen gedeeld en op welke termijn?
+#### 100 dagen monitor
 
-##### Communicatie en betrokkenheid
--	Wie worden betrokken bij planvorming en hoe worden plannen gecommuniceerd?
--	Hoe worden resultaten gedeeld? (denk aan nieuwsbericht, kwaliteitspagina, etc.) Met wie en door wie? 
--	Wie worden betrokken bij verbeteracties en hoe worden die gecommuniceerd?
-Denk hierbij aan de opleidingscommissie, docententeam, studenten (as partner), afdeling O&O FDMCI.
+De 100 dagen monitor is een door de HvA onder alle 1e jaars uitgezet meetinstrument. De tribe-leader jaar 1 draagt eindverantwoordelijkheid voor het tijdens een lesmoment onder de aandacht brengen van dit instrument. De kwaliteitsmedewerker publiceert de resultaten in de map `Organisatie FDND > Metingen` op het MS Teams kanaal van de docenten zodat die voor docenten inzichtelijk zijn. De resultaten worden besproken tijdens [panelgesprekken](#panelgesprekken) en informeren de [HEAL-sessies](/organisatie.html#higher-education-agile-learning-heal).
 
+#### Nationale Studenten Enquête (NSE)
 
-
+De NSE is een landelijk uitgezet meetinstrument. De tribe-leaders dragen eindverantwoordelijkheid voor het tijdens een lesmoment uitzetten van de NSE binnen de eerste week na publicatie. De kwaliteitsmedewerker publiceert de resultaten in de map `Organisatie FDND > Metingen` op het MS Teams kanaal van de docenten zodat die voor docenten inzichtelijk zijn. De resultaten worden besproken tijdens [panelgesprekken](#panelgesprekken) en informeren de [HEAL-sessies](/organisatie.html#higher-education-agile-learning-heal).
