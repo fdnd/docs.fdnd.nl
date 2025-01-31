@@ -72,7 +72,7 @@ Een aanzienlijk deel van ons docententeam bezoekt jaarlijks de CSSDay conferenti
 
 > De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van het web te blijven. Dit doen ze door goede blogs, website, events enz. te delen. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied. <cite>Sascha Davidson</cite>
 
-Het frontend vakgebied ligt binnen de passie van onze docenten en daardoor lukt het ons om bij te blijven. Het blijft ook een aandachtspunt, docenten bij FDND hebben tijd en ruimte nodig voor bestudering van het vakgebied. Iets verderop geven we een aantal voorbeelden om
+Het frontend vakgebied ligt binnen de passie van onze docenten en daardoor lukt het ons om bij te blijven. Het blijft ook een aandachtspunt, docenten bij FDND hebben tijd en ruimte nodig voor bestudering van het vakgebied.
 
 ## Standaard 2: De onderwijs­leeromgeving
 
