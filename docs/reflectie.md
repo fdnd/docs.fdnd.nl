@@ -70,7 +70,7 @@ Vorig semester werd een talk gegeven over het *responsive* en *progressive enhan
 
 Een aanzienlijk deel van ons docententeam bezoekt jaarlijks de CSSDay conferentie en de daar opgedane inzichten worden verwerkt in ons curriculum. Zo zijn delen uit de talk [How to Teach CSS door Josh Comeau @ CSS Day 2024](https://youtu.be/ZPTVr2pS0XE?si=vE40iCk9HLot-1WO) verwerkt in het curriculum van sprint 2 in semester 1 en leren we studenten nu denken in termen van CSS Layout Modes.
 
-> De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van het web te blijven. Dit doen ze door goede blogs, website, events enz. te delen. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied.<cite>Sascha Davidson</cite>
+> De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van het web te blijven. Dit doen ze door goede blogs, website, events enz. te delen. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied. <cite>Sascha Davidson</cite>
 
 Het frontend vakgebied ligt binnen de passie van onze docenten en daardoor lukt het ons om bij te blijven. Het blijft ook een aandachtspunt, docenten bij FDND hebben tijd en ruimte nodig voor bestudering van het vakgebied. Iets verderop geven we een aantal voorbeelden om
 
