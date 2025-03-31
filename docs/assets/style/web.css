@@ -108,7 +108,7 @@ body {
   font-family: Open Sans, sans-serif;
   color: var(--color-text);
   min-height: 100vh;
-  container-type:inline-size;
+  container-type: inline-size;
 }
 
 /* Main Layout */
@@ -178,13 +178,20 @@ body {
 /* Logo, main nav and settings (header) */
 header {
   display: flex;
-  /* flex-flow: row nowrap; */
+  position: relative;
   justify-content: space-between;
   gap: var(--gap);
   padding: var(--gap);
   background: var(--color-background);
   z-index: 98;
 
+  /* Version */
+  span.version {
+    position: absolute;
+    bottom: 0;
+    font-size: 0.7rem;
+    cursor: normal;
+  }
   /* Logo and page-title */
   & a {
     text-decoration: none;
@@ -496,20 +503,19 @@ nav.subnav {
     font-weight: bold;
   }
   & .toc-level-4 {
-    font-size: .9em;
+    font-size: 0.9em;
   }
 
   & .toc-level-4 li a {
     position: relative;
-    padding-left:1.5rem;
+    padding-left: 1.5rem;
   }
   & .toc-level-4 a::before {
-    content:"~";
-    position:absolute;
-    top:.25rem;
-    left:.5rem;
+    content: '~';
+    position: absolute;
+    top: 0.25rem;
+    left: 0.5rem;
   }
-
 }
 
 /* Footer */
@@ -563,7 +569,6 @@ section {
 
     & a:first-of-type {
       text-decoration: none;
-      
 
       &:hover,
       &:focus {
@@ -582,8 +587,8 @@ section {
         filter: var(--svg-filter);
         position: absolute;
         left: -1.25rem;
-        top: .35em;
-        right:auto;
+        top: 0.35em;
+        right: auto;
       }
     }
 
@@ -639,9 +644,9 @@ section {
 @container (max-width: 540px) {
   section *:first-child a:first-of-type:after {
     left: auto;
-    right: -.75rem;
-    width: .5em;
-    height: .5em;
+    right: -0.75rem;
+    width: 0.5em;
+    height: 0.5em;
     top: 1.65rem;
   }
 }

@@ -30,7 +30,7 @@ export default unified()
   .use(rehypeToc, { headings: ['h2', 'h3', 'h4', 'h5'], cssClasses: { toc: 'subnav' } })
   .use(rehypeSectionHeadings, { sectionDataAttribute: 'data-heading-id' })
   .use(shiki, { theme: 'monokai' })
-  .use(fdndWrapper)
+  .use(fdndWrapper, document)
   .use(rehypeDocument, document) // er moet nog tabindex="-1" op <body> om het menu mobiel te laten werken
   .use(rehypeFormat)
   .use(rehypeStringify)

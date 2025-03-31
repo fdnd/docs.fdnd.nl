@@ -1,6 +1,7 @@
-// Settings for rehype-document
+// Settings for rehype-document and fdnd-wrapper
 export default {
   title: 'FDND Docs',
+  version: 'latest',
   language: 'nl',
   meta: [{ name: 'color-scheme', content: 'light dark' }],
   link: [
