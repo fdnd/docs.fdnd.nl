@@ -203,7 +203,7 @@ header {
   /* Version */
   span.version {
     position: absolute;
-    bottom: 0;
+    bottom: -0.2rem;
     font-size: 0.7rem;
     cursor: normal;
   }
