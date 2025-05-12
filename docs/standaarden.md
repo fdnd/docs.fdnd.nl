@@ -1,5 +1,7 @@
 # Standaarden
 
+Work in progress tbv. de visitatie voorjaar 2026.
+
 ## Standaard 1: Beoogde leer­resultaten
 
 _De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen._
