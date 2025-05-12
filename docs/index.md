@@ -14,30 +14,25 @@ Hieronder een overzicht en beknopte omschrijving van de verschillende documenten
 
 [Organisatie](./organisatie.html) - beschrijft de organisatieinrichting van FDND (Governance). Onderwerpen die aan bod komen zijn vergaderingen, beslissingsstructuur, rollen en verantwoordelijkheden.
 
-[Reflectie](./reflectie.html) - beschrijft de kritische reflectie aan de hand van de vier standaarden van de NVAO ten behoeve van onze Midterm-Review welke plaats zal vinden op 21 november 2024.
+[Reflectie](./reflectie.html) - beschrijft de kritische reflectie aan de hand van vier standaarden van de NVAO ten behoeve van onze Midterm-Review welke plaats zal vinden op 21 november 2024.
 
-[TNO Dossier](./TNO-dossier.html) - beschrijft het initiatief voor een Associate degree opleiding Frontend Design & Development aan de Hogeschool van Amsterdam! Je treft hier het dossier zoals dat is ingediend bij de NVAO ten behoeve van de Toets Nieuwe Opleiding (TNO)  welke gevisiteerd is op 15 april 2021.
+[Standaarden](./standaarden.html) - beschrijft de opleiding aan de hand van vier standaarden van de NVAO ten behoeve van de accreditatie voorjaar 2026.
 
-<!--
+## Versiegeschiedenis
 
-## Navigeren
+Snapshots, eerdere versies van deze website, zijn te vinden op onderstaande links. Keer terug naar de actuele versie door op de link "FDND" in de linkerbovenhoek te klikken.
 
-[Uitleg over de interface]
+- [Toets Nieuwe Opleiding (TNO) april 2021](https://tno-apr-2021.docs.fdnd.nl/)
+- [Midterm Review (MTR) november 2024](https://mtr-nov-2024.docs.fdnd.nl/)
 
-## Liever lezen als ePub?
-
-[Uitleg over het downloaden van een ePub]
-
--->
-
-## Liever lezen op papier?
+## Lezen op papier?
 
 Naast een web-layout is ook aandacht besteed aan een nette print indeling. Je kunt de documenten op deze website afdrukken of downloaden als PDF, dat doe je als volgt:
 
 - Om te printen in Google Chrome, open je de betreffende pagina en druk je op Ctrl+P op een PC of ⌘+P op een Mac.
 - In Safari druk je op ⌘+P.
 - In Microsoft Edge druk je op Ctrl+P.
-- In Mozilla Firefox open je het Settings menu (≡) en klik je op print om de huidige pagina 
+- In Mozilla Firefox open je het Settings menu (≡) en klik je op print om de huidige pagina
 
 In veel gevallen kan je in het print menu kiezen om het te printen document op te slaan als PDF. Op deze manier kan je het document ook lezen op een e-reader.
 
@@ -58,6 +53,3 @@ Kom je een type-foutje tegen of wens je een inhoudelijke verandering? Je kunt ee
 ### Pull-requests
 
 Onze documenten staan in een open-source omgeving, zodoende staat het je vrij aanpassingen zelfstandig door te voeren. Als je verandering wilt kan je dat dus ook doen door een pull-request in te sturen. Zorg daarbij altijd voor een duidelijke beschrijving van de verandering. FDND neemt pull-requests zeer serieus, alle serieuze voorstellen worden door meerdere docenten bekeken en besproken.
-
-
-
