@@ -22,8 +22,8 @@ Hieronder een overzicht en beknopte omschrijving van de verschillende documenten
 
 Snapshots, eerdere versies van deze website, zijn te vinden op onderstaande links. Keer terug naar de actuele versie door op de link "FDND" in de linkerbovenhoek te klikken.
 
-- [Toets Nieuwe Opleiding (TNO) april 2021](https://tno-april-2021.docs.fdnd.nl/)
-- [Midterm Review (MTR) november 2024](https://mtr-november-2024.docs.fdnd.nl/)
+- [Toets Nieuwe Opleiding (TNO) april 2021](https://tno-apr-2021.docs.fdnd.nl/)
+- [Midterm Review (MTR) november 2024](https://mtr-nov-2024.docs.fdnd.nl/)
 
 ## Liever lezen op papier?
 
