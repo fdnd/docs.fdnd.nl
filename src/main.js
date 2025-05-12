@@ -7,10 +7,17 @@ import recursiveReadDir from 'recursive-readdir'
 
 const buildDir = 'build'
 const docsDir = 'docs'
+const assetsDir = 'src/assets'
 let menu = []
 
 // Read the docs dir recursively and pass the result to dirListHandler
 recursiveReadDir(docsDir, dirListHandler)
+
+// Copy the src/assests folder to the build folder
+recursiveReadDir(assetsDir, (error, files) => {
+  if (error) throw error
+  files.map((file) => getFileInfo(file)).forEach((file) => fileHandler(file))
+})
 
 /**
  * Build a menu, then get extra file info and pass each file to the fileHanlder
@@ -74,7 +81,7 @@ function getFileInfo(file) {
   const basename = path.basename(file)
   const extname = path.extname(file)
   const dirname = path.dirname(file)
-  const destname = buildDir + dirname.replace(docsDir, '')
+  const destname = buildDir + dirname.replace(docsDir, '').replace(assetsDir, '/assets') // TODO: make this more robust
 
   return { name, basename, extname, dirname, destname, menu } // IMPURE!
 }

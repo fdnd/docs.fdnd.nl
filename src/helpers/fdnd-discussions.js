@@ -64,17 +64,22 @@ export default function fdndDiscussions(options = {}) {
           )
         )
 
-        ontopic.forEach((discussion) => {
-          parent.children.splice(
-            index + 1,
-            0,
-            h('aside', { class: 'discussion' }, [
-              h('span', `${discussion.author.login}: `),
-              `${discussion.body} `,
-              h('span', [`${discussion.comments.totalCount} reacties, `, h('a', { href: discussion.url }, 'reageer')]),
-            ])
-          )
-        })
+        if (ontopic !== null) {
+          ontopic.forEach((discussion) => {
+            parent.children.splice(
+              index + 1,
+              0,
+              h('aside', { class: 'discussion' }, [
+                h('span', `${discussion.author.login}: `),
+                `${discussion.body} `,
+                h('span', [
+                  `${discussion.comments.totalCount} reacties, `,
+                  h('a', { href: discussion.url }, 'reageer'),
+                ]),
+              ])
+            )
+          })
+        }
       }
     })
   }

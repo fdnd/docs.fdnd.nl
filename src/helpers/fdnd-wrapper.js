@@ -6,7 +6,7 @@ import { h } from 'hastscript'
  * Wrap FDND header and footer around a fragment
  * @returns
  */
-export default function fdndWrap(options) {
+export default function fdndWrap(options = {}) {
   return function (tree, file) {
     let submenu = selectAll('h3', tree).map((element) => {
       return h('li', h('a', { href: `#${element.properties.id}` }, element.children[1].value))

@@ -2,6 +2,7 @@
 export default {
   title: 'FDND Docs',
   version: 'latest',
+  discussions: true,
   language: 'nl',
   meta: [{ name: 'color-scheme', content: 'light dark' }],
   link: [
