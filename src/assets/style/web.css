@@ -16,6 +16,8 @@
   --color-yellow: #fffc86;
   --color-yellow-negative: #000379;
 
+  --color-archive: red;
+
   --gradient-angle: 42deg;
 
   /* Sizing definitions */
@@ -29,6 +31,7 @@
 /* Light theme */
 [data-theme='light'] {
   --color-text: var(--color-blue);
+
   --color-background: var(--color-white);
   --color-accent: var(--color-blue);
   --color-logo: var(--color-blue);
@@ -49,6 +52,12 @@
       var(--color-purple-oklch) 0%,
       var(--color-green-oklch) 100%
     );
+  }
+
+  body:not(:has(span.version.latest)) {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600px' height='800px'><text x='0' y='500' text-anchor='middle' transform='rotate(-45)' fill='WhiteSmoke' font-family='Open Sans' font-size='200'>Archief</text></svg>");
+    background-repeat: repeat-y;
+    background-position: center;
   }
 }
 [data-theme='dark'] {
@@ -73,6 +82,12 @@
       var(--color-purple-oklch-negative) 0%,
       var(--color-green-oklch-negative) 100%
     );
+  }
+
+  body:not(:has(span.version.latest)) {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600px' height='800px'><text x='0' y='500' text-anchor='middle' transform='rotate(-45)' fill='MidnightBlue' font-family='Open Sans' font-size='200'>Archief</text></svg>");
+    background-repeat: repeat-y;
+    background-position: center;
   }
 }
 
@@ -558,6 +573,10 @@ section {
   border-right-style: solid;
   border-right-color: transparent;
   max-width: 34rem;
+
+  & h2 {
+    margin-bottom: 0.5em;
+  }
 
   & h2,
   & h3,

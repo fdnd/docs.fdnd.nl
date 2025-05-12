@@ -33,7 +33,7 @@ export default function fdndWrap(options = {}) {
 
     return [
       h('header', [
-        h('span', { class: 'version' }, options.version),
+        h('span', { class: ['version', options.version] }, options.version),
         h('a', { href: '/', tabindex: '-1' }, [
           h('h1', [
             h('abbr', { title: 'Frontend Design & Development' }, h('span', 'FDND')),
@@ -80,7 +80,9 @@ export default function fdndWrap(options = {}) {
         ),
         h('div.settings', [
           h('button#theme', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Thema')),
-          h('button#discussion', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Discussies')),
+          options.discussions
+            ? h('button#discussion', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Discussies'))
+            : '',
         ]),
       ]),
       h('main', tree),
