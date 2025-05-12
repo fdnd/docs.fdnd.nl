@@ -25,7 +25,7 @@ Snapshots, eerdere versies van deze website, zijn te vinden op onderstaande link
 - [Toets Nieuwe Opleiding (TNO) april 2021](https://tno-apr-2021.docs.fdnd.nl/)
 - [Midterm Review (MTR) november 2024](https://mtr-nov-2024.docs.fdnd.nl/)
 
-## Liever lezen op papier?
+## Lezen op papier?
 
 Naast een web-layout is ook aandacht besteed aan een nette print indeling. Je kunt de documenten op deze website afdrukken of downloaden als PDF, dat doe je als volgt:
 
