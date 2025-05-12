@@ -8,27 +8,7 @@ Al onze visie en beleidsstukken zonder AVG-impact zijn publiek toegankelijk omda
 
 Hieronder een overzicht en beknopte omschrijving van de verschillende documenten op deze pagina:
 
-[Boksa](./boksa.html) - beschrijft de Body of Knowledge, Skills and Attitude (BOKSA) van de opleiding. Deze is ingedeeld aan de hand van de Development Lifecycle (DLC). Naast werkvormen staan hier ook woordenlijsten en links naar relevante bronnen.
-
-[Onderwijs](./onderwijs.html) - beschrijft de dagelijkse gang van zaken in het onderwijs bij FDND (Operations). Onderwerpen die aan bod komen zijn beoordelingssystematiek en studentbegeleiding.
-
-[Organisatie](./organisatie.html) - beschrijft de organisatieinrichting van FDND (Governance). Onderwerpen die aan bod komen zijn vergaderingen, beslissingsstructuur, rollen en verantwoordelijkheden.
-
-[Reflectie](./reflectie.html) - beschrijft de kritische reflectie aan de hand van de vier standaarden van de NVAO ten behoeve van onze Midterm-Review welke plaats zal vinden op 21 november 2024.
-
-[TNO Dossier](./TNO-dossier.html) - beschrijft het initiatief voor een Associate degree opleiding Frontend Design & Development aan de Hogeschool van Amsterdam! Je treft hier het dossier zoals dat is ingediend bij de NVAO ten behoeve van de Toets Nieuwe Opleiding (TNO)  welke gevisiteerd is op 15 april 2021.
-
-<!--
-
-## Navigeren
-
-[Uitleg over de interface]
-
-## Liever lezen als ePub?
-
-[Uitleg over het downloaden van een ePub]
-
--->
+[TNO Dossier](./TNO-dossier.html) - beschrijft het initiatief voor een Associate degree opleiding Frontend Design & Development aan de Hogeschool van Amsterdam! Je treft hier het dossier zoals dat is ingediend bij de NVAO ten behoeve van de Toets Nieuwe Opleiding (TNO) welke gevisiteerd is op 15 april 2021.
 
 ## Liever lezen op papier?
 
@@ -37,7 +17,7 @@ Naast een web-layout is ook aandacht besteed aan een nette print indeling. Je ku
 - Om te printen in Google Chrome, open je de betreffende pagina en druk je op Ctrl+P op een PC of ⌘+P op een Mac.
 - In Safari druk je op ⌘+P.
 - In Microsoft Edge druk je op Ctrl+P.
-- In Mozilla Firefox open je het Settings menu (≡) en klik je op print om de huidige pagina 
+- In Mozilla Firefox open je het Settings menu (≡) en klik je op print om de huidige pagina
 
 In veel gevallen kan je in het print menu kiezen om het te printen document op te slaan als PDF. Op deze manier kan je het document ook lezen op een e-reader.
 
@@ -58,6 +38,3 @@ Kom je een type-foutje tegen of wens je een inhoudelijke verandering? Je kunt ee
 ### Pull-requests
 
 Onze documenten staan in een open-source omgeving, zodoende staat het je vrij aanpassingen zelfstandig door te voeren. Als je verandering wilt kan je dat dus ook doen door een pull-request in te sturen. Zorg daarbij altijd voor een duidelijke beschrijving van de verandering. FDND neemt pull-requests zeer serieus, alle serieuze voorstellen worden door meerdere docenten bekeken en besproken.
-
-
-
