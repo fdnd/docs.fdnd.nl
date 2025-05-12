@@ -1,8 +1,8 @@
 // Settings for rehype-document and fdnd-wrapper
 export default {
   title: 'FDND Docs',
-  version: 'latest',
-  discussions: true,
+  version: 'Toets Nieuwe Opleiding april 2021',
+  discussions: false,
   language: 'nl',
   meta: [{ name: 'color-scheme', content: 'light dark' }],
   link: [
