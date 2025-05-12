@@ -16,6 +16,12 @@ Hieronder een overzicht en beknopte omschrijving van de verschillende documenten
 
 [Reflectie](./reflectie.html) - beschrijft de kritische reflectie aan de hand van de vier standaarden van de NVAO ten behoeve van onze Midterm-Review welke plaats zal vinden op 21 november 2024.
 
+## Versiegeschiedenis
+
+Snapshots, eerdere versies van deze website, zijn te vinden op onderstaande links. Keer terug naar de actuele versie door op de link "FDND" in de linkerbovenhoek te klikken.
+
+- [Toets Nieuwe Opleiding (TNO) april 2021](https://tno-apr-2021.docs.fdnd.nl/)
+
 ## Liever lezen op papier?
 
 Naast een web-layout is ook aandacht besteed aan een nette print indeling. Je kunt de documenten op deze website afdrukken of downloaden als PDF, dat doe je als volgt:
