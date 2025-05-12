@@ -2,7 +2,7 @@
 export default {
   title: 'FDND Docs',
   version: 'Midterm Review november 2024',
-  discussions: false,
+  discussions: true,
   language: 'nl',
   meta: [{ name: 'color-scheme', content: 'light dark' }],
   link: [
