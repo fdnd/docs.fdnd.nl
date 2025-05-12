@@ -16,7 +16,7 @@ De opleiding Frontend Design & Development (FDND) wordt doorlopend en in overleg
 
 ### Visie op het beroep
 
-De door ons in 2020 opgestelde [visie op het beroep](/TNO-dossier.html#visie-op-het-beroep) doorstaat de tand des tijds. In het vakgebied zijn een aantal ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt continu en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. Maar ook nieuwe uitdagingen zoals het ontstaan van iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars en de iv) opkomst van het fenomeen genAI, in het bijzonder _Large Language Model (LLM)_ en de impact op het werk van frontend design & developers.
+De door ons in 2020 opgestelde [visie op het beroep](https://tno-apr-2021.docs.fdnd.nl/TNO-dossier.html#visie-op-het-beroep) doorstaat de tand des tijds. In het vakgebied zijn een aantal ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt continu en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. Maar ook nieuwe uitdagingen zoals het ontstaan van iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars en de iv) opkomst van het fenomeen genAI, in het bijzonder _Large Language Model (LLM)_ en de impact op het werk van frontend design & developers.
 
 #### Snelle evolutie
 
@@ -78,7 +78,7 @@ Het frontend vakgebied ligt binnen de passie van onze docenten en daardoor lukt 
 
 _Het programma, de onderwijsleeromgeving en de kwaliteit van het docententeam maken het voor de instromende studenten mogelijk de beoogde leerresultaten te realiseren._
 
-In dit hoofdstuk bekijken we de onderwijsleeromgeving. Na reflectie op het [didactisch concept](/reflectie.html#didactisch-concept) reflecteren we bij [vormgeving van de opleiding](/reflectie.html#vormgeving-van-de-opleiding) op de structuur. Het gaat te ver voor deze kritische reflectie om een volledige inleiding in onze onderwijsleeromgeving te geven, hiervoor verwijzen wij naar [standaard 2 in het TNO dossier](/TNO-dossier.html#standaard-2-de-onderwijsleeromgeving). Om toch enige context te bieden bij het lezen van deze kritische reflectie volgt een korte schets van de structuur van de opleiding.
+In dit hoofdstuk bekijken we de onderwijsleeromgeving. Na reflectie op het [didactisch concept](/reflectie.html#didactisch-concept) reflecteren we bij [vormgeving van de opleiding](/reflectie.html#vormgeving-van-de-opleiding) op de structuur. Het gaat te ver voor deze kritische reflectie om een volledige inleiding in onze onderwijsleeromgeving te geven, hiervoor verwijzen wij naar [standaard 2 in het TNO dossier](https://tno-apr-2021.docs.fdnd.nl/TNO-dossier.html#standaard-2-de-onderwijsleeromgeving). Om toch enige context te bieden bij het lezen van deze kritische reflectie volgt een korte schets van de structuur van de opleiding.
 
 De opleiding Frontend Design & Development (FDND) leidt flexibele, zelfstandige en praktijkgerichte Frontend professionals op die goed functioneren binnen een snel ontwikkelende en veranderlijke beroepspraktijk. Bij FDND staat de beroepspraktijk centraal en het onderwijsprogramma is een vertaling van beroepstaken en daarbij behorende kennis, vaardigheden en gedrag naar leerresultaten.
 
@@ -136,7 +136,7 @@ Bij het aanbieden van het eerste jaar merkten we dat we meer houvast nodig hadde
 
 Toetsing staat bij FDND in dienst van het leerproces. Het midterm en endterm assessment geeft docenten en studenten een goed beeld van het gerealiseerde niveau en we besteden veel tijd aan formatieve feedbackmomenten. Naast doorlopende vraaggestuurde feedback en het mentoring programma geven en ontvangen studenten elke vrijdag feedback van docenten en hun peers tijdens de _design/code review_ en _retrospect_ sessies.
 
-De precieze uitvoer van het toetsproces is ten opzichte van de [beoogde werkwijze in in het TNO dossier](/TNO-dossier.html#vormgeving-van-de-toetsing) een aantal keer bijgesteld. Bij [standaard 3](/reflectie.html#standaard-3-toetsing) gaan we dieper op deze iteraties in. We hopen met deze aanpassing het doel, toetsing als leermoment, nog beter te bedienen.
+De precieze uitvoer van het toetsproces is ten opzichte van de [beoogde werkwijze in in het TNO dossier](https://tno-apr-2021.docs.fdnd.nl/TNO-dossier.html#vormgeving-van-de-toetsing) een aantal keer bijgesteld. Bij [standaard 3](/reflectie.html#standaard-3-toetsing) gaan we dieper op deze iteraties in. We hopen met deze aanpassing het doel, toetsing als leermoment, nog beter te bedienen.
 
 ### Vormgeving van de opleiding
 
