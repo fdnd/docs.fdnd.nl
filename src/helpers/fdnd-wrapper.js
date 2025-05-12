@@ -6,7 +6,7 @@ import { h } from 'hastscript'
  * Wrap FDND header and footer around a fragment
  * @returns
  */
-export default function fdndWrap() {
+export default function fdndWrap(options = {}) {
   return function (tree, file) {
     let submenu = selectAll('h3', tree).map((element) => {
       return h('li', h('a', { href: `#${element.properties.id}` }, element.children[1].value))
@@ -33,6 +33,7 @@ export default function fdndWrap() {
 
     return [
       h('header', [
+        h('span', { class: 'version' }, options.version),
         h('a', { href: '/', tabindex: '-1' }, [
           h('h1', [
             h('abbr', { title: 'Frontend Design & Development' }, h('span', 'FDND')),
@@ -80,7 +81,6 @@ export default function fdndWrap() {
         h('div.settings', [
           h('button#theme', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Thema')),
           h('button#discussion', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Discussies')),
-          h('button#changes', { 'aria-label': 'auto', 'aria-live': 'polite' }, h('span', 'Wijzigingen')),
         ]),
       ]),
       h('main', tree),

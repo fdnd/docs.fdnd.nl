@@ -1,6 +1,6 @@
 {
   "name": "docs.fdnd.nl",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "It's another attempt to create our docs environment",
   "main": "main.js",
   "type": "module",

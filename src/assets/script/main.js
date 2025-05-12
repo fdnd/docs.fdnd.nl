@@ -1,10 +1,8 @@
 // Settings button functionality, relies on localStorage
 reflectPreference('theme', getPreference('theme'))
-reflectPreference('changes', getPreference('changes'))
 reflectPreference('discussion', getPreference('discussion'))
 
 document.querySelector('button#theme').addEventListener('click', clickHandler)
-document.querySelector('button#changes').addEventListener('click', clickHandler)
 document.querySelector('button#discussion').addEventListener('click', clickHandler)
 
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', ({ matches: isDark }) => {
