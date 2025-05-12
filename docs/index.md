@@ -14,8 +14,6 @@ Hieronder een overzicht en beknopte omschrijving van de verschillende documenten
 
 [Organisatie](./organisatie.html) - beschrijft de organisatieinrichting van FDND (Governance). Onderwerpen die aan bod komen zijn vergaderingen, beslissingsstructuur, rollen en verantwoordelijkheden.
 
-[Reflectie](./reflectie.html) - beschrijft de kritische reflectie aan de hand van vier standaarden van de NVAO ten behoeve van onze Midterm-Review welke plaats zal vinden op 21 november 2024.
-
 [Standaarden](./standaarden.html) - beschrijft de opleiding aan de hand van vier standaarden van de NVAO ten behoeve van de accreditatie voorjaar 2026.
 
 ## Versiegeschiedenis
