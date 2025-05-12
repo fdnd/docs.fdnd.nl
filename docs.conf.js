@@ -1,7 +1,7 @@
 // Settings for rehype-document and fdnd-wrapper
 export default {
   title: 'FDND Docs',
-  version: 'MTR november 2024',
+  version: 'Midterm Review november 2024',
   discussions: false,
   language: 'nl',
   meta: [{ name: 'color-scheme', content: 'light dark' }],
