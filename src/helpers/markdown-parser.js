@@ -1,5 +1,5 @@
 import document from '../../docs.conf.js'
-import fdndDiscussions from './fdnd-discussions.js'
+// import fdndDiscussions from './fdnd-discussions.js'
 import fdndWrapper from './fdnd-wrapper.js'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeDocument from 'rehype-document'
@@ -25,7 +25,7 @@ export default unified()
   .use(rehypeShiftHeading, { shift: 1 }) // Shift headings up, only h1 in header, h2 in documents
   .use(rehypeSlug)
   .use(rehypeAutolinkHeadings, { behaviour: 'wrap' })
-  .use(fdndDiscussions, document)
+  // .use(fdndDiscussions, document)
   .use(rehypeWrap, { wrapper: 'article' })
   .use(rehypeToc, { headings: ['h2', 'h3', 'h4', 'h5'], cssClasses: { toc: 'subnav' } })
   .use(rehypeSectionHeadings, { sectionDataAttribute: 'data-heading-id' })
