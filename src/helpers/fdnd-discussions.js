@@ -42,7 +42,7 @@ const allDiscussions = response.organization.repository.discussions.nodes
 
 export default function fdndDiscussions(options = {}) {
   return (tree, file) => {
-    if (options.version === 'latest') {
+    if (options.discussions) {
       const filenameSlug = slug(file.menu.find((item) => item.basename === file.basename).menuname)
       const discussions = allDiscussions.filter((discussion) => discussion.category.slug === filenameSlug)
 
