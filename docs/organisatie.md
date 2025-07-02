@@ -50,11 +50,11 @@ De Ad FDND vraagt van docenten dat zij naast inhoudsdeskundige en beoordelaar oo
 Een co-teacher:
 
 - Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, Visual Design en/of SCRUM;
-- Begeleid studenten bij het volbrengen van deel- en leertaken;
+- Begeleidt studenten bij het volbrengen van deel- en leertaken;
 - Verzorgt af en toe een talk of een workshop in afstemming met squad-leader(s);
 - Overlegt en stemt af met de squad-leader;
 - Neemt deel aan Standup, Plan & Review en Retrospective meetings.
-- (In het geval van assesorschap) Heeft deelgenomen aan de assessorentraining of is bereid deze te volgen;
+- (In het geval van assessorschap) Heeft deelgenomen aan de assessorentraining of is bereid deze te volgen;
 
 ### Squad-leader (0,5 fte)
 
