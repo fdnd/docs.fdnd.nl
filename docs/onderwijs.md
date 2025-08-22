@@ -4,12 +4,21 @@ Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handva
 
 ## Werkwijze
 
+FDND is een full-time studie van 2 jaar. Elke maandag, woensdag en vrijdag worden workshops aangeboden, kan je oefenen met de stof, vragen stellen en helpen studenten elkaar. Je hebt een vast rooster, eerstejaars zijn er van 9:30 - 13:00, tweedejaars van 13:30 - 17:00. Er wordt van je verwacht dat je deze dagen aanwezig bent. 
+Op dinsdag en donderdag worden challenges aangeboden en kunnen eerste- en tweedejaars doorwerken aan projecten. Deze dagen beginnen om 9:30.
+
+Bij FDND werken we in sprints van 3 weken. Elke sprint heeft een onderwerp waarvoor verschillende workshops worden aangeboden. Het programma met wat we wanneer doen staat op https://programma.fdnd.nl
+
+Er zijn altijd docenten aanwezig om vragen te stellen. Docenten kan je aanspreken tijdens de lessen, of je kan een bericht sturen in Teams. Belangrijke communicatie over de planning, toetsing en aankondigingen gaat via Teams. 
+
+
+<!--
 Hoe werken we met sprints,
 sprint planning (coach + studenten samen optrekken, grip krijgen op opdracht), sprint review en mentoren.
 
 Werkwijze deel en leertaken learning-journal
 
-Vrije ruimte + stage richtlijnen e.d. beschrijven
+Vrije ruimte + stage richtlijnen e.d. beschrijven-->
 
 ### Leer- en deeltaken
 
