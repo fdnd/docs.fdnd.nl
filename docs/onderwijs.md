@@ -4,8 +4,10 @@ Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handva
 
 ## Werkwijze
 
-FDND is een full-time studie van 2 jaar. Elke maandag, woensdag en vrijdag worden workshops aangeboden, kan je oefenen met de stof, vragen stellen en helpen studenten elkaar. Je hebt een vast rooster, eerstejaars zijn er van 9:30 - 13:00, tweedejaars van 13:30 - 17:00. Er wordt van je verwacht dat je deze dagen aanwezig bent. 
-Op dinsdag en donderdag worden challenges aangeboden en kunnen eerste- en tweedejaars doorwerken aan projecten. Deze dagen beginnen om 9:30.
+FDND is een full-time studie van 2 jaar. Elke maandag, woensdag en vrijdag worden workshops aangeboden, daar kunnen studenten oefenen met de stof, vragen stellen en helpen studenten elkaar. Er is een vast rooster, eerstejaars zijn er van 9:30 - 13:00, tweedejaars van 13:30 - 17:00. Er wordt van studenten verwacht dat ze deze dagen aanwezig zijn. 
+Op dinsdag en donderdag worden challenges aangeboden en kunnen eerste- en tweedejaars doorwerken aan hun project. Deze dagen beginnen om 9:30.
+
+Naast de workshops en challenges wordt er van studenten verwacht dat ze zelfstandig en/of in teams doorwerken aan de leer- en deeltaken.
 
 Bij FDND werken we in sprints van 3 weken. Elke sprint heeft een onderwerp waarvoor verschillende workshops worden aangeboden. Het programma met wat we wanneer doen staat op https://programma.fdnd.nl
 
