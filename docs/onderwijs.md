@@ -36,17 +36,17 @@ Als frontender werk je meestal in teams en dus moeten studenten vaardigheid in s
 
 ### Learning journal
 
-Het learning journal kent een routinematig deel en een etalage; bijvoorbeeld een blog, linkdump of digital garden. Er is een speciale leertaak genaamd [i love web](https://github.com/fdnd-task/i-love-web) waarin het learning journal in principe wordt bijgehouden.
+Het learning journal kent een routinematig deel en een etalage; bijvoorbeeld een blog, linkdump of digital garden. Er is een speciale leertaak genaamd [i ❤︎ web](https://github.com/fdnd-task/i-love-web) waarin het learning journal in principe wordt bijgehouden.
 
 Het routinematige deel wordt dagelijks bijgehouden in de vorm van een *daily-checkout* of *one-minute-paper*. Aantekeningen uit een talk, we-love-web, een link naar een blogpost of andere bron, sketchnotes of iets interessants wat ze bij een medestudent of mentor gezien hebben worden hier verzameld. We vragen ze ook om dagelijks 3 studievragen op te stellen over hetgeen ze geleerd hebben (link naar theorie?). Studenten ontwikkelen op deze manier in de loop van de opleiding de gewoonte om datgene wat ze leren vast te leggen, hier zit namelijk een schat aan bewijslast voor assessments. Docenten sturen op het bijhouden van aantekeningen tijdens [coaching en mentoring](#coaching-en-mentoring) sessies.
 
 De vorm van de etalage is vrij, studenten worden gestimuleerd om door middel van Github pages een eigen vette, creatieve weblog, link dump, of digital garden te maken. (20% regel + link naar artikel?)
 
-### We ❤️ Web
+### We ❤︎ Web
 
-Elke tweede week van de sprints organiseren we We ❤️ Web talks. Sprekers uit het vakgebied vertellen over uiteenlopende onderwerpen ter inspiratie voor studenten.
+Elke tweede week van de sprints organiseren we We ❤︎ Web talks. Sprekers uit het vakgebied vertellen over uiteenlopende onderwerpen ter inspiratie voor studenten.
 
-De We ❤️ Web talks staan op 3 plekken vermeld; in de jaarplanning, in de sprint planning van elke sprint op [programma.fdnd.nl](https://programma.fdnd.nl/) en in de We ❤️ Web repository onder de [fdnd.nl GitHub organisatie](https://github.com/fdnd/weloveweb.fdnd.nl/). De We ❤️ Web repository is de single source of truth!
+De We ❤︎ Web talks staan op 3 plekken vermeld; in de jaarplanning, in de sprint planning van elke sprint op [programma.fdnd.nl](https://programma.fdnd.nl/) en in de We ❤︎ Web repository onder de [fdnd.nl GitHub organisatie](https://github.com/fdnd/weloveweb.fdnd.nl/). De We ❤︎ Web repository is de single source of truth!
 
 
 
