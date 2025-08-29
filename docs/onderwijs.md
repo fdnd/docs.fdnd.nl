@@ -85,6 +85,27 @@ In [Sprint 6: The Startup](https://partners.fdnd.nl/design-challenge/sprint-6) o
 In [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprint-12) ontwerpen, maken en testen studenten een prototype op basis van een bestaand idee, concept of ontwerp.
 
 
+## Huisregels
+
+### Hoe werken we bij FDND?
+- Kom op tijd
+- Niet bellen, gamen, (te veel) socializen in de werkruimte
+- ...
+
+### Hoe schrijven we (goede) Code?
+
+
+
+### Hoe AI (niet) te gebruiken
+In Semester 1 ontmoedigen we AI te gebruiken om code te genereren, en teksten en reflecties te laten maken.
+Je kan AI wel gebruiken als sparring partner, als extra docent.
+
+Voor server-side code in Semester 2 kan je af en toe AI nodig hebben, zorg er dan voor dat je je _prompt_ als bron in de comments opneemt. 
+
+In Semester 3 ga je leren hoe AI verantwoord in te zetten. 
+
+
+
 ## Studentbegeleiding
 
 Door middel van afnemende sturing in de studentbenadering werken we toe naar het ontwikkelen van een professionele identiteit gericht op zelfregulatie.
