@@ -88,9 +88,11 @@ In [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprin
 ## Huisregels
 
 ### Hoe werken we bij FDND?
-- Kom op tijd
-- Niet bellen, gamen, (te veel) socializen in de werkruimte
-- ...
+- Op tijd beginnen. Kom op tijd, 9 uur inloop, 9:30 beginnen. Gordijn dicht? Niet naar binnen,want als je te laat bent, stoor je anderen die wel op tijd zijn.
+- De Studio is om te werken aan de opdrachten en om vragen te stellen. Je werkt in teams, samen, of individueel. Overleg op gedempte toon.
+- Het Aquarium is voor sociale zaken. Bellen, video kijken, spelletjes en moppen, om even niet werken…
+- Opruimen als je weggaat. Troep weggooien. Pennen en papier in de kast. Whiteboard vegen.
+- Maak mooie dingen.
 
 ### Hoe schrijven we (goede) Code?
 
