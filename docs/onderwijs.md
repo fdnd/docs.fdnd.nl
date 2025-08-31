@@ -20,7 +20,8 @@ sprint planning (coach + studenten samen optrekken, grip krijgen op opdracht), s
 
 Werkwijze deel en leertaken learning-journal
 
-Vrije ruimte + stage richtlijnen e.d. beschrijven-->
+Vrije ruimte + stage richtlijnen e.d. beschrijven
+-->
 
 ### Leer- en deeltaken
 
@@ -88,13 +89,36 @@ In [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprin
 ## Huisregels
 
 ### Hoe werken we bij FDND?
-- Op tijd beginnen. Kom op tijd, 9 uur inloop, 9:30 beginnen. Gordijn dicht? Niet naar binnen,want als je te laat bent, stoor je anderen die wel op tijd zijn.
-- De Studio is om te werken aan de opdrachten en om vragen te stellen. Je werkt in teams, samen, of individueel. Overleg op gedempte toon.
-- Het Aquarium is voor sociale zaken. Bellen, video kijken, spelletjes en moppen, om even niet werken…
-- Opruimen als je weggaat. Troep weggooien. Pennen en papier in de kast. Whiteboard vegen.
-- Maak mooie dingen.
+
+#### We beginnen elke dag op tijd. 
+Zorg dat jij ook op tijd komt, 's morgens beginnen we om 9:30 uur, en 's middags om 13:30. Kom je te laat en is het gordijn dicht? Dan mag je niet naar binnen, want als je te laat bent stoor je anderen die wel op tijd zijn. Als het gordijn weer open gaat mag je binnenkomen, vraag vooral even wat je hebt gemist ... 
+
+#### De Studio is om te werken aan de opdrachten en om vragen te stellen
+Je werkt in teams, samen, of individueel. Overleg op gedempte toon zodat anderen geen last van je hebben. 
+
+#### Het Aquarium is voor sociale zaken
+Bellen, video kijken, spelletjes en verhalen vertellen doe je niet in de studio maar in het aquarium. Daar kan je zitten en chillen…
+
+#### Opruimen als je weggaat
+Troep weggooien. Pennen en papier in de kast. Whiteboard vegen. Zo kan de volgende groep weer fris van start!
+
+#### Maak mooie dingen
+Jeweettoch.
 
 ### Hoe schrijven we (goede) Code?
+
+Bij FDND leer je werken volgens professionele conventies en standaarden, zodat je nette en overdraagbare code schrijft.
+
+Een paar belangrijke regels-voor-goede-code zijn:
+
+- Hou je HTML, CSS en JS code gescheiden, schrijf geen CSS of JS in je HTML code, schrijf geen CSS in je JS code.
+- Gebruik gestructureerde en semantische HTML.
+- Maak gebruik van ingebouwde features van HTML, gebruik bijvoorbeeld form validation van formulier elementen.
+- Volg in CSS de volgorde van je HTML.
+- Structureer je code van _generic to specific_.
+- Bouw je website mobile/One-column-first.
+- Schrijf duidelijke comments die je code uitleggen.
+- Schrijf gebruikte bronnen in de comments.
 
 
 
