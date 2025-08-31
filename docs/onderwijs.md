@@ -90,17 +90,17 @@ In [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprin
 
 ### Hoe werken we bij FDND?
 
-#### We beginnen elke dag op tijd. 
-Zorg dat jij ook op tijd komt, 's morgens beginnen we om 9:30 uur, en 's middags om 13:30. Kom je te laat en is het gordijn dicht? Dan mag je niet naar binnen, want als je te laat bent stoor je anderen die wel op tijd zijn. Als het gordijn weer open gaat mag je binnenkomen, vraag vooral even wat je hebt gemist ... 
+#### We beginnen elke dag op tijd
+Zorg dat je op tijd komt, dat is professioneel en dan stoor je anderen niet die wel op tijd zijn. Kom je te laat en is het gordijn dicht? Dan mag je niet naar binnen, zodat je de les niet verstoord. Als het gordijn weer open gaat mag je binnenkomen, vraag vooral even wat je hebt gemist ... 
 
 #### De Studio is om te werken aan de opdrachten en om vragen te stellen
-Je werkt in teams, samen, of individueel. Overleg op gedempte toon zodat anderen geen last van je hebben. 
+Bij FDND werken we in teams, samen, of individueel. Het is de bedoeling dat we goed kunnen werken aan de opdrachten in de studio. Hou rekening met elkaar en overleg op gedempte toon zodat anderen niet uit hun concentratie worden gehaald.
 
 #### Het Aquarium is voor sociale zaken
-Bellen, video kijken, spelletjes en verhalen vertellen doe je niet in de studio maar in het aquarium. Daar kan je zitten en chillen…
+Bellen, video kijken, spelletjes en verhalen vertellen doe je niet in de studio maar in het aquarium. Daar kan je zitten, chillen en relaxen…
 
 #### Opruimen als je weggaat
-Troep weggooien. Pennen en papier in de kast. Whiteboard vegen. Zo kan de volgende groep weer fris van start!
+De studio wordt gebruikt door verschillende groepen die na elkaar les hebben. Zorg ervoor dat de volgende groep weer fris van start kan. Gooi aan het eind van de les je troep weg, ruim pennen en papier op in de kast, en veeg het Whiteboard schoon. 
 
 #### Maak mooie dingen
 Jeweettoch.
@@ -111,14 +111,14 @@ Bij FDND leer je werken volgens professionele conventies en standaarden, zodat j
 
 Een paar belangrijke regels-voor-goede-code zijn:
 
-- Hou je HTML, CSS en JS code gescheiden, schrijf geen CSS of JS in je HTML code, schrijf geen CSS in je JS code.
-- Gebruik gestructureerde en semantische HTML.
-- Maak gebruik van ingebouwde features van HTML, gebruik bijvoorbeeld form validation van formulier elementen.
-- Volg in CSS de volgorde van je HTML.
-- Structureer je code van _generic to specific_.
-- Bouw je website mobile/One-column-first.
-- Schrijf duidelijke comments die je code uitleggen.
-- Schrijf gebruikte bronnen in de comments.
+- Hou je HTML, CSS en JS code gescheiden, schrijf geen CSS of JS in je HTML code, schrijf geen CSS in je JS code
+- Gebruik gestructureerde en semantische HTML
+- Maak gebruik van ingebouwde features van HTML, gebruik bijvoorbeeld form validation van formulier elementen
+- Volg in CSS de volgorde van je HTML
+- Structureer je code van _generic to specific_
+- Bouw je website mobile/One-column-first
+- Schrijf duidelijke comments die je code uitleggen
+- Schrijf gebruikte bronnen in de comments
 
 
 
