@@ -4,12 +4,24 @@ Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handva
 
 ## Werkwijze
 
+FDND is een full-time studie van 2 jaar. Elke maandag, woensdag en vrijdag worden workshops aangeboden, daar kunnen studenten oefenen met de stof, vragen stellen en helpen studenten elkaar. Er is een vast rooster, eerstejaars zijn aanwezig van 9:30 - 13:00, tweedejaars van 13:30 - 17:00. Er wordt van studenten verwacht dat ze deze dagen aanwezig zijn. 
+Op dinsdag en donderdag worden challenges aangeboden en kunnen eerste- en tweedejaars doorwerken aan hun project. Deze dagen beginnen om 9:30.
+
+Naast de workshops en challenges wordt er van studenten verwacht dat ze zelfstandig en in teams doorwerken aan de leer- en deeltaken.
+
+Bij FDND werken we in sprints van 3 weken. Elke sprint heeft een onderwerp waarvoor verschillende workshops worden aangeboden. Het programma met wat we wanneer doen staat op https://programma.fdnd.nl
+
+Er zijn altijd docenten aanwezig om vragen te stellen. Docenten kan je aanspreken tijdens de lessen, of je kan een bericht sturen in Teams. Belangrijke communicatie over de planning, toetsing en aankondigingen gaat via Teams. 
+
+
+<!--
 Hoe werken we met sprints,
 sprint planning (coach + studenten samen optrekken, grip krijgen op opdracht), sprint review en mentoren.
 
 Werkwijze deel en leertaken learning-journal
 
 Vrije ruimte + stage richtlijnen e.d. beschrijven
+-->
 
 ### Leer- en deeltaken
 
@@ -27,17 +39,17 @@ Als frontender werk je meestal in teams en dus moeten studenten vaardigheid in s
 
 ### Learning journal
 
-Het learning journal kent een routinematig deel en een etalage; bijvoorbeeld een blog, linkdump of digital garden. Er is een speciale leertaak genaamd [i love web](https://github.com/fdnd-task/i-love-web) waarin het learning journal in principe wordt bijgehouden.
+Het learning journal kent een routinematig deel en een etalage; bijvoorbeeld een blog, linkdump of digital garden. Er is een speciale leertaak genaamd [i ❤︎ web](https://github.com/fdnd-task/i-love-web) waarin het learning journal in principe wordt bijgehouden.
 
 Het routinematige deel wordt dagelijks bijgehouden in de vorm van een *daily-checkout* of *one-minute-paper*. Aantekeningen uit een talk, we-love-web, een link naar een blogpost of andere bron, sketchnotes of iets interessants wat ze bij een medestudent of mentor gezien hebben worden hier verzameld. We vragen ze ook om dagelijks 3 studievragen op te stellen over hetgeen ze geleerd hebben (link naar theorie?). Studenten ontwikkelen op deze manier in de loop van de opleiding de gewoonte om datgene wat ze leren vast te leggen, hier zit namelijk een schat aan bewijslast voor assessments. Docenten sturen op het bijhouden van aantekeningen tijdens [coaching en mentoring](#coaching-en-mentoring) sessies.
 
 De vorm van de etalage is vrij, studenten worden gestimuleerd om door middel van Github pages een eigen vette, creatieve weblog, link dump, of digital garden te maken. (20% regel + link naar artikel?)
 
-### We ❤️ Web
+### We ❤︎ Web
 
-Elke tweede week van de sprints organiseren we We ❤️ Web talks. Sprekers uit het vakgebied vertellen over uiteenlopende onderwerpen ter inspiratie voor studenten.
+Elke tweede week van de sprints organiseren we We ❤︎ Web talks. Sprekers uit het vakgebied vertellen over uiteenlopende onderwerpen ter inspiratie voor studenten.
 
-De We ❤️ Web talks staan op 3 plekken vermeld; in de jaarplanning, in de sprint planning van elke sprint op [programma.fdnd.nl](https://programma.fdnd.nl/) en in de We ❤️ Web repository onder de [fdnd.nl GitHub organisatie](https://github.com/fdnd/weloveweb.fdnd.nl/). De We ❤️ Web repository is de single source of truth!
+De We ❤︎ Web talks staan op 3 plekken vermeld; in de jaarplanning, in de sprint planning van elke sprint op [programma.fdnd.nl](https://programma.fdnd.nl/) en in de We ❤︎ Web repository onder de [fdnd.nl GitHub organisatie](https://github.com/fdnd/weloveweb.fdnd.nl/). De We ❤︎ Web repository is de single source of truth!
 
 
 
@@ -72,6 +84,52 @@ In [Sprint 6: The Startup](https://partners.fdnd.nl/design-challenge/sprint-6) o
 
 ##### Sprint 12: Proof of Concept
 In [Sprint 12: Proof of Concept](https://partners.fdnd.nl/design-challenge/sprint-12) ontwerpen, maken en testen studenten een prototype op basis van een bestaand idee, concept of ontwerp.
+
+
+## Huisregels
+
+### Hoe werken we bij FDND?
+
+#### We beginnen elke dag op tijd
+Zorg dat je op tijd komt, dat is professioneel en dan stoor je anderen niet die wel op tijd zijn. Kom je te laat en is het gordijn dicht? Dan mag je niet naar binnen, zodat je de les niet verstoord. Als het gordijn weer open gaat mag je binnenkomen, vraag vooral even wat je hebt gemist ... 
+
+#### De Studio is om te werken aan de opdrachten en om vragen te stellen
+Bij FDND werken we in teams, samen, of individueel. Het is de bedoeling dat we goed kunnen werken aan de opdrachten in de studio. Hou rekening met elkaar en overleg op gedempte toon zodat anderen niet uit hun concentratie worden gehaald.
+
+#### Het Aquarium is voor sociale zaken
+Bellen, video kijken, spelletjes en verhalen vertellen doe je niet in de studio maar in het aquarium. Daar kan je zitten, chillen en relaxen…
+
+#### Opruimen als je weggaat
+De studio wordt gebruikt door verschillende groepen die na elkaar les hebben. Zorg ervoor dat de volgende groep weer fris van start kan. Gooi aan het eind van de les je troep weg, ruim pennen en papier op in de kast, en veeg het Whiteboard schoon. 
+
+#### Maak mooie dingen
+Jeweettoch.
+
+### Hoe schrijven we (goede) Code?
+
+Bij FDND leer je werken volgens professionele conventies en standaarden, zodat je nette en overdraagbare code schrijft.
+
+Een paar belangrijke regels-voor-goede-code zijn:
+
+- Hou je HTML, CSS en JS code gescheiden, schrijf geen CSS of JS in je HTML code, schrijf geen CSS in je JS code
+- Gebruik gestructureerde en semantische HTML
+- Maak gebruik van ingebouwde features van HTML, gebruik bijvoorbeeld form validation van formulier elementen
+- Volg in CSS de volgorde van je HTML
+- Structureer je code van _generic to specific_
+- Bouw je website mobile/One-column-first
+- Schrijf duidelijke comments die je code uitleggen
+- Schrijf gebruikte bronnen in de comments
+
+
+
+### Hoe AI (niet) te gebruiken
+In Semester 1 ontmoedigen we AI te gebruiken om code te genereren, en teksten en reflecties te laten maken.
+Je kan AI wel gebruiken als sparring partner, als extra docent.
+
+Voor server-side code in Semester 2 kan je af en toe AI nodig hebben, zorg er dan voor dat je je _prompt_ als bron in de comments opneemt. 
+
+In Semester 3 ga je leren hoe AI verantwoord in te zetten. 
+
 
 
 ## Studentbegeleiding
