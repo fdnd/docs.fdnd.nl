@@ -175,17 +175,17 @@ All notable changes to this project will be documented in this file.
 <button class="button-primary">Submit</button>
 <button class="button--secondary">Submit</button>
 ``` 
-```js
+```javascript
 // ✅ moderne functie notering
 // ✅ camelCase
 // ✅ beschrijvende naam
 const initHeader = () => {} 
 ```
-```js
+```javascript
 // ❌ PascalCase
 MyFunction() {} // 
 ```
-```js
+```javascript
 // ❌ gebruik van var, gebruik const of let
 var initHeader = () => {} 
 ``` 
@@ -292,7 +292,7 @@ By defining variations in `hue` and `saturation` with custom properties, you get
 #### Preferred coding style
 Use a consistent structure for  code for each [scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md) taking advantage of the JavaScript principle [hoisting](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch5.md#when-can-i-use-a-variable):
 
-```js
+```javascript
 // 1. declare all variables for the specific scope
 
 
@@ -430,7 +430,7 @@ numbers.push(4); // Allowed
 Een `+page.svelte` route / page component is opgedeeld in componenten.  
 Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 
-```JavaScript
+```javascript
 <script>
   import { HeroSlider, SlideCards, Agenda, HomeCampus, HomePartners } from '$lib/index.js'
   
@@ -455,7 +455,8 @@ Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 
 * `+page.svelte` components geen losse HTML, maar deel de code op in logische componenten, bijvoorbeeld:
 
-```JavaScript
+```javascript
+
 <script>
   import Semesters from "$lib/organisms/Semesters.svelte"
   import Program from "$lib/molecules/Program.svelte"
