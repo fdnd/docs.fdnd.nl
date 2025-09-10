@@ -69,12 +69,11 @@ A few examples for Frontend changes from our very own agency
 - [feat: animals uit de database worden nu opgehaald en weergegeven in de dropdown #213](https://github.com/fdnd-agency/tumimundo/commit/849984b90c3c731b8cc740bc3d3968fe182486b6)
 - [fix: header font maat veranderd 🐛 #394](https://github.com/fdnd-agency/biebinbloei.nl/commit/6dd1bb24d362676141482ee49351a30ef7fd8002)
 
-Bron: [Mastering commit messages](https://dev.to/itxshakil/commit-like-a-pro-a-beginners-guide-to-conventional-commits-34c3#bonus-tips-mastering-commit-message-references)
 
 #### Bronnen
 * [Automating Versioning and Releases Using Semantic Release](https://medium.com/agoda-engineering/automating-versioning-and-releases-using-semantic-release-6ed355ede742) 
 * [use gitmoji in commit messages](https://gitmoji.dev/)  
-* [](https://dev.to/itxshakil/commit-like-a-pro-a-beginners-guide-to-conventional-commits-34c3)
+* [Mastering commit messages](https://dev.to/itxshakil/commit-like-a-pro-a-beginners-guide-to-conventional-commits-34c3)
 
 ### Semantic versioning (🏗️ work in progress)
 1. MAJOR version is incremented when you make any breaking change
@@ -132,10 +131,9 @@ All notable changes to this project will be documented in this file.
 
 ```
 
-
 ## Code conventies
 
-### Algemeen
+### Algemene code conventions
 
 #### Naamgeving
 * Gebruik betekenisvolle namen voor classes, id's, variables en function namen.
@@ -189,6 +187,286 @@ MyFunction() {} //
 // ❌ gebruik van var, gebruik const of let
 var initHeader = () => {} 
 ``` 
+
+### HTML conventies
+* Gebruik gestructureerde en [semantische HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+* Nest content niet onnodig diep. Voorkom te diepe nesting van section elementen en daarmee gepaarde heading levels. Link waar nodig liever naar een andere url met meer informatie
+* Maak gebruik van ingebouwde features van HTML (bijvoorbeeld de krachtige form validation van formulier elementen)
+* 1 tab – voor indentation.
+* Gebruik dubbele quotes voor attributen.
+
+### CSS conventies
+* 1 tab – for indentation.
+* Follow HTML order in CSS
+* Structure your code from generic to specific
+* Take advantage of the __[cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)__ and __[inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance)__, and use __utility classes__ to prevent code repetition (DRY)
+* Use kebab-case in naming classes en id's.
+
+
+#### CSS Nesting
+Use CSS nesting for more compact code. Always use [PostCSS](https://rodneylab.com/sveltekit-postcss-tutorial/#lipstick-sveltekit-postcss-tutorial-the-css-future-now) to convert nested CSS to flat CSS, since there is no fallback for CSS Nesting.
+
+#### Pseudo-Private Custom Properties
+Make smart use of  __[pseudo-private custom properties](https://lea.verou.me/blog/2021/10/custom-properties-with-defaults/)__ for more compact and modular code. 
+
+Tip; combine it with CSS nesting for even more compact code!
+
+**Example:**  
+```css
+button {
+    --_opacity: 1;
+    --_brdr-color: var(--gold-neutral);
+    --_bg-color: var(--gold-lightest);
+    --_color: var(--gold-darkest);
+    
+    border: 3px solid var(--_brdr-color);
+    background: var(--_bg-color);
+    color: var(--_color);
+    opacity: var(--_opacity);
+
+    &:hover,
+    &:focus-visible {
+        --_brdr-color: var(--green-darkest);
+        --_bg-color: var(--green-lightest);
+        --_color: var(--green-darkest);
+    }
+}
+```
+
+#### Create a rich dynamic color palet with custom properties
+By defining variations in `hue` and `saturation` with custom properties, you get a rich color palette, allowing you to use the primary colors with more variations in the interface. This allows you to create better visual hierarchy.
+
+##### Example
+```css
+/* Base HSL values */
+    --red-h: 359;
+    --red-s: 100%;
+
+    --green-h: 162;
+    --green-s: 100%;
+
+    --gold-h: 51;
+    --gold-s: 100%;
+
+    /* Ligntness variations */
+    --darkest: 15%;
+    --dark: 30%;
+    --neutral: 50%; 
+    --light: 70%;
+    --lightest: 90%;
+
+    /* Red variations using HSL values */
+    --red-darkest: hsl(var(--red-h), var(--red-s), var(--darkest));
+    --red-dark: hsl(var(--red-h), var(--red-s), var(--dark));
+    --red-neutral: hsl(var(--red-h), var(--red-s), var(--neutral));
+    --red-light: hsl(var(--red-h), var(--red-s), var(--light));
+    --red-lightest: hsl(var(--red-h), var(--red-s), var(--lightest));
+
+    /* Green variations using HSL values */
+    --green-darkest: hsl(var(--green-h), var(--green-s), var(--darkest));
+    --green-dark: hsl(var(--green-h), var(--green-s), var(--dark));
+    --green-neutral: hsl(var(--green-h), var(--green-s), var(--neutral));
+    --green-light: hsl(var(--green-h), var(--green-s), var(--light));
+    --green-lightest: hsl(var(--green-h), var(--green-s), var(--lightest));
+
+    /* Gold variations using HSL values */
+    --gold-darkest: hsl(var(--gold-h), var(--gold-s), var(--darkest));
+    --gold-dark: hsl(var(--gold-h), var(--gold-s), var(--dark));
+    --gold-neutral: hsl(var(--gold-h), var(--gold-s), var(--neutral));
+    --gold-light: hsl(var(--gold-h), var(--gold-s), var(--light));
+    --gold-lightest: hsl(var(--gold-h), var(--gold-s), var(--lightest));
+```
+
+#### Responsive
+* Use __[container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)__ for __width-based breakpoints__, use __[media queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)__ for the rest (type, user-preferences, color, etc)
+
+### JavaScript conventies
+
+* 1 tab – for indentation.
+* Single quotes for strings
+* Use comments to explain complicated code
+* Don't use semi colons at the end of a line
+
+#### Preferred coding style
+Use a consistent structure for  code for each [scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md) taking advantage of the JavaScript principle [hoisting](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch5.md#when-can-i-use-a-variable):
+
+```js
+// 1. declare all variables for the specific scope
+
+
+
+// 2. all code logic
+
+
+
+// 3. function declarations 
+
+```
+
+#### Use template literals where possible instead of string concatenation
+> Template literals are a way to create strings in JavaScript using backticks (`` ` ``) instead of regular quotes. They make it easier to include variables and expressions in a string without using string concatenation (``+``).
+
+1. use backticks for strings with variables or expressions
+
+```JavaScript
+
+// Bad
+const name = 'Bob';
+const message = 'Hello ' + name + ', welcome!';
+
+// Good
+const name = 'Bob';
+const message = `Hello ${name}, welcome!`;
+```
+
+2. Use template literals for dynamic expressions:
+
+```JavaScript
+const user = 'Alice';
+const items = 5;
+
+// Bad
+const summary = user + ' has ' + items + ' items in their cart.';
+
+// Good
+const summary = `${user} has ${items} items in their cart.`;
+```
+
+##### Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+
+#### Use object destructuring when assigning object properties:
+> The destructuring syntax is a JavaScript syntax that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
+
+```JavaScript
+
+// Bad
+const name = person.name;
+const age = person.age;
+
+// Good
+const { name, age } = person;
+
+```
+
+```HTML
+<!-- Bad -->
+<h2>{person.name}</h2>
+<p>{person.age}</p>
+
+<!-- Good -->
+<h2>{name}</h2>
+<p>{age}</p>
+
+```
+Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring
+
+
+#### When to use const, let and var
+Always use `const` unless you need to reassign the variable.
+
+#####  Use `const` by default
+> Use `const` for all variables that should not be reassigned. This makes the code more predictable and prevents accidental modifications.
+
+```js
+
+// example
+const MAX_USERS = 100;
+const apiUrl = "https://example.com/api";
+
+// Bad
+var message = "Hello";
+
+// Good
+const message = "Hello";
+```
+
+##### Use `let` when reassignment is necessary
+> Use `let` only when the value of the variable changes after initialization.
+
+```js
+// Bad
+const count = 0;
+count = 1; // Error: Assignment to constant variable
+
+// Good
+let count = 0;
+count = 1;
+
+```
+
+##### Avoid using `var`
+> `var` has function scope and can be redeclared, which can lead to unexpected bugs due to hoisting. Avoid using it unless necessary.
+
+```js
+// Bad
+var name = "Alice";
+
+// Good
+const name = "Alice";
+```
+
+##### Extra considerations
+
+**Use `const` for objects and arrays, even if their contents change**  
+The reference remains the same but properties or elements can be modified.
+
+```js
+const user = { name: "John" };
+user.age = 25; // Allowed
+
+const numbers = [1, 2, 3];
+numbers.push(4); // Allowed
+```
+
+### SvelteKit conventies
+#### Data
+* Fetch data altijd via een `+page.server.js` bestand
+* Manipuleer waar mogelijk data op de server (in `+page.server.js`)
+
+#### Routes & componenten structuur
+Een `+page.svelte` route / page component is opgedeeld in componenten.  
+Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
+
+```JavaScript
+<script>
+  import { HeroSlider, SlideCards, Agenda, HomeCampus, HomePartners } from '$lib/index.js'
+  
+  let { data } = $props()
+
+  const { hero, slides, campus, agenda, partners } = data
+</script>
+
+<HeroSlider {hero} />
+<SlideCards {slides} />
+<HomeCampus {campus} />
+<Agenda {agenda} />
+<HomePartners {partners} />
+
+```
+
+#### Componenten
+* Gebruik `object destructuring` om je template code clean te houden
+* Geef alleen benodigde data door aan componenten
+* Vermijd het te diep nesten van componenten (3 levels max)
+* Gebruik betekenisvolle namen voor componenten / functions / variables / css classes
+
+* `+page.svelte` components geen losse HTML, maar deel de code op in logische componenten, bijvoorbeeld:
+
+```JavaScript
+<script>
+  import Semesters from "$lib/organisms/Semesters.svelte"
+  import Program from "$lib/molecules/Program.svelte"
+  
+  let { data } = $props()
+  const { title, subtitle, content, semesters } = data
+</script>
+
+<Program {title} {content} />
+<Semesters {semesters} {subtitle} />
+```
+#### CSS
+* Probeer het gebruik van :global in CSS te vermijden, plaats waar nodig style rules in een global stylesheet en/of gebruik pseudo-private custom properties.
 
 ## Design Conventies
 

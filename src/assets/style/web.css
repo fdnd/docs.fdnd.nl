@@ -900,6 +900,7 @@ article {
 
 pre {
   padding: var(--gap);
+  overflow-x:auto;
 }
 
 table {
