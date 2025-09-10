@@ -150,6 +150,7 @@ All notable changes to this project will be documented in this file.
   --primary-color: hotpink;
 }
 ```
+
 ```css
 /* ❌ button naam is niet beschrijvend, btn kan gewoon voluit geschreven worden voor duidelijkheid */
 /* ❌ color-1 is geen beschrijvende css var naam */
@@ -159,6 +160,7 @@ All notable changes to this project will be documented in this file.
   --kleur-2: hotpink;
 }
 ``` 
+
 ```html
 <!-- ✅ id en class name gebruiken kebab case en beschrijven wat het element doet -->
 <form id="contact-form" class="contact-form"></form>
@@ -308,7 +310,7 @@ Use a consistent structure for  code for each [scope](https://github.com/getify/
 
 1. use backticks for strings with variables or expressions
 
-```JavaScript
+```javascript
 
 // Bad
 const name = 'Bob';
@@ -321,7 +323,7 @@ const message = `Hello ${name}, welcome!`;
 
 2. Use template literals for dynamic expressions:
 
-```JavaScript
+```javascript
 const user = 'Alice';
 const items = 5;
 
@@ -338,7 +340,7 @@ const summary = `${user} has ${items} items in their cart.`;
 #### Use object destructuring when assigning object properties:
 > The destructuring syntax is a JavaScript syntax that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
 
-```JavaScript
+```javascript
 
 // Bad
 const name = person.name;
@@ -349,7 +351,7 @@ const { name, age } = person;
 
 ```
 
-```HTML
+```html
 <!-- Bad -->
 <h2>{person.name}</h2>
 <p>{person.age}</p>
@@ -368,7 +370,7 @@ Always use `const` unless you need to reassign the variable.
 #####  Use `const` by default
 > Use `const` for all variables that should not be reassigned. This makes the code more predictable and prevents accidental modifications.
 
-```js
+```javascript
 
 // example
 const MAX_USERS = 100;
@@ -384,7 +386,7 @@ const message = "Hello";
 ##### Use `let` when reassignment is necessary
 > Use `let` only when the value of the variable changes after initialization.
 
-```js
+```javascript
 // Bad
 const count = 0;
 count = 1; // Error: Assignment to constant variable
@@ -398,7 +400,7 @@ count = 1;
 ##### Avoid using `var`
 > `var` has function scope and can be redeclared, which can lead to unexpected bugs due to hoisting. Avoid using it unless necessary.
 
-```js
+```javascript
 // Bad
 var name = "Alice";
 
@@ -411,7 +413,7 @@ const name = "Alice";
 **Use `const` for objects and arrays, even if their contents change**  
 The reference remains the same but properties or elements can be modified.
 
-```js
+```javascript
 const user = { name: "John" };
 user.age = 25; // Allowed
 
