@@ -94,13 +94,12 @@ Een Alliance Officer:
 
 - Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, Visual Design en/of SCRUM;
 - Is eindverantwoordelijk voor het embedden van projecten en design challenges van echte opdrachtgevers in het onderwijs;
-- Is eindverantwoordelijk voor het organiseren van externe co-teachers, experts uit het vakgebied die naast een squad leader één of meerdere sprint meedraaien in een squad;
-- Is eindverantwoordelijk voor het organiseren van talks en workshops door expert uit het vakgebied;
 - Is eindverantwoortdelijk voor het verbinden van technische partijen aan het onderwijs (hosting, cms systemen);
-- Is eindverantwoordelijk voor het organiseren van FDND evenementen (EXPO's, stagemarkten, afstuderen, werkveldsessies);
+- Is mede verantwoordelijk voor het organiseren van FDND evenementen (EXPO's, stagemarkten, afstuderen, werkveldsessies);
 - Is mede verantwoordelijk voor stages en het contact leggen met en onderhouden van relevante stagebedrijven;
 - Is eindverantwoordelijk voor het managen van alle externe FDND contacten;
 - Neemt deel aan Standup, Plan & Review, Programmacoordinatie en Retrospective meetings.
+
 
 ### Assessoren
 
