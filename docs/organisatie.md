@@ -4,7 +4,7 @@ Dit document beschrijft organisatieinrichting bij FDND en biedt handvatten aan d
 
 ## Structuur
 
-### Agile organisatie
+### Organisatieinrichting
 
 Om dicht bij het beroepenveld te blijven wordt de organisatie van de Ad Frontend Design & Development ingericht volgens de Agile organisatiestructuur (Spotify-model). Dit houdt in dat we studenten en docenten indelen in tribes, squads, chapters en guilds. Nota bene: we spreken bij FDND dus niet over klassen!
 
@@ -40,6 +40,80 @@ jaar 2: 1 squad (10), 1 tribe
 jaar 1: 1 squad (14), 1 tribe
 
 ### Sociocratie
+
+Omdat we uitsluitend werken met frontend professionals en niemand de volledige waarheid kent is FDND georganiseerd als [sociocratie](https://patterns.sociocracy30.org/). Dit is een bestuurs- en besluitvormingsmodel waarin we als groep sturen op gemeenschappelijke doelen met gelijkwaardigheid als uitgangspunt. In plaats van meerderheidsstemmen draait het bij beslissingen om *consent*: een besluit gaat door als er geen “zwaarwegend bezwaar” is. FDND werkt in cirkels met [duidelijke rollen](#rollen) en transparante processen, zodat samenwerking, wederzijds leren en aanpassingsvermogen centraal staan. Het idee is pragmatisch: we passen kleine, iteratieve verbeteringen toe en groeien naar een wendbare en veerkrachtige organisatie zonder grote, plotselinge reorganisaties.
+
+### Vergaderprogramma
+
+FDND implementeert een aantal [vergaderpraktijken uit de sociocratie](https://patterns.sociocracy30.org/meeting-practices.html). Kernpatronen die we hanteren zijn: werken met rondjes waarbij iedereen beurtelings aan het woord is, gefaciliteerde meetings waarbij iemand focus en flow bewaakt, de vraag om meetings voor te bereiden, het doen van een check in om aanwezigheid en focus te vergroten en het evalueren van meetings om ook van de opzet te leren. Het team bepaalt wie een (type) meeting voorbereid.
+
+#### Standup Meeting
+
+_Wekelijkse ontmoeting om het werk te organiseren, leren te faciliteren en productiviteit en effectiviteit te verbeteren._
+
+Tribe-leaders, squad-leaders en co-teachers treffen elkaar wekelijks op maandag tussen 13.00 - 13.30. We bespreken per persoon het volgende:
+
+- Wat heb je gedaan?
+- Waar heb je hulp bij nodig?
+- Wat ga je aankomende week doen?
+- Wat komt er in de nabije toekomst aan? (aan/afwezigheid)
+
+Belangrijk is dat we tijdens een standup NIET in detail treden of problemen gaan oplossen. Eventuele nieuwe taken worden opgenomen in de Todo kolom en nog niet in de backlog geplaatst!
+
+#### Programmacoördinatie meeting
+
+_Wekelijkse ontmoeting voor coördinatie van het onderwijsprogramma._
+
+Tribe-leaders treffen elkaar wekelijks op donderdag tussen 9.30 - 11.00. Onderwerpen die behandeld worden zijn:
+
+- De planning op programma.fdnd.nl;
+- Aanmaken van taken met betrekking tot het programma;
+- Bespreken van drivers en ideeën en daar uit volgende taken.
+
+Belangrijk is dat taken worden aangemaakt in de Todo kolom en nog niet in de backlog geplaatst!
+
+#### Planning & Review Meeting
+
+_Wekelijkse ontmoeting om het werk te plannen, taken te verdelen en voortgang te bewaken._
+
+Tribe-leaders, squad-leaders en eventueel co-teachers treffen elkaar wekelijks op vrijdag rond 13.00. Onderwerpen die worden behandeld zijn:
+
+- Planning op programma.fdnd.nl bekijken;
+- Planbord gezamenlijk en in overleg bekijken en bijwerken: Todo, Backlog, In progress, Review;
+- Taken in de kolom Done gezamenlijk sluiten;
+- Nieuwe taken verdelen en claimen (mag met meer personen);
+- Aanwezigheid huidige (en aankomende) sprint bespreken.
+
+#### Higher Education Agile Learning (HEAL)
+
+_We besteden elk blok tijd aan het reflecteren op eerdere ervaring, leren hiervan en beslissen hoe we onze werk- en onderwijsprocessen kunnen verbeteren._
+
+Vier keer per jaar treffen tribe-leaders, squad-leaders, co-teachers de opleidingscommissie en andere uitgenodigde studenten elkaar tijdens een Higher Education Agile Learning (HEAL) meeting om te reflecteren op de afgelopen periode. Een HEAL neemt een dagdeel (4 uur) in beslag en is opgenomen in de jaarplanning.
+
+##### 360º feedback
+
+Twee keer, rond de Midterm, staat de HEAL in het teken van een 360º feedback sessie waarin teamleden elkaar in rondes feedback geven op basis van de resultaatgebieden uit de HvA brede [Hay-profielen voor docenten](https://az.hva.nl/binaries/content/assets/serviceplein-a-z-lemmas/ac-hr/documenten/documenten-hr---profielen-nieuw/160106-functieprofiel-docentonderzoeker.pdf). Deze resultaatgebieden zijn:
+
+- **Algemeen**: Algemene indruk van betreffende collega.
+- **Onderwijsontwikkeling**: Vernieuwing van de opzet en uitvoering van onderwijsonderdelen.
+- **Onderwijsuitvoering**: Voorbereiden en verzorgen van onderwijsonderdelen en het beoordelen van studenten.
+- **Onderwijsevaluatie**: Evalueren van de opzet en uitvoering van onderwijs (inclusief toetsing) en voorstellen van mogelijke verbeteringen in didactiek en/of inhoud.
+- **Begeleiding van studenten**: Uitvoeren van studentbegeleiding en (studieloopbaan-)coaching.
+- **Kennispartner in het vakgebied**: Uitdragen en openbaar maken van kennis van het eigen vakgebied/ onderzoeksgebied/ specialisme/ practice based evidence-methodieken, intern en extern, alsmede onderhouden, uitbouwen en benutten van contacten met het beroepenveld en andere belanghebbenden.
+- **Participatie**: Actieve deelname aan het docententeam.
+- **Vitaliteit**: De balans tussen werk en privé (voor zover de collega dit publiek wil delen).
+
+##### Retrospect
+
+Twee keer, rond de Endterm, staat de HEAL in het teken van een retrospective. Het doel van de meeting is de organisatie en het onderwijs aan te passen aan de situatie en context waar ze zich in bevind. De retrospective meeting wordt gefaciliteerd en voorbereid door tribe-leaders en kent een vaste structuur. Het resultaat van een retrospective meeting zijn veranderingen in onderwijs- en organisatieprocessen, nieuwe taken, gezamenlijke beslissingen en drivers die een beslissing behoeven. De vijf fasen van een retrospective meeting zijn:
+
+1. Inchecken
+2. Informatie verzamelen
+3. Inzichten genereren
+4. Beslissen wat we gaan doen
+5. Sluiting
+
+Een hulpmiddel voor het plannen van activiteiten voor de verschillende fases is [retromat.org](https://retromat.org/).
 
 ## Rollen
 
@@ -117,76 +191,6 @@ In samenwerking met de HvA Academie is een professionaliseringstraject vormgegev
 
 Bij aanvang van de opleiding in september 2021 zal zo snel mogelijk gestart worden met het formeren van een opleidingscommissie (OC) bestaande uit twee docenten en twee studenten. De rechten en plichten van deze commissie zijn vastgelegd in een HvA breed reglement. In de opstarase van de opleiding is veelvuldig overleg met de OC belangrijk. Daarom overleggen zij naast de eigen vergaderingen eenmaal per zes weken met de tribe leaders en eenmaal per blok met de opleidingsmanager van de bachelor Communicaon and Mulmedia Design over de kwaliteit van de opleiding, de uitkomsten van onderwijsevaluaes en de uitvoering van de Onderwijs- en Examenregeling (OER). De uitkomsten van deze gesprekken worden besproken met het docententeam en zijn sturend voor de onderwijsontwikkeling.
 
-## Vergaderprogramma
-
-### Standup Meeting
-
-_Wekelijkse ontmoeting om het werk te organiseren, leren te faciliteren en productiviteit en effectiviteit te verbeteren._
-
-Tribe-leaders, squad-leaders en co-teachers treffen elkaar wekelijks op maandag tussen 13.00 - 13.30 (liever 13.15!). We bespreken per persoon het volgende:
-
-- Wat heb je gedaan?
-- Waar heb je hulp bij nodig?
-- Wat ga je aankomende week doen?
-- Wat komt er in de nabije toekomst aan? (aan/afwezigheid)
-
-Belangrijk is dat we tijdens een standup NIET in detail treden of problemen gaan oplossen. Eventuele nieuwe taken worden opgenomen in de Todo kolom en nog niet in de backlog geplaatst!
-
-### Programmacoördinatie meeting
-
-_Wekelijkse ontmoeting voor coordinatie van het onderwijsprogramma._
-
-Tribe-leaders treffen elkaar wekelijks op donderdag tussen 9.30 - 11.00. Onderwerpen die behandeld worden zijn:
-
-- De planning op programma.fdnd.nl;
-- Aanmaken van taken met betrekking tot het programma;
-- Bespreken van drivers en ideeën en daar uit volgende taken.
-
-Belangrijk is dat taken worden aangemaakt in de Todo kolom en nog niet in de backlog geplaatst!
-
-### Planning & Review Meeting
-
-_Wekelijkse ontmoeting om het werk te plannen, taken te verdelen en voortgang te bewaken._
-
-Tribe-leaders, squad-leaders en eventueel co-teachers treffen elkaar wekelijks op vrijdag tussen 13.00 - 14.00. Onderwerpen die worden behandeld zijn:
-
-- Planning op programma.fdnd.nl bekijken;
-- Planbord gezamenlijk en in overleg bekijken en bijwerken: Todo, Backlog, In progress, Review;
-- Taken in de kolom Done gezamenlijk sluiten;
-- Nieuwe taken verdelen en claimen (mag met meer personen);
-- Aanwezigheid huidige (en aankomende) sprint bespreken.
-
-### Higher Education Agile Learning (HEAL)
-
-_We besteden elk blok tijd aan het reflecteren op eerdere ervaring, leren hiervan en beslissen hoe we onze werk- en onderwijsprocessen kunnen verbeteren._
-
-Vier keer per jaar treffen alle tribe-leaders, squad-leaders en co-teachers elkaar tijdens een Higher Education Agile Learning (HEAL) ontmoeting om te reflecteren op de afgelopen periode. Een HEAL neemt een dagdeel (4 uur) in beslag en is opgenomen in de jaarplanning.
-
-#### 360º feedback
-
-Twee keer, rond de Midterm, staat de HEAL in het teken van een 360º feedback sessie waarin teamleden elkaar in rondes feedback geven op basis van de resultaatgebieden uit de HvA brede [Hay-profielen voor docenten](https://az.hva.nl/binaries/content/assets/serviceplein-a-z-lemmas/ac-hr/documenten/documenten-hr---profielen-nieuw/160106-functieprofiel-docentonderzoeker.pdf). Deze resultaatgebieden zijn:
-
-- **Algemeen**: Algemene indruk van betreffende collega.
-- **Onderwijsontwikkeling**: Vernieuwing van de opzet en uitvoering van onderwijsonderdelen.
-- **Onderwijsuitvoering**: Voorbereiden en verzorgen van onderwijsonderdelen en het beoordelen van studenten.
-- **Onderwijsevaluatie**: Evalueren van de opzet en uitvoering van onderwijs (inclusief toetsing) en voorstellen van mogelijke verbeteringen in didactiek en/of inhoud.
-- **Begeleiding van studenten**: Uitvoeren van studentbegeleiding en (studieloopbaan-)coaching.
-- **Kennispartner in het vakgebied**: Uitdragen en openbaar maken van kennis van het eigen vakgebied/ onderzoeksgebied/ specialisme/ practice based evidence-methodieken, intern en extern, alsmede onderhouden, uitbouwen en benutten van contacten met het beroepenveld en andere belanghebbenden.
-- **Participatie**: Actieve deelname aan het docententeam.
-- **Vitaliteit**: De balans tussen werk en privé (voor zover de collega dit publiek wil delen).
-
-#### Retrospect
-
-Twee keer, rond de Endterm, staat de HEAL in het teken van een retrospective. Het doel van de meeting is de organisatie en het onderwijs aan te passen aan de situatie en context waar ze zich in bevind. De retrospective meeting wordt gefaciliteerd en voorbereid door tribe-leaders en kent een vaste structuur. Het resultaat van een retrospective meeting zijn veranderingen in onderwijs- en organisatieprocessen, nieuwe taken, gezamenlijke beslissingen en drivers die een beslissing behoeven. De vijf fasen van een retrospective meeting zijn:
-
-1. Inchecken
-2. Informatie verzamelen
-3. Inzichten genereren
-4. Beslissen wat we gaan doen
-5. Sluiting
-
-Een hulpmiddel voor het plannen van activiteiten voor de verschilende fases is [retromat.org](https://retromat.org/).
-
 ## Kwaliteitsborging
 
 De HvA heeft als missie om studenten op te leiden tot professionals die beschikken over de kennis en competenties die nodig zijn om een vooraanstaande rol te spelen in beroepspraktijk en in de samenleving. Onderwijskwaliteit gaat om het realiseren van deze missie en om hoe we er als instelling voor zorgen dat studenten het onderwijs uitdagend vinden en de opleiding ervaren als een goede voorbereiding op hun professionele toekomst.
@@ -253,3 +257,5 @@ De 100 dagen monitor is een door de HvA onder alle 1e jaars uitgezet meetinstrum
 #### Nationale Studenten Enquête (NSE)
 
 De NSE is een landelijk uitgezet meetinstrument. De tribe-leaders dragen eindverantwoordelijkheid voor het tijdens een lesmoment uitzetten van de NSE binnen de eerste week na publicatie. De kwaliteitsmedewerker publiceert de resultaten in de map `Organisatie FDND > Metingen` op het MS Teams kanaal van de docenten zodat die voor docenten inzichtelijk zijn. De resultaten worden besproken tijdens [panelgesprekken](#panelgesprekken) en informeren de [HEAL-sessies](/organisatie.html#higher-education-agile-learning-heal).
+
+### Resultaten
