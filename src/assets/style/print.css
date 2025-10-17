@@ -43,7 +43,6 @@ main {
 nav.subnav {
   page-break-before: always;
   font-family: Open Sans, sans-serif;
-  counter-reset: chapter;
 }
 nav.subnav::before {
   display: block;
@@ -55,6 +54,9 @@ nav.subnav ol {
   padding: 0;
   list-style-position: inside;
 }
+nav.subnav > ol {
+  counter-reset: chapter;
+}
 
 ol.toc-level-2,
 ol.toc-level-3,
@@ -62,10 +64,6 @@ ol.toc-level-4,
 ol.toc-level-5,
 ol.toc-level-6 {
   counter-increment: chapter;
-}
-
-li.toc-item::before {
-  content: counters(chapter, '{') '~';
 }
 
 li.toc-item::marker {
