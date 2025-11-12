@@ -34,7 +34,7 @@ export default function fdndWrap(options = {}) {
     return [
       h('header', [
         h('span', { class: ['version', options.version] }, options.version),
-        h('a', { href: 'https://docs.fdnd.nl/', tabindex: '-1' }, [
+        h('a', { href: '/', tabindex: '-1' }, [
           h('h1', [
             h('abbr', { title: 'Frontend Design & Development' }, h('span', 'FDND')),
             { type: 'text', value: ' ' },

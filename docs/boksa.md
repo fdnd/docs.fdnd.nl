@@ -204,8 +204,7 @@ Hoe het werkt:
 3. **Discussie:** Na het onthullen van de kaarten bespreken teamleden hun keuzes om verschillende perspectieven te delen.
 4. **Herhaling:** Het proces kan herhaald worden totdat er consensus is.
 
-Bron:
-[Scrum Planning Poker: Best Estimation Method for Agile Teams](https://www.scrum-institute.org/Effort_Estimations_Planning_Poker.php)
+- [Scrum Planning Poker: Best Estimation Method for Agile Teams](https://www.scrum-institute.org/Effort_Estimations_Planning_Poker.php)
 
 #### MoSCoW Prioritering
 MoSCoW-prioritering is een techniek die wordt gebruikt om de prioriteit van de vastgestelde taken in een project te bepalen. Het helpt teams bij het focussen op wat essentieel is voor de succesvolle oplevering van een project. De term "MoSCoW" staat voor vier categorieën van prioriteiten:
@@ -215,20 +214,26 @@ Should have: Belangrijke taken die niet kritisch zijn, maar wel een aanzienlijke
 Could have: Wensen of optionele features die kunnen worden toegevoegd als er tijd en middelen beschikbaar zijn.
 Won't have this time: Vereisten die voor nu worden uitgesloten, maar mogelijk in de toekomst kunnen worden overwogen.
 
-Bron:
 - [Moscow method](https://en.wikipedia.org/wiki/MoSCoW_method)
 
 #### Budgetten
 
-Beschikbare uren voor het project
+Als frontender maak je gebruik van verschillende budgetten die de mogelijke reikwijdte van een project begrenzen:
 
-Performance budget, hoeveel seconden mag een site inladen op welke snelheid. Welke waarden voor TFP..
+Een *financieel budget* wordt gebruikt om kosten en uitgaven van een project te beheren. Dit type budget is belangrijk voor het plannen en controleren van financiële aspecten en bepaalt vaak de uren die voor ontwerp en ontwikkelen van een website beschikbaar zijn.
 
-a11y budget, welke WCAG standaard moet gehaald worden A+, A++, A+++
+Een *performance budget* is een set van richtlijnen om de minimale prestaties van een website of webapplicatie af te bakenen. Het helpt bij het maken van keuzes tijdens de ontwikkeling en waarborgt dat eindgebruikers een positieve gebruikservaring hebben. Opgenomen worden afspraken over: maximale laadtijd, grootte van assets, aantal HTTP-requests, *time to interactive*(TTI) en  de *first contentfull paint* (FCP). Lees meer op [Performance budgets 101 @ web.dev](https://web.dev/articles/performance-budgets-101?hl=en).
+
+Een *accessibility budget* is een set van richtlijnen om ervoor te zorgen dat een website toegankelijk is. Een accessibility budget helpt bij het waarborgen van een inclusieve en gebruiksvriendelijke ervaring. Opgenomen worden afspraken over: WCAG Compliance (bijv. A+, A++ of A+++), contrast ratio, grootte van het lettertype, keyboard navigatie, audio beschrijving, formulieren, foutmeldingen, focus states, testen en validatie.
 
 #### Tech-stack bepalen
 
-Onderbouwen met valide argumenten
+Het bepalen van de tech-stack heeft invloed op de ontwikkeling, prestaties, schaalbaarheid en het onderhoud van een applicatie. Bij de bepaling weeg je mee: projectvereisten en doelen, teamexpertise, compatibiliteit met bestaande it-infrastructuur, community en ondersteuning, beveiliging, wetgeving en trends.
+
+- [How to Choose the Best Technology Stack for Web Application Development: 10 Helpful Tips @ Softermii](https://www.softermii.com/blog/10-tips-in-choosing-the-best-tech-stack-for-your-web-application)
+- [Ten criteria for choosing the correct framework](https://symfony.com/ten-criteria)
+- [Choosing the Right Tech Stack for Your Project: Basic Principles](https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/)
+- [How to align your tech stack with your organization](https://tray.ai/resources/blog/align-revenue-ops-tech-stack)
 
 ### Ontwerpen
 
