@@ -217,9 +217,9 @@ Tip; combine it with CSS nesting for even more compact code!
 ```css
 button {
     --_opacity: 1;
-    --_brdr-color: var(--gold-neutral);
-    --_bg-color: var(--gold-lightest);
-    --_color: var(--gold-darkest);
+    --_brdr-color: var(--primary-neutral);
+    --_bg-color: var(--primary-lightest);
+    --_color: var(--primary-darkest);
     
     border: 3px solid var(--_brdr-color);
     background: var(--_bg-color);
@@ -228,9 +228,9 @@ button {
 
     &:hover,
     &:focus-visible {
-        --_brdr-color: var(--green-darkest);
-        --_bg-color: var(--green-lightest);
-        --_color: var(--green-darkest);
+        --_brdr-color: var(--accent-darkest);
+        --_bg-color: var(--accent-lightest);
+        --_color: var(--accent-darkest);
     }
 }
 ```
@@ -241,14 +241,14 @@ By defining variations in `hue` and `saturation` with custom properties, you get
 ##### Example
 ```css
 /* Base HSL values */
-    --red-h: 359;
-    --red-s: 100%;
+    --primary-h: 359;
+    --primary-s: 100%;
 
-    --green-h: 162;
-    --green-s: 100%;
+    --secondary-h: 162;
+    --secondary-s: 100%;
 
-    --gold-h: 51;
-    --gold-s: 100%;
+    --accent-h: 51;
+    --accent-s: 100%;
 
     /* Ligntness variations */
     --darkest: 15%;
@@ -258,25 +258,25 @@ By defining variations in `hue` and `saturation` with custom properties, you get
     --lightest: 90%;
 
     /* Red variations using HSL values */
-    --red-darkest: hsl(var(--red-h), var(--red-s), var(--darkest));
-    --red-dark: hsl(var(--red-h), var(--red-s), var(--dark));
-    --red-neutral: hsl(var(--red-h), var(--red-s), var(--neutral));
-    --red-light: hsl(var(--red-h), var(--red-s), var(--light));
-    --red-lightest: hsl(var(--red-h), var(--red-s), var(--lightest));
+    --primary-darkest: hsl(var(--primary-h), var(--primary-s), var(--darkest));
+    --primary-dark: hsl(var(--primary-h), var(--primary-s), var(--dark));
+    --primary-neutral: hsl(var(--primary-h), var(--primary-s), var(--neutral));
+    --primary-light: hsl(var(--primary-h), var(--primary-s), var(--light));
+    --primary-lightest: hsl(var(--primary-h), var(--primary-s), var(--lightest));
 
     /* Green variations using HSL values */
-    --green-darkest: hsl(var(--green-h), var(--green-s), var(--darkest));
-    --green-dark: hsl(var(--green-h), var(--green-s), var(--dark));
-    --green-neutral: hsl(var(--green-h), var(--green-s), var(--neutral));
-    --green-light: hsl(var(--green-h), var(--green-s), var(--light));
-    --green-lightest: hsl(var(--green-h), var(--green-s), var(--lightest));
+    --secondary-darkest: hsl(var(--secondary-h), var(--secondary-s), var(--darkest));
+    --secondary-dark: hsl(var(--secondary-h), var(--secondary-s), var(--dark));
+    --secondary-neutral: hsl(var(--secondary-h), var(--secondary-s), var(--neutral));
+    --secondary-light: hsl(var(--secondary-h), var(--secondary-s), var(--light));
+    --secondary-lightest: hsl(var(--secondary-h), var(--secondary-s), var(--lightest));
 
     /* Gold variations using HSL values */
-    --gold-darkest: hsl(var(--gold-h), var(--gold-s), var(--darkest));
-    --gold-dark: hsl(var(--gold-h), var(--gold-s), var(--dark));
-    --gold-neutral: hsl(var(--gold-h), var(--gold-s), var(--neutral));
-    --gold-light: hsl(var(--gold-h), var(--gold-s), var(--light));
-    --gold-lightest: hsl(var(--gold-h), var(--gold-s), var(--lightest));
+    --accent-darkest: hsl(var(--accent-h), var(--accent-s), var(--darkest));
+    --accent-dark: hsl(var(--accent-h), var(--accent-s), var(--dark));
+    --accent-neutral: hsl(var(--accent-h), var(--accent-s), var(--neutral));
+    --accent-light: hsl(var(--accent-h), var(--accent-s), var(--light));
+    --accent-lightest: hsl(var(--accent-h), var(--accent-s), var(--lightest));
 ```
 
 #### Responsive
