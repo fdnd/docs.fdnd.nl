@@ -279,8 +279,20 @@ By defining variations in `hue` and `saturation` with custom properties, you get
     --accent-lightest: hsl(var(--accent-h), var(--accent-s), var(--lightest));
 ```
 
-#### Responsive
-* Use __[container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)__ for __width-based breakpoints__, use __[media queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)__ for the rest (type, user-preferences, color, etc)
+#### The New Responsive
+
+The article [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive) explains how modern responsive design goes beyond viewport media queries by embracing **user preferences** (like dark mode), **container queries** (so components adapt to their parent’s size), and **new device types** (like foldables). These advances shift web design from page-based to component-based, making interfaces more flexible and adaptive.
+
+##### Responsive to the container
+* Use __[container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)__ for __device-based breakpoints__, and thus for responsive styling of your components.
+
+##### Responsive to the user
+* Use __[media queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)__ for styling user-preferences.
+
+**Resources:**
+* [The new responsive: Web design in a component-driven world](https://web.dev/articles/new-responsive)
+* [Media Queries Level 5](https://www.w3.org/TR/mediaqueries-5/)
+* [Using Media Queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using)
 
 ### JavaScript conventies
 
