@@ -198,12 +198,38 @@ var initHeader = () => {}
 * Gebruik dubbele quotes voor attributen.
 
 ### CSS conventies
+
+#### Generic
 * 1 tab – for indentation.
 * Follow HTML order in CSS
 * Structure your code from generic to specific
 * Take advantage of the __[cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)__ and __[inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance)__, and use __utility classes__ to prevent code repetition (DRY)
 * Use kebab-case in naming classes en id's.
 
+#### Font Face
+
+Always provide sufficient fallbacks when using `@font-face` (web fonts).
+
+**Example:**
+
+```css
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('webfont.eot'); /* IE9 Compat Modes */
+  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+body {
+  font-family: 'MyWebFont', Fallback, sans-serif;
+}
+```
+
+##### Source
+[Using font face in CSS](https://css-tricks.com/snippets/css/using-font-face-in-css/)
 
 #### CSS Nesting
 Use CSS nesting for more compact code. Always use [PostCSS](https://rodneylab.com/sveltekit-postcss-tutorial/#lipstick-sveltekit-postcss-tutorial-the-css-future-now) to convert nested CSS to flat CSS, since there is no fallback for CSS Nesting.
@@ -484,6 +510,42 @@ Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 * Probeer het gebruik van :global in CSS te vermijden, plaats waar nodig style rules in een global stylesheet en/of gebruik pseudo-private custom properties.
 
 ## Design Conventies
+
+### Typography
+
+#### Rules for readable text
+* Minimal `16px` `font-size`
+* Minimal `1.5` `line-height`
+* Between 10 to 12 words / 55 to 75 characters on a line
+* After paragraphs a minimum of 2 times the `font-size`
+* `letter-spacing` > 0.12 times the `font-size`
+* `word-spacing` > 0.16 times the `font-size`
+
+##### Sources
+[WCAG Text Spacing](https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html)
+
+#### Text alignment
+* Left aligned – in most cases
+* On the right – for balance, compositional solution
+* In the center – very rarely. Mostly for headings
+* Use `text-wrap: balance;` for balanced headers. Use it sparsingly
+
+##### Source
+[Types of web alignments](https://typographyprinciples.obys.agency/alignments/)
+
+#### Modular scale for Typography
+
+Use a modular scale on font-sizes for a more balanced typography on your website.
+
+##### Source
+[More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography/)  
+
+#### Better Dark Mode
+
+Always use a slightly higher `line-height` on text in dark mode, because of its shinyness.
+
+##### Source
+[](https://fabrikbrands.com/what-is-leading-in-typography-leading-in-graphic-design/)  
 
 ### UX Design best-practices
 
