@@ -463,11 +463,11 @@ numbers.push(4); // Allowed
 
 #### Use Svelte 5 syntax
 
-Use svelte 5 syntax, when in a Svelte 5 project (check `package.json`), to run your components in `runes-mode`.
+Use svelte 5 syntax, when you're coding in a Svelte 5 project, to run your components in `runes-mode`.
 
 ##### Source
 
-(Svlet 4 & Svelte 5 compared)[https://component-party.dev/?f=svelte4-svelte5]
+[Svelte 4 & Svelte 5 compared](https://component-party.dev/?f=svelte4-svelte5)
 
 
 #### Data
