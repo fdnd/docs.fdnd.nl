@@ -206,7 +206,7 @@ var initHeader = () => {}
 * Take advantage of the __[cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)__ and __[inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance)__, and use __utility classes__ to prevent code repetition (DRY)
 * Use kebab-case in naming classes en id's.
 
-#### Font Face
+#### Robust Font Face
 
 Always provide sufficient fallbacks when using `@font-face` (web fonts).
 
@@ -460,6 +460,16 @@ numbers.push(4); // Allowed
 ```
 
 ### SvelteKit conventies
+
+#### Use Svelte 5 syntax
+
+Use svelte 5 syntax, when in a Svelte 5 project (check `package.json`), to run your components in `runes-mode`.
+
+##### Source
+
+(Svlet 4 & Svelte 5 compared)[https://component-party.dev/?f=svelte4-svelte5]
+
+
 #### Data
 * Fetch data altijd via een `+page.server.js` bestand
 * Manipuleer waar mogelijk data op de server (in `+page.server.js`)
@@ -506,7 +516,7 @@ Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 <Program {title} {content} />
 <Semesters {semesters} {subtitle} />
 ```
-#### CSS
+#### Avoid :global in CSS
 * Probeer het gebruik van :global in CSS te vermijden, plaats waar nodig style rules in een global stylesheet en/of gebruik pseudo-private custom properties.
 
 ## Design Conventies
