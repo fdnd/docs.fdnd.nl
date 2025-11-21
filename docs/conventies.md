@@ -208,19 +208,15 @@ var initHeader = () => {}
 
 #### Robust Font Face
 
-Always provide sufficient fallbacks when using `@font-face` (web fonts).
+Only use woff2 (and maybe woff for extra compatibility with some older browsers) for custom fonts.
 
 **Example:**
 
 ```css
 @font-face {
   font-family: 'MyWebFont';
-  src: url('webfont.eot'); /* IE9 Compat Modes */
-  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
-       url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
-       url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+  src: url('webfont.woff2') format('woff2'),
+       url('webfont.woff') format('woff');
 }
 
 body {
