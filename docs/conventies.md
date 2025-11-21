@@ -555,7 +555,7 @@ Use a modular scale on font-sizes for a more balanced typography on your website
 Always use a slightly higher `line-height` on text in dark mode, because of its shinyness.
 
 ##### Source
-[](https://fabrikbrands.com/what-is-leading-in-typography-leading-in-graphic-design/)  
+[Dark mode typography](https://designshack.net/articles/typography/dark-mode-typography/)  
 
 ### UX Design best-practices
 
