@@ -208,7 +208,7 @@ var initHeader = () => {}
 
 #### Robust Font Face
 
-Always provide sufficient fallbacks when using `@font-face` (web fonts).
+Only use woff2 (and maybe woff for extra compatibility with some older browsers) for custom fonts.
 
 **Example:**
 
