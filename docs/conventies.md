@@ -217,6 +217,7 @@ Only use woff2 (and maybe woff for extra compatibility with some older browsers)
   font-family: 'MyWebFont';
   src: url('webfont.woff2') format('woff2'),
        url('webfont.woff') format('woff');
+  font-display: swap;
 }
 
 body {
