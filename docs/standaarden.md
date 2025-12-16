@@ -1,24 +1,6 @@
 # Standaarden
 
-Work in progress tbv. de visitatie voorjaar 2026.
-
-## Standaard 1: Beoogde leer­resultaten
-
-_De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen._
-
-## Standaard 2: De onderwijs­leeromgeving
-
-_Het programma, de onderwijsleeromgeving en de kwaliteit van het docententeam maken het voor de instromende studenten mogelijk de beoogde leerresultaten te realiseren._
-
-## Standaard 3: Toetsing
-
-_‌De opleiding beschikt over een adequaat systeem van toetsing._
-
-## Standaard 4: Gerealiseerde leerresultaten
-
-_De opleiding toont aan dat de beoogde leerresultaten zijn gerealiseerd. Het realiseren van de beoogde leerresultaten blijkt uit de uitkomsten van toetsen, de eindwerken en de wijze waarop afgestudeerden in de praktijk of in een vervolgopleiding functioneren._
-
-
+**Work in progress tbv. de visitatie voorjaar 2026.**
 
 In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2025 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. We lopen met het docententeam, opleidingscommissie, studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en midterm review en volgt qua opbouw de vier standaarden van de NVAO.
 
