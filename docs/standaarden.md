@@ -1,8 +1,14 @@
 # Standaarden
 
-**Work in progress tbv. de visitatie voorjaar 2026.**
+**Work in progress tbv. de visitatie voorjaar 2026 welke wordt uitgevoerd aan de hand van:**
 
-In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2025 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. We lopen met het docententeam, opleidingscommissie, studenten en onze contacten in het bedrijfsleven de hoofdstukken na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en midterm review en volgt qua opbouw de vier standaarden van de NVAO.
+- [Vaste onderdelen van het ABO-visitatierapport](https://www.nvao.net/files/attachments/.12726/Vaste_onderdelen_ABO_rapport.pdf)
+- [Uitvoeringsregels Accreditatiestelsel Hoger Onderwijs Nederland 2025](https://www.nvao.net/files/attachments/.13163/Uitvoeringsregels_Accreditatiestelsel_Hoger_Onderwijs_Nederland_september_2025.pdf)
+- [Beoordelingskader Accreditatiestelsel Hoger Onderwijs Nederland](https://www.nvao.net/files/attachments/.11273/Beoordelingskader_accreditatiestelsel_hoger_onderwijs_Nederland.pdf)
+
+—
+
+In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2025 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. We lopen met het docententeam, opleidingscommissie, studenten en onze contacten in het bedrijfsleven de standaarden na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en midterm review en volgt qua opbouw de vier standaarden van de NVAO.
 
 FDND is trots op de bereikte resultaten! Er staat een mooie opleiding met een gedegen fundament waar wij als team het volste vertrouwen in hebben. De beroepspraktijk is dit met ons eens en is op allerlei manieren betrokken bij de opleiding en wij hanteren hetzelfde jargon. _Agility_ zit verweven in ons DNA, wij _itereren_ doorlopend en brengen zo onze kwaliteit naar een steeds hoger niveau. Ook studenten werken doorlopend iteratief aan échte projecten voor échte opdrachtgevers. Het omarmen van _GitHub_ als publieke _code-repository_ en de bijbehorende projecttools (issues, projectboard, branches, pull-requests) werpt zichtbaar vruchten af. Niet alleen zijn onze interne projecten (bijv. deze docs website) georganiseerd en transparant, ook kunnen studenten na hun opleiding naadloos door in de beroepspraktijk.
 

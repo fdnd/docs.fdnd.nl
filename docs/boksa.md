@@ -255,6 +255,10 @@ Technieken gericht op het genereren van ideeën.
 
 ##### Divergeren Convergeren
 
+Bij ideatie verken je eerst breed mogelijke richtingen (divergeren) en kies je daarna doelgericht de beste opties (convergeren); visualiseren helpt om keuzes helder te maken en te communiceren met je team.
+
+- [Design Thinking 101 @ Nielsen Norman Group](https://www.nngroup.com/articles/design-thinking/)
+- [The Double Diamond @ Design Councul](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)
 
 ##### Moodboard
 
@@ -266,7 +270,11 @@ Een *style tile* bestaat uit lettertypen, kleuren en interface-elementen die de 
 
 ##### Morphological Chart
 
+Een morphological chart laat alternatieven per ontwerp-parameter zien en stimuleert combinaties om tot nieuwe concepten te komen; handig om systematisch varianten te verkennen vóór je prototype.
+
 ##### Harris Profile
+
+Een Harris‑profile is een gewogen beoordelingsmatrix om concepten objectief te scoren op criteria; zo maak je keuzes transparant en herhaalbaar binnen de squad.
 
 #### Prototyping
 Om een ontwerpprobleem op te lossen kan je verschillende (schets) technieken toepassen om grip krijgen op de opdracht, ideeën te verkennen en te onderzoeken. In de ontwerpfase van het project is het doel om snel een prototype te maken dat je kan testen en uitproberen. Zo zorg je ervoor dat je precies weet wat je moet gaan bouwen.
@@ -334,11 +342,11 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 
 ##### Not ignoring the UI-Stack
 
-UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/ + initial state
+De UI‑stack is een set van vijf samenhangende states die elke schermervaring dekt. Je ontwerpt niet één perfecte scherm, maar een continuüm waarin het scherm logisch verandert met de context. De UI‑stack benadrukt alle lagen van een interface (data, state, feedback, affordances, microcopy); door expliciet voor elk niveau te ontwerpen voorkom je “awkward UI”. Een FDND toevoeging op het artikel van Scott Hurff is de “initial state”.
 
+- [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
 
 ##### Responsive Design
-
 
 - [Beginner guide to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 - [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
@@ -349,9 +357,12 @@ UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-you
 
 ##### Touch
 
-[Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+Ontwerp voor vingers vraagt grotere targets, duidelijke feedback en gesture‑bewustzijn; denk aan bereikbaarheid en context in mobiel gebruik. 
 
-##### Kleuren en contrast
+- [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+
+##### Kleur en contrast
+
 Kleurcontrasten in je ontwerp zijn belangrijk voor visuele hierarchie, leesbaarheid en toegankelijkheid. In de *WCAG Guidelines* wordt in de standaard *Perceivable* in onderdeel *Distinguishable* beschreven hoe je voor een gebruiker makkelijker maakt om de website te zien en horen.
 
 Wat kun je doen om ervoor te zorgen dat mensen informatie goed kunnen onderscheiden?
@@ -367,16 +378,24 @@ Wat kun je doen om ervoor te zorgen dat mensen informatie goed kunnen onderschei
 
 
 ##### Hierarchie
-Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn.
-Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van tekst of elementen, gebruik van kleur en contrast, en witruime en positie van elementen op het scherm. In deze workshop ga je leren wat visuele hiërarchie is en hoe je het kunt gebruiken om met je team verschillende variaties van jullie website te maken.
+
+Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. Je kunt een goede visuele hiërarchie op verschillende manieren bereiken, zoals grootte van tekst of elementen, gebruik van kleur en contrast, en witruime en positie van elementen op het scherm.
 
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
 
 ##### Afstand/Nabijheid
 
+Het Gestalt‑principe van nabijheid bepaalt hoe gebruikers samenhang zien: groepeer gerelateerde elementen en vergroot witruimte tussen groepen voor ‘scanbaarheid’.
+
+- [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
+- [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
 
 ##### Contrast
+
+Contrast in kleur, licht‑donker en grootte stuurt aandacht en leesbaarheid en is cruciaal voor toegankelijkheid; test je combinaties en voldoe aan WCAG‑richtlijnen.
+
+- [Accessible contrast ratios and A-levels explained](https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained/)
 
 ### Bouwen
 
@@ -431,29 +450,41 @@ Chakra, Tailwind, Three.js, Threlte, Storybook, GSAP, Framer, socket.io
 
 #### Living Styleguide
 
+Een levende styleguide documenteert componenten, varianten en tokens met voorbeelden; het borgt consistentie en versnelt samenwerking tussen design en dev.
+
 #### Component Library
 
-Clientside Rendering
+Een component library bevat herbruikbare, toegankelijke UI‑onderdelen met duidelijke props en states; met goede documentatie ontstaat een schaalbare design‑system workflow.
 
 #### Progressive Enhancement
 
+Bij progressive enhancement lever je eerst een robuuste HTML‑basis, voeg je presentatie met CSS toe en verrijk je gedrag met JS; zo blijft je site bruikbaar in uiteenlopende contexten. 
+
 #### Responsive
 
-VSCode Plugins: …
+Responsive ontwerp past layout en typografie aan op basis van de viewport en het apparaat; gebruik media of container queries en een correcte viewport‑meta tag voor betrouwbare weergave.
 
-Linters: ESLint, Prettier, Typescript
+- [CSS media queries @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries)
+- [CSS container queries @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_queries)
+- [&lt;meta name="viewport”&gt; @ MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport)
 
-Editors, Browsers, API's
+#### VSCode Plugins: …
 
-NPM (Yarn)
+#### Linters: ESLint, Prettier, Typescript
 
-DRY, Mobile first
+#### Editors, Browsers, API's
 
-Semantiek
+#### NPM (Yarn)
 
-Afhandelen van issues
+#### DRY
 
-CRUD
+#### Mobile first
+
+#### Semantiek
+
+#### Afhandelen van issues
+
+#### CRUD
 
 ### Integreren
 
@@ -461,55 +492,51 @@ Publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand syst
 
 #### Git workflow
 
-Git CLI
+#### Git CLI
 
-Branches
+#### Branches
 
-Commit messages
+#### Commit messages
 
-Gitmoji
+#### Gitmoji
 
-Pull-request
+#### Pull-request
 
 #### Hosting
-(S)FTP
 
-Github Pages
+#### (S)FTP
 
-Continuous Integration
+#### Render
 
-Github Actions
+#### Continuous Integration
 
-Vercel
+#### Github Pages
 
-Adaptable.io
+#### Github Actions
 
-Railway.app
+#### Vercel
 
-Fly.io
+#### Netlify
 
-Netlify
+#### .env
 
-
-.env
-
-wiki
-
-docs
+#### Documentatie
 
 ##### Readme.md
 
-De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat jullie hebben gemaakt, je kan screenshots laten toevoegen en vertellen wie de website hebben genaakt. De Readme is het uithangbord van jullie project.
+De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat jullie hebben gemaakt, je kan screenshots laten toevoegen en vertellen wie de website hebben gemaakt. De Readme is het uithangbord van jullie project.
 
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
+##### Handover.md
 
+##### Contributing.md
 
+#### Clientside Rendering
 
-Gitbook
+#### Serverside Rendering
 
-NPM
-
+#### Static Rendering
 
 ### Testen
 
@@ -526,7 +553,6 @@ De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin
 
 Voordat je gaat testen maak je eerst een testplan. Zo zorg je ervoor dat je goed weet wat je wil testen en dat je niets vergeet tijdens een test.
 Na de test verwerk je de resultaten in issues, pas je je code aan en ga je meteen nog een keer testen om te zien of je interface is verbeterd.
-
 
 - [Sprint Review Meeting](https://scrumguide.nl/sprint-review/)
 - [Dit is het geheim van een succesvolle Sprint Review in Scrum](https://scrumacademy.nl/blog/dit-is-het-geheim-van-een-succesvolle-sprint-review-in-scrum/)
@@ -591,6 +617,10 @@ Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets b
 ###### W3C validator
 
 ###### WCAG-test
+
+Een WCAG‑test controleert of je interface voldoet aan toegankelijkheidscriteria (contrast, keyboard, focus, semantiek) en helpt prioriteit te geven aan verbeteringen.
+
+- [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 
 ###### Toegankelijkheidstest / A11Y-test
 
