@@ -193,7 +193,6 @@ Bronnen:
 - [5 Tips For Writing A Job Story](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9)
 - [User Stories and Epics for Your Product Backlog](https://www.christianstrunk.com/blog/user-stories-and-epics-for-the-win)
 
-
 #### Planning poker
 
 Planning Poker is een Agile-methode die teams helpt om de tijd en moeite voor taken of user stories in te schatten.
@@ -251,18 +250,20 @@ Visual thinking leert studenten en docenten hun gedachten en doelen te verbeelde
 
 #### Ideation
 
-Technieken gericht op het genereren van ideeën. 
+Het creatieve proces waarin actief nieuwe ideeën worden gegenereerd, ontwikkeld en verfijnd. Het gaat verder dan alleen het bedenken van losse ideeën: het omvat een gestructureerde aanpak waarbij verschillende technieken en methoden worden ingezet, zoals brainstormen, mindmaps, design thinking-sessies en schetsen. Het doel van ideation is om innovatieve oplossingen, concepten of strategieën te vinden die inspelen op een specifieke uitdaging of vraagstuk.
 
 ##### Divergeren Convergeren
 
-Bij ideatie verken je eerst breed mogelijke richtingen (divergeren) en kies je daarna doelgericht de beste opties (convergeren); visualiseren helpt om keuzes helder te maken en te communiceren met je team.
+Bij ideation verken je eerst breed mogelijke richtingen (divergeren) en kies je daarna doelgericht de beste opties (convergeren); visualiseren helpt om keuzes helder te maken en te communiceren met je team.
 
 - [Design Thinking 101 @ Nielsen Norman Group](https://www.nngroup.com/articles/design-thinking/)
-- [The Double Diamond @ Design Councul](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)
+- [The Double Diamond @ Design Council](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)
 
 ##### Moodboard
 
+Een moodboard is een visueel overzicht dat de sfeer, stijl en richting van een idee of project samenvat. Het bestaat vaak uit een collage van afbeeldingen, kleuren, materialen, typografie en korte teksten die samen een gevoel communiceren. 
 
+Het doel van een moodboard is om inspiratie te ordenen en duidelijk te maken welke emotie of stijl je wilt neerzetten voordat je daadwerkelijk ontwerpt of uitvoert. Het helpt bij het overbrengen van een concept naar anderen en vormt een gezamenlijk referentiepunt voor een team of klant.
 
 ##### Style Tile
 
@@ -330,13 +331,15 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
 
-
 #### Principes
 
 - [Principles of User Interface Design, door Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 
-
 ##### Atomic Design
+
+Atomic Design is een ontwerpmethode voor digitale interfaces die uitgaat van het opdelen van een design in kleine, herbruikbare bouwstenen. Het concept wordt vaak toegepast bij web- en app-ontwikkeling om consistente en schaalbare gebruikersinterfaces te maken.
+
+Met Atomic Design wordt het eenvoudiger om consistente interfaces te ontwikkelen, componenten te hergebruiken en efficiënter samen te werken tussen ontwerpers en ontwikkelaars.
 
 [atomic design @ bradfrost.com](https://bradfrost.com/blog/post/atomic-web-design/)
 
@@ -348,12 +351,15 @@ De UI‑stack is een set van vijf samenhangende states die elke schermervaring d
 
 ##### Responsive Design
 
+Responsive design is een ontwerpbenadering waarbij websites en applicaties zich automatisch aanpassen aan de schermgrootte en het apparaat van de gebruiker. Het doel is om een optimale gebruikerservaring te bieden, ongeacht of iemand een desktop, tablet of smartphone gebruikt.
+
+Door responsive design te gebruiken, hoeven ontwikkelaars geen aparte mobiele en desktopversies te onderhouden en blijft de inhoud overal goed leesbaar en bruikbaar.
+
 - [Beginner guide to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 - [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - [Whatsmyviewport](https://whatismyviewport.com/)
 - Een browser die _Responsive_ makkelijker maakt? 🚀 Gebruik [Polypane](https://polypane.app/) (gratis voor studenten)
-
 
 ##### Touch
 
@@ -375,7 +381,6 @@ Wat kun je doen om ervoor te zorgen dat mensen informatie goed kunnen onderschei
 - [WCAG 2.2 Guideline 1.4 – Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1#distinguishable)
 - [A11project kleurcontrast](https://www.a11yproject.com/checklist/#color-contrast)
 - [Accessible contrast ratios and A-levels explained](https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained/)
-
 
 ##### Hierarchie
 
@@ -407,7 +412,9 @@ HTML, CSS, JS beheersen. Ontwikkelmethodes inzetten. Atomic design.
 
 #### Hypertext Markup Language
 
-Introductie naar HTML, cursus, uitleg, beschrijvend artikel…
+HTML (HyperText Markup Language) is de standaardtaal die wordt gebruikt om webpagina’s te maken en structureren. Het bestaat uit een verzameling elementen en tags die bepalen hoe de inhoud op een website wordt weergegeven. Met HTML kun je onder andere:
+
+Webbrowsers lezen HTML-bestanden en zetten de code om in de zichtbare webpagina die gebruikers zien. HTML werkt vaak samen met CSS voor opmaak en JavaScript voor interactieve functies.
 
 Link naar MDN
 
@@ -416,7 +423,6 @@ Link naar web.dev
 - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
 
 #### Cascading Stylesheets
 
@@ -542,8 +548,6 @@ De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.
 Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever. 
-
-![image](https://user-images.githubusercontent.com/1391509/132140353-08b5acdf-4080-449d-9421-67c65a64ac98.png)
 
 Testen voor een frontender zijn bijvoorbeeld gebruikerstesten, toegankelijkheids testen, Prototype testen en browser testen. 
 Maar ook de Sprint Review met een opdrachtgever om feedback en opmerkingen meenemen naar een volgende sprint.
