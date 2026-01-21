@@ -259,3 +259,26 @@ De 100 dagen monitor is een door de HvA onder alle 1e jaars uitgezet meetinstrum
 De NSE is een landelijk uitgezet meetinstrument. De tribe-leaders dragen eindverantwoordelijkheid voor het tijdens een lesmoment uitzetten van de NSE binnen de eerste week na publicatie. De kwaliteitsmedewerker publiceert de resultaten in de map `Organisatie FDND > Metingen` op het MS Teams kanaal van de docenten zodat die voor docenten inzichtelijk zijn. De resultaten worden besproken tijdens [panelgesprekken](#panelgesprekken) en informeren de [HEAL-sessies](/organisatie.html#higher-education-agile-learning-heal).
 
 ### Resultaten
+
+#### Blokenquete
+
+#### Panelgesprekken
+
+##### Voorjaar 2026
+
+- Actieve mentoren in jaar 1 worden gewaardeerd, dus dat is goed om te behouden.
+- De studiedruk is in jaar 1, blok 1 aan de lage kant (2,97). Dit komt mogelijk door de lagere werkdruk onder studenten met voorkennis, deze geven aan zelf op zoek te moeten gaan naar uitdaging. Een mogelijkheid is om meer te differentiëren in de eerste blokken en de studenten met voorkennis meer uitdaging te bieden.
+- De opbouw qua zelfstandigheid in jaar 2, met meer zelfstudie, wordt gewaardeerd. Echter zien sommige studenten potentie tot verbetering bij de code reviews. Deze kan wat minder vaak plaatsvinden, met meer diepgaande feedback.
+- De wrap-up aan het einde van een sprint kan worden gecombineerd met iets anders, zoals een workshop of een review.
+
+#### 100 dagen monitor
+
+#### Nationale Studenten Enquête (NSE)
+
+Onze studenten zijn over het algemeen erg tevreden over het onderwijs; dat blijkt uit zowel de NSE als de 100DM. Op een schaal van 1 (zeer ontevreden) tot 5 (zeer tevreden) scoort de opleiding in het algemeen een 4, en in de 100DM zelfs een 4,4. 85% zou opnieuw voor de opleiding kiezen en studenten zijn vooral heel tevreden over de voorbereiding op de beroepsloopbaan (4,2) en de inhoud (4,1).
+
+![Resultaten van de NSE](./assets/img/NSE.png)
+
+#### Periodieke evaluatie Examencommissie
+
+#### HEAL: Retrospect

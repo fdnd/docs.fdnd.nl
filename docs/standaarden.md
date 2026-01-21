@@ -8,7 +8,7 @@
 
 —
 
-In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2025 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. We lopen met het docententeam, opleidingscommissie, studenten en onze contacten in het bedrijfsleven de standaarden na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft daarmee dezelfde structuur als ons TNO-dossier en midterm review en volgt qua opbouw de vier standaarden van de NVAO.
+In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2025 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. We lopen met het docententeam, opleidingscommissie, studenten en onze contacten in het bedrijfsleven de standaarden na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft dezelfde structuur als ons [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl) en [midterm review](https://mtr-nov-2024.docs.fdnd.nl/) en volgt qua opbouw de vier standaarden van de NVAO, .
 
 FDND is trots op de bereikte resultaten! Er staat een mooie opleiding met een gedegen fundament waar wij als team het volste vertrouwen in hebben. De beroepspraktijk is dit met ons eens en is op allerlei manieren betrokken bij de opleiding en wij hanteren hetzelfde jargon. _Agility_ zit verweven in ons DNA, wij _itereren_ doorlopend en brengen zo onze kwaliteit naar een steeds hoger niveau. Ook studenten werken doorlopend iteratief aan échte projecten voor échte opdrachtgevers. Het omarmen van _GitHub_ als publieke _code-repository_ en de bijbehorende projecttools (issues, projectboard, branches, pull-requests) werpt zichtbaar vruchten af. Niet alleen zijn onze interne projecten (bijv. deze docs website) georganiseerd en transparant, ook kunnen studenten na hun opleiding naadloos door in de beroepspraktijk.
 
@@ -20,7 +20,7 @@ FDND is ook kritisch, in dit document vind je onze ongefilterde zelfreflectie. W
 
 _De beoogde leerresultaten passen bij het niveau en de oriëntatie van de opleiding en zijn afgestemd op de verwachtingen van het beroepenveld en het vakgebied en op internationale eisen._
 
-De opleiding Frontend Design & Development (FDND) wordt doorlopend en in overleg met het werkveld doorontwikkeld en bij het aanbieden van onderwijs wordt het bedrijfsleven op verschillende vlakken ingezet. Beroepsprofessionals zijn bij FDND [partners in education](https://partners.fdnd.nl) en in die hoedanigheid opdrachtgever bij projecten en challenges, als stagebegeleider, als co-teacher, bij het geven van talks voor onze ‘we♥️web’ sessies en als bezoeker van de EXPO. Bij standaard 2 wordt dit uitgebreid behandeld. Deze samenwerking draagt bij aan onze visie op het beroep welke ten grondslag ligt aan onze leerresultaten.
+De opleiding Frontend Design & Development (FDND) wordt doorlopend en in overleg met het werkveld doorontwikkeld en bij het aanbieden van onderwijs wordt het bedrijfsleven op verschillende vlakken ingezet. Beroepsprofessionals zijn bij FDND [partners in education](https://partners.fdnd.nl) en in die hoedanigheid opdrachtgever bij projecten en challenges, als stagebegeleider, als co-teacher, bij het geven van talks voor onze ‘we♥️web’ sessies, bij expert-reviews en als bezoeker van onze EXPO. Bij standaard 2 wordt dit uitgebreid behandeld. Deze samenwerking draagt bij aan onze visie op het beroep welke ten grondslag ligt aan onze leerresultaten.
 
 ### Visie op het beroep
 
@@ -379,33 +379,73 @@ Zoals eerder beschreven staan alle eindwerken in onze digitale leeromgeving (Bri
 
 ### Alumni aan het woord
 
-Hoe kijken alumni terug op hun opleiding bij FDND? Met die vraag in het achterhoofd hebben we aan Daphne Zwuup (cohort 2022/23) en Rosa Hoffer (cohort 2023/24) vier vragen gesteld. De hieronder gegeven citaties zijn hun letterlijke antwoorden op deze vragen:
+Hoe kijken alumni terug op hun opleiding bij FDND? We stelde deze vraag eind 2025 in een persoonlijk bericht op LinkedIn.
 
-#### Wat vond je prettig?
+> FDND gaf me een solide web-basis en de ruimte om uit te zoeken wat ik daarbinnen leuk vond. Na mijn stage kon ik daardoor zo met genoeg kennis aan het werk, en dat in 2 jaar. <cite>Rutger Kock - Label Vier, Amersfoort</cite>
 
-> Ik vond het heel erg prettig dat ik met meerdere opdrachtgevers had gewerkt in de opleiding. Door met meerdere opdrachtgevers te werken had ik heel veel websites om in mijn portfolio te doen. Ik had ook in die projecten met veel verschillende frameworks en libraries gewerkt om uitzoeken welke frontend technologieën het leukste is en om meer ervaring op te doen. Mijn portfolio en ervaring heeft me heel veel geholpen met het vinden van een baan. Heel veel reqruiters en twee bedrijven waren heel erg onder de indruk van mijn portfolio. Voor de rest vind ik Flexbox, Grid, UI states, Accessiblity en Performance belangrijke onderwerpen om te leren. Omdat dat mij ook veel heeft geholpen met mijn websites en kenningsmakingsgesprekken. Ik vond het ook altijd fijn om bijlessen te krijgen over bijvoorbeeld Eleventy en andere libraries. <cite>Daphne Zwuup</cite>
+> Mede dankzij de betrokken docenten, praktijkgerichte opdrachten en fijne sfeer bij FDND verliep mijn overstap naar het werkveld erg soepel. Mijn baan nu is tof en uitdagend, en ik kon vanuit mijn opleiding direct lekker aan de slag. <cite>Tessa Viergever - Frameless, Amersfoort</cite>
 
-> Ik vond het prettig dat je op de opleiding geen 'nummertje' bent. Je wordt serieus genomen, ze kennen je bij naam, en je voelt je echt gezien. <cite>Rosa Hoffer</cite>
+> De opleiding Front-end Design & Development heeft mijn enthousiasme voor front-end development en webdesign echt aangewakkerd en richting gegeven. Dankzij de begeleiding van de docenten vond ik een stageplek waar ik na mijn studie ben blijven hangen en waar ik tot op de dag van vandaag met plezier werk en me inzet voor een beter en toegankelijker web voor iedereen. <cite>Luuk Brauckmann - De Voorhoede, Amsterdam</cite>
 
-#### Wat heeft FDND je gebracht?
+> Ik had een klein beetje voorkennis in development en zocht een snelle hbo-opleiding om snel het werkveld in te gaan. FDND was voor mij perfect: kort, straight to the point en bijna volledig gericht op praktische skills. Ik leerde de frontend basisvaardigheden, samenwerken in teams, werken met frameworks, onderzoek doen en zelfstandig projecten opzetten. Voor mijn gevoel is dit de ideale opleiding als je snel resultaat wilt en snel aan het werk wilt. Ik werk nu als developer en gebruik nog steeds de vaardigheden die ik bij FDND heb geleerd. <cite>Marwa Hello - Frameless, Amersfoort</cite>
 
-> Innovative365 had voor ik er was geen ontwerper en ze waren helemaal niet van plan om een Frontend Developer aan te nemen, omdat ze een CTO en Fullstack developer hebben naast hun backend developers. Maar toen ik ze mijn portfolio had laten zien en mijn ervaring had verteld, wouden ze me heel graag aannemen. […] In de website "Automate" van Innovative maak ik gebruik van de programmeertaal C# voor interacties en koppelingen, CSS voor de styling, en combineer ik Radzen- en HTML-elementen om de pagina’s te bouwen. Wanneer ik klaar ben met een pagina kunnen de backenders de backend koppelen aan mijn Frontend. Ik ben de enige frontender en vrouw in het bedrijf en ik werk samen met 4 backenders, 1 fullstack developer en een CTO.\
-> \
-> Ze hadden een bootstrap ontwerp voor hun Automate website en geen goede gebruikerservaring in sommige pagina's (bijv. heel veel onnodig drukken voor bepaalde acties). Daarom had ik een nieuwe huisstijl en nieuwe ontwerpen voor hun website gemaakt. Het is me gelukt om na 6 maanden hun oude website om te toveren naar mijn nieuwe ontwerp en om al de frontend te bouwen. Door mij zijn ze meer geïnteresseerd geworden in de frontend willen ze dat mijn ontwerpen zelfs nog beter worden in de toekomst. […] <cite>Daphne Zwuup, Alumna</cite>
+> Ik werk sinds kort als front-end developer en designer bij SIYOU. De kennis en mindset die ik bij FDND heb opgedaan, vooral rond front-end, design en accessibility, helpen mij dagelijks om onze websites naar een hoger niveau te tillen. <cite>Remy Duivesteijn - SIYOU, Purmerend</cite>
 
-> De opleiding heeft me veel gebracht, waaronder mijn eigen onderneming! Dat is natuurlijk supergaaf en iets waar ik best wel trots op ben. <cite>Rosa Hoffer, Alumna</cite>
+> Ik werk nu als junior frontend developer bij iO Digital. Bij FDND heb ik geleerd hoe belangrijk toegankelijkheid is, iets wat in de praktijk nog vaak wordt vergeten. Daardoor kan ik collega’s nu beter wijzen op het belang ervan. <cite>Ellenoor Bok - iO Digital, Amsterdam </cite>
 
-#### Wat kan er beter?
+> Na FDND ben ik als freelance frontend developer aan de slag gegaan bij KMSimpel, waar ik dagelijks werk met React, TypeScript en Firebase. De praktijkgerichte aanpak van FDND (vooral samenwerken, itereren en bouwen) heeft me geholpen om direct zelfstandig klantprojecten te draaien. <cite>Mohamed Taissate - KMSimpel </cite>
 
-> Soms waren er lessen niet gedaan en hadden we minder begeleiding in het tweede jaar, omdat docenten het druk hadden met de eerste jaars studenten. De PWA les (offline internet websites) was bijvoorbeeld niet gedaan of vergeten door de drukte met de eerstejaars. Ook kon ik een aantal keer niet met mijn begeleider afspreken […]. Daarom zat ik meetal in mijn eentje met de opdrachtgever wanneer ik bijvoorbeeld eerstejaars zit te begeleiden. Ik was ook een keertje helemaal alleen met de eerstejaars zonder begeleiding. Ik was hierdoor heel erg gestrest geraakt, omdat ik de brieving voor eerstejaars helemaal in mijn eentje moest doen. Ik had de belangrijkste informatie verteld. Maar door de stress was ik helemaal vergeten om de huisstijl uit te leggen en om te laten zien welke websites ik heb gemaakt voor Coding The Curbs. […] <cite>Daphne Zwuup, Alumna</cite>
+> Ondanks dat ik nu in een ander werkveld zit, heeft FDND wel mijn liefde voor programmeren aangewakkerd. Het was een gezellige leerplek met veel ruimte voor creativiteit. <cite>Eva Haller - Antoni van Leeuwenhoek Ziekenhuis</cite>
 
-> Ik heb eigenlijk weinig negatieve ervaringen gehad. Soms duurden de checkpoints wat lang, maar als dat het enige is, valt het allemaal wel mee. <cite>Rosa Hoffer, Alumna</cite>
+> De combinatie van samenwerken, feedback krijgen en bouwen aan echte opdrachten heeft me enorm geholpen. In mijn huidige baan merk ik hoe natuurlijk die werkwijze is geworden. <cite>Ralph Kocken - Triple, Alkmaar </cite>
 
-#### Wat vertel jij over je opleiding op een feestje?
+> Ik heb FDND leuk ervaren. De werkwijze van de opleiding is aangenaam en heeft mij erg geholpen. De leuke sfeer in de groep werkte erg motiverend. De docenten geven les met veel passie en alle kennis en skills die ik heb opgedaan neem ik mee in mijn werk en in de toekomst. <cite>Rukiya Tossou </cite>
 
-> Ik heb niet heel veel over FDND gezegd in feestjes. Ik vertel meestal wat ik doe in mijn Frontend Designer & Developer baan. Welke frameworks ik gebruik, programmeertalen, libraries etc. <cite>Daphne Zwuup, Alumna</cite>
+> Tijdens FDND leerde ik niet alleen over code maar vooral hoe je samenwerkt en écht voor de gebruiker ontwerpt. We werkten met echte opdrachtgevers, waardoor je goed meekrijgt hoe het in de praktijk gaat. Dankzij die ervaring kon ik samen met twee medestudenten ons bedrijf, Sumix Studio starten. Inmiddels hebben we al meerdere mooie websites mogen realiseren. <cite>Jesse Kramer - Sumix Studio </cite>
 
-> Ik vertel vaak dat de opleiding geweldig is, vooral omdat je veel leert van mensen uit het vakgebied. We hadden wekelijks sprekers, soms ook internationaal, die vertelden over hun werk en ervaringen. Dat gaf me veel inspiratie. Daarnaast zijn de coaches stuk voor stuk experts op verschillende gebieden. De een is bijvoorbeeld heel goed in HTML, de andere in animaties, en weer een ander in design. Deze diversiteit helpt je ontdekken wat je zelf echt leuk vindt om te doen. <cite>Rosa Hoffer, Alumna</cite>
+> Dankzij FDND ben ik terecht gekomen in een werkveld waarin ik nooit uitgeleerd raak en mezelf oneindig geïnspireerd kan voelen. <cite>Roelie Jansen - Goedemiddag!, Delft </cite>
+
+> De opleiding heeft me geholpen met probleem oplossend vermogen, en rekening houden met minderheden op het web. Na de opleiding heb je een ander beeld van het web, doe daar wat mee. Maar buig niet voor 1 mening, denk zelf eens na en voer het gesprek. Zo kan je het juiste balans vinden in het werkveld. <cite>Tom Deeterink - Werktijden.nl, Amsterdam </cite>
+
+> Bij FDND leerde ik kritisch nadenken over functionaliteiten. Die manier van denken gebruik ik nu nog steeds. <cite>Latoya Nijmeijer - Merkle Nederland, Rotterdam </cite>
+
+> Terugkijkend op mijn tijd bij FDND, zie ik een opleiding die er alles aan doet om jou zo snel mogelijk klaar te stomen voor het werkveld. In twee jaar tijd heb ik op hoog tempo geleerd hoe ik mijzelf flexibel kan inzetten om nieuwe technologieën eigen te maken. Deze manier van leren helpt mij nog iedere dag om mee te bewegen met de ontwikkelingen binnen het vak. <cite>Tygo Wolven - Wizzo, Heemskerk </cite>
+
+> FDND heeft mij een sterke basis gegeven waarin nieuwe ontwikkelingen, standaarden en toegankelijkheid centraal staan, wat ik nu bij mijn werk direct kan toepassen. Het zijn kwaliteiten waar de industrie soms nog op achterloopt, waardoor je als afgestudeerde unieke kennis meebrengt waar ook ervaren teams in het bedrijfsleven nog van kunnen leren. <cite>Anne van Dijk - Norday, Amsterdam </cite>
+
+> FDND heeft me in twee jaar opgeleid tot full-service frontender. Ik begon zonder codekennis, maar door de praktijkgerichte aanpak bouw ik nu via mijn eigen onderneming professionele websites voor bedrijven. De opleiding gaf me precies de technische en visuele vaardigheden die ik dagelijks inzet voor mijn klanten. <cite>Ryan Korver - Brix Studio, Amsterdam </cite>
+
+> FDND Heeft me de juiste handvaten gegeven om aan de slag te kunnen als Front-ender. Niet alleen verschillende technieken en standaarden, maar ook hoe je je weg uiteindelijk kunt vinden op de werkvloer. <cite>Maaike Verplancke - Raadhuis, Oudorp </cite>
+
+> Bij FDND kreeg ik echt een voorproefje van het werkveld: nieuwe skills, echte projecten en samenwerken zoals in een professioneel team. Die kennis neem ik nu dagelijks mee in mijn fulltime job. Het blijft een solide basis voor hoe ik verder groei. <cite>Siem Postmus - Fivespark, Amstelveen </cite>
+
+> Wat me het meest is bijgebleven van FDND is hoe warm en persoonlijk de sfeer binnen de opleiding was. Je kent elkaar écht: studenten en docenten werken nauw samen en met iedere vraag kun je ergens terecht; er is altijd wel iemand die met je wil meedenken. Die open en toegankelijke cultuur maakte de opleiding voor mij bijzonder waardevol en gaf me het vertrouwen om door te groeien naar mijn huidige functie bij VodafoneZiggo, waar ik met veel trots werk. <cite>Suus Harsveld - VodafoneZiggo, Utrecht </cite>
+
+> FDND is een innovatieve 2 jarige studie waar de docenten met volle passie je alle kennis over het front-end web gaan vertellen en doorgeven. Mij heeft het een mooie kans gegeven om mezelf te verdiepen in coderen en dit ook te gebruiken in mijn skillset. <cite>Seijno van Nieuwkoop - TrackBacked </cite>
+
+> Ik was op zoek naar een snelle opleiding waarna ik snel het werkveld in kon. Dit en meer heb ik bij FDND zeker gevonden. Met de connecties die er vanuit de opleiding meegegeven worden, is het instappen in het werkveld erg makkelijk. De opleiding leert je niet alleen coderen, maar ook hoe je zelf code kan blijven leren. Hierdoor zijn je doorgroeimogelijkheden erg groot. Zo werk ik zelf zonder problemen nu met Magento, een PHP gebaseerd framework, ondanks dat we daar nooit mee gewerkt hebben op de opleiding. <cite>Cathelijne Visser - Cream, Berkel & Rodenrijs </cite>
+
+> De opleiding was leuk en leerzaam. Ik heb er veel kennis opgedaan over het bouwen van websites, en dat heeft een stevige basis gelegd voor het webdevelopmentwerk dat ik nu met veel plezier doe. <cite>Sascha Davidson - Debitan, Hoorn </cite>
+
+> De ervaring met toegankelijkheid, API/CMS-integraties en webdesign heeft mijn zelfvertrouwen versterkt. Mijn baas is vooral positief over mijn pagina-ontwerpen en mijn werk met Blazor-componenten, HTML, CSS en Radzen. <cite>Daphne Zwuup - Innovative365, Purmerend </cite>
+
+> Bij FDND kon ik meteen doen in plaats van alleen leren, waardoor het voelde alsof ik al in het werkveld stond. Die ervaring heeft mijn groei versneld en het instromen in mijn huidige baan enorm soepel gemaakt. <cite>Thomas Scheepers - Triple, Alkmaar </cite>
+
+> FDND gaf me een sterke basis in Frontend Development. Die kennis gebruik ik nu bij het bouwen van professionele e-commerce websites. <cite>Lisa van Mansom - DutchDrops, Haarlem </cite>
+
+> De opleiding heeft mij veel zekerheid en richting gegeven in mijn groei als ontwikkelaar. De ervaring en kennis die de docenten meebrengen zijn van uitzonderlijk niveau en nergens anders te vinden. Daarnaast biedt FDND mogelijkheden om te netwerken met bedrijven, wat mij persoonlijk heeft geholpen bij de start van mijn carrière. <cite>Tolga Doğaner - Funda, Amsterdam </cite>
+
+> Bij FDND voelde ik mij snel thuis dankzij de persoonlijke benadering en de open sfeer. Na mijn studie kon ik direct aan de slag bij Kendew Agency, waar ik nu met veel plezier werk en mijn design- en code skills samenbreng. <cite>Sanne van Seeventer - Kendew Agency, Amsterdam </cite>
+
+> Wat deze studie voor mij bijzonder maakte, was de combinatie van vrijheid en goede begeleiding. Ik kreeg de ruimte om mijn eigen manier van werken te ontwikkelen, terwijl ik tegelijkertijd leerde hoe je op een professionele en gestructureerde manier websites en systemen bouwt. De warme sfeer en de nauwe samenwerking met medestudenten en docenten maakten het leerproces extra waardevol. Door al vroeg samen te werken met echte bedrijven ontdekte ik hoe je digitale producten ontwikkelt voor échte klanten en gebruikers, en juist in die praktijkervaring groeide mijn aandacht voor toegankelijkheid en semantiek. Die focus heeft mijn blik voorgoed veranderd en vormt nu de kern van mijn werk als developer. <cite>Christopher Willems - Monytri, freelance </cite>
+
+> Ik was net afgestudeerd vormgever toen ik bij FDND begon. Het was een hele andere manier van werken, met een leermethode die erg modern en up-to-date is. De oefeningen die ik kreeg, leerden mij de stof beter te begrijpen en in te zien hoe het web in elkaar zit. Daarnaast zijn er veel betrokken medestudenten en docenten die je willen helpen de stof beter te begrijpen en te groeien. Terugkijkend ben ik erg tevreden met mijn keuze en had het niet anders willen doen. <cite>Sammy Bensink - sammm.my, Arnhem </cite>
+
+> Door de FDND opleiding leerde ik hoe belangrijk toegankelijkheid en de eindgebruiker zijn binnen het vak. Ik ontdekte hoe een sterke basis en gerichte enhancements zorgen voor een betere ervaring. Dankzij deze kennis kan ik bij Sumix Studio websites maken die voor iedereen toegankelijk zijn. <cite>Patrick Hordijk - Sumix Studio </cite>
+
+> De opleiding FDND heeft mij geleerd hoe ontwerp en front-end development elkaar kunnen versterken voor het bouwen van robuuste websites. Hierdoor heb ik mijn vaardigheden verbreed en ben ik goed inzetbaar op de arbeidsmarkt. De nadruk op samenwerken, communicatie en het blijven leren van nieuwe technieken heeft mij geholpen om met vertrouwen de stap naar het werkveld te zetten. <cite>Stefan van der Kort - Esens Design</cite>
+
+> Ik vond het prettig dat je op de opleiding geen 'nummertje' bent. Je wordt serieus genomen, ze kennen je bij naam, en je voelt je echt gezien. De opleiding heeft me veel gebracht, waaronder mijn eigen onderneming! Dat is natuurlijk supergaaf en iets waar ik best wel trots op ben. <cite>Rosa Hoffer, eigen onderneming</cite>
 
 ## Studenten aan het woord
 
@@ -413,14 +453,14 @@ Dit hoofdstuk is van studenten en het is om die reden dat wij de letterlijke fee
 
 Onderstaande feedback is gegeven tijdens een door medewerkers van de facultaire onderwijs en onderzoek (O&O) afdeling georganiseerde sessie. Studenten hebben in groepjes overlegd en hun inzichten gedeeld, sommige studenten hebben allemaal hetzelfde gedeeld en er is dus sprake van enige dubbeling. De feedback geeft een goed beeld van de mening van studenten en is direct herleidbaar naar echte personen.
 
-### Noem 5 kernwoorden die volgens jou typerend zijn voor de opleiding.
+### ~~Noem 5 kernwoorden die volgens jou typerend zijn voor de opleiding.~~
 
-### Hoe zou je de sfeer op de opleiding omschrijven?
+### ~~Hoe zou je de sfeer op de opleiding omschrijven?~~
 
-### Hoe ziet voor jou een typische dag of week eruit?
+### ~~Hoe ziet voor jou een typische dag of week eruit?~~
 
-### Hoe en waar kom je tijdens jouw studie in aanraking met het beroepenveld?
+### ~~Hoe en waar kom je tijdens jouw studie in aanraking met het beroepenveld?~~
 
-### Waar heb je tot nu het meeste van geleerd?
+### ~~Waar heb je tot nu het meeste van geleerd?~~
 
-### Wat kan er volgens jou nog verbeterd worden bij de opleiding?
+### ~~Wat kan er volgens jou nog verbeterd worden bij de opleiding?~~
