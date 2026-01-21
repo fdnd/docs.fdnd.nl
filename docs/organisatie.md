@@ -262,6 +262,8 @@ De NSE is een landelijk uitgezet meetinstrument. De tribe-leaders dragen eindver
 
 #### Blokenquete
 
+De blokenquêtes worden over het algemeen aan het einde van elk blok afgenomen. De vragen die hier in staan gaan dus specifiek over het afgelopen blok, bijvoorbeeld over de duidelijkheid van informatie, de inhoud van de sprints, de begeleiding en de studiedruk. Ook hier zijn de resultaten over het algemeen goed. We zien dat studenten vinden dat ze nuttige kennis opdoen, zich veilig voelen om vragen te stellen en dat de informatie over de sprints goed vindbaar en duidelijk is. De studenten in jaar 1 zijn over het algemeen wat meer tevreden dan de studenten in jaar 2. Ook zien dat we dat jaar 1 studenten de studiedruk en het niveau wat lager inschatten dan in jaar 2.
+
 #### Panelgesprekken
 
 ##### Voorjaar 2026
@@ -273,12 +275,35 @@ De NSE is een landelijk uitgezet meetinstrument. De tribe-leaders dragen eindver
 
 #### 100 dagen monitor
 
+De 100Dagenmonitor wordt onder studenten afgenomen na hun eerste honderd dagen bij de studie. Uit de resultaten blijkt dat eerstejaarsstudenten erg tevreden zijn over hun start bij de opleiding: zo geven ze hun keuze een 4,4 (1=zeer ontevreden, 5=zeer tevreden). Ze hadden van tevoren al een goed beeld van de inhoud van de opleiding (4,1) en ervaarden in de eerste 100 dagen een hoge studiemotivatie (4,3). Ook geven studenten aan dat ze zich thuis voelen bij de opleiding (4,1) en het gevoel hebben dat ze zichzelf kunnen zijn (4,1), hoewel deze scores wel lager zijn dan voorgaande jaren (waarschijnlijk door onze verhuizing naar een ander gebouw). Bij de voorlichtingen zien we dat er verbetering mogelijk is als het gaat om een beeld schetsen van de beroepsmogelijkheden van de opleiding, want deze score is in enkele jaren gedaald van 4,1 naar 3,8. Ook kunnen we aanstaande studenten meer duidelijk maken wat de opleiding van hen verwacht (3,5) en is het gebruik van Brightspace voor studenten soms onduidelijk (3,4).
+
+![Resultaten 100 dagen monitor Ad FDND](./assets/img/100DM-FDND.svg)
+
 #### Nationale Studenten Enquête (NSE)
 
-Onze studenten zijn over het algemeen erg tevreden over het onderwijs; dat blijkt uit zowel de NSE als de 100DM. Op een schaal van 1 (zeer ontevreden) tot 5 (zeer tevreden) scoort de opleiding in het algemeen een 4, en in de 100DM zelfs een 4,4. 85% zou opnieuw voor de opleiding kiezen en studenten zijn vooral heel tevreden over de voorbereiding op de beroepsloopbaan (4,2) en de inhoud (4,1).
+De Nationale Studenten Enquête wordt elk jaar uitgezet onder alle studenten in Nederland. In deze uitgebreide vragenlijst komen vragen aan bod over de tevredenheid van de studenten met allerlei aspecten van de opleiding en de hogeschool. Onze studenten zijn over het algemeen erg tevreden over het onderwijs. Op een schaal van 1 (zeer ontevreden) tot 5 (zeer tevreden) scoort de opleiding in het algemeen een 4, hoger dan de meeste andere opleidingen. 85% zou opnieuw voor de opleiding kiezen en studenten zijn vooral heel tevreden over de voorbereiding op de beroepsloopbaan (4,2) en de inhoud (4,1). Ondanks de in algemene termen hoge scores, zien we op sommige vlakken wel dat de scores licht afnemen. Dit geldt bijvoorbeeld voor de tevredenheid over de toetsing (van 3,9 naar 3,7) en de sfeer (van 4,2 naar 4).
 
-![Resultaten van de NSE](./assets/img/NSE.png)
+![Resultaten NSE Ad FDND](./assets/img/NSE-FDND.svg)
 
 #### Periodieke evaluatie Examencommissie
 
 #### HEAL: Retrospect
+
+##### Najaar 2024
+
+##### Voorjaar 2024
+
+##### Najaar 2023
+
+##### Voorjaar 2023
+
+##### Najaar 2022
+
+- Gesprek met studenten aangaan over HBO vaardigheden en S4 Assessment. Hoe gaan ze om met feedback?
+- Na assessment op bepaalde vlakken repareren op soft-skills tijdens de stage.
+- Sprint 4 meer uitleggen hoe we willen dat studenten bij ons studeren. Teamsamenstelling (kleiner?) moet meer gestuurd, diverse teams is het doel. 
+- Volgende kampvuursessie met geleide instructie, nu te vaag wat het doel is.
+- Communiceren: Feedback… Dit criterium gaat over code/design!
+- Aanpassing van de structuur in het ontwikkeldocument, meer regie bij de studenten. De uitleg, (unieke) links en korte toelichting wat dit bewijst, ontwikkelpunten, max. 5 pagina’s in PDF (volgens template, geen Indesign) en naamgeving!
+- Bij de sprintplanning naar de DOD’s van leertaken kijken.
+- Studenten vragen om issues in te schieten op leertaken met als doel die beter te maken.
