@@ -289,21 +289,157 @@ De Nationale Studenten Enquête wordt elk jaar uitgezet onder alle studenten in 
 
 #### HEAL: Retrospect
 
-##### Najaar 2024
+##### Schooljaar 2024/25
 
-##### Voorjaar 2024
+Tijdens de HEAL is een hele dag besteed aan een grondige evaluatie van de inhoud en opzet van onze vier semesters. De belangrijkste aandachtspunten staan hieronder beschreven.
 
-##### Najaar 2023
+###### Algemeen
 
-##### Voorjaar 2023
+- Integreer het lesplan in de leertaak en breek de vierde wand.
+- Gebruik LLMs als frontender.
+- Veranker CSS sterker en licht een nieuwe CSS feature uit in elke leertaak.
+- Bied online hulp op donderdag.
+- Verbeter instructies of formats voor sprint review, planning en wrap-up.
+- Focus assessments op eigen werk en i-love-web.
+- Pak piekbelasting voor en tijdens assessments aan.
+- Organiseer guilds beter.
+- Maak het beste studentenwerk beter zichtbaar.
+- Installeer Teams op telefoons van studenten en stuur notificaties naar het random channel.
+- Organiseer vaker standups tussen eerste- en tweedejaars.
+- Oefen met het lezen van teksten.
+- Neem de opkomst van AI op in S3/2/1 met behulp van backwards design.
+- Omarm de vergaderstructuur beter.
+- Geef meer persoonlijke coaching aan studenten en pas motiverende gespreksvoering toe.
+- Maak duidelijk wat we bij een CDr verwachten en wat studenten moeten voorbereiden.
+- Creëer een plek/thuis op de vierde verdieping in het TTH, samen met MDD.
+- Betrek meer studenten bij de HEAL.
+- Plan sprint reviews ver van tevoren en laat eerste- en tweedejaars samen voorbereiden en uitvoeren.
 
-##### Najaar 2022
 
-- Gesprek met studenten aangaan over HBO vaardigheden en S4 Assessment. Hoe gaan ze om met feedback?
-- Na assessment op bepaalde vlakken repareren op soft-skills tijdens de stage.
-- Sprint 4 meer uitleggen hoe we willen dat studenten bij ons studeren. Teamsamenstelling (kleiner?) moet meer gestuurd, diverse teams is het doel. 
-- Volgende kampvuursessie met geleide instructie, nu te vaag wat het doel is.
-- Communiceren: Feedback… Dit criterium gaat over code/design!
-- Aanpassing van de structuur in het ontwikkeldocument, meer regie bij de studenten. De uitleg, (unieke) links en korte toelichting wat dit bewijst, ontwikkelpunten, max. 5 pagina’s in PDF (volgens template, geen Indesign) en naamgeving!
-- Bij de sprintplanning naar de DOD’s van leertaken kijken.
-- Studenten vragen om issues in te schieten op leertaken met als doel die beter te maken.
+###### Semester 4
+
+- De werkdruk voor het nakijken van assessments is te hoog. We zoeken een oplossing.
+- We willen meer aandacht voor de JS-kennis van studenten.
+- De begeleiding van het schakelprogramma bij CMD moet beter.
+- Verdeel FDND Agency pull requests.
+- Bewijslast voor het eindassessment volledig in Portflow. Geen externe links (wiki/Notion) meer, want die kunnen worden aangepast. Alle code in zip opleveren (regelen in stagecontract).
+- Protocol stagebegeleiding opstellen.
+- Terugkomdagen strakker organiseren.
+- Alle co-teachers feedback via GitHub @mentions.
+
+
+###### Semester 3
+
+- Werk de mentor rol uit: bewijslast, aanpak organisatie, verantwoordelijkheid, reflectie en overdracht. Laat mentoren ook lessen voorbereiden en openbare planningen maken.
+- Omarm wekelijkse code/design reviews op vrijdag.
+- Tweedejaars programma op dinsdag en donderdag.
+- Atomic Design en Don’t Repeat Yourself aanpakken.
+- “Creative coding” term aanpassen, niet in opdrachtgeverscontext.
+- Meer sprints voor opdrachtgevers.
+- Programma naar GitHub, kortere talks en meer werken in de klas. Beschrijvingen in markdown files in leertaken.
+- Artikelen lezen en weekly nerds organiseren. Living standards..
+- Meer op whiteboards werken.
+- Meer oog voor design.
+- Meer aandacht voor projectstructuur en SCRUM.
+- Meteen werken op FDND Agency GitHub, niet forken.
+- Velocity belangrijk maken.
+
+###### Semester 2
+
+- Introduceer Progressive Enhancement eerder.
+- Kalibreer assessments.
+- Voeg meer colleges toe aan de squad zelf (werkgroepen).
+- Geef juiste begeleiding op “externe” APIs.
+- Bouw de wiki af en maak professionele documentatie belangrijker, gericht op issues en het project board.
+- Introduceer de JS deeltaak eerder, bijvoorbeeld in Sprint 5.
+- Vergroot de betrokkenheid bij de opdrachtgever en voorkom dat studenten niet komen.
+- Verminder het aantal design challenges.
+- Laat meer voorbeelden uit de vorige sprint zien tijdens de sprint planning.
+- Bespreek ontwikkelingen in het vakgebied tijdens colleges.
+- Maak het switchen van projecten verplicht.
+- Verlaag de focus op backend.
+- Faciliteer hosting.
+- Bied meer hulp met dynamische data.
+
+
+###### Semester 1
+
+- Schaf de term “Checkpoint” af.
+- Besteed 20% van de tijd aan de Web blog deeltaak, eigen website, portfolio en meer leuke code.
+- Zet coaches in op projecten.
+- Introduceer/herhaal studievaardigheden en canvas visual thinking.
+- Maak colleges en talks actionable door ze meer in de squad/als practicum te integreren.
+- Bied meer client-side JavaScript aan.
+- Introduceer Progressive Enhancement eerder.
+- Stimuleer communityvorming en een minder schoolse houding, bijvoorbeeld via WHPH.
+- Besteed meer aandacht aan ontwerpen en leg uit wat ontwerpen voor frontenders inhoudt.
+- Laat studenten meer ready-made designs namaken en oefenen met grid/flexbox.
+- Combineer Figma met Sprint 4 (Living Styleguide).
+- Introduceer de PE Piramide eerder en laat deze ook in Sprint 5 zien.
+- Introduceer kwaliteitsbesef door bijvoorbeeld oude visitekaartjes te ranken.
+- Laat in de sprint planning meer goede/mooie voorbeelden van de vorige sprint zien.
+- Maak een Do’s & Don’ts lijst, bespreek het gebruik van AI en maak bronnen eerder duidelijk.
+- Leer studenten hoe ze presenteren bij de opdrachtgever.
+
+
+##### Schooljaar 2023/24
+
+- Plan overlegmomenten (s30 meetings, standup, plan & review) strakker en houd je eraan. We werken met studenten en worden geleefd door het programma. Eerstejaars blijven hangen en tweedejaars komen vroeg, waardoor de groep in jaar 2 groter is en het overleggen verwatert.
+- Gebrek aan inspraak/democratie. Sommige docenten besteden meer tijd of hebben meer overzicht. Anderen nemen meer gewicht (geen bug). Creëer een apart kanaal voor ‘ik wil hier aandacht voor’, een backlog-achtig ding met issues. Is dit een HEAL kanaal?
+- Werkdruk bij checkpoints! Te veel checkpoints achter elkaar en sturing op het halen van een checkpoint in plaats van feedback, waardoor het quasi summatief wordt.
+- Minder checkpoints? Kijk hoe het gaat met indeling op criteria in plaats van indicatoren.
+- In S2 moeten checkpoints gebaseerd zijn op feedback, niet op afvinken. Dit is altijd inhoudelijk waardevol voor studenten.
+- We moeten feedback checkpoints kalibreren.
+- We eisen nu het totaal aantal indicatoren, voorheen was dat een AVV ‘voldoende feedback’ uit alle sprints. Breng AVV’s terug als voorwaarde voor een assessment?
+- Meer afwisseling en ‘vreemde ogen’ principe bij assessments door na een semester te wisselen van squad-leader.
+- In S3 te weinig structuur voor checkpoints. Zoek naar een manier om structuur te bieden én verantwoording te oefenen, met oog op S4 waarin studenten zelf verantwoordelijk zijn.
+- Meer aandacht voor ontwerpvaardigheden. Voeg per sprint 1 ontwerpvaardigheden les toe aan het programma.
+- Technische skills van docenten: Het is goed dat docenten niet ‘alle’ skills hebben en frameworks kennen. Het gaat over uitstralen van zelfvertrouwen en ons imposter-syndroom. Laten we over onze *imposter* praten.
+- Doorlopend bijleren is nooit af en is een senior ding.  “Ervaren” dat dit zo is, is moeilijk over te brengen.
+- Meer kampvuursessies met kritische, nare, confronterende vragen.
+- S17 en S18 wisselen. Spikes 2024/25 richten op portfolio. Het droeg niet bij aan het project en de velocity van sprint 15 zakt in. We missen creative coding in Semester 1!
+- Bied andere dingen dan alleen frameworks aan, zoals animatie libs.
+- Opdrachten van opdrachtgevers kunnen saai zijn.
+- We willen coaches per project toewijzen voor begeleiding bij projecten van eerstejaars.
+- We moeten de kwaliteit van code verhogen en toonaangevend zijn.
+- De stof in colleges moet aansluiten op de leertaak en het werkveld, en actionable zijn.
+
+##### Schooljaar 2022/23
+
+- Geef pas een definitief cijfer na het behalen van een reparatie assessment. Niet eerst een cijfer, repareren en dan ophogen maar écht opnieuw beoordelen.
+- Geef studenten vertrouwen en verantwoordelijkheid voor hun resultaten.  Niet te veel aan ze trekken.
+- Bespreek en beoordeel werk bij checkpoints op dezelfde manier. Zorg dat studenten er iets van opsteken. Kalibreer checkpoints, formatief evalueren, beschrijf het proces, kies per checkpoint voor proces, taak of beide.
+- Focus in feedpulse op volledig opgeleverde dingen (code/design/documenten) en links daarheen, met reflectie.  3 punten per indicator (wat, hoe, waarheen) direct in ontwikkeldocument.
+- Kalibreer workshops kort (10 minuten) na de talk voorafgaand aan de workshop.
+- Vergaderingen hebben een duidelijk doel, krachtige inhoud en duidelijke actiepunten.
+- Geef sessies met de opdrachtgever meer betekenis: sprintplanning en -reviews met een duidelijk doel, rollen, werkvormen, focus per semester en betere voorbereiding.  Embed projecten beter in het onderwijs.
+- Leer studenten vanaf sprint 10 goed samenwerken, zowel interpersoonlijk als in GitHub.  Geef ze manieren om projecten gestructureerd aan te pakken (GitHub, MoSCoW, taken uit user stories, teamcanvas, kampvuur, projectboards, conventies).
+- Strakkere manier van werken en vergaderstructuur, beschreven op docs.fdnd.nl onder organisatie.
+- Verzamel werkvormen, o.a. retrospect en design/code-review, op docs.fdnd.nl.
+- 15 minuten pauze na de talk voor Squad-leaders en co-teachers om de werkgroep te bespreken.
+- Sessie om verbeterpunten m.b.t. inhoud programma S1 te behandelen.
+- Sessie over niveaus, ambitieniveau en manier van aanspreken van studenten.
+- Sessie over partners in education, werkwijze en rol van de opdrachtgever.
+- Charley onderzoekt de toetsstructuur.
+
+##### Schooljaar 2021/22
+
+- Eerstejaars studenten hadden een chaotische start. We hebben structuur aangebracht in de planning met docenten en programma, en dat werkt.
+- Studenten maken een eigen website, dus de component lib was overbodig.
+- Studenten nemen soft-skills minder serieus. Ze zijn tech-gericht en willen geen visual thinking opdrachten doen, zoals schetsen en team-lead zijn.
+- Studenten denken niet na over hun toekomst omdat ze in een sociale buurtgroep hangen. Sommigen vallen buiten de boot, anderen zijn supergoed en sommigen gebruiken het als sociale dagbesteding.
+- We bespreken HBO vaardigheden en S4 Assessment met studenten, en hoe ze omgaan met feedback.
+- Na assessment op bepaalde vlakken werken we aan soft-skills, ook tijdens de stage.
+- Heel blok 1, inclusief assessment, is een grote onboarding. De opdracht van de opleiding en de styleguide opdracht zijn heftig voor studenten.
+- In Sprint 4 leggen we meer uit hoe we willen dat ze hier studeren. We sturen teamsamenstelling (kleiner?) aan en streven naar diverse teams.
+- Volgende kampvuursessie met geleide instructie.
+- Bewijslast wordt strakker in het ontwikkeldocument.
+- Toetsen we het juiste? Code zit er weinig in; we toetsen het ontwikkeldocument (met slimme studenten goede gesprekken). Werkdruk is te hoog, het zweet staat niet op de juiste rug. Het is een gespreksvorm waar we aan moeten wennen.
+- Gedragscriteria kunnen beter! Itereren einde van het jaar.
+- Communiceren: Feedback, dit criterium gaat over code/design.
+- Meer structuur in het ontwikkeldocument, meer regie bij studenten. Uitleg, (unieke) links, korte toelichting wat dit bewijst, ontwikkelpunten, max. 5 pagina’s in PDF (volgens template, geen Indesign) en naamgeving!
+- Namen en programma ingevuld in Hygraph. Taakverdeling is resultaat van sprintplanning.
+- Sleep voltooide taken naar ‘done’. Sleep taken naar ‘review’ als iemand ze moet bekijken. Vink taken af tijdens de vrijdagse sit-down.
+- Studenten weten vaak niet wat ze moeten doen bij leertaken. Bekijk de DOD’s van leertaken tijdens de sprintplanning. Vraag studenten om issues in te dienen op leertaken.
+
+
