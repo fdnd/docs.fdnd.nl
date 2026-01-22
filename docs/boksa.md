@@ -416,7 +416,9 @@ HTML (HyperText Markup Language) is de standaardtaal die wordt gebruikt om webpa
 
 Webbrowsers lezen HTML-bestanden en zetten de code om in de zichtbare webpagina die gebruikers zien. HTML werkt vaak samen met CSS voor opmaak en JavaScript voor interactieve functies.
 
-Link naar MDN
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
 
 Link naar web.dev
 
@@ -464,33 +466,59 @@ Een component library bevat herbruikbare, toegankelijke UI‑onderdelen met duid
 
 #### Progressive Enhancement
 
-Bij progressive enhancement lever je eerst een robuuste HTML‑basis, voeg je presentatie met CSS toe en verrijk je gedrag met JS; zo blijft je site bruikbaar in uiteenlopende contexten. 
+Bij progressive enhancement bouw je eerst een robuuste HTML-basis, voeg je vervolgens presentatie toe met CSS en verrijk je het gedrag met JavaScript. Hierdoor blijft de website bruikbaar in verschillende browsers. Een belangrijk onderdeel van progressive enhancement is feature detection, waarbij in de code wordt gecontroleerd of bepaalde CSS- of JavaScript-features door de browser worden ondersteund. Afhankelijk van deze ondersteuning wordt bepaald of specifieke code wel of niet wordt uitgevoerd.
 
 #### Responsive
 
-Responsive ontwerp past layout en typografie aan op basis van de viewport en het apparaat; gebruik media of container queries en een correcte viewport‑meta tag voor betrouwbare weergave.
+Responsive ontwerp past de layout en typografie aan op basis van de viewport en het gebruikte apparaat. Door het inzetten van media- of container queries en een correcte viewport-meta-tag wordt een betrouwbare weergave op verschillende schermformaten gegarandeerd. Daarnaast zijn er steeds meer moderne CSS-features beschikbaar waarmee responsive design kan worden gerealiseerd. Veelgebruikte principes binnen responsive webdesign zijn _content first_ en _mobile first_. Hierbij wordt een website vanuit de inhoud eerst ontworpen voor een mobiele viewport (ook wel de single-column layout genoemd) en vervolgens opgeschaald naar steeds grotere viewports.
 
+- [Mobile first](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First)
 - [CSS media queries @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries)
 - [CSS container queries @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_queries)
 - [&lt;meta name="viewport”&gt; @ MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport)
+- [Modern CSS Tricks for a Responsive Web Design](https://iamtusharxo.medium.com/modern-css-tricks-for-a-responsive-web-design-without-media-query-for-all-view-ports-and-js-13a095a5155a)
 
-#### VSCode Plugins: …
+#### Code Editors
+Code editors helpen frontenders bij het schrijven, lezen en onderhouden van code. Ze bieden functionaliteiten zoals syntax highlighting, automatische code-aanvulling, foutdetectie en integratie met versiebeheersystemen. Moderne code editors, zoals Visual Studio Code, zijn uitbreidbaar met plugins en extensies, waardoor de werkomgeving kan worden afgestemd op specifieke workflows en programmeertalen. Hierdoor werken developers efficiënter, consistenter en met minder fouten.
 
-#### Linters: ESLint, Prettier, Typescript
+[Code Editors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Code_editors)
 
-#### Editors, Browsers, API's
+#### Code Editor Plugins
+VS Code-plugins kunnen frontenders helpen hun workflow te optimaliseren, bijvoorbeeld door het sneller en netter schrijven van code en het signaleren van fouten. Voorbeelden van plugins zijn: _ESLint_, _Prettier_ en _Live Link_. En een web team kunnen afspraken gemaakt worden over de plugins die gebruikt worden en hoe ze geconfigureerd zijn.
 
-#### NPM (Yarn)
+#### Browsers
+Browsers zijn de programma’s waarmee gebruikers websites en webapplicaties bekijken. Ze verwerken HTML voor de structuur, CSS voor de opmaak en JavaScript voor de functionaliteit. Dankzij ingebouwde ontwikkelaarstools kunnen front-end developers code inspecteren, fouten opsporen en prestaties verbeteren. Omdat browsers verschillen in de ondersteuning van webstandaarden en functies, is het belangrijk bij het ontwikkelen rekening te houden met compatibiliteit en toegankelijkheid.
+
+#### API's
+Een API (Application Programming Interface) is een manier waarop softwareprogramma’s met elkaar communiceren. Front-end developers gebruiken web-API’s om gegevens van servers op te halen of te versturen, bijvoorbeeld voor weerinformatie of social media‑content. API’s maken hergebruik van functionaliteit mogelijk en zorgen ervoor dat websites en applicaties sneller en efficiënter ontwikkeld kunnen worden.
+
+#### REST API
+Een REST API (Representational State Transfer) is een manier om data en functionaliteit van een server toegankelijk te maken via het web. Het volgt de fundamentele werking van het web: elke bron heeft een unieke URL en wordt benaderd met standaard HTTP-methodes zoals GET, POST, PUT en DELETE. Door REST API’s te gebruiken, kunnen front-end en back-end developers op een overzichtelijke en consistente manier gegevens uitwisselen en applicaties schaalbaar bouwen.
+
+#### GraphQL
+GraphQL is een alternatief voor traditionele REST API’s en stelt front-end developers in staat precies de gegevens op te vragen die ze nodig hebben. In plaats van vaste eindpunten zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data-uitwisseling efficiënter, overzichtelijker en flexibeler, en helpt bij het ontwikkelen van schaalbare webapplicaties.
+
+#### URL-Drive Development
+URL-driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (_state_) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
+
+#### NPM
+npm staat voor Node Package Manager en is de standaard package manager voor Node.js. Met npm kun je: JavaScript-packages (libraries en tools) installeren, dependencies van een project beheren en scripts draaien, zoals build-, test- of lint-taken
 
 #### DRY
+Het DRY-principe staat voor “Don’t Repeat Yourself”. Het betekent dat je herhaling in code zoveel mogelijk moet vermijden. In plaats van dezelfde logica, waarden of structuren meerdere keren te kopiëren, leg je deze vast op één centrale plek. Zo voorkom je inconsistenties en maak je je code: beter onderhoudbaar, overzichtelijker en minder foutgevoelig.
+
 
 #### Mobile first
 
+- [Mobile first](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First)
+
 #### Semantiek
+Semantiek betekent dat HTML-elementen worden gebruikt volgens hun betekenis, niet alleen voor opmaak. Zo gebruik je <header> voor een kop, <article> voor een zelfstandig stukje inhoud en <footer> voor de voettekst. Door semantische HTML te gebruiken, wordt de structuur van een website duidelijker voor browsers, zoekmachines en hulpmiddelen voor toegankelijkheid, wat de gebruikerservaring en het onderhoud van de site verbetert.
 
 #### Afhandelen van issues
 
 #### CRUD
+CRUD staat voor Create, Read, Update en Delete en beschrijft de vier basisbewerkingen die mogelijk zijn op data binnen een applicatie. Dit principe sluit aan op de fundamentele werking van het web, waarin bronnen via URL’s toegankelijk zijn en bewerkt kunnen worden. Door CRUD als uitgangspunt te gebruiken, blijft het beheer van data overzichtelijk, voorspelbaar en consistent, zowel voor de gebruiker als voor de ontwikkelaar.
 
 ### Integreren
 
@@ -543,6 +571,10 @@ De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen
 #### Serverside Rendering
 
 #### Static Rendering
+
+#### Universal Rendering
+
+#### Hydration
 
 ### Testen
 
