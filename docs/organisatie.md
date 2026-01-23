@@ -296,15 +296,15 @@ Tijdens de HEAL is een hele dag besteed aan een grondige evaluatie van de inhoud
 ###### Algemeen
 
 - Integreer het lesplan in de leertaak en breek de vierde wand.
-- Gebruik LLMs als frontender.
+- Hoe gebruik je LLMs als frontender op verantwoordelijke wijze?
 - Veranker CSS sterker en licht een nieuwe CSS feature uit in elke leertaak.
 - Bied online hulp op donderdag.
 - Verbeter instructies of formats voor sprint review, planning en wrap-up.
 - Focus assessments op eigen werk en i-love-web.
 - Pak piekbelasting voor en tijdens assessments aan.
 - Organiseer guilds beter.
-- Maak het beste studentenwerk beter zichtbaar.
-- Installeer Teams op telefoons van studenten en stuur notificaties naar het random channel.
+- Maak het beste studentenwerk beter zichtbaar voor de buitenwereld.
+- Installeer Teams op telefoons van studenten en zet notificaties aan op het random channel.
 - Organiseer vaker standups tussen eerste- en tweedejaars.
 - Oefen met het lezen van teksten.
 - Neem de opkomst van AI op in S3/2/1 met behulp van backwards design.
@@ -325,7 +325,7 @@ Tijdens de HEAL is een hele dag besteed aan een grondige evaluatie van de inhoud
 - Bewijslast voor het eindassessment volledig in Portflow. Geen externe links (wiki/Notion) meer, want die kunnen worden aangepast. Alle code in zip opleveren (regelen in stagecontract).
 - Protocol stagebegeleiding opstellen.
 - Terugkomdagen strakker organiseren.
-- Alle co-teachers feedback via GitHub @mentions.
+- Alle co-teachers Agency feedback via GitHub @mentions.
 
 
 ###### Semester 3
@@ -348,7 +348,7 @@ Tijdens de HEAL is een hele dag besteed aan een grondige evaluatie van de inhoud
 
 - Introduceer Progressive Enhancement eerder.
 - Kalibreer assessments.
-- Voeg meer colleges toe aan de squad zelf (werkgroepen).
+- Voeg inhoud van colleges toe aan de instructie werkgroepen (minder praten).
 - Geef juiste begeleiding op “externe” APIs.
 - Bouw de wiki af en maak professionele documentatie belangrijker, gericht op issues en het project board.
 - Introduceer de JS deeltaak eerder, bijvoorbeeld in Sprint 5.

@@ -48,9 +48,13 @@ GenAI kan helpen meerdere oplossingsrichtingen te verkennen maar is geen vervang
 
 ### Frontend op Ad niveau
 
-Vooralsnog zijn we de enige Ad Frontend in Nederland en daarom schreven wij tijdens de TNO ons eigen profiel. Uiteraard in nauwe samenspraak met het werkveld en rekening houdend met wettelijke kaders en verwante opleidingen. Wij beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) op pagina 15. Ook hebben we onze [leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de landelijke gedragscriteria en bijbehorende gedragsindicatoren getoetst aan het landelijk profiel CMD, HBO-ICT, de kwaliteitsraamwerken NLQF en EQF, de Dublin Descriptoren en tenslotte het e-Competence framework.
+Vooralsnog zijn we de enige Ad Frontend in Nederland en daarom schreven wij tijdens de TNO ons eigen profiel. Er bestaan voor het beroep van frontender geen wettelijke- of domeinvereisten. Voor de fundamentele webtechnologieën HTML en CSS en de [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG22/) zijn standaarden welke beheerd worden door het [World Wide Web consortium (W3C)](https://w3.org/). Deze standaarden vormen het richtsnoer voor al het werk wat studenten opleveren. 
 
-Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Daarom zoeken wij partnerschap buiten Nederland. Via Chain 5, de Europese community voor niveau 5 of Ad onderwijs, zijn we in contact gekomen met Hogeschool PXL (België). Alhoewel de gerichtheid niet precies hetzelfde is zijn daar 2 practoraten, Web-development en Web-design. Een eerste officieel overleg moet nog plaats vinden.
+Uiteraard in nauwe samenspraak met het werkveld en rekening houdend met wettelijke kaders en verwante opleidingen. Wij beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) op pagina 15. Ook hebben we onze [leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de landelijke gedragscriteria en bijbehorende gedragsindicatoren getoetst aan het landelijk profiel CMD (p10), HBO-ICT (p13), de kwaliteitsraamwerken NLQF (p16) en EQF (p19), de Dublin Descriptoren (p21) en tenslotte het e-Competence framework (p23). Matrices met de relatie tussen het FDND leerresultaat, de gedragscriteria, -indicatoren en de bovengenoemde frameworks zijn te vinden op betreffende paginanummers.
+
+#### Verhouding 
+
+Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Daarom zoeken wij educatief partnerschap buiten Nederland. Via Chain 5, de Europese community voor niveau 5 of Ad onderwijs, zijn we in contact gekomen met Hogeschool PXL (België). Alhoewel de gerichtheid niet precies hetzelfde is zijn daar 2 practoraten, Web-development en Web-design. Een eerste officieel overleg moet nog plaats vinden.
 
 ### Leerresultaten
 
@@ -453,14 +457,15 @@ Dit hoofdstuk is van studenten en het is om die reden dat wij de letterlijke fee
 
 Onderstaande feedback is gegeven tijdens een door medewerkers van de facultaire onderwijs en onderzoek (O&O) afdeling georganiseerde sessie. Studenten hebben in groepjes overlegd en hun inzichten gedeeld, sommige studenten hebben allemaal hetzelfde gedeeld en er is dus sprake van enige dubbeling. De feedback geeft een goed beeld van de mening van studenten en is direct herleidbaar naar echte personen.
 
-### ~~Noem 5 kernwoorden die volgens jou typerend zijn voor de opleiding.~~
+[deze sessie moet nog plaats vinden!]
 
-### ~~Hoe zou je de sfeer op de opleiding omschrijven?~~
+Vragen tijdens de midterm:
+- Noem 5 kernwoorden die volgens jou typerend zijn voor de opleiding.
+- Hoe zou je de sfeer op de opleiding omschrijven?
+- Hoe ziet voor jou een typische dag of week eruit?
+- Hoe en waar kom je tijdens jouw studie in aanraking met het beroepenveld?
+- Waar heb je tot nu het meeste van geleerd?
+- Wat kan er volgens jou nog verbeterd worden bij de opleiding?
 
-### ~~Hoe ziet voor jou een typische dag of week eruit?~~
+## Matrix verwerking aanbevelingen (TNO/MTR)
 
-### ~~Hoe en waar kom je tijdens jouw studie in aanraking met het beroepenveld?~~
-
-### ~~Waar heb je tot nu het meeste van geleerd?~~
-
-### ~~Wat kan er volgens jou nog verbeterd worden bij de opleiding?~~
