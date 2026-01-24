@@ -101,9 +101,9 @@ Een teamcanvas is een raamwerk dat helpt bij het ontwikkelen en uitlijnen van de
 
 Lees meer op: [https://www.theteamcanvas.com/](https://www.theteamcanvas.com/)
 
-##### (Code) Conventies
+##### (Code) Conventions
 
-*(Code)conventies* zijn richtlijnen voor programmeurs om de leesbaarheid en het onderhoud van broncode te verbeteren. Ze omvatten zaken als bestandsorganisatie, inspringen, commentaar, naamgeving en programmeerpraktijken. Het volgen van deze richtlijnen kan de onderhoudskosten van software verlagen en de kwaliteit verbeteren.
+*(Code) conventions* zijn richtlijnen voor programmeurs om de leesbaarheid en het onderhoud van broncode te verbeteren. Ze omvatten zaken als bestandsorganisatie, inspringen, commentaar, naamgeving en programmeerpraktijken. Het volgen van deze richtlijnen kan de onderhoudskosten van software verlagen en de kwaliteit verbeteren.
 
 > Even bad code can function. But if code isnt clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code.  
 > – Robert C. Martin
@@ -112,10 +112,12 @@ Voorbeelden:
 - [Styleguides en design systems](https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-In semester 1 werken studenten met drie basisregels voor *codeconventies*:
+In semester 1 werken studenten met drie basisregels voor *code conventions*:
 - Geef HTML ademruimte.
 - Schrijf CSS‑selectors in dezelfde volgorde als de HTML.
 - Nest media queries.
+
+In Semester 3 & 4 worden de code conventies van FDND Agency geïntroduceerd: https://docs.fdnd.nl/conventies.html#code-conventies
 
 #### 2. Opdracht en inhoud begrijpen 
 
@@ -481,7 +483,11 @@ In een activity diagram ontwerpt de student de logica en structuur van de code d
 
 Naast concrete technieken werkt de student in de ontwerpfase ook vanuit een aantal algemene design principles die zorgen voor consistente, toegankelijke en schaalbare interfaces. 
 
-##### Principles
+##### UI Principles
+
+UI principles zijn richtlijnen voor het ontwerpen van duidelijke, voorspelbare en gebruiksvriendelijke interfaces. Ze helpen je beslissen hoe elementen eruitzien, waar ze staan en hoe ze zich gedragen in reactie op acties van de gebruiker. Denk bijvoorbeeld aan consistentie (zelfde acties geven dezelfde feedback), zichtbaarheid van belangrijke functies, duidelijke affordances (het is zichtbaar wat klikbaar is) en feedback op iedere actie (knoppen, foutmeldingen, loading‑states).
+
+Door bewust met UI principles te werken, voorkom je “toevallig” design: keuzes worden herhaalbaar en uitlegbaar. Dat maakt interfaces niet alleen prettiger voor gebruikers, maar ook beter onderhoudbaar voor teams, omdat iedereen vanuit dezelfde set principes ontwerpt en bouwt.
 
 - [Principles of User Interface Design, door Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 
