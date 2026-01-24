@@ -834,10 +834,9 @@ npm staat voor Node Package Manager en is de standaard package manager voor Node
 
 Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een project worden geregistreerd, systematisch worden opgepakt en opgelost. Dit omvat het beoordelen, prioriteren, toewijzen en uiteindelijk sluiten van een issue wanneer het is opgelost. Een gestructureerde aanpak zorgt voor overzicht, betere samenwerking en een hogere kwaliteit van het eindproduct.
 
-
 ### Integreren
 
-In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwikkelomgeving naar een gedeelde (test‑ of productie‑)omgeving wordt overgezet, zodat verschillende teamleden en medestudenten kunnen testen en doorontwikkelen, docenten kunnen beoordelen en een opdrachtgever of eindgebruikers de toepassing daadwerkelijk kunnen gebruiken. De student brengt de code samen via Git, maakt een werkende build en publiceert deze op een geschikt hostingplatform, zoals Netlify, Vercel, Render of een (gehoste) server.
+In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwikkelomgeving naar een gedeelde (test‑ of productie‑)omgeving wordt overgezet, zodat verschillende teamleden en medestudenten kunnen testen en doorontwikkelen, docenten kunnen beoordelen en een opdrachtgever of eindgebruikers de toepassing daadwerkelijk kunnen gebruiken. De student brengt de code samen via Git, maakt een werkende build en publiceert deze op een geschikt hosting platform, zoals Netlify, Vercel, Render of een (gehoste) server.
 
 #### Leeruitkomst Integreren
 
@@ -845,7 +844,7 @@ In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwik
 
 - de rol van **integreren** binnen de development lifecycle (DLC):
   - code samenbrengen, publiceren, automatiseren en overdraagbaar maken.
-- de basis van **versiebeheer met Git**:
+- de basis van **version control met Git**:
   - wat een **Git‑workflow** is en waarom afspraken hierover nodig zijn,
   - het verschil tussen **lokale** en **remote** repositories,
   - de rol van **branches**, **commits** en **pull requests**.
@@ -857,11 +856,11 @@ In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwik
   - wat **hosting** is en welke vormen er zijn (statisch, server, serverless),
   - verschil tussen handmatig uploaden met **(S)FTP** en geautomatiseerde deploys,
   - de basis van platforms als **Render**, **GitHub Pages**, **Vercel** en **Netlify**.
-- de principes van **automatisering & configuratie**:
+- de principes van **automation & configuration**:
   - **continuous integration (CI)** als praktijk om automatisch te testen en builden,
   - de rol van **GitHub Actions** bij het opzetten van workflows (test, build, deploy),
   - het doel van **environment variables** en `.env`‑bestanden (scheiding code/configuratie, security).
-- de functie van **documentatie & overdracht**:
+- de functie van **documentation & handover**:
   - het verschil tussen **README.md**, **Handover.md** en **Contributing.md**,
   - welke informatie waar thuishoort (installatie, gebruik, structuur, bijdragen, overdracht).
 
@@ -875,7 +874,7 @@ In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwik
   - werken met feature branches,
   - **pull requests** aanmaken, bespreken en verwerken,
   - kleine, logische stappen maken in plaats van grote “alles‑in‑één” commits.
-- projecten **deployen** naar een hostingplatform:
+- projecten **deployen** naar een hosting platform:
   - een statische site publiceren (bijv. met **GitHub Pages**, **Netlify** of **Vercel**),
   - basisinstellingen configureren (build‑command, output‑folder, environment variables),
   - een eenvoudige update‑flow gebruiken (push → build → deploy).
@@ -887,8 +886,8 @@ In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwik
   - build‑ en testfouten interpreteren en oplossen.
 - veilig omgaan met **configuratie en secrets**:
   - gevoelige gegevens in een `.env`‑bestand plaatsen,
-  - `.env` uitsluiten van versiebeheer,
-  - environment variables instellen in het deploymentplatform.
+  - `.env` uitsluiten van version control,
+  - environment variables instellen in het deployment platform.
 - **documentatie** schrijven en bijhouden:
   - een duidelijke **README.md** opstellen (doel, installatie, gebruik, tech‑stack),
   - een **Handover.md** maken voor overdracht (structuur, scripts, bekende issues),
@@ -896,7 +895,7 @@ In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwik
 
 **Attitude: de student...**
 
-- ziet **versiebeheer** als essentieel onderdeel van professioneel werken:
+- ziet **version control** als essentieel onderdeel van professioneel werken:
   - commit regelmatig in kleine stappen,
   - schrijft eerlijke, beschrijvende commit messages,
   - is voorzichtig met direct op `main`/`master` werken.
@@ -917,8 +916,7 @@ In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwik
   - gebruikt issues, PR‑beschrijvingen en documentatie om keuzes te communiceren,
   - staat open voor code reviews en is bereid eigen code aan te passen na feedback.
 
-
-#### 1. Versiebeheer & workflow 
+#### 1. Version control & workflow 
 
 In dit deel wordt beschreven hoe de student met Git samenwerkt aan dezelfde codebase: hoe branches worden gebruikt, wijzigingen worden vastgelegd en samengevoegd en hoe de workflow voorspelbaar en veilig blijft. 
 
@@ -928,7 +926,7 @@ Een Git‑workflow beschrijft de afspraken en stappen die een team volgt bij het
 
 ##### Git CLI
 
-De Git CLI (Command Line Interface) is een tekstgebaseerde manier om Git te gebruiken via de terminal. Hiermee kunnen developers repositories beheren, commits maken en branches aansturen. Werken met de Git CLI geeft veel controle en inzicht in versiebeheer en vormt een belangrijke basisvaardigheid voor frontenders.
+De Git CLI (Command Line Interface) is een tekstgebaseerde manier om Git te gebruiken via de terminal. Hiermee kunnen developers repositories beheren, commits maken en branches aansturen. Werken met de Git CLI geeft veel controle en inzicht in version control en vormt een belangrijke basisvaardigheid voor frontenders.
 
 ##### Branches
 
@@ -948,7 +946,7 @@ Een pull request is een verzoek om wijzigingen uit een branch samen te voegen me
 
 #### 2. Deploy & hosting 
 
-In dit deel gaat het over hoe de student applicaties daadwerkelijk online krijgt en beschikbaar maakt voor gebruikers, met verschillende vormen van hosting en deploymentplatformen. 
+In dit deel gaat het over hoe de student applicaties daadwerkelijk online krijgt en beschikbaar maakt voor gebruikers, met verschillende vormen van hosting en deployment platforms. 
 
 ##### Hosting
 
@@ -972,25 +970,25 @@ Vercel is een platform gericht op het hosten en deployen van moderne front‑end
 
 ##### Netlify
 
-Netlify is een hostingplatform voor statische websites en front‑end applicaties. Het ondersteunt automatische deploys, form‑handling en serverless functies. Door de Git‑integratie kunnen projecten eenvoudig en snel worden gepubliceerd.
+Netlify is een hosting platform voor statische websites en front‑end applicaties. Het ondersteunt automatische deploys, form‑handling en serverless functies. Door de Git‑integratie kunnen projecten eenvoudig en snel worden gepubliceerd.
 
-#### 3. Automatisering & configuratie 
+#### 3. Automation & configuration 
 
 In dit deel gaat het over het automatiseren van builds, tests en deploys (CI/CD) en over het veilig beheren van configuratie via omgevingsvariabelen. 
 
-##### Continuous Integration
+##### Continuous integration
 
-Continuous Integration (CI) is een ontwikkelpraktijk waarbij codewijzigingen automatisch worden getest en gecontroleerd zodra ze worden toegevoegd aan een repository. Dit helpt fouten vroeg te signaleren en zorgt voor stabielere en betrouwbaardere software.
+Continuous integration (CI) is een ontwikkelpraktijk waarbij codewijzigingen automatisch worden getest en gecontroleerd zodra ze worden toegevoegd aan een repository. Dit helpt fouten vroeg te signaleren en zorgt voor stabielere en betrouwbaardere software.
 
 ##### GitHub Actions
 
-GitHub Actions is een tool voor het automatiseren van workflows binnen GitHub, zoals testen, builden en deployen. Het wordt veel gebruikt voor Continuous Integration en Continuous Deployment en werkt op basis van configuratiebestanden (YAML) in de repository.
+GitHub Actions is een tool voor het automatiseren van workflows binnen GitHub, zoals testen, builden en deployen. Het wordt veel gebruikt voor continuous integration en continuous deployment en werkt op basis van configuratiebestanden (YAML) in de repository.
 
 ##### `.env`
 
-Een `.env`‑bestand wordt gebruikt om omgevingsvariabelen op te slaan, zoals API‑sleutels en configuratie‑instellingen. Deze gegevens worden gescheiden van de code om veiligheid en flexibiliteit te verbeteren en worden niet meegenomen in versiebeheer (door `.env` in `.gitignore` op te nemen).
+Een `.env`‑bestand wordt gebruikt om environment variables op te slaan, zoals API‑sleutels en configuratie‑instellingen. Deze gegevens worden gescheiden van de code om veiligheid en flexibiliteit te verbeteren en worden niet meegenomen in version control (door `.env` in `.gitignore` op te nemen).
 
-#### 4. Documentatie & overdracht 
+#### 4. Documentation & handover 
 
 In dit deel gaat het over hoe de student projecten documenteert en overdraagt, zodat anderen (of de student zelf later) het werk kunnen begrijpen, gebruiken en voortzetten. 
 
@@ -1013,6 +1011,7 @@ De `Handover.md` bevat informatie die nodig is om een project over te dragen aan
 ###### Contributing.md
 
 De `Contributing.md` beschrijft de richtlijnen voor het bijdragen aan een project. Denk aan afspraken over branches, commit messages, code‑style en pull requests. Door deze regels vast te leggen, wordt samenwerking duidelijker en blijft de kwaliteit van het project consistent.
+
 
 ### Testen
 
