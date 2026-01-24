@@ -295,7 +295,7 @@ Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van het project 
 - het doel van **prototyping** in verschillende fidelities:
   - verschil tussen **LoFi** en **HiFi**,
   - wanneer gekozen wordt voor schetsen, paper prototypes of digitale tools (zoals Figma).
-- de basis van **informatie‑architectuur**:
+- de basis van **information architecture (IA)**:
   - structureren van content,
   - navigatie‑ en labelingsystemen.
 - de rol en vorm van:
@@ -304,16 +304,16 @@ Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van het project 
   - **wireflows** (schermen + interactiestroom),
   - **breakdown‑schetsen** (annotaties voor HTML/CSS/JS).
 - het nut van eenvoudige **data‑ en flow‑modellen**:
-  - **datamodellen** (entiteiten, relaties),
+  - **datamodellen (data models)** (entiteiten, relaties),
   - **data flow diagrams**,
   - **activity diagrams** (control flow, states).
-- belangrijke **ontwerpprincipes** voor interfaces:
+- belangrijke **design principles** voor interfaces:
   - algemene UI‑principes (bijv. van Joshua Porter),
   - **atomic design** (atoms → molecules → organisms → templates → pages),
   - de **UI‑stack** (verschillende states, feedbacklagen),
   - **responsive design** en breakpoints,
   - **touch‑design** (targets, bereik, gestures),
-  - **kleur en contrast**, **visuele hiërarchie**, **nabijheid/afstand** en **contrast** als Gestalt‑principes.
+  - **color & contrast**, **visual hierarchy**, **proximity** en **contrast** als Gestalt‑principes.
 
 **Skills: de student kan ...**
 
@@ -337,15 +337,15 @@ Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van het project 
   - **HiFi wireframes** of mockups maken in een digitale tool.
 - de structuur van een site of applicatie ontwerpen:
   - een **sitemap** opstellen op basis van content en user needs,
-  - **informatie‑architectuur** beargumenteren (navigatie, labels).
+  - **information architecture (IA)** beargumenteren (navigatie, labels).
 - interacties en flows uitwerken:
   - **wireflows** tekenen voor belangrijke user journeys,
   - een **breakdown‑schets** maken met annotaties voor HTML/CSS/JS.
 - eenvoudige **data‑ en procesmodellen** maken:
   - een basic **datamodel** schetsen voor de benodigde informatie,
   - een **data flow diagram** of **activity diagram** gebruiken om logica te verduidelijken.
-- ontwerpprincipes toepassen in eigen werk:
-  - **visuele hiërarchie**, **nabijheid**, **contrast** en **kleurgebruik** bewust inzetten,
+- design principles toepassen in eigen werk:
+  - **visual hierarchy**, **proximity**, **contrast** en **kleurgebruik** bewust inzetten,
   - rekening houden met **responsive** gedrag en **touch**‑interactie,
   - interfaces opbouwen volgens **atomic design** of componentgedachte.
 
@@ -370,8 +370,7 @@ Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van het project 
   - houdt rekening met beperkingen (tijd, technologie, toegankelijkheid),
   - ontwerpt oplossingen die realiseerbaar zijn in HTML, CSS en JS.
 
-
-#### 1. Oriëntatie & idee‑generatie 
+#### 1. Orientation & ideation 
 
 In deze fase onderzoekt de student het probleem en genereert hij/zij mogelijke richtingen en stijlen voordat er in detail wordt uitgewerkt. 
 
@@ -408,7 +407,7 @@ Een morphological chart laat alternatieven per ontwerp‑parameter zien en stimu
 
 Een Harris‑profile is een gewogen beoordelingsmatrix om concepten objectief te scoren op criteria. Zo worden keuzes transparant en herhaalbaar gemaakt binnen het team of de squad.
 
-#### 2. Prototyping & structureren 
+#### 2. Prototyping & structuring 
 
 In deze fase werkt de student ideeën uit in concrete structuren en schermindelingen, zodat duidelijk wordt wat waar komt en hoe gebruikers door de interface bewegen. 
 
@@ -420,14 +419,14 @@ Een prototype kan van alles zijn, bijvoorbeeld een schets om te bespreken met ie
 
 De student kan een wireframe **LoFi** (low fidelity) of meer **HiFi** (high fidelity) maken met meer detail en kleur. Voor een HiFi‑wireframe kan goed prototypesoftware worden gebruikt, zoals Figma. Door LoFi‑wireframes te schetsen kunnen snel verschillende layouts worden uitgeprobeerd, ideeën gevisualiseerd, besproken en aangepast.
 
-##### Informatie‑architectuur
+##### Information architecture (IA)
 
-Informatie‑architectuur is een ontwerpdiscipline die zich bezighoudt met het structureren en organiseren van de content van een website, zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie gebeurt door passende organisatiesystemen te ontwerpen voor de content en duidelijke labels en navigatiesystemen te gebruiken.
+Information architecture (IA) is een ontwerpdiscipline die zich bezighoudt met het structureren en organiseren van de content van een website, zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie gebeurt door passende organisatiesystemen te ontwerpen voor de content en duidelijke labels en navigatiesystemen te gebruiken.
 
 - [Designing Web Navigation – Chapter 4. Types of Navigation](https://www.oreilly.com/library/view/designing-web-navigation/9780596528102/ch04.html)
 - [Presenting Information Architecture – Site diagrams](https://www.webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
 
-###### Sitemap (Hiërarchie)
+###### Sitemap (hiërarchie)
 
 Een sitemap geeft een gestructureerd overzicht van alle pagina’s van een website. Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de sitestructuur met een team kan ook zorgen voor focus en gedeeld begrip in een project.
 
@@ -457,9 +456,9 @@ Een wireflow toont een aantal schermen van een interactie. Het is nuttig om uit 
 
 In deze fase brengt de student in kaart welke data nodig is en hoe die door het systeem en de interface stroomt, zodat ontwerp en architectuur goed op elkaar aansluiten. 
 
-##### Datamodel
+##### Data model
 
-Een datamodel laat de logische structuur van een database zien, inclusief de relaties tussen tabellen.
+Een data model laat de logische structuur van een database zien, inclusief de relaties tussen tabellen.
 
 - [Directus Data Model](https://docs.directus.io/app/data-model.html)
 
@@ -478,11 +477,11 @@ In een activity diagram ontwerpt de student de logica en structuur van de code d
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
 
-#### 4. Ontwerpprincipes 
+#### 4. Design principles 
 
-Naast concrete technieken werkt de student in de ontwerpfase ook vanuit een aantal algemene ontwerpprincipes die zorgen voor consistente, toegankelijke en schaalbare interfaces. 
+Naast concrete technieken werkt de student in de ontwerpfase ook vanuit een aantal algemene design principles die zorgen voor consistente, toegankelijke en schaalbare interfaces. 
 
-##### Principes
+##### Principles
 
 - [Principles of User Interface Design, door Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 
@@ -518,15 +517,15 @@ Ontwerpen voor touch‑interfaces vraagt grotere targets, duidelijke feedback en
 
 - [Design for Fingers, Touch, and People – Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
-##### Kleur en contrast
+##### Color & contrast
 
-Kleurcontrasten in een ontwerp zijn belangrijk voor visuele hiërarchie, leesbaarheid en toegankelijkheid. In de *WCAG‑richtlijnen* wordt in de standaard *Perceivable*, onderdeel *Distinguishable*, beschreven hoe ontwerpers het mensen makkelijker kunnen maken om een website te zien en te horen.
+Color contrast in een ontwerp is belangrijk voor visual hierarchy, leesbaarheid en toegankelijkheid. In de *WCAG‑richtlijnen* wordt in de standaard *Perceivable*, onderdeel *Distinguishable*, beschreven hoe ontwerpers het mensen makkelijker kunnen maken om een website te zien en te horen.
 
 Wat kunnen ontwerpers doen om ervoor te zorgen dat mensen informatie goed kunnen onderscheiden?
 
 1. Gebruik naast kleur altijd alternatieve informatie.
 2. Gebruik onderscheidende kleuren.
-3. Zorg dat er onderscheid is in saturatie en brightness.
+3. Zorg dat er onderscheid is in saturation en brightness.
 4. Vermijd complementair contrast groen/rood.
 5. [Test kleurcontrasten](#kleuren-en-contrast-test).
 
@@ -534,16 +533,16 @@ Wat kunnen ontwerpers doen om ervoor te zorgen dat mensen informatie goed kunnen
 - [A11y Project kleurcontrast](https://www.a11yproject.com/checklist/#color-contrast)
 - [Accessible contrast ratios and A-levels explained](https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained/)
 
-##### Hiërarchie
+##### Visual hierarchy
 
-Visuele hiërarchie is belangrijk in webdesign. Zij vertelt gebruikers waar zij moeten kijken en welke elementen op het scherm het belangrijkst zijn. Een goede visuele hiërarchie kan op verschillende manieren worden bereikt, zoals met de grootte van tekst of elementen, gebruik van kleur en contrast, witruimte en de positie van elementen op het scherm.
+Visual hierarchy is belangrijk in webdesign. Het vertelt gebruikers waar zij moeten kijken en welke elementen op het scherm het belangrijkst zijn. Een goede visual hierarchy kan op verschillende manieren worden bereikt, zoals met de grootte van tekst of elementen, gebruik van kleur en contrast, witruimte en de positie van elementen op het scherm.
 
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
 
-##### Afstand / nabijheid
+##### Proximity
 
-Het Gestalt‑principe van nabijheid bepaalt hoe gebruikers samenhang zien: gerelateerde elementen worden gegroepeerd en witruimte tussen groepen wordt vergroot om “scanbaarheid” te verbeteren.
+Het Gestalt‑principe van proximity bepaalt hoe gebruikers samenhang zien: gerelateerde elementen worden gegroepeerd en witruimte tussen groepen wordt vergroot om “scanbaarheid” te verbeteren.
 
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
