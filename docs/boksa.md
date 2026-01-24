@@ -48,6 +48,57 @@ In de analyse fase onderzoek en inventariseer je wat er moet gebeuren om een taa
 
 Als je voor de eerste keer met een team samenwerkt is het handig om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreek je de opdrachtgever in een [briefing en debriefing](#briefing-en-debriefing) sessie.
 
+#### Leeruitkomsten Analyseren (Kennis / Skills / Attitude)
+
+**Kennis**
+
+De student kent:
+
+- De rol van de analysefase binnen de development lifecycle (DLC) en Scrum.
+- Het doel en de opzet van een **teamcanvas** en (code) **conventies**.
+- Het verschil tussen **briefing** en **debriefing** en de belangrijkste onderdelen van beide.
+- De stappen van een **contentanalyse** (inventarisatie, beoordeling, SEO, UX).
+- De basisconcepten van **projectorganisatie**:
+  - projectboard (kolommen, taken, workflow),
+  - GitHub‑begrippen: repository, commit, branch, fork, issues, pull request, README.
+- De begrippen **epic**, **user story**, **job story** en hun onderlinge relatie.
+- Het principe van **planning poker** als schattingsmethode.
+- De categorieën in **MoSCoW‑prioritering** (Must, Should, Could, Won’t).
+- Het idee van verschillende **budgetten** (financieel, performance, accessibility) en hun impact op scope.
+- De factoren die meewegen bij het bepalen van een **tech‑stack** (doelen, expertise, infrastructuur, community, security, etc.).
+
+**Skills**
+
+De student kan:
+
+- Samen met een team een **teamcanvas** invullen en (code)conventies afspreken en vastleggen.
+- Op basis van een briefing een **debriefing** schrijven die doelen, scope, randvoorwaarden en open vragen expliciteert.
+- Een **contentinventarisatie** maken en content globaal beoordelen op kwaliteit, relevantie, structuur en vindbaarheid.
+- Een **projectboard** opzetten (kolommen, kaarten, labels) en deze gedurende de sprint actief bijhouden.
+- Een eenvoudige **GitHub‑projectinrichting** doen:
+  - repo aanmaken/klonen,
+  - README toevoegen,
+  - issues en branches gebruiken om werk te structureren.
+- Uit een opdracht **epics** afleiden en deze vertalen naar concrete **user stories** en/of **job stories**.
+- Stories vertalen naar **taken** en deze opnemen in board/issues.
+- Met het team **planning poker** uitvoeren en verschillen in inschatting bespreken.
+- Taken en stories **prioriteren** met behulp van **MoSCoW**.
+- Op basis van doelen en constraints meedenken over een passende **tech‑stack** en keuzes beargumenteren.
+- Eenvoudige **budgetten** (tijd, performance, accessibility) meewegen bij het bepalen van scope.
+
+**Attitude**
+
+De student:
+
+- Neemt actief deel aan het maken van teamafspraken en houdt zich hieraan.
+- Vraagt expliciet om verduidelijking bij onduidelijke opdrachten (briefing/debriefing‑houding).
+- Toont **methodisch handelen**: analyseert eerst het probleem voordat er gebouwd wordt.
+- Is transparant over voortgang door het projectboard en issues up‑to‑date te houden.
+- Weegt belangen van **eindgebruiker**, **opdrachtgever** en **team** af bij scope‑ en prioriteitskeuzes.
+- Is bereid aannames te herzien na nieuwe informatie (bijv. uit contentanalyse of debriefing).
+- Heeft oog voor haalbaarheid: denkt in termen van budgetten (tijd, performance, toegankelijkheid) en maakt dit bespreekbaar.
+
+
 #### 1. Samenwerking en teamafspraken 
 
 ##### Teamcanvas
