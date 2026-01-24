@@ -40,11 +40,12 @@ De development lifecycle hanteert de volgende fasering:
 5. [Testen](#testen) – bijvoorbeeld: unit testing (TDD), system test, user test, device lab test, A/B testing.
 
 
+```markdown
 ### Analyseren
 
-In de analyse fase onderzoek en inventariseer je wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die je hierbij kunt gebruiken. De aanpak verschilt per sprint afhankelijk van de fase in je project.
+In de analysefase onderzoekt en inventariseert **de student** wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die daarbij kunnen worden gebruikt. De aanpak verschilt per sprint, afhankelijk van de fase van het project.
 
-Als je voor de eerste keer met een team samenwerkt is het handig om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreek je de opdrachtgever in een [briefing en debriefing](#briefing-en-debriefing) sessie.
+Wanneer een student voor de eerste keer met een team samenwerkt, is het zinvol om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreekt het team de opdrachtgever in een [briefing- en debriefing](#briefing-en-debriefing)sessie.
 
 #### Leeruitkomsten Analyseren (Kennis / Skills / Attitude)
 
@@ -72,7 +73,7 @@ De student kan:
 - Samen met een team een **teamcanvas** invullen en (code)conventies afspreken en vastleggen.
 - Op basis van een briefing een **debriefing** schrijven die doelen, scope, randvoorwaarden en open vragen expliciteert.
 - Een **contentinventarisatie** maken en content globaal beoordelen op kwaliteit, relevantie, structuur en vindbaarheid.
-- Een **projectboard** opzetten (kolommen, kaarten, labels) en deze gedurende de sprint actief bijhouden.
+- Een **projectboard** opzetten (kolommen, kaarten, labels) en dit gedurende de sprint actief bijhouden.
 - Een eenvoudige **GitHub‑projectinrichting** doen:
   - repo aanmaken/klonen,
   - README toevoegen,
@@ -96,60 +97,57 @@ De student:
 - Is bereid aannames te herzien na nieuwe informatie (bijv. uit contentanalyse of debriefing).
 - Heeft oog voor haalbaarheid: denkt in termen van budgetten (tijd, performance, toegankelijkheid) en maakt dit bespreekbaar.
 
-
 #### 1. Samenwerking en teamafspraken 
 
 ##### Teamcanvas
 
-Een raamwerk dat helpt bij het ontwikkelen en uitlijnen van hun teamdynamiek. Met aandacht invullen helpt teams bij:
-- Definiëren van doelen voor het team en voor individuele teamleden;
-- Afspraken over kernwaarden en gedragsregels;
-- In kaart brengen van sterke en zwakke punten;
-- Bespreken van behoeften en verwachtingen.
+Een teamcanvas is een raamwerk dat helpt bij het ontwikkelen en uitlijnen van de teamdynamiek. Met aandacht ingevuld helpt het teams bij:
+- het definiëren van doelen voor het team en voor individuele teamleden;
+- het maken van afspraken over kernwaarden en gedragsregels;
+- het in kaart brengen van sterke en zwakke punten;
+- het bespreekbaar maken van behoeften en verwachtingen.
 
 Lees meer op: [https://www.theteamcanvas.com/](https://www.theteamcanvas.com/)
 
 ##### (Code) Conventies
 
-*(Code) Conventies* zijn richtlijnen voor programmeurs om de leesbaarheid en onderhoud van broncode te verbeteren. Ze omvatten zaken als bestandsorganisatie, inspringen, commentaar, naamgeving en programmeerpraktijken. Het volgen van deze richtlijnen kan de onderhoudskosten van software verlagen en de kwaliteit verbeteren.
+*(Code)conventies* zijn richtlijnen voor programmeurs om de leesbaarheid en het onderhoud van broncode te verbeteren. Ze omvatten zaken als bestandsorganisatie, inspringen, commentaar, naamgeving en programmeerpraktijken. Het volgen van deze richtlijnen kan de onderhoudskosten van software verlagen en de kwaliteit verbeteren.
 
-> Even bad code can function. But if code isnt clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. - Robert C. Martin
+> Even bad code can function. But if code isnt clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code.  
+> – Robert C. Martin
 
 Voorbeelden:
 - [Styleguides en design systems](https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-In Semester 1 beginnen we met de 3 basisregels voor *code conventies*:
-- Geef je HTML ademruimte
-- Schrijf je CSS selectors in dezelfde volgorde als de HTML
-- Nest je media queries
+In semester 1 werken studenten met drie basisregels voor *codeconventies*:
+- Geef HTML ademruimte.
+- Schrijf CSS‑selectors in dezelfde volgorde als de HTML.
+- Nest media queries.
 
 #### 2. Opdracht en inhoud begrijpen 
 
 ##### Briefing en debriefing
 
-Een briefing is de initiële instructie waarin de opdrachtgever duidelijk maakt wat er onderzocht moet worden. Dit omvat de hoofdvraag, doelen, de afbakening van het onderzoek en de verwachtingen van de opdrachtgever. Het helpt om het onderzoeksproces in goede banen te leiden en zorgt ervoor dat de onderzoeker weet wat er verwacht wordt.
+Een briefing is de initiële instructie waarin de opdrachtgever duidelijk maakt wat er onderzocht moet worden. Dit omvat de hoofdvraag, doelen, de afbakening van het onderzoek en de verwachtingen van de opdrachtgever. De briefing helpt om het onderzoeks- of ontwerpproces in goede banen te leiden en zorgt ervoor dat de student weet wat er verwacht wordt.
 
-Een debriefing is de terugkoppeling van de onderzoeker aan de opdrachtgever om te bevestigen dat hij de opdracht goed heeft begrepen. Tijdens de debriefing worden onduidelijkheden opgehelderd en wordt besproken of de onderzoeker op de juiste weg zit. Het doel is om misverstanden te voorkomen en ervoor te zorgen dat het onderzoek aansluit bij de verwachtingen.
+Een debriefing is de terugkoppeling van de student (of het team) aan de opdrachtgever om te bevestigen dat de opdracht goed is begrepen. Tijdens de debriefing worden onduidelijkheden opgehelderd en wordt besproken of de student op de juiste weg zit. Het doel is om misverstanden te voorkomen en ervoor te zorgen dat het werk aansluit bij de verwachtingen.
 
 Bronnen:
- - [Checklist voor de ultieme debriefing – in 11 stappen naar resultaat](https://www.frankwatching.com/archive/2020/09/10/ultieme-debriefing-checklist-11-stappen/)
- - [Hoe stel je een goede briefing en debriefing (onderzoeksomschrijving en terugkoppeling daarop) op?](https://www.joho.org/en/hoe-stel-je-een-goede-briefing-en-debriefing-onderzoeksomschrijving-en-terugkoppeling-daarop-op)
+- [Checklist voor de ultieme debriefing – in 11 stappen naar resultaat](https://www.frankwatching.com/archive/2020/09/10/ultieme-debriefing-checklist-11-stappen/)
+- [Hoe stel je een goede briefing en debriefing (onderzoeksomschrijving en terugkoppeling daarop) op?](https://www.joho.org/en/hoe-stel-je-een-goede-briefing-en-debriefing-onderzoeksomschrijving-en-terugkoppeling-daarop-op)
 - [Preparing an Effective Briefing @ Imperial College London](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/staff-development/public/ipd/Preparing-an-effective-briefing.pdf)
 
 ##### Contentanalyse
 
 Een contentanalyse voor een website is een gestructureerde methode om de inhoud van een website te evalueren en te beoordelen. Het doel is om te begrijpen hoe effectief de content is in het bereiken van de doelgroep en het behalen van bedrijfsdoelen. Dit proces omvat vaak de volgende stappen:
 
-**Inventarisatie van content**: Een volledige lijst maken van alle inhoud op de website, inclusief tekst, afbeeldingen, video's, blogs, productpagina's, enz.
+- **Inventarisatie van content**: een volledige lijst maken van alle inhoud op de website, inclusief tekst, afbeeldingen, video’s, blogs, productpagina’s, enzovoort.
+- **Evaluatie van kwaliteit en relevantie**: beoordelen of de content voldoet aan de doelen van de website, zoals informatie verstrekken, de gebruiker begeleiden of een merkboodschap overbrengen. 
+- **SEO‑analyse**: controleren of de content geoptimaliseerd is voor zoekmachines. Dit omvat het analyseren van het juiste gebruik van zoekwoorden, meta‑tags en andere SEO‑elementen die de zichtbaarheid in zoekresultaten beïnvloeden.
+- **Gebruikerservaring (UX)**: beoordelen hoe goed de content georganiseerd is en of deze gemakkelijk te navigeren en te consumeren is. Hierbij wordt gekeken naar lay‑out, leesbaarheid en hoe intuïtief de site is.
 
-**Evaluatie van kwaliteit en relevantie**: Beoordelen of de content voldoet aan de doelen van de website, zoals informatie verstrekken, de gebruiker begeleiden, of een merkboodschap overbrengen. 
-
-**SEO-analyse**: Controleren of de content geoptimaliseerd is voor zoekmachines. Dit omvat het analyseren van de juiste gebruik van zoekwoorden, meta tags, en andere SEO-elementen die de zichtbaarheid in zoekresultaten beïnvloeden.
-
-**Gebruikerservaring (UX)**: Beoordelen hoe goed de content georganiseerd is en of het gemakkelijk te navigeren en te consumeren is. Dit houdt in dat gekeken wordt naar de lay-out, leesbaarheid, en hoe intuïtief de site is.
-
-Een goede contentanalyse helpt bij het identificeren van zwakke plekken in de inhoud en biedt een strategie om deze te verbeteren om beter aan de behoeften van de doelgroep en bedrijfsdoelen te voldoen.
+Een goede contentanalyse helpt bij het identificeren van zwakke plekken in de inhoud en biedt een strategie om deze te verbeteren, zodat beter wordt aangesloten bij de behoeften van de doelgroep en de bedrijfsdoelen.
 
 Bronnen:
 - [How (and Why) to Perform a Content Analysis](https://fivechannels.com/how-to-perform-a-content-analysis/)
@@ -158,49 +156,36 @@ Bronnen:
 
 ##### Projectbord inrichten
 
-Een projectbord is een visueel hulpmiddel om de voortgang van een project te organiseren en te beheren. Het helpt teams om hun taken, deadlines, en verantwoordelijkheden duidelijk te visualiseren. Een goed ingericht projectboard bestaat vaak uit een aantal standaard componenten die bijdragen aan overzicht en efficiëntie.
+Een projectbord is een visueel hulpmiddel om de voortgang van een project te organiseren en te beheren. Het helpt teams om taken, deadlines en verantwoordelijkheden duidelijk te visualiseren. Een goed ingericht projectboard bestaat vaak uit een aantal standaardcomponenten die bijdragen aan overzicht en efficiëntie.
 
 Stappen om een projectboard in te richten:
 
-1. **Kies een tool**: Er zijn verschillende tools beschikbaar voor projectboards, zoals Github, Trello, Asana, Jira, of MS Azure Devops. Elk biedt aanpasbare borden waarmee je taken en statussen kunt bijhouden. Bij FDND gebruiken wij voornamelijk Github maar op stage kom je wellicht andere tools tegen.
-
-2. **Maak kolommen aan**: Organiseer het projectboard door kolommen te creëren die de workflow representeren. Veelvoorkomende kolommen zijn: To do, In progress, Review, Done. Afhankelijk van de aard van het project kunnen extra kolommen nuttig zijn, zoals "Blokkerende issues" of "Afwachting goedkeuring".
-
-3. **Maak taken (cards)**: Voeg specifieke taken toe als cards (op Github, Trello of Jira bijvoorbeeld) binnen de kolommen. Elke taak bevat gedetailleerde informatie zoals beschrijvingen, subtaken, deadlines, en verantwoordelijke teamleden.
-
-4. **Toewijzen van verantwoordelijkheden**: Wijs teamleden toe aan de taken. Zo is duidelijk wie verantwoordelijk is voor welke stap in het proces.
-
-5. **Prioriteiten stellen**: Geef aan welke taken het meest urgent zijn door prioriteitslabels of kleuren te gebruiken. Dit helpt het team om zich te focussen op wat het eerst moet worden aangepakt.
-
-6. **Bijwerken en onderhouden**: Een projectboard moet dynamisch zijn. Update het regelmatig om de voortgang bij te houden, taken te verplaatsen tussen kolommen, en nieuwe taken toe te voegen als dat nodig is.
-
-7. **Tijdslijnen en deadlines toevoegen**: Gebruik tijdsmanagementfuncties zoals deadlines, kalenderintegraties, en herinneringen. Zo blijft iedereen op de hoogte van de planning en kan er tijdig worden ingegrepen.
+1. **Kies een tool**: er zijn verschillende tools beschikbaar voor projectboards, zoals GitHub, Trello, Asana, Jira of MS Azure DevOps. Elk biedt aanpasbare borden waarmee taken en statussen kunnen worden bijgehouden. Bij FDND wordt voornamelijk gewerkt met GitHub, maar tijdens stages kunnen studenten andere tools tegenkomen.
+2. **Maak kolommen aan**: organiseer het projectboard door kolommen te creëren die de workflow representeren. Veelvoorkomende kolommen zijn: *To do*, *In progress*, *Review*, *Done*. Afhankelijk van de aard van het project kunnen extra kolommen nuttig zijn, zoals “Blokkerende issues” of “Afwachting goedkeuring”.
+3. **Maak taken (cards)**: voeg specifieke taken toe als cards (op GitHub, Trello of Jira bijvoorbeeld) binnen de kolommen. Elke taak bevat bij voorkeur gedetailleerde informatie, zoals beschrijvingen, subtaken, deadlines en verantwoordelijke teamleden.
+4. **Wijs verantwoordelijkheden toe**: koppel teamleden aan de taken, zodat duidelijk is wie waarvoor verantwoordelijk is.
+5. **Stel prioriteiten**: geef aan welke taken het meest urgent zijn door prioriteitslabels of kleuren te gebruiken. Dit helpt het team te focussen op wat eerst moet worden aangepakt.
+6. **Werk het board bij en onderhoud het**: een projectboard is dynamisch. Het wordt regelmatig geüpdatet om voortgang bij te houden, taken te verplaatsen tussen kolommen en nieuwe taken toe te voegen.
+7. **Voeg tijdslijnen en deadlines toe**: maak gebruik van tijdsmanagementfuncties zoals deadlines, kalenderintegraties en herinneringen. Zo blijft iedereen op de hoogte van de planning en kan er tijdig worden bijgestuurd.
 
 Belangrijke tips:
 
-- **Gebruik visuele elementen**: Voeg labels, kleuren of tags toe om verschillende taken of fasen van elkaar te onderscheiden.
-- **Communicatie**: Sommige tools bieden communicatie- of commentaarsecties binnen taken, wat handig is voor snelle updates of vragen.
-- **Rapportages**: Zorg dat je een overzicht hebt van voltooid werk, werk in uitvoering, en wat nog gepland is. Dit kan helpen bij rapportages of evaluaties van projectvoortgang.
+- Gebruik visuele elementen (labels, kleuren, tags) om verschillende taken of fasen van elkaar te onderscheiden.
+- Maak gebruik van communicatie- of commentaarsecties binnen taken voor snelle updates of vragen.
+- Zorg voor een duidelijk overzicht van voltooid werk, werk in uitvoering en wat nog gepland is; dit ondersteunt rapportages en evaluaties van de projectvoortgang.
 
 ##### Projectinrichting
 
-GitHub is in het vakgebied een van de meest gebruikte platformen om samen te werken aan webprojecten. heeft verschillende tools om een project in te richten. Hieronder een samenvatting van de meest gebruikte tools:
+GitHub is in het vakgebied een van de meest gebruikte platformen om samen te werken aan webprojecten en biedt verschillende tools om een project in te richten. Hieronder een samenvatting van de meest gebruikte onderdelen:
 
-* **Project Board:** Een project board geeft een visueel overzicht van de voortgang van taken, met kolommen zoals "To Do", "In Progress" en "Done". Het helpt bij het organiseren van werk en het volgen van de status van het project.
-
-* **Repository:** Een repository (repo) is een centrale opslagplaats op GitHub voor projectbestanden en de volledige geschiedenis van wijzigingen. Het bevat broncode, documentatie en andere bestanden. Met behulp van versiebeheer (zoals Git) kunnen teams wijzigingen bijhouden, samenwerken en terugdraaien naar eerdere versies.
-
-* **Commit:** Een commit is een wijziging in een Git-repository. Het legt vast wat er is veranderd in de code en bevat een beschrijving (commit message) van die wijziging. Elke commit functioneert als een versie van het project, waardoor je terug kunt keren naar eerdere versies van de code.
-
-* **Forks:** Een fork is een kopie van een project naar een eigen GitHub-account. Het stelt ontwikkelaars in staat om aanpassingen te maken zonder de originele code te beïnvloeden. Dit is handig voor experimenteren of bijdragen aan externe projecten.
-
-* **README.md:** De README.md bevat belangrijke informatie over het project, zoals installatie-instructies, gebruikshandleidingen en doelstellingen. Het helpt teamleden en bijdragers om snel aan de slag te gaan.
-
-* **Issues:** Issues worden gebruikt om taken, bugs of verbeteringen bij te houden. Ze zorgen voor een overzicht van wat er gedaan moet worden, wie eraan werkt en de prioriteit van verschillende taken binnen het webproject.
-
-* **Pull Requests (PR's):** Een pull request is een voorstel om wijzigingen uit een afzonderlijke branch te integreren in de hoofdtak. Het team kan de voorgestelde wijzigingen beoordelen, feedback geven en, indien goedgekeurd, samenvoegen.
-
-* **Branches:** Een branch is een aparte versie van de code die onafhankelijk van de hoofdtak ontwikkeld kan worden. Voor elke nieuwe feature of bugfix wordt een aparte branch aangemaakt om gefocust te werken zonder de stabiele versie te verstoren.
+- **Project Board:** geeft een visueel overzicht van de voortgang van taken, met kolommen zoals "To Do", "In Progress" en "Done". Het helpt bij het organiseren van werk en het volgen van de status van het project.
+- **Repository:** een repository (repo) is een centrale opslagplaats op GitHub voor projectbestanden en de volledige geschiedenis van wijzigingen. Het bevat broncode, documentatie en andere bestanden. Met behulp van versiebeheer (zoals Git) kunnen teams wijzigingen bijhouden, samenwerken en terugdraaien naar eerdere versies.
+- **Commit:** een commit is een wijziging in een Git‑repository. Deze legt vast wat er is veranderd in de code en bevat een beschrijving (commit message) van die wijziging. Elke commit functioneert als een versie van het project, waardoor kan worden teruggekeerd naar eerdere versies van de code.
+- **Forks:** een fork is een kopie van een project naar een eigen GitHub‑account. Dit stelt ontwikkelaars in staat om aanpassingen te maken zonder de originele code te beïnvloeden. Dit is handig voor experimenteren of bijdragen aan externe projecten.
+- **README.md:** de README.md bevat belangrijke informatie over het project, zoals installatie‑instructies, gebruikshandleidingen en doelstellingen. Het helpt teamleden en bijdragers om snel aan de slag te gaan.
+- **Issues:** issues worden gebruikt om taken, bugs of verbeteringen bij te houden. Ze zorgen voor een overzicht van wat er gedaan moet worden, wie eraan werkt en wat de prioriteit is.
+- **Pull Requests (PR’s):** een pull request is een voorstel om wijzigingen uit een afzonderlijke branch te integreren in de hoofdtak. Het team kan de voorgestelde wijzigingen beoordelen, feedback geven en, indien goedgekeurd, samenvoegen.
+- **Branches:** een branch is een aparte versie van de code die onafhankelijk van de hoofdtak ontwikkeld kan worden. Voor elke nieuwe feature of bugfix wordt een aparte branch aangemaakt om gefocust te werken zonder de stabiele versie te verstoren.
 
 Bronnen:
 - [Project Boards](https://docs.github.com/en/issues/planning-and-tracking-with-projects/about-project-boards)
@@ -216,37 +201,26 @@ Bronnen:
 
 ##### Taken vaststellen
 
-In een webproject worden epics, user stories en job stories gebruikt om het werk te structureren en overzichtelijk te maken. Hier is een uitleg over hoe je deze elementen kunt afleiden en hoe je ze uiteindelijk vertaalt naar concrete taken binnen het project.
+In een webproject worden epics, user stories en job stories gebruikt om het werk te structureren en overzichtelijk te maken. Hieronder volgt een uitleg over hoe deze elementen kunnen worden afgeleid en hoe ze uiteindelijk worden vertaald naar concrete taken binnen het project.
 
-1. **Epics:** Een epic is een grote, overkoepelende functie of onderdeel van een project dat vaak te complex is om in één keer af te ronden. Het beschrijft een kernfunctionaliteit van de webapplicatie op hoog niveau.
+1. **Epics:** een epic is een grote, overkoepelende functie of onderdeel van een project dat vaak te complex is om in één keer te realiseren. Het beschrijft een kernfunctionaliteit van de webapplicatie op hoog niveau.  
+   Voorbeeld: _“Gebruikers kunnen inloggen en hun profiel beheren”_.
 
-Een voorbeeld van epic kan zijn:  
-_“Gebruikers kunnen inloggen en hun profiel beheren”_.
+2. **User stories:** uit een epic worden user stories afgeleid, die specifieke delen van de epic beschrijven vanuit het perspectief van de gebruiker. Een user story focust op wat de gebruiker wil bereiken met de functionaliteit, geschreven in eenvoudige, niet‑technische taal.  
+   Template: _Als [type gebruiker] wil ik [doel], zodat [reden]._  
+   Voorbeeld: _Als ingelogde gebruiker wil ik mijn profielgegevens kunnen wijzigen, zodat ik mijn persoonlijke informatie kan updaten._
 
-2. **User Stories:** Uit een epic leid je user stories af, die specifieke delen van de epic beschrijven vanuit het perspectief van de gebruiker. Een user story focust op wat de gebruiker wil bereiken met de functionaliteit, geschreven in eenvoudige, niet-technische taal.
+3. **Job stories:** job stories zijn een alternatief voor user stories, waarbij de focus meer ligt op de context en motivatie achter het gebruik van een functie. Ze leggen uit wat een gebruiker probeert te bereiken in een specifieke situatie, wat handig kan zijn bij het verfijnen van functionaliteit.  
+   Template: _Wanneer [situatie], wil ik [actie], zodat [uitkomst]._  
+   Voorbeeld: _Wanneer ik mijn adres wil updaten, wil ik een intuïtieve manier om dit te doen op mijn profielpagina, zodat ik zeker weet dat mijn leveringen goed aankomen._
 
-Template van een user story:  
-_Als [type gebruiker] wil ik [doel], zodat [reden]._
-
-Voorbeeld:  
-_Als ingelogde gebruiker wil ik mijn profielgegevens kunnen wijzigen, zodat ik mijn persoonlijke informatie kan updaten._
-
-3. **Job Stories:** Job stories zijn een alternatief voor user stories, waarbij de focus meer ligt op de context en motivatie achter het gebruik van een functie. Het legt uit wat een gebruiker probeert te bereiken in een specifieke situatie, wat handig kan zijn bij het verfijnen van de functionaliteit.
-
-Template van een job story:  
-_Wanneer [situatie], wil ik [actie], zodat [uitkomst]_.
-
-Voorbeeld:  
-_Wanneer ik mijn adres wil updaten, wil ik een intuïtieve manier om dit te doen op mijn profielpagina, zodat ik zeker weet dat mijn leveringen goed aankomen._
-
-4. **Taken afleiden:** Uit zowel user stories als job stories kunnen concrete taken worden afgeleid. Deze taken zijn specifieke acties die nodig zijn om de vereiste functionaliteiten te realiseren.
-
-Voorbeeldtaken afgeleid van de bovenstaande user/job stories:  
-- Ontwerp en implementeer een "Bewerk profiel"-pagina.
-- Voeg een formulier toe om naam, e-mail en adres te wijzigen.
-- Zorg voor validatie van het formulier.
-- Implementeer back-end API om profielwijzigingen op te slaan.
-- Test de functionaliteit en de mobiele versie.
+4. **Taken afleiden:** uit zowel user stories als job stories kunnen concrete taken worden afgeleid. Deze taken zijn specifieke acties die nodig zijn om de vereiste functionaliteiten te realiseren.  
+   Voorbeelden van taken op basis van bovenstaande stories:
+   - Ontwerp en implementeer een "Bewerk profiel"-pagina.
+   - Voeg een formulier toe om naam, e‑mail en adres te wijzigen.
+   - Zorg voor validatie van het formulier.
+   - Implementeer een back‑end API om profielwijzigingen op te slaan.
+   - Test de functionaliteit en de mobiele versie.
 
 Bronnen:  
 - [User scenario's](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/)
@@ -255,45 +229,47 @@ Bronnen:
 
 ##### Planning poker
 
-Planning Poker is een Agile-methode die teams helpt om de tijd en moeite voor taken of user stories in te schatten.
+Planning Poker is een Agile‑methode die teams helpt om de tijd en moeite voor taken of user stories in te schatten.
 
-Hoe het werkt:
-1. **Presentatie:** De product owner introduceert user stories.
-2. **Stemmen:** Teamleden kiezen in stilte een kaart (met waarden zoals 1, 2, 3, 5, 8, etc.) die hun inschatting weergeeft.
-3. **Discussie:** Na het onthullen van de kaarten bespreken teamleden hun keuzes om verschillende perspectieven te delen.
-4. **Herhaling:** Het proces kan herhaald worden totdat er consensus is.
+Werkwijze in hoofdlijnen:
+1. **Presentatie:** de product owner introduceert user stories.
+2. **Stemmen:** teamleden kiezen in stilte een kaart (met waarden zoals 1, 2, 3, 5, 8, etc.) die hun inschatting weergeeft.
+3. **Discussie:** na het onthullen van de kaarten bespreken teamleden hun keuzes om verschillende perspectieven te delen.
+4. **Herhaling:** het proces kan worden herhaald totdat er consensus is.
 
+Bron:
 - [Scrum Planning Poker: Best Estimation Method for Agile Teams](https://www.scrum-institute.org/Effort_Estimations_Planning_Poker.php)
 
-##### MoSCoW Prioritering
+##### MoSCoW‑prioritering
 
-MoSCoW-prioritering is een techniek die wordt gebruikt om de prioriteit van de vastgestelde taken in een project te bepalen. Het helpt teams bij het focussen op wat essentieel is voor de succesvolle oplevering van een project. De term "MoSCoW" staat voor vier categorieën van prioriteiten:
+MoSCoW‑prioritering is een techniek die wordt gebruikt om de prioriteit van vastgestelde taken in een project te bepalen. Het helpt teams bij het focussen op wat essentieel is voor een succesvolle oplevering. De term "MoSCoW" staat voor vier categorieën van prioriteiten:
 
-Must have: Essentiële taken die absoluut moeten worden gerealiseerd om het project te laten slagen.
-Should have: Belangrijke taken die niet kritisch zijn, maar wel een aanzienlijke meerwaarde bieden.
-Could have: Wensen of optionele features die kunnen worden toegevoegd als er tijd en middelen beschikbaar zijn.
-Won't have this time: Vereisten die voor nu worden uitgesloten, maar mogelijk in de toekomst kunnen worden overwogen.
+- **Must have:** essentiële taken die absoluut moeten worden gerealiseerd om het project te laten slagen.
+- **Should have:** belangrijke taken die niet kritisch zijn, maar wel aanzienlijke meerwaarde bieden.
+- **Could have:** wensen of optionele features die kunnen worden toegevoegd als er tijd en middelen beschikbaar zijn.
+- **Won’t have this time:** vereisten die voor nu worden uitgesloten, maar mogelijk in de toekomst kunnen worden overwogen.
 
-- [Moscow method](https://en.wikipedia.org/wiki/MoSCoW_method)
+Bron:
+- [MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
 
 ##### Budgetten
 
-Als frontender maak je gebruik van verschillende budgetten die de mogelijke reikwijdte van een project begrenzen:
+Een frontender maakt gebruik van verschillende budgetten die de mogelijke reikwijdte van een project begrenzen:
 
-Een *financieel budget* wordt gebruikt om kosten en uitgaven van een project te beheren. Dit type budget is belangrijk voor het plannen en controleren van financiële aspecten en bepaalt vaak de uren die voor ontwerp en ontwikkelen van een website beschikbaar zijn.
+- Een *financieel budget* wordt gebruikt om kosten en uitgaven van een project te beheren. Dit type budget is belangrijk voor het plannen en controleren van financiële aspecten en bepaalt vaak de uren die voor ontwerp en ontwikkeling van een website beschikbaar zijn.
+- Een *performance budget* is een set richtlijnen om de minimale prestaties van een website of webapplicatie af te bakenen. Het helpt bij het maken van keuzes tijdens de ontwikkeling en waarborgt dat eindgebruikers een positieve gebruikservaring hebben. Opgenomen worden afspraken over: maximale laadtijd, grootte van assets, aantal HTTP‑requests, *time to interactive* (TTI) en de *first contentful paint* (FCP). Zie ook [Performance budgets 101 @ web.dev](https://web.dev/articles/performance-budgets-101?hl=en).
+- Een *accessibility budget* is een set richtlijnen om ervoor te zorgen dat een website toegankelijk is. Een accessibility budget helpt bij het waarborgen van een inclusieve en gebruiksvriendelijke ervaring. Opgenomen worden afspraken over: WCAG‑compliance (bijv. A+, A++ of A+++), contrast‑ratio, lettergrootte, keyboard‑navigatie, audiobeschrijving, formulieren, foutmeldingen, focus states, testen en validatie.
 
-Een *performance budget* is een set van richtlijnen om de minimale prestaties van een website of webapplicatie af te bakenen. Het helpt bij het maken van keuzes tijdens de ontwikkeling en waarborgt dat eindgebruikers een positieve gebruikservaring hebben. Opgenomen worden afspraken over: maximale laadtijd, grootte van assets, aantal HTTP-requests, *time to interactive*(TTI) en  de *first contentfull paint* (FCP). Lees meer op [Performance budgets 101 @ web.dev](https://web.dev/articles/performance-budgets-101?hl=en).
+##### Tech‑stack bepalen
 
-Een *accessibility budget* is een set van richtlijnen om ervoor te zorgen dat een website toegankelijk is. Een accessibility budget helpt bij het waarborgen van een inclusieve en gebruiksvriendelijke ervaring. Opgenomen worden afspraken over: WCAG Compliance (bijv. A+, A++ of A+++), contrast ratio, grootte van het lettertype, keyboard navigatie, audio beschrijving, formulieren, foutmeldingen, focus states, testen en validatie.
+Het bepalen van de tech‑stack heeft invloed op de ontwikkeling, prestaties, schaalbaarheid en het onderhoud van een applicatie. Bij deze keuze weegt de student onder meer mee: projectvereisten en -doelen, teamexpertise, compatibiliteit met bestaande IT‑infrastructuur, community en ondersteuning, beveiliging, wetgeving en trends.
 
-##### Tech-stack bepalen
-
-Het bepalen van de tech-stack heeft invloed op de ontwikkeling, prestaties, schaalbaarheid en het onderhoud van een applicatie. Bij de bepaling weeg je mee: projectvereisten en doelen, teamexpertise, compatibiliteit met bestaande it-infrastructuur, community en ondersteuning, beveiliging, wetgeving en trends.
-
+Bronnen:
 - [How to Choose the Best Technology Stack for Web Application Development: 10 Helpful Tips @ Softermii](https://www.softermii.com/blog/10-tips-in-choosing-the-best-tech-stack-for-your-web-application)
 - [Ten criteria for choosing the correct framework](https://symfony.com/ten-criteria)
 - [Choosing the Right Tech Stack for Your Project: Basic Principles](https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/)
 - [How to align your tech stack with your organization](https://tray.ai/resources/blog/align-revenue-ops-tech-stack)
+
 
 
 ### Ontwerpen
