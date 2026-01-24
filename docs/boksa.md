@@ -306,6 +306,106 @@ Soms maak je het ontwerp van een website *from scratch* maar in het frontend-vak
 
 Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van dit project eruit zal zien. Je maakt keuzes en evenutele alternatieve ontwerpen vallen af.
 
+#### Leeruitkomst Ontwerpen (Kennis / Skills / Attitude)
+
+**Kennis**
+
+De student kent:
+
+- De rol van de ontwerpfase binnen de development lifecycle (DLC):
+  - verkennen van oplossingsrichtingen vóór de bouw,
+  - verschil tussen oriënteren, uitwerken en kiezen.
+- De basis van **visual thinking** en het nut van visueel werken om ideeën en structuren te verkennen.
+- Kernbegrippen rond **ideation**:
+  - divergeren en convergeren,
+  - het doel van creatieve technieken (brainstorm, mindmap, schetsen).
+- De functie en inzet van:
+  - **moodboards** (sfeer, stijl, richting),
+  - **style tiles** (typografie, kleur, UI‑elementen),
+  - **morphological charts** (ontwerpparameters en combinaties),
+  - **Harris profiles** (gewogen vergelijking van concepten).
+- Het doel van **prototyping** in verschillende fidelities:
+  - verschil tussen **LoFi** en **HiFi**,
+  - wanneer je kiest voor schetsen, paper prototypes of digitale tools (zoals Figma).
+- De basis van **informatie architectuur**:
+  - structureren van content,
+  - navigatie‑ en labelingsystemen.
+- De rol en vorm van:
+  - **sitemaps** (hiërarchie),
+  - **wireframes** (pagina‑opbouw),
+  - **wireflows** (schermen + interactiestroom),
+  - **breakdown schetsen** (annotaties voor HTML/CSS/JS).
+- Het nut van eenvoudige **data & flow‑modellen**:
+  - **datamodellen** (entiteiten, relaties),
+  - **data flow diagrams**,
+  - **activity diagrams** (control flow, states).
+- Belangrijke **ontwerpprincipes** voor interfaces:
+  - algemene UI‑principes (bijv. van Joshua Porter),
+  - **atomic design** (atoms → molecules → organisms → templates → pages),
+  - de **UI‑stack** (verschillende states, feedbacklagen),
+  - **responsive design** en breakpoints,
+  - **touch‑design** (targets, bereik, gestures),
+  - **kleur en contrast**, **visuele hiërarchie**, **nabijheid/afstand** en **contrast** als Gestalt‑principes.
+
+**Skills**
+
+De student kan:
+
+- Op basis van een opdracht en doelstellingen:
+  - de context en randvoorwaarden van het ontwerpprobleem benoemen,
+  - relevante voorbeelden en referenties verzamelen.
+- **Visual thinking** inzetten:
+  - ideeën, structuren en user flows schetsen,
+  - informatie en beslissingen visueel ordenen.
+- **Ideation**‑sessies voorbereiden en uitvoeren:
+  - uiteenlopende oplossingsrichtingen genereren (divergeren),
+  - samen met het team keuzes maken en focussen (convergeren).
+- Visuele richtingen expliciteren met:
+  - een **moodboard** (sfeer, kleur, beeldtaal),
+  - een **style tile** (fonts, kleuren, UI‑elementen).
+- Concepten systematisch verkennen en beoordelen:
+  - een **morphological chart** opstellen met varianten per parameter,
+  - een **Harris profile** maken om concepten op criteria te scoren.
+- Ideeën vertalen naar concrete schermvoorstellen:
+  - **LoFi wireframes** schetsen voor verschillende layouts en states,
+  - **HiFi wireframes** of mockups maken in een digitale tool.
+- De structuur van een site of applicatie ontwerpen:
+  - een **sitemap** opstellen op basis van content en user needs,
+  - **informatie architectuur** beargumenteren (navigatie, labels).
+- Interacties en flows uitwerken:
+  - **wireflows** tekenen voor belangrijke user journeys,
+  - een **breakdown schets** maken met annotaties voor HTML/CSS/JS.
+- Eenvoudige **data‑ en procesmodellen** maken:
+  - een basic **datamodel** schetsen voor de benodigde informatie,
+  - een **data flow diagram** of **activity diagram** gebruiken om logica te verduidelijken.
+- Ontwerpprincipes toepassen in eigen werk:
+  - **visuele hiërarchie**, **nabijheid**, **contrast** en **kleurgebruik** bewust inzetten,
+  - rekening houden met **responsive** gedrag en **touch**‑interactie,
+  - interfaces opbouwen volgens **atomic design** of componentgedachte.
+
+**Attitude**
+
+De student:
+
+- Neemt een **user‑centered** houding aan:
+  - denkt vanuit doelen, taken en context van de gebruiker,
+  - is bereid aantrekkelijke oplossingen aan te passen als ze niet werken voor de gebruiker.
+- Ziet ontwerpen als een **iteratief proces**:
+  - is niet gehecht aan eerste ideeën en durft te schrappen en te verbeteren,
+  - gebruikt prototypes om te leren in plaats van om alleen te bewijzen dat iets “af” is.
+- Werkt **onderzoekend en nieuwsgierig**:
+  - verkent meerdere oplossingsrichtingen voordat er gekozen wordt,
+  - experimenteert met stijlen, structuren en interacties.
+- Staat open voor **feedback en critique**:
+  - presenteert ontwerpen vroegtijdig,
+  - verwerkt feedback van peers, docenten en stakeholders constructief.
+- Denkt in **systemen en componenten**:
+  - kijkt voorbij losse pagina’s naar patronen en herbruikbare elementen,
+  - bewaakt consistentie in stijl, interactie en structuur.
+- Neemt **verantwoordelijkheid voor toegankelijkheid en haalbaarheid**:
+  - houdt rekening met beperkingen (tijd, technologie, toegankelijkheid),
+  - ontwerpt oplossingen die realiseerbaar zijn in HTML, CSS en JS.
+
 #### 1. Oriëntatie & idee-generatie 
 
 In deze fase onderzoek je het probleem en genereer je mogelijke richtingen en stijlen voordat je in detail gaat uitwerken. 
