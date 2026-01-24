@@ -707,7 +707,12 @@ Dit kan een technische-test zijn, maar ook een test met gebruikers of een presen
 Testen voor een frontender zijn bijvoorbeeld gebruikerstesten, toegankelijkheids testen, Prototype testen en browser testen. 
 Maar ook de Sprint Review met een opdrachtgever om feedback en opmerkingen meenemen naar een volgende sprint.
 
-#### Sprint Review
+#### 1. Proces- & sprinttests 
+
+In deze categorie staan de momenten centraal waarop je samen met opdrachtgever en team het werk beoordeelt, feedback ophaalt en besluit of iets “af” is. 
+
+##### Sprint Review
+
 De Sprint Review is bedoeld als het officiële moment tijdens elke sprint waarin je het gemaakte werk bespreekt met de opdrachtgever. De opdrachtgever geeft feedback naar aanleiding van het (deel)product dat gedemonstreerd is. Het maakt niet uit dat de opdracht nog niet af is, je kan altijd laten zien waar je aan hebt gewerkt en bespreken of jouw oplossing overeenkomt met de wensen van de opdrachtgever.
 
 Voordat je gaat testen maak je eerst een testplan. Zo zorg je ervoor dat je goed weet wat je wil testen en dat je niets vergeet tijdens een test.
@@ -716,15 +721,32 @@ Na de test verwerk je de resultaten in issues, pas je je code aan en ga je metee
 - [Sprint Review Meeting](https://scrumguide.nl/sprint-review/)
 - [Dit is het geheim van een succesvolle Sprint Review in Scrum](https://scrumacademy.nl/blog/dit-is-het-geheim-van-een-succesvolle-sprint-review-in-scrum/)
 
+##### Acceptatietest
 
-#### Geautomatiseerd testen
-Geautomatiseerd testen houdt in dat tests automatisch worden uitgevoerd met behulp van testtools en scripts. Deze tests controleren bijvoorbeeld of functionaliteit correct werkt na codewijzigingen. Geautomatiseerd testen wordt vaak ingezet binnen Continuous Integration en helpt om fouten vroegtijdig te signaleren en regressies te voorkomen.
+(review / oplevering opdrachtgever)  
+De acceptatietest wordt uitgevoerd om te controleren of de applicatie voldoet aan de eisen en verwachtingen van de opdrachtgever. Tijdens deze fase wordt beoordeeld of de functionaliteit compleet is en gereed voor oplevering. Goedkeuring tijdens de acceptatietest betekent dat het product als afgerond wordt beschouwd.
 
-#### Handmatig testen
-Handmatig testen is het testen van een applicatie door deze zelf te gebruiken, zonder geautomatiseerde scripts. Hierbij wordt gekeken naar functionaliteit, gebruiksvriendelijkheid en randgevallen. Handmatig testen is vooral waardevol voor het beoordelen van de gebruikerservaring en het opsporen van fouten die lastig te automatiseren zijn.
+##### Client review
 
+Bij een client review wordt het product besproken met de opdrachtgever of klant. Hierbij wordt gekeken of het resultaat aansluit bij de wensen, doelen en verwachtingen. Feedback uit een client review kan leiden tot laatste aanpassingen voor oplevering.
 
-#### Gebruikerstesten/ Usability testen
+##### Code / Design review
+
+Een code- of designreview is een controle van code of ontwerp door andere developers of designers. Hierbij wordt gelet op kwaliteit, consistentie, leesbaarheid en best practices. Reviews helpen fouten te voorkomen en kennis te delen binnen een team.
+
+##### Expert review
+
+Een expert review is een evaluatie van een website of applicatie door een specialist, bijvoorbeeld op het gebied van UX, toegankelijkheid of performance. De expert identificeert verbeterpunten op basis van kennis en best practices.
+
+##### Quality assurance
+
+Quality assurance (QA) omvat alle processen en controles die worden ingezet om de kwaliteit van een product te waarborgen. Dit omvat onder andere testen, reviews en validaties gedurende het hele ontwikkelproces. QA zorgt ervoor dat software betrouwbaar, consistent en klaar voor gebruik is.
+
+#### 2. Gebruiker & usability 
+
+In deze categorie gaat het om tests waarbij echte of representatieve gebruikers centraal staan: hoe ervaren zij de interface, begrijpen ze de flow en kunnen ze hun doelen bereiken? 
+
+##### Gebruikerstesten / Usability testen
 
 Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets bouwen dat werkt, maar vooral over iets maken dat intuïtief en prettig te gebruiken is. Misschien denk je dat jouw micro-interactie perfect is – alles functioneert precies zoals jij het had bedacht – maar hoe ervaart een gebruiker jouw werk? Om dat te ontdekken, gebruik je user testing. Het doel is om te achterhalen hoe een echte gebruiker jouw werk ervaart.
 
@@ -733,83 +755,95 @@ Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets b
 - [Measuring design quality with heuristics](https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa5140)
 - [Topic User testing op Normal & Neilsen](https://www.nngroup.com/topic/user-testing/)
 
-##### Testen in Usability Lab
+###### Testen in Usability Lab
+
 Testen in een usability lab richt zich op het observeren van gebruikers tijdens het uitvoeren van taken binnen een applicatie of website. Door gebruikersgedrag te analyseren, zoals navigatie, interactie en feedback, worden knelpunten in gebruiksvriendelijkheid en toegankelijkheid zichtbaar. Deze vorm van testen helpt bij het verbeteren van de ge
 
-##### Real User Monitoring
+###### Real User Monitoring
 
 - [Usabilitytesting: doe het zelf!](https://blog.q42.nl/usabilitytesting-5c223bc7e8b5/)
 - [Real World Wednesdays Dropbox](https://medium.com/dropbox-design/how-to-run-a-research-session-if-youre-not-a-design-researcher-2d6c1c769557)
 
-##### Roast / Design Critique
+###### Roast / Design Critique
+
 Een roast of design critique is een sessie waarin een ontwerp kritisch wordt besproken door anderen. Hierbij wordt feedback gegeven op onder andere gebruiksvriendelijkheid, visuele hiërarchie en consistentie. Het doel is niet om het ontwerp af te kraken, maar om verbeterpunten te ontdekken en de kwaliteit van het ontwerp te verhogen.
 
+###### Elderly test
+
+De elderly test richt zich op het testen van een website met oudere gebruikers. Hierbij wordt gekeken naar leesbaarheid, navigatie en begrijpelijkheid. Deze test helpt om interfaces eenvoudiger en gebruiksvriendelijker te maken voor een brede doelgroep.
+
+#### 3. Toegankelijkheid & inclusie 
+
+In deze categorie richt je je op de toegankelijkheid van de interface voor mensen met verschillende beperkingen en situaties, zodat zoveel mogelijk gebruikers het product kunnen gebruiken. 
+
 ##### Tab / Keyboard test
+
 De tab- of keyboardtest controleert of een website volledig te bedienen is met alleen het toetsenbord. Hierbij wordt gekeken naar de tabvolgorde, focus-states en bereikbaarheid van interactieve elementen. Deze test is belangrijk voor toegankelijkheid en ondersteunt gebruikers die geen muis kunnen gebruiken.
 
 ##### Kleuren en contrast test
+
 Een kleuren- en contrasttest controleert of tekst en interactieve elementen voldoende contrast hebben ten opzichte van de achtergrond. Dit is essentieel voor leesbaarheid en toegankelijkheid, vooral voor gebruikers met visuele beperkingen. Deze test helpt te voldoen aan toegankelijkheidsrichtlijnen zoals WCAG.
-
-
 
 [Colour Contrast Analyser (CCA) - TPGi](https://www.tpgi.com/color-contrast-checker/)
 
-
 ##### Kleurenblindheid test
+
 Een kleurenblindheidstest controleert of informatie niet uitsluitend door kleur wordt overgebracht. Hierbij wordt gekeken of contrast, patronen of tekstlabels voldoende ondersteuning bieden. Deze test is belangrijk om de website bruikbaar te houden voor gebruikers met kleurenblindheid.
 
 ##### Brillentest
+
 De brillentest simuleert verminderd zicht door bijvoorbeeld een wazig filter of een bril met beperkte scherpte. Hiermee wordt getest of teksten, knoppen en interacties nog steeds goed leesbaar en bruikbaar zijn. Dit helpt bij het verbeteren van toegankelijkheid en leesbaarheid.
 
-##### Acceptatietest
-(review / oplevering opdrachtgever)
-De acceptatietest wordt uitgevoerd om te controleren of de applicatie voldoet aan de eisen en verwachtingen van de opdrachtgever. Tijdens deze fase wordt beoordeeld of de functionaliteit compleet is en gereed voor oplevering. Goedkeuring tijdens de acceptatietest betekent dat het product als afgerond wordt beschouwd.
-
-##### Colorcontrast
-Een colorcontrasttest controleert of het contrast tussen tekst en achtergrond voldoende is. Dit is essentieel voor leesbaarheid en toegankelijkheid, met name voor gebruikers met visuele beperkingen. Deze test draagt bij aan het voldoen aan WCAG-richtlijnen.
-
-##### Browsertest
-Bij een browsertest wordt gecontroleerd of een website correct werkt en wordt weergegeven in verschillende browsers. Omdat browsers verschillen in rendering en ondersteuning van features, helpt deze test compatibiliteitsproblemen te voorkomen.
-
-##### Elderly test
-De elderly test richt zich op het testen van een website met oudere gebruikers. Hierbij wordt gekeken naar leesbaarheid, navigatie en begrijpelijkheid. Deze test helpt om interfaces eenvoudiger en gebruiksvriendelijker te maken voor een brede doelgroep.
-
-##### Performance test
-Een performance test meet hoe snel en efficiënt een website of applicatie werkt. Hierbij wordt gekeken naar laadtijden, responsiviteit en resourcegebruik. Goede performance draagt bij aan een betere gebruikerservaring en hogere betrouwbaarheid.
-
-##### Waterval performance
-Waterval performance beschrijft het analyseren van de laadtijd per onderdeel van een pagina, zoals HTML, CSS, JavaScript en afbeeldingen. Door deze volgorde inzichtelijk te maken, kunnen knelpunten in performance worden opgespoord en geoptimaliseerd.
-
-##### Expert review
-Een expert review is een evaluatie van een website of applicatie door een specialist, bijvoorbeeld op het gebied van UX, toegankelijkheid of performance. De expert identificeert verbeterpunten op basis van kennis en best practices.
-
-##### Client review
-Bij een client review wordt het product besproken met de opdrachtgever of klant. Hierbij wordt gekeken of het resultaat aansluit bij de wensen, doelen en verwachtingen. Feedback uit een client review kan leiden tot laatste aanpassingen voor oplevering.
-
-##### Code / Design review
-Een code- of designreview is een controle van code of ontwerp door andere developers of designers. Hierbij wordt gelet op kwaliteit, consistentie, leesbaarheid en best practices. Reviews helpen fouten te voorkomen en kennis te delen binnen een team.
-
-##### Geautomatiseerde tests
-Geautomatiseerde tests zijn tests die automatisch worden uitgevoerd met behulp van tools en scripts. Ze controleren of functionaliteit correct blijft werken na wijzigingen in de code. Deze tests worden vaak ingezet binnen Continuous Integration.
-
-###### W3C validator
-De W3C validator is een geautomatiseerde tool die HTML en CSS controleert op fouten en naleving van webstandaarden. Het gebruik van deze validator helpt bij het verbeteren van compatibiliteit, toegankelijkheid en onderhoudbaarheid van websites.
-
-
-###### WCAG-test
+##### WCAG-test
 
 Een WCAG‑test controleert of je interface voldoet aan toegankelijkheidscriteria (contrast, keyboard, focus, semantiek) en helpt prioriteit te geven aan verbeteringen.
 
 - [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 
-###### Toegankelijkheidstest / A11Y-test
+##### Toegankelijkheidstest / A11Y-test
+
 Een toegankelijkheidstest (A11Y-test) controleert of een website of applicatie bruikbaar is voor mensen met verschillende beperkingen. Hierbij wordt gekeken naar onder andere toetsenbordbediening, screenreader-ondersteuning, kleurgebruik en semantiek. Deze test draagt bij aan inclusieve en toegankelijke digitale producten.
 
 ##### Screenreader test
+
 Een screenreadertest controleert hoe een website wordt voorgelezen door screenreadersoftware. Hierbij wordt gekeken of de content logisch is opgebouwd, of semantische HTML correct wordt gebruikt en of interactieve elementen goed worden aangekondigd. Deze test is essentieel voor blinde en slechtziende gebruikers.
 
+##### Colorcontrast
+
+Een colorcontrasttest controleert of het contrast tussen tekst en achtergrond voldoende is. Dit is essentieel voor leesbaarheid en toegankelijkheid, met name voor gebruikers met visuele beperkingen. Deze test draagt bij aan het voldoen aan WCAG-richtlijnen.
+
+#### 4. Techniek, compatibiliteit & performance 
+
+In deze categorie vallen tests die vooral gericht zijn op technische correctheid, compatibiliteit tussen apparaten en browsers, en de prestaties van de site. 
+
+##### Handmatig testen
+
+Handmatig testen is het testen van een applicatie door deze zelf te gebruiken, zonder geautomatiseerde scripts. Hierbij wordt gekeken naar functionaliteit, gebruiksvriendelijkheid en randgevallen. Handmatig testen is vooral waardevol voor het beoordelen van de gebruikerservaring en het opsporen van fouten die lastig te automatiseren zijn.
+
+##### Geautomatiseerd testen
+
+Geautomatiseerd testen houdt in dat tests automatisch worden uitgevoerd met behulp van testtools en scripts. Deze tests controleren bijvoorbeeld of functionaliteit correct werkt na codewijzigingen. Geautomatiseerd testen wordt vaak ingezet binnen Continuous Integration en helpt om fouten vroegtijdig te signaleren en regressies te voorkomen.
+
+##### Geautomatiseerde tests
+
+Geautomatiseerde tests zijn tests die automatisch worden uitgevoerd met behulp van tools en scripts. Ze controleren of functionaliteit correct blijft werken na wijzigingen in de code. Deze tests worden vaak ingezet binnen Continuous Integration.
+
+###### W3C validator
+
+De W3C validator is een geautomatiseerde tool die HTML en CSS controleert op fouten en naleving van webstandaarden. Het gebruik van deze validator helpt bij het verbeteren van compatibiliteit, toegankelijkheid en onderhoudbaarheid van websites.
+
+##### Browsertest
+
+Bij een browsertest wordt gecontroleerd of een website correct werkt en wordt weergegeven in verschillende browsers. Omdat browsers verschillen in rendering en ondersteuning van features, helpt deze test compatibiliteitsproblemen te voorkomen.
+
 ##### Device test
+
 Bij een device test wordt een website getest op verschillende apparaten, zoals desktops, tablets en smartphones. Hierbij wordt gekeken naar layout, interactie en performance. Deze test helpt om een consistente gebruikerservaring te garanderen op uiteenlopende schermformaten en hardware.
 
-##### Quality assurance
-Quality assurance (QA) omvat alle processen en controles die worden ingezet om de kwaliteit van een product te waarborgen. Dit omvat onder andere testen, reviews en validaties gedurende het hele ontwikkelproces. QA zorgt ervoor dat software betrouwbaar, consistent en klaar voor gebruik is.
+##### Performance test
+
+Een performance test meet hoe snel en efficiënt een website of applicatie werkt. Hierbij wordt gekeken naar laadtijden, responsiviteit en resourcegebruik. Goede performance draagt bij aan een betere gebruikerservaring en hogere betrouwbaarheid.
+
+##### Waterval performance
+
+Waterval performance beschrijft het analyseren van de laadtijd per onderdeel van een pagina, zoals HTML, CSS, JavaScript en afbeeldingen. Door deze volgorde inzichtelijk te maken, kunnen knelpunten in performance worden opgespoord en geoptimaliseerd.
