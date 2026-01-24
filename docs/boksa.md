@@ -292,8 +292,6 @@ Een morphological chart laat alternatieven per ontwerp-parameter zien en stimule
 
 Een Harris‑profile is een gewogen beoordelingsmatrix om concepten objectief te scoren op criteria; zo maak je keuzes transparant en herhaalbaar binnen de squad.
 
----
-
 #### 2. Prototyping & structureren 
 
 In deze fase werk je ideeën uit in concrete structuren en schermindelingen, zodat duidelijk wordt wat waar komt en hoe gebruikers door de interface bewegen. 
@@ -338,8 +336,6 @@ Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit 
 - [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows)
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
----
-
 #### 3. Data & flows 
 
 In deze fase breng je in kaart welke data je nodig hebt en hoe die door het systeem en de interface stroomt, zodat ontwerp en architectuur goed op elkaar aansluiten. 
@@ -364,8 +360,6 @@ In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wi
 [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/) 
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
-
----
 
 #### 4. Ontwerpprincipes 
 
@@ -450,7 +444,12 @@ Toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgen
 
 HTML, CSS, JS beheersen. Ontwikkelmethodes inzetten. Atomic design. 
 
-#### Hypertext Markup Language
+
+#### 1. Web fundamentals 
+
+In dit deel staat de basis van webontwikkeling centraal: HTML voor structuur, CSS voor vormgeving en JavaScript voor interactie, aangevuld met kernprincipes als semantiek, responsive design, progressive enhancement en DRY. 
+
+##### Hypertext Markup Language
 
 HTML (HyperText Markup Language) is de standaardtaal die wordt gebruikt om webpagina’s te maken en structureren. Het bestaat uit een verzameling elementen en tags die bepalen hoe de inhoud op een website wordt weergegeven. Met HTML kun je onder andere:
 
@@ -464,49 +463,23 @@ Link naar web.dev
 - [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-#### Cascading Stylesheets
+##### Cascading Stylesheets
 
 Best practices for CSS
 
 https://www.taniarascia.com/overview-of-css-concepts/
 
-#### Javascript
+##### Javascript
 
 Best practices for JS
 
 https://2020.stateofjs.com/en-US/
 
-#### Serverside Rendering
-
-##### Node.js
-
-##### Express
-
-##### EJS
-
-#### Frameworks
-
-##### Sveltekit
-
-Svelte, React, Vue, Angular, Express, Gatsby, 11ty, Ember, Hugo
-
-#### Libraries
-
-Chakra, Tailwind, Three.js, Threlte, Storybook, GSAP, Framer, socket.io
-
-#### Living Styleguide
-
-Een levende styleguide documenteert componenten, varianten en tokens met voorbeelden; het borgt consistentie en versnelt samenwerking tussen design en dev.
-
-#### Component Library
-
-Een component library bevat herbruikbare, toegankelijke UI‑onderdelen met duidelijke props en states; met goede documentatie ontstaat een schaalbare design‑system workflow.
-
-#### Progressive Enhancement
+##### Progressive Enhancement
 
 Bij progressive enhancement bouw je eerst een robuuste HTML-basis, voeg je vervolgens presentatie toe met CSS en verrijk je het gedrag met JavaScript. Hierdoor blijft de website bruikbaar in verschillende browsers. Een belangrijk onderdeel van progressive enhancement is feature detection, waarbij in de code wordt gecontroleerd of bepaalde CSS- of JavaScript-features door de browser worden ondersteund. Afhankelijk van deze ondersteuning wordt bepaald of specifieke code wel of niet wordt uitgevoerd.
 
-#### Responsive
+##### Responsive
 
 Responsive ontwerp past de layout en typografie aan op basis van de viewport en het gebruikte apparaat. Door het inzetten van media- of container queries en een correcte viewport-meta-tag wordt een betrouwbare weergave op verschillende schermformaten gegarandeerd. Daarnaast zijn er steeds meer moderne CSS-features beschikbaar waarmee responsive design kan worden gerealiseerd. Veelgebruikte principes binnen responsive webdesign zijn _content first_ en _mobile first_. Hierbij wordt een website vanuit de inhoud eerst ontworpen voor een mobiele viewport (ook wel de single-column layout genoemd) en vervolgens opgeschaald naar steeds grotere viewports.
 
@@ -516,129 +489,215 @@ Responsive ontwerp past de layout en typografie aan op basis van de viewport en 
 - [&lt;meta name="viewport”&gt; @ MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport)
 - [Modern CSS Tricks for a Responsive Web Design](https://iamtusharxo.medium.com/modern-css-tricks-for-a-responsive-web-design-without-media-query-for-all-view-ports-and-js-13a095a5155a)
 
-#### Code Editors
-Code editors helpen frontenders bij het schrijven, lezen en onderhouden van code. Ze bieden functionaliteiten zoals syntax highlighting, automatische code-aanvulling, foutdetectie en integratie met versiebeheersystemen. Moderne code editors, zoals Visual Studio Code, zijn uitbreidbaar met plugins en extensies, waardoor de werkomgeving kan worden afgestemd op specifieke workflows en programmeertalen. Hierdoor werken developers efficiënter, consistenter en met minder fouten.
+##### Mobile first
 
-[Code Editors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Code_editors)
-
-#### Code Editor Plugins
-VS Code-plugins kunnen frontenders helpen hun workflow te optimaliseren, bijvoorbeeld door het sneller en netter schrijven van code en het signaleren van fouten. Voorbeelden van plugins zijn: _ESLint_, _Prettier_ en _Live Link_. En een web team kunnen afspraken gemaakt worden over de plugins die gebruikt worden en hoe ze geconfigureerd zijn.
-
-#### Browsers
-Browsers zijn de programma’s waarmee gebruikers websites en webapplicaties bekijken. Ze verwerken HTML voor de structuur, CSS voor de opmaak en JavaScript voor de functionaliteit. Dankzij ingebouwde ontwikkelaarstools kunnen front-end developers code inspecteren, fouten opsporen en prestaties verbeteren. Omdat browsers verschillen in de ondersteuning van webstandaarden en functies, is het belangrijk bij het ontwikkelen rekening te houden met compatibiliteit en toegankelijkheid.
-
-#### API's
-Een API (Application Programming Interface) is een manier waarop softwareprogramma’s met elkaar communiceren. Front-end developers gebruiken web-API’s om gegevens van servers op te halen of te versturen, bijvoorbeeld voor weerinformatie of social media‑content. API’s maken hergebruik van functionaliteit mogelijk en zorgen ervoor dat websites en applicaties sneller en efficiënter ontwikkeld kunnen worden.
-
-#### REST API
-Een REST API (Representational State Transfer) is een manier om data en functionaliteit van een server toegankelijk te maken via het web. Het volgt de fundamentele werking van het web: elke bron heeft een unieke URL en wordt benaderd met standaard HTTP-methodes zoals GET, POST, PUT en DELETE. Door REST API’s te gebruiken, kunnen front-end en back-end developers op een overzichtelijke en consistente manier gegevens uitwisselen en applicaties schaalbaar bouwen.
-
-#### GraphQL
-GraphQL is een alternatief voor traditionele REST API’s en stelt front-end developers in staat precies de gegevens op te vragen die ze nodig hebben. In plaats van vaste eindpunten zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data-uitwisseling efficiënter, overzichtelijker en flexibeler, en helpt bij het ontwikkelen van schaalbare webapplicaties.
-
-#### URL-Drive Development
-URL-driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (_state_) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
-
-#### NPM
-npm staat voor Node Package Manager en is de standaard package manager voor Node.js. Met npm kun je: JavaScript-packages (libraries en tools) installeren, dependencies van een project beheren en scripts draaien, zoals build-, test- of lint-taken
-
-#### DRY
-Het DRY-principe staat voor “Don’t Repeat Yourself”. Het betekent dat je herhaling in code zoveel mogelijk moet vermijden. In plaats van dezelfde logica, waarden of structuren meerdere keren te kopiëren, leg je deze vast op één centrale plek. Zo voorkom je inconsistenties en maak je je code: beter onderhoudbaar, overzichtelijker en minder foutgevoelig.
-
-#### Mobile first
 Mobile first is een ontwerpprincipe waarbij een website of applicatie eerst wordt ontwikkeld voor mobiele schermen. Vanuit deze basis wordt het ontwerp vervolgens uitgebreid naar grotere schermformaten. Door te starten met mobile first ligt de focus op essentiële content en functionaliteit, wat leidt tot betere performance, gebruiksvriendelijkheid en een duidelijkere structuur.
 
 - [Mobile first](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First)
 
-#### Semantiek
+##### Semantiek
+
 Semantiek betekent dat HTML-elementen worden gebruikt volgens hun betekenis, niet alleen voor opmaak. Zo gebruik je <header> voor een kop, <article> voor een zelfstandig stukje inhoud en <footer> voor de voettekst. Door semantische HTML te gebruiken, wordt de structuur van een website duidelijker voor browsers, zoekmachines en hulpmiddelen voor toegankelijkheid, wat de gebruikerservaring en het onderhoud van de site verbetert.
 
-#### Afhandelen van issues
-Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een project worden geregistreerd, systematisch worden opgepakt en opgelost. Dit omvat het beoordelen, prioriteren, toewijzen en uiteindelijk sluiten van een issue wanneer het is opgelost. Een gestructureerde aanpak zorgt voor overzicht, betere samenwerking en een hogere kwaliteit van het eindproduct.
+##### DRY
 
-#### CRUD
+Het DRY-principe staat voor “Don’t Repeat Yourself”. Het betekent dat je herhaling in code zoveel mogelijk moet vermijden. In plaats van dezelfde logica, waarden of structuren meerdere keren te kopiëren, leg je deze vast op één centrale plek. Zo voorkom je inconsistenties en maak je je code: beter onderhoudbaar, overzichtelijker en minder foutgevoelig.
+
+#### 2. Architectuur & data 
+
+In dit deel gaat het over hoe de frontend met data omgaat en hoe je applicaties structureert rond resources, URL’s, data‑modellen en verschillende renderstrategieën. 
+
+##### API's
+
+Een API (Application Programming Interface) is een manier waarop softwareprogramma’s met elkaar communiceren. Front-end developers gebruiken web-API’s om gegevens van servers op te halen of te versturen, bijvoorbeeld voor weerinformatie of social media‑content. API’s maken hergebruik van functionaliteit mogelijk en zorgen ervoor dat websites en applicaties sneller en efficiënter ontwikkeld kunnen worden.
+
+##### REST API
+
+Een REST API (Representational State Transfer) is een manier om data en functionaliteit van een server toegankelijk te maken via het web. Het volgt de fundamentele werking van het web: elke bron heeft een unieke URL en wordt benaderd met standaard HTTP-methodes zoals GET, POST, PUT en DELETE. Door REST API’s te gebruiken, kunnen front-end en back-end developers op een overzichtelijke en consistente manier gegevens uitwisselen en applicaties schaalbaar bouwen.
+
+##### GraphQL
+
+GraphQL is een alternatief voor traditionele REST API’s en stelt front-end developers in staat precies de gegevens op te vragen die ze nodig hebben. In plaats van vaste eindpunten zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data-uitwisseling efficiënter, overzichtelijker en flexibeler, en helpt bij het ontwikkelen van schaalbare webapplicaties.
+
+##### URL-Drive Development
+
+URL-driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (_state_) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
+
+##### CRUD
+
 CRUD staat voor Create, Read, Update en Delete en beschrijft de vier basisbewerkingen die mogelijk zijn op data binnen een applicatie. Dit principe sluit aan op de fundamentele werking van het web, waarin bronnen via URL’s toegankelijk zijn en bewerkt kunnen worden. Door CRUD als uitgangspunt te gebruiken, blijft het beheer van data overzichtelijk, voorspelbaar en consistent, zowel voor de gebruiker als voor de ontwikkelaar.
+
+##### Clientside Rendering 
+
+Bij clientside rendering wordt de webpagina opgebouwd in de browser van de gebruiker met behulp van JavaScript. De server levert meestal een minimale HTML-basis, waarna de inhoud dynamisch wordt gerenderd. Dit maakt interactieve applicaties mogelijk, maar kan invloed hebben op performance en SEO.
+
+##### Serverside Rendering
+
+Serverside rendering houdt in dat de HTML van een pagina op de server wordt gegenereerd en volledig naar de browser wordt gestuurd. Hierdoor is de pagina direct zichtbaar voor de gebruiker en beter toegankelijk voor zoekmachines. JavaScript kan daarna worden gebruikt om extra interactiviteit toe te voegen.
+
+###### Node.js
+
+###### Express
+
+###### EJS
+
+##### Static Rendering
+
+Bij static rendering worden pagina’s vooraf gegenereerd tijdens een build-proces en als statische bestanden geserveerd. Dit resulteert in snelle laadtijden en hoge betrouwbaarheid. Static rendering wordt vaak gebruikt voor websites met grotendeels vaste content, zoals documentatie of marketingpagina’s.
+
+##### Universal Rendering
+
+Universal rendering, ook wel isomorphic rendering genoemd, combineert server- en clientside rendering. De pagina wordt eerst op de server gerenderd voor snelle weergave en SEO, waarna dezelfde code in de browser wordt gebruikt voor verdere interactiviteit. Dit sluit aan bij de fundamentele werking van moderne webapplicaties.
+
+##### Hydration
+
+Hydration is het proces waarbij een server-gerenderde pagina in de browser interactief wordt gemaakt. JavaScript neemt de bestaande HTML over en koppelt hier gedrag aan, zoals event handlers en state. Zonder hydration blijft een pagina statisch en niet interactief.
+
+#### 3. Tooling & workflow 
+
+In dit deel staan de tools, frameworks, libraries en werkwijzen centraal die je helpen om code te schrijven, te organiseren en effectief samen te werken binnen een team. 
+
+##### Frameworks
+
+##### Sveltekit
+
+Svelte, React, Vue, Angular, Express, Gatsby, 11ty, Ember, Hugo
+
+##### Libraries
+
+Chakra, Tailwind, Three.js, Threlte, Storybook, GSAP, Framer, socket.io
+
+##### Living Styleguide
+
+Een levende styleguide documenteert componenten, varianten en tokens met voorbeelden; het borgt consistentie en versnelt samenwerking tussen design en dev.
+
+##### Component Library
+
+Een component library bevat herbruikbare, toegankelijke UI‑onderdelen met duidelijke props en states; met goede documentatie ontstaat een schaalbare design‑system workflow.
+
+##### Code Editors
+
+Code editors helpen frontenders bij het schrijven, lezen en onderhouden van code. Ze bieden functionaliteiten zoals syntax highlighting, automatische code-aanvulling, foutdetectie en integratie met versiebeheersystemen. Moderne code editors, zoals Visual Studio Code, zijn uitbreidbaar met plugins en extensies, waardoor de werkomgeving kan worden afgestemd op specifieke workflows en programmeertalen. Hierdoor werken developers efficiënter, consistenter en met minder fouten.
+
+[Code Editors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Code_editors)
+
+##### Code Editor Plugins
+
+VS Code-plugins kunnen frontenders helpen hun workflow te optimaliseren, bijvoorbeeld door het sneller en netter schrijven van code en het signaleren van fouten. Voorbeelden van plugins zijn: _ESLint_, _Prettier_ en _Live Link_. En een web team kunnen afspraken gemaakt worden over de plugins die gebruikt worden en hoe ze geconfigureerd zijn.
+
+##### Browsers
+
+Browsers zijn de programma’s waarmee gebruikers websites en webapplicaties bekijken. Ze verwerken HTML voor de structuur, CSS voor de opmaak en JavaScript voor de functionaliteit. Dankzij ingebouwde ontwikkelaarstools kunnen front-end developers code inspecteren, fouten opsporen en prestaties verbeteren. Omdat browsers verschillen in de ondersteuning van webstandaarden en functies, is het belangrijk bij het ontwikkelen rekening te houden met compatibiliteit en toegankelijkheid.
+
+##### NPM
+
+npm staat voor Node Package Manager en is de standaard package manager voor Node.js. Met npm kun je: JavaScript-packages (libraries en tools) installeren, dependencies van een project beheren en scripts draaien, zoals build-, test- of lint-taken
+
+##### Afhandelen van issues
+
+Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een project worden geregistreerd, systematisch worden opgepakt en opgelost. Dit omvat het beoordelen, prioriteren, toewijzen en uiteindelijk sluiten van een issue wanneer het is opgelost. Een gestructureerde aanpak zorgt voor overzicht, betere samenwerking en een hogere kwaliteit van het eindproduct.
 
 ### Integreren
 
 Publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
 
-#### Git workflow
+
+#### 1. Versiebeheer & workflow 
+
+In dit deel beschrijven we hoe je met Git samenwerkt aan dezelfde codebase: hoe je branches gebruikt, wijzigingen vastlegt en samenvoegt en hoe je de workflow voorspelbaar en veilig houdt. 
+
+##### Git workflow
+
 Een Git workflow beschrijft de afspraken en stappen die een team volgt bij het werken met Git. Denk aan hoe branches worden aangemaakt, hoe wijzigingen worden samengevoegd en wanneer code wordt gereviewd. Een duidelijke workflow zorgt voor overzicht, voorkomt conflicten en maakt samenwerking voorspelbaar en efficiënt.
 
-#### Git CLI
+##### Git CLI
+
 De Git CLI (Command Line Interface) is een tekstgebaseerde manier om Git te gebruiken via de terminal. Hiermee kunnen developers repositories beheren, commits maken en branches aansturen. Werken met de Git CLI geeft meer controle en inzicht in versiebeheer dan grafische tools.
 
-#### Branches
+##### Branches
+
 Branches maken het mogelijk om los van de hoofdcode aan nieuwe features, bugfixes of experimenten te werken. Elke branch vormt een aparte ontwikkellijn die later kan worden samengevoegd. Dit voorkomt dat onvoltooide of foutieve code direct invloed heeft op de hoofdversie.
 
-#### Commit messages
+##### Commit messages
+
 Commit messages beschrijven welke wijzigingen in een commit zijn gedaan en waarom. Duidelijke en consistente commit messages maken de projectgeschiedenis beter leesbaar en helpen bij debugging, samenwerking en code reviews.
 
-#### Gitmoji
+##### Gitmoji
+
 Gitmoji is een conventie waarbij emoji’s worden gebruikt in commit messages om het type wijziging aan te geven, zoals ✨ voor nieuwe features of 🐛 voor bugfixes. Dit maakt commits visueel herkenbaar en verbetert de leesbaarheid van de commitgeschiedenis.
 
-#### Pull-request
+##### Pull-request
+
 Een pull-request is een verzoek om wijzigingen uit een branch samen te voegen met een andere branch, meestal de hoofdbranch. Het biedt ruimte voor code review, discussie en automatische checks, en speelt een belangrijke rol in samenwerking en kwaliteitsbewaking.
 
-#### Hosting
+#### 2. Deploy & hosting 
+
+In dit deel gaat het over hoe je je applicatie daadwerkelijk online krijgt en beschikbaar maakt voor gebruikers, met verschillende vormen van hosting en deploymentplatformen. 
+
+##### Hosting
+
 Hosting is het beschikbaar maken van een website of applicatie op het internet via een server. Front-end developers gebruiken hostingdiensten om projecten te publiceren, te testen en te delen. Goede hosting zorgt voor bereikbaarheid, performance en betrouwbaarheid.
 
-#### (S)FTP
+##### (S)FTP
+
 (S)FTP staat voor (Secure) File Transfer Protocol en wordt gebruikt om bestanden van en naar een server te versturen. Het wordt vaak ingezet bij traditionele hosting om websites handmatig te uploaden en te beheren. SFTP voegt encryptie toe voor extra beveiliging.
 
-#### Render
+##### Render
+
 Render is een cloudplatform waarmee webapplicaties automatisch kunnen worden gedeployed. Het ondersteunt onder andere statische sites, servers en databases. Door integratie met Git kunnen wijzigingen direct live worden gezet na een commit of merge.
 
-#### Continuous Integration
-Continuous Integration (CI) is een ontwikkelpraktijk waarbij codewijzigingen automatisch worden getest en gecontroleerd zodra ze worden toegevoegd aan een repository. Dit helpt fouten vroeg te signaleren en zorgt voor stabielere en betrouwbaardere software.
+##### GitHub Pages
 
-#### GitHub Pages
 GitHub Pages is een hostingdienst van GitHub waarmee statische websites direct vanuit een repository gepubliceerd kunnen worden. Het wordt vaak gebruikt voor portfolio’s, documentatie en demo’s en sluit goed aan bij Git-gebaseerde workflows.
 
-#### GitHub Actions
-GitHub Actions is een tool voor het automatiseren van workflows binnen GitHub, zoals testen, builden en deployen. Het wordt veel gebruikt voor Continuous Integration en Continuous Deployment en werkt op basis van configuratiebestanden in de repository.
+##### Vercel
 
-#### Vercel
 Vercel is een platform gericht op het hosten en deployen van moderne front-end applicaties. Het biedt automatische builds, previews per branch en optimale performance voor frameworks zoals Next.js. Deployments worden direct gekoppeld aan Git-repositories.
 
-#### Netlify
+##### Netlify
+
 Netlify is een hostingplatform voor statische websites en front-end applicaties. Het ondersteunt automatische deploys, form handling en serverless functies. Door de Git-integratie kunnen projecten eenvoudig en snel worden gepubliceerd.
 
-#### .env
+
+#### 3. Automatisering & configuratie 
+
+Hier gaat het over het automatiseren van builds, tests en deploys (CI/CD) en over het veilig beheren van configuratie via omgevingsvariabelen. 
+
+##### Continuous Integration
+
+Continuous Integration (CI) is een ontwikkelpraktijk waarbij codewijzigingen automatisch worden getest en gecontroleerd zodra ze worden toegevoegd aan een repository. Dit helpt fouten vroeg te signaleren en zorgt voor stabielere en betrouwbaardere software.
+
+##### GitHub Actions
+
+GitHub Actions is een tool voor het automatiseren van workflows binnen GitHub, zoals testen, builden en deployen. Het wordt veel gebruikt voor Continuous Integration en Continuous Deployment en werkt op basis van configuratiebestanden in de repository.
+
+##### .env
+
 Een `.env`-bestand wordt gebruikt om omgevingsvariabelen op te slaan, zoals API-sleutels en configuratie-instellingen. Deze gegevens worden gescheiden van de code om veiligheid en flexibiliteit te verbeteren en worden niet meegenomen in versiebeheer.
 
-#### Documentatie
+#### 4. Documentatie & overdracht 
+
+Dit deel gaat over hoe je projecten documenteert en overdraagt, zodat anderen (of jijzelf later) het werk kunnen begrijpen, gebruiken en voortzetten. 
+
+##### Documentatie
+
 Documentatie beschrijft hoe een project werkt, hoe het gebruikt kan worden en hoe het onderhouden wordt. Goede documentatie helpt bij samenwerking, onboarding van nieuwe developers en het langdurig beheer van een project.
 
-##### README.md
+###### README.md
+
 De `README.md` is het centrale document van een repository en geeft een overzicht van het project. Het bevat vaak informatie over installatie, gebruik, structuur en gebruikte technologieën. Een duidelijke README maakt een project toegankelijk en begrijpelijk voor anderen.
 
 De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat jullie hebben gemaakt, je kan screenshots laten toevoegen en vertellen wie de website hebben gemaakt. De Readme is het uithangbord van jullie project.
 
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
-##### Handover.md
+###### Handover.md
+
 De `Handover.md` bevat informatie die nodig is om een project over te dragen aan andere developers of beheerders. Hierin staat onder andere hoe het project is opgebouwd, hoe het lokaal gedraaid kan worden en welke aandachtspunten of openstaande zaken er zijn. Dit document zorgt voor een soepele overdracht en continuïteit.
 
-##### Contributing.md
+###### Contributing.md
+
 De `Contributing.md` beschrijft de richtlijnen voor het bijdragen aan een project. Denk aan afspraken over branches, commit messages, code style en pull-requests. Door deze regels vast te leggen, wordt samenwerking duidelijker en blijft de kwaliteit van het project consistent.
-
-#### Clientside Rendering
-Bij clientside rendering wordt de webpagina opgebouwd in de browser van de gebruiker met behulp van JavaScript. De server levert meestal een minimale HTML-basis, waarna de inhoud dynamisch wordt gerenderd. Dit maakt interactieve applicaties mogelijk, maar kan invloed hebben op performance en SEO.
-
-#### Serverside Rendering
-Serverside rendering houdt in dat de HTML van een pagina op de server wordt gegenereerd en volledig naar de browser wordt gestuurd. Hierdoor is de pagina direct zichtbaar voor de gebruiker en beter toegankelijk voor zoekmachines. JavaScript kan daarna worden gebruikt om extra interactiviteit toe te voegen.
-
-#### Static Rendering
-Bij static rendering worden pagina’s vooraf gegenereerd tijdens een build-proces en als statische bestanden geserveerd. Dit resulteert in snelle laadtijden en hoge betrouwbaarheid. Static rendering wordt vaak gebruikt voor websites met grotendeels vaste content, zoals documentatie of marketingpagina’s.
-
-#### Universal Rendering
-Universal rendering, ook wel isomorphic rendering genoemd, combineert server- en clientside rendering. De pagina wordt eerst op de server gerenderd voor snelle weergave en SEO, waarna dezelfde code in de browser wordt gebruikt voor verdere interactiviteit. Dit sluit aan bij de fundamentele werking van moderne webapplicaties.
-
-#### Hydration
-Hydration is het proces waarbij een server-gerenderde pagina in de browser interactief wordt gemaakt. JavaScript neemt de bestaande HTML over en koppelt hier gedrag aan, zoals event handlers en state. Zonder hydration blijft een pagina statisch en niet interactief.
-
 
 ### Testen
 
@@ -676,8 +735,6 @@ Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets b
 
 ##### Testen in Usability Lab
 Testen in een usability lab richt zich op het observeren van gebruikers tijdens het uitvoeren van taken binnen een applicatie of website. Door gebruikersgedrag te analyseren, zoals navigatie, interactie en feedback, worden knelpunten in gebruiksvriendelijkheid en toegankelijkheid zichtbaar. Deze vorm van testen helpt bij het verbeteren van de ge
-
-
 
 ##### Real User Monitoring
 
