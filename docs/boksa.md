@@ -43,7 +43,7 @@ De development lifecycle hanteert de volgende fasering:
 ```markdown
 ### Analyseren
 
-In de analysefase onderzoekt en inventariseert **de student** wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die daarbij kunnen worden gebruikt. De aanpak verschilt per sprint, afhankelijk van de fase van het project.
+In de analysefase onderzoekt en inventariseert de student wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die daarbij kunnen worden gebruikt. De aanpak verschilt per sprint, afhankelijk van de fase van het project.
 
 Wanneer een student voor de eerste keer met een team samenwerkt, is het zinvol om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreekt het team de opdrachtgever in een [briefing- en debriefing](#briefing-en-debriefing)sessie.
 
@@ -270,15 +270,13 @@ Bronnen:
 - [Choosing the Right Tech Stack for Your Project: Basic Principles](https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/)
 - [How to align your tech stack with your organization](https://tray.ai/resources/blog/align-revenue-ops-tech-stack)
 
-
-
 ### Ontwerpen
 
-Bij de start van deze fase ken je het doel, beoogde resultaat en aanwezige materiaal voor jouw project. Je weet welke eisen opdrachtgever, eindgebruikers en andere belangrijke partijen aan het resultaat stellen. Het doel van de ontwerpfase is het maken van een ontwerp om te verkennen wat mogelijke oplossingsrichtingen zijn en een duidelijk beeld te vormen wat je gaat maken.
+Bij de start van deze fase kent de student het doel, het beoogde resultaat en het aanwezige materiaal voor het project. De student weet welke eisen opdrachtgever, eindgebruikers en andere belangrijke partijen aan het resultaat stellen. Het doel van de ontwerpfase is dat de student een ontwerp maakt om mogelijke oplossingsrichtingen te verkennen en een duidelijk beeld te vormen van wat er gerealiseerd gaat worden.
 
-Soms maak je het ontwerp van een website *from scratch* maar in het frontend-vak krijg je vaak een ontwerp of huisstijl aangeleverd. Doorgaans is dit ontwerp onvolledig of slechts op één resolutie uitgewerkt. Heel af en toe is het ontwerp goed uitgewerkt en zijn alle *states* van (micro)interacties en transities tussen pagina’s ontworpen of beschreven. Als frontender neem je doorlopend ontwerpbeslissingen met betrekking tot structuur (semantiek), flow (breakpoints), (micro)interacties, animaties, toegankelijkheid en prestaties.
+Soms maakt de student het ontwerp van een website *from scratch*, maar in het frontend‑vak wordt vaak een ontwerp of huisstijl aangeleverd. Doorgaans is dit ontwerp onvolledig of slechts op één resolutie uitgewerkt. Heel af en toe is het ontwerp goed uitgewerkt en zijn alle *states* van (micro)interacties en transities tussen pagina’s ontworpen of beschreven. Als frontender neemt de student doorlopend ontwerpbeslissingen met betrekking tot structuur (semantiek), flow (breakpoints), (micro)interacties, animaties, toegankelijkheid en prestaties.
 
-Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van dit project eruit zal zien. Je maakt keuzes en evenutele alternatieve ontwerpen vallen af.
+Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van het project eruit zal zien. De student maakt keuzes en eventuele alternatieve ontwerpen vallen af.
 
 #### Leeruitkomst Ontwerpen (Kennis / Skills / Attitude)
 
@@ -300,16 +298,16 @@ De student kent:
   - **Harris profiles** (gewogen vergelijking van concepten).
 - Het doel van **prototyping** in verschillende fidelities:
   - verschil tussen **LoFi** en **HiFi**,
-  - wanneer je kiest voor schetsen, paper prototypes of digitale tools (zoals Figma).
-- De basis van **informatie architectuur**:
+  - wanneer gekozen wordt voor schetsen, paper prototypes of digitale tools (zoals Figma).
+- De basis van **informatie‑architectuur**:
   - structureren van content,
   - navigatie‑ en labelingsystemen.
 - De rol en vorm van:
   - **sitemaps** (hiërarchie),
   - **wireframes** (pagina‑opbouw),
   - **wireflows** (schermen + interactiestroom),
-  - **breakdown schetsen** (annotaties voor HTML/CSS/JS).
-- Het nut van eenvoudige **data & flow‑modellen**:
+  - **breakdown‑schetsen** (annotaties voor HTML/CSS/JS).
+- Het nut van eenvoudige **data‑ en flow‑modellen**:
   - **datamodellen** (entiteiten, relaties),
   - **data flow diagrams**,
   - **activity diagrams** (control flow, states).
@@ -345,10 +343,10 @@ De student kan:
   - **HiFi wireframes** of mockups maken in een digitale tool.
 - De structuur van een site of applicatie ontwerpen:
   - een **sitemap** opstellen op basis van content en user needs,
-  - **informatie architectuur** beargumenteren (navigatie, labels).
+  - **informatie‑architectuur** beargumenteren (navigatie, labels).
 - Interacties en flows uitwerken:
   - **wireflows** tekenen voor belangrijke user journeys,
-  - een **breakdown schets** maken met annotaties voor HTML/CSS/JS.
+  - een **breakdown‑schets** maken met annotaties voor HTML/CSS/JS.
 - Eenvoudige **data‑ en procesmodellen** maken:
   - een basic **datamodel** schetsen voor de benodigde informatie,
   - een **data flow diagram** of **activity diagram** gebruiken om logica te verduidelijken.
@@ -363,7 +361,7 @@ De student:
 
 - Neemt een **user‑centered** houding aan:
   - denkt vanuit doelen, taken en context van de gebruiker,
-  - is bereid aantrekkelijke oplossingen aan te passen als ze niet werken voor de gebruiker.
+  - is bereid aantrekkelijke oplossingen aan te passen als deze niet werken voor de gebruiker.
 - Ziet ontwerpen als een **iteratief proces**:
   - is niet gehecht aan eerste ideeën en durft te schrappen en te verbeteren,
   - gebruikt prototypes om te leren in plaats van om alleen te bewijzen dat iets “af” is.
@@ -380,21 +378,21 @@ De student:
   - houdt rekening met beperkingen (tijd, technologie, toegankelijkheid),
   - ontwerpt oplossingen die realiseerbaar zijn in HTML, CSS en JS.
 
-#### 1. Oriëntatie & idee-generatie 
+#### 1. Oriëntatie & idee‑generatie 
 
-In deze fase onderzoek je het probleem en genereer je mogelijke richtingen en stijlen voordat je in detail gaat uitwerken. 
+In deze fase onderzoekt de student het probleem en genereert hij/zij mogelijke richtingen en stijlen voordat er in detail wordt uitgewerkt. 
 
 ##### Visual Thinking
 
-Visual thinking leert studenten en docenten hun gedachten en doelen te verbeelden. Het helpt ze bij het creëren van overzicht en het overbrengen van hun boodschap. Kijk voor een overzicht van tekenmethodes op [visualthinking.school](https://visualthinking.school)
+Visual thinking leert studenten en docenten hun gedachten en doelen te verbeelden. Het helpt hen bij het creëren van overzicht en het overbrengen van hun boodschap. Kijk voor een overzicht van tekenmethodes op [visualthinking.school](https://visualthinking.school).
 
 ##### Ideation
 
-Het creatieve proces waarin actief nieuwe ideeën worden gegenereerd, ontwikkeld en verfijnd. Het gaat verder dan alleen het bedenken van losse ideeën: het omvat een gestructureerde aanpak waarbij verschillende technieken en methoden worden ingezet, zoals brainstormen, mindmaps, design thinking-sessies en schetsen. Het doel van ideation is om innovatieve oplossingen, concepten of strategieën te vinden die inspelen op een specifieke uitdaging of vraagstuk.
+Ideation is het creatieve proces waarin actief nieuwe ideeën worden gegenereerd, ontwikkeld en verfijnd. Het gaat verder dan alleen het bedenken van losse ideeën: het omvat een gestructureerde aanpak waarbij verschillende technieken en methoden worden ingezet, zoals brainstormen, mindmaps, design‑thinking‑sessies en schetsen. Het doel van ideation is om innovatieve oplossingen, concepten of strategieën te vinden die inspelen op een specifieke uitdaging of een vraagstuk.
 
-###### Divergeren Convergeren
+###### Divergeren & convergeren
 
-Bij ideation verken je eerst breed mogelijke richtingen (divergeren) en kies je daarna doelgericht de beste opties (convergeren); visualiseren helpt om keuzes helder te maken en te communiceren met je team.
+Bij ideation verkent de student eerst breed mogelijke richtingen (divergeren) en kiest daarna doelgericht de beste opties (convergeren). Visualiseren helpt om keuzes helder te maken en te communiceren met het team.
 
 - [Design Thinking 101 @ Nielsen Norman Group](https://www.nngroup.com/articles/design-thinking/)
 - [The Double Diamond @ Design Council](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)
@@ -403,92 +401,93 @@ Bij ideation verken je eerst breed mogelijke richtingen (divergeren) en kies je 
 
 Een moodboard is een visueel overzicht dat de sfeer, stijl en richting van een idee of project samenvat. Het bestaat vaak uit een collage van afbeeldingen, kleuren, materialen, typografie en korte teksten die samen een gevoel communiceren. 
 
-Het doel van een moodboard is om inspiratie te ordenen en duidelijk te maken welke emotie of stijl je wilt neerzetten voordat je daadwerkelijk ontwerpt of uitvoert. Het helpt bij het overbrengen van een concept naar anderen en vormt een gezamenlijk referentiepunt voor een team of klant.
+Het doel van een moodboard is om inspiratie te ordenen en duidelijk te maken welke emotie of stijl een ontwerper wil neerzetten voordat er daadwerkelijk wordt ontworpen of uitgevoerd. Het helpt bij het overbrengen van een concept naar anderen en vormt een gezamenlijk referentiepunt voor een team of klant.
 
 ###### Style Tile
 
-Een *style tile* bestaat uit lettertypen, kleuren en interface-elementen die de essentie van een visueel merk voor het web communiceren. Ze helpen een gemeenschappelijke visuele taal te vormen tussen ontwerpers en belanghebbenden binnen een project kunnen helpen bij het vaststellen van voorkeuren en doelen van de opdrachtgever. Kijk voor meer uitleg en voorbeelden op [styletil.es](https://styletil.es/)
+Een *style tile* bestaat uit lettertypen, kleuren en interface‑elementen die de essentie van een visueel merk voor het web communiceren. Style tiles helpen een gemeenschappelijke visuele taal te vormen tussen ontwerpers en belanghebbenden binnen een project en ondersteunen bij het vaststellen van voorkeuren en doelen van de opdrachtgever. Zie voor uitleg en voorbeelden [styletil.es](https://styletil.es/).
 
 ###### Morphological Chart
 
-Een morphological chart laat alternatieven per ontwerp-parameter zien en stimuleert combinaties om tot nieuwe concepten te komen; handig om systematisch varianten te verkennen vóór je prototype.
+Een morphological chart laat alternatieven per ontwerp‑parameter zien en stimuleert combinaties om tot nieuwe concepten te komen. Het is een hulpmiddel om systematisch varianten te verkennen vóórdat er een prototype wordt gemaakt.
 
 ###### Harris Profile
 
-Een Harris‑profile is een gewogen beoordelingsmatrix om concepten objectief te scoren op criteria; zo maak je keuzes transparant en herhaalbaar binnen de squad.
+Een Harris‑profile is een gewogen beoordelingsmatrix om concepten objectief te scoren op criteria. Zo worden keuzes transparant en herhaalbaar gemaakt binnen het team of de squad.
 
 #### 2. Prototyping & structureren 
 
-In deze fase werk je ideeën uit in concrete structuren en schermindelingen, zodat duidelijk wordt wat waar komt en hoe gebruikers door de interface bewegen. 
+In deze fase werkt de student ideeën uit in concrete structuren en schermindelingen, zodat duidelijk wordt wat waar komt en hoe gebruikers door de interface bewegen. 
 
 ##### Prototyping
 
-Om een ontwerpprobleem op te lossen kan je verschillende (schets) technieken toepassen om grip krijgen op de opdracht, ideeën te verkennen en te onderzoeken. In de ontwerpfase van het project is het doel om snel een prototype te maken dat je kan testen en uitproberen. Zo zorg je ervoor dat je precies weet wat je moet gaan bouwen.
-Een prototype kan van alles zijn, bijvoorbeeld een schets om te bespreken met iemand uit je squad, een paper-prototype om snel te kunnen testen met een gebruiker of een gedetailleerd uitgewerkt design in Figma.
+Om een ontwerpprobleem op te lossen kan de student verschillende (schets)technieken toepassen om grip te krijgen op de opdracht, ideeën te verkennen en te onderzoeken. In de ontwerpfase van het project is het doel om snel een prototype te maken dat getest en geprobeerd kan worden. Zo ontstaat een helder beeld van wat er gebouwd moet worden.
 
-Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met meer detail en kleuren. Voor een HiFi Wireframe kun je goed prototype software gebruiken zoals Figma. Door LoFI Wireframes te schetsen kan je snel verschillende layouts uitproberen, ideeën visualiseren, bespreken en aanpassen.
+Een prototype kan van alles zijn, bijvoorbeeld een schets om te bespreken met iemand uit de squad, een paper‑prototype om snel te testen met een gebruiker of een gedetailleerd uitgewerkt design in Figma.
 
-##### Informatie architectuur
+De student kan een wireframe **LoFi** (low fidelity) of meer **HiFi** (high fidelity) maken met meer detail en kleur. Voor een HiFi‑wireframe kan goed prototypesoftware worden gebruikt, zoals Figma. Door LoFi‑wireframes te schetsen kunnen snel verschillende layouts worden uitgeprobeerd, ideeën gevisualiseerd, besproken en aangepast.
 
-Informatie architectuur is een ontwerp discipline die zich bezig houdt met het structureren en organiseren van de content van een website zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie doe je door passende organisatie systemen te ontwerpen voor de content, en duidelijke labels en navigatie systemen te gebruiken.
+##### Informatie‑architectuur
 
-- [Designing Web navigation - Chapter 4. Types of Navigation](https://www.oreilly.com/library/view/designing-web-navigation/9780596528102/ch04.html)
-- [Presenting Information Architecture - Site diagrams](https://www.webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
+Informatie‑architectuur is een ontwerpdiscipline die zich bezighoudt met het structureren en organiseren van de content van een website, zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie gebeurt door passende organisatiesystemen te ontwerpen voor de content en duidelijke labels en navigatiesystemen te gebruiken.
 
-###### Sitemap (Hierarchie)
+- [Designing Web Navigation – Chapter 4. Types of Navigation](https://www.oreilly.com/library/view/designing-web-navigation/9780596528102/ch04.html)
+- [Presenting Information Architecture – Site diagrams](https://www.webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
 
-Een sitemap geeft een gestructureerd overzicht van alle pagina's van een website.
-Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan ook zorgen voor gerichtheid van een project.
+###### Sitemap (Hiërarchie)
+
+Een sitemap geeft een gestructureerd overzicht van alle pagina’s van een website. Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de sitestructuur met een team kan ook zorgen voor focus en gedeeld begrip in een project.
 
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
 - [Sitemaps & Information Architecture (IA)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
 
-##### Breakdown Schets
+##### Breakdown‑schets
 
-Een Breakdown schets is een Wireframe of Wireflow met annotaties voor de HTML, CSS en/of JS. Het is een methode die frontenders gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code.
-Door blokken in de schets te tekenen voor de HTML, de CSS properties te annoteren en ideeën op te schrijven voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Dan kan je inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. Dit gaat je ook helpen als je iets online gaat zoeken, zo kan je gericht zoeken naar oplossingen.
+Een breakdown‑schets is een wireframe of wireflow met annotaties voor de HTML, CSS en/of JS. Het is een methode die frontenders gebruiken om te onderzoeken welke techniek nodig is om een ontwerp te realiseren in code.
+
+Door blokken in de schets te tekenen voor de HTML, CSS‑properties te annoteren en ideeën voor JS te noteren, ontdekt de student welke technische problemen of uitdagingen te verwachten zijn. Op basis daarvan kan gericht worden gezocht naar inspiratie en codevoorbeelden en kan onderzocht worden hoe iets technisch opgelost kan worden. Dit helpt ook om gerichter te zoeken naar oplossingen online.
 
 ##### Wireframe
 
-Een Wireframe is een schematische tekening van een pagina. Met een Wireframe kun je (snel) schetsen hoe een pagina er uit kan komen te zien, wat belangrijk is, welke onderdelen waar komen te staan, wat in de viewpoort staat en wat de interactieve elementen zijn.
+Een wireframe is een schematische tekening van een pagina. Met een wireframe kan de student (snel) schetsen hoe een pagina eruit kan komen te zien, wat belangrijk is, welke onderdelen waar komen te staan, wat in de viewport staat en welke elementen interactief zijn.
 
 - [What is wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
 
 ##### Wireflow
 
-Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit te denken wat een gebruiker te zien krijgt als die iets op een pagina doet, zoals een formulier versturen of met een carrousel verschillende plaatjes of producten bekijkt.
+Een wireflow toont een aantal schermen van een interactie. Het is nuttig om uit te denken wat een gebruiker te zien krijgt wanneer deze iets op een pagina doet, zoals een formulier versturen of met een carrousel verschillende plaatjes of producten bekijken.
 
 - [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows)
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
 #### 3. Data & flows 
 
-In deze fase breng je in kaart welke data je nodig hebt en hoe die door het systeem en de interface stroomt, zodat ontwerp en architectuur goed op elkaar aansluiten. 
+In deze fase brengt de student in kaart welke data nodig is en hoe die door het systeem en de interface stroomt, zodat ontwerp en architectuur goed op elkaar aansluiten. 
 
 ##### Datamodel
 
-Een Datamodel laat de logische structuur van een database zien, inclusief de relaties tussen tabellen.
+Een datamodel laat de logische structuur van een database zien, inclusief de relaties tussen tabellen.
 
 - [Directus Data Model](https://docs.directus.io/app/data-model.html)
 
 ##### Data Flow Diagram
 
-Een Data Flow Diagram is een manier om systemen en software te visualiseren met behulp van Unified Modeling Language (UML). Developers maken diagrammen om inzicht te krijgen in de ontwerpen, codearchitectuur en implementatie van complexe softwaresystemen.
+Een Data Flow Diagram is een manier om systemen en software te visualiseren met behulp van Unified Modeling Language (UML). Developers maken dergelijke diagrammen om inzicht te krijgen in de ontwerpen, code‑architectuur en implementatie van complexe softwaresystemen.
 
 - [What is a data flow diagram?](https://miro.com/diagramming/what-is-a-data-flow-diagram/)
 - [What is a UML diagram?](https://miro.com/diagramming/what-is-a-uml-diagram/)
 
 ##### Activity Diagram
 
-In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wireflow en de Control Flow van een applicatie te combineren.
+In een activity diagram ontwerpt de student de logica en structuur van de code door de wireflow en de control flow van een applicatie te combineren.
 
-[What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/) 
+- [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/) 
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
 
 #### 4. Ontwerpprincipes 
 
-Naast concrete technieken werk je in de ontwerpfase ook vanuit een aantal algemene ontwerpprincipes die zorgen voor consistente, toegankelijke en schaalbare interfaces. 
+Naast concrete technieken werkt de student in de ontwerpfase ook vanuit een aantal algemene ontwerpprincipes die zorgen voor consistente, toegankelijke en schaalbare interfaces. 
 
 ##### Principes
 
@@ -496,15 +495,15 @@ Naast concrete technieken werk je in de ontwerpfase ook vanuit een aantal algeme
 
 ##### Atomic Design
 
-Atomic Design is een ontwerpmethode voor digitale interfaces die uitgaat van het opdelen van een design in kleine, herbruikbare bouwstenen. Het concept wordt vaak toegepast bij web- en app-ontwikkeling om consistente en schaalbare gebruikersinterfaces te maken.
+Atomic design is een ontwerpmethode voor digitale interfaces die uitgaat van het opdelen van een design in kleine, herbruikbare bouwstenen. Het concept wordt vaak toegepast bij web‑ en app‑ontwikkeling om consistente en schaalbare gebruikersinterfaces te maken.
 
-Met Atomic Design wordt het eenvoudiger om consistente interfaces te ontwikkelen, componenten te hergebruiken en efficiënter samen te werken tussen ontwerpers en ontwikkelaars.
+Met atomic design wordt het eenvoudiger om consistente interfaces te ontwikkelen, componenten te hergebruiken en efficiënter samen te werken tussen ontwerpers en ontwikkelaars.
 
-[atomic design @ bradfrost.com](https://bradfrost.com/blog/post/atomic-web-design/)
+- [Atomic design @ bradfrost.com](https://bradfrost.com/blog/post/atomic-web-design/)
 
-##### Not ignoring the UI-Stack
+##### Not ignoring the UI‑Stack
 
-De UI‑stack is een set van vijf samenhangende states die elke schermervaring dekt. Je ontwerpt niet één perfecte scherm, maar een continuüm waarin het scherm logisch verandert met de context. De UI‑stack benadrukt alle lagen van een interface (data, state, feedback, affordances, microcopy); door expliciet voor elk niveau te ontwerpen voorkom je “awkward UI”. Een FDND toevoeging op het artikel van Scott Hurff is de “initial state”.
+De UI‑stack is een set van vijf samenhangende states die elke schermervaring dekt. Een ontwerper ontwerpt niet één perfecte statische scherm, maar een continuüm waarin het scherm logisch verandert met de context. De UI‑stack benadrukt alle lagen van een interface (data, state, feedback, affordances, microcopy); door expliciet voor elk niveau te ontwerpen wordt “awkward UI” voorkomen. Een FDND‑toevoeging op het artikel van Scott Hurff is de “initial state”.
 
 - [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/)
 
@@ -518,46 +517,47 @@ Door responsive design te gebruiken, hoeven ontwikkelaars geen aparte mobiele en
 - [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - [Whatsmyviewport](https://whatismyviewport.com/)
-- Een browser die _Responsive_ makkelijker maakt? 🚀 Gebruik [Polypane](https://polypane.app/) (gratis voor studenten)
+- Een browser die _responsive_ makkelijker maakt? Gebruik bijvoorbeeld [Polypane](https://polypane.app/) (gratis voor studenten).
 
 ##### Touch
 
-Ontwerp voor vingers vraagt grotere targets, duidelijke feedback en gesture‑bewustzijn; denk aan bereikbaarheid en context in mobiel gebruik. 
+Ontwerpen voor touch‑interfaces vraagt grotere targets, duidelijke feedback en aandacht voor gestures. Ontwerpers houden rekening met bereikbaarheid, context en verschillende soorten touch‑interactie. 
 
-- [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+- [Design for Fingers, Touch, and People – Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
 
 ##### Kleur en contrast
 
-Kleurcontrasten in je ontwerp zijn belangrijk voor visuele hierarchie, leesbaarheid en toegankelijkheid. In de *WCAG Guidelines* wordt in de standaard *Perceivable* in onderdeel *Distinguishable* beschreven hoe je voor een gebruiker makkelijker maakt om de website te zien en horen.
+Kleurcontrasten in een ontwerp zijn belangrijk voor visuele hiërarchie, leesbaarheid en toegankelijkheid. In de *WCAG‑richtlijnen* wordt in de standaard *Perceivable*, onderdeel *Distinguishable*, beschreven hoe ontwerpers het mensen makkelijker kunnen maken om een website te zien en te horen.
 
-Wat kun je doen om ervoor te zorgen dat mensen informatie goed kunnen onderscheiden?
-1. Gebruik naast kleuren altijd alternatieve informatie
-2. Gebruik onderscheidende kleuren
-3. Zorg dat er onderscheid is in saturation en brightness
-4. Vermijd complementair contrast groen/rood
-5. [Test kleurcontrasten](#kleuren-en-contrast-test)
+Wat kunnen ontwerpers doen om ervoor te zorgen dat mensen informatie goed kunnen onderscheiden?
+
+1. Gebruik naast kleur altijd alternatieve informatie.
+2. Gebruik onderscheidende kleuren.
+3. Zorg dat er onderscheid is in saturatie en brightness.
+4. Vermijd complementair contrast groen/rood.
+5. [Test kleurcontrasten](#kleuren-en-contrast-test).
 
 - [WCAG 2.2 Guideline 1.4 – Distinguishable](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1#distinguishable)
-- [A11project kleurcontrast](https://www.a11yproject.com/checklist/#color-contrast)
+- [A11y Project kleurcontrast](https://www.a11yproject.com/checklist/#color-contrast)
 - [Accessible contrast ratios and A-levels explained](https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained/)
 
-##### Hierarchie
+##### Hiërarchie
 
-Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. Je kunt een goede visuele hiërarchie op verschillende manieren bereiken, zoals grootte van tekst of elementen, gebruik van kleur en contrast, en witruime en positie van elementen op het scherm.
+Visuele hiërarchie is belangrijk in webdesign. Zij vertelt gebruikers waar zij moeten kijken en welke elementen op het scherm het belangrijkst zijn. Een goede visuele hiërarchie kan op verschillende manieren worden bereikt, zoals met de grootte van tekst of elementen, gebruik van kleur en contrast, witruimte en de positie van elementen op het scherm.
 
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
 
-##### Afstand/Nabijheid
+##### Afstand / nabijheid
 
-Het Gestalt‑principe van nabijheid bepaalt hoe gebruikers samenhang zien: groepeer gerelateerde elementen en vergroot witruimte tussen groepen voor ‘scanbaarheid’.
+Het Gestalt‑principe van nabijheid bepaalt hoe gebruikers samenhang zien: gerelateerde elementen worden gegroepeerd en witruimte tussen groepen wordt vergroot om “scanbaarheid” te verbeteren.
 
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
 
 ##### Contrast
 
-Contrast in kleur, licht‑donker en grootte stuurt aandacht en leesbaarheid en is cruciaal voor toegankelijkheid; test je combinaties en voldoe aan WCAG‑richtlijnen.
+Contrast in kleur, licht‑donker en grootte stuurt aandacht en leesbaarheid en is cruciaal voor toegankelijkheid. Ontwerpers testen hun combinaties en zorgen dat deze voldoen aan WCAG‑richtlijnen.
 
 - [Accessible contrast ratios and A-levels explained](https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained/)
 
