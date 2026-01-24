@@ -569,94 +569,93 @@ In deze fase staat het toepassen van webtechnologie centraal: werken met HTML, C
   - rol van **JavaScript** (interactie, gedrag, data‑koppeling).
 - de principes van **progressive enhancement**:
   - eerst solide HTML, daarna CSS, vervolgens JS,
-  - het belang van **feature detection** en graceful degradation.
+  - het belang van feature detection en graceful degradation.
 - de kernprincipes van **responsive design**:
-  - **mobile first** en content first,
-  - **media queries**, **container queries**, viewport‑meta‑tag,
+  - mobile first en content first,
+  - media queries, container queries, viewport‑meta‑tag,
   - basis van responsive typografie en layouts.
-- het belang van **semantiek**, **toegankelijkheid** en **DRY** in HTML, CSS en JS.
-- de basisconcepten van **architectuur & data** aan de frontend:
-  - wat een **API** is en hoe deze wordt aangesproken,
-  - verschillen tussen **REST API** en **GraphQL**,
-  - het **CRUD**‑principe (Create, Read, Update, Delete),
-  - **URL‑driven development** en het belang van betekenisvolle URL’s.
-- de verschillende **render strategies**:
-  - **client‑side rendering (CSR)**,
-  - **server‑side rendering (SSR)**,
-  - **static site generation (SSG/static rendering)**,
-  - **universal / isomorphic rendering**,
-  - **hydration** en het effect op performance, SEO en UX.
-- het doel van een **template engine** binnen server‑side rendering.
-- de rol van **frontend frameworks** en **meta frameworks**:
+- het belang van semantiek, toegankelijkheid en DRY in HTML, CSS en JS.
+- de basisconcepten van **architecture & data** aan de frontend:
+  - wat een API is en hoe deze wordt aangesproken,
+  - verschillen tussen REST API en GraphQL,
+  - het CRUD‑principe (Create, Read, Update, Delete),
+  - URL‑driven development en het belang van betekenisvolle URL’s.
+- de verschillende render strategies:
+  - client‑side rendering (CSR),
+  - server‑side rendering (SSR),
+  - static site generation (SSG/static rendering),
+  - universal / isomorphic rendering,
+  - hydration en het effect op performance, SEO en UX.
+- het doel van een template engine binnen server‑side rendering.
+- de rol van frontend frameworks en meta frameworks:
   - frameworks als Svelte, React, Vue, Angular, 11ty, etc.,
   - meta frameworks als SvelteKit, Next, Nuxt, Astro.
-- het onderscheid tussen **frameworks** en **libraries** (bijv. GSAP, Three.js, Storybook, Tailwind).
-- de basis van **tooling & workflow**:
-  - **code editors** (VS Code), relevante plugins (ESLint, Prettier, Live Server/Live Preview),
-  - **browsers** en **devtools** (Elements, Network, Performance, Console),
-  - **npm** als package manager (dependencies, scripts),
-  - **issues** als manier om werk, bugs en verbeteringen te organiseren.
+- het onderscheid tussen frameworks en libraries (bijv. GSAP, Three.js, Storybook, Tailwind).
+- de basis van tooling & workflow:
+  - code editors (VS Code), relevante plugins (ESLint, Prettier, Live Server/Live Preview),
+  - browsers en devtools (Elements, Network, Performance, Console),
+  - npm als package manager (dependencies, scripts),
+  - issues als manier om werk, bugs en verbeteringen te organiseren.
 
 **Skills: de student kan ...**
 
-- een ontwerp vertalen naar een werkende **webpagina** met:
-  - semantische **HTML**,
-  - gestructureerde **CSS** (bijv. mobile‑first, modulair, DRY),
-  - doelgerichte **JavaScript** voor interactiviteit.
-- **progressive enhancement** toepassen:
+- een ontwerp vertalen naar een werkende webpagina met:
+  - semantische HTML,
+  - gestructureerde CSS (bijv. mobile‑first, modulair, DRY),
+  - doelgerichte JavaScript voor interactiviteit.
+- progressive enhancement toepassen:
   - eerst een bruikbare, toegankelijke basis zonder JS realiseren,
   - daarna styling en enhanced behavior toevoegen.
-- een **responsive layout** opzetten:
+- een responsive layout opzetten:
   - werken met mobile‑first media queries,
   - content en typografie laten meeschalen,
   - eenvoudige componenten (nav, cards, grids) responsive maken.
-- **semantische HTML** kiezen en inzetten (headings, landmarks, lists, forms).
-- herhaling verminderen volgens **DRY**:
+- semantische HTML kiezen en inzetten (headings, landmarks, lists, forms).
+- herhaling verminderen volgens DRY:
   - herbruikbare CSS‑classes en componenten maken,
   - gedrag in JS structureren (functions, modules) in plaats van copy‑paste.
-- data **ophalen en gebruiken** in de frontend:
-  - eenvoudige requests doen naar een **REST API** of **GraphQL endpoint**,
+- data ophalen en gebruiken in de frontend:
+  - eenvoudige requests doen naar een REST API of GraphQL endpoint,
   - responses verwerken (JSON) en data renderen in de UI.
-- een eenvoudige **render strategy** kiezen en implementeren die past bij de opdracht
+- een eenvoudige render strategy kiezen en implementeren die past bij de opdracht
   (bijv. statische site vs. client‑rendered app) en deze keuze beargumenteren.
-- werken met een **frontend framework of meta framework** op instapniveau:
+- werken met een frontend framework of meta framework op instapniveau:
   - een project opzetten met tooling (bijv. via create‑app / CLI / template),
   - componenten aanmaken, props/state gebruiken,
   - basisrouting begrijpen (pages/views).
-- gericht **libraries** inzetten:
-  - een library installeren en importeren via **npm**,
+- gericht libraries inzetten:
+  - een library installeren en importeren via npm,
   - de documentatie volgen om een concrete use‑case te bouwen
     (bijv. animatie met GSAP, 3D‑scene met Three.js, componenten met Chakra).
-- effectief werken met **code editors** en **browser devtools**:
+- effectief werken met code editors en browser devtools:
   - syntax highlighting, formatters, linters gebruiken,
   - DOM inspecteren, styles debuggen, network requests en performance analyseren.
-- **issues** gebruiken om werk te structureren:
+- issues gebruiken om werk te structureren:
   - taken en bugs als issues vastleggen,
   - issues koppelen aan commits/PR’s,
   - issues sluiten na implementatie.
 
 **Attitude: de student...**
 
-- neemt verantwoordelijkheid voor de **kwaliteit** van code:
+- neemt verantwoordelijkheid voor de kwaliteit van code:
   - streeft naar leesbare, consistente en onderhoudbare HTML, CSS en JS,
-  - is bereid code te **refactoren** als het schoner of duidelijker kan.
-- denkt tijdens het bouwen na over **toegankelijkheid**, **performance** en **responsiveness**
+  - is bereid code te refactoren als het schoner of duidelijker kan.
+- denkt tijdens het bouwen na over toegankelijkheid, performance en responsiveness
   in plaats van dit achteraf te “fixen”.
-- toont **nieuwsgierigheid** naar frameworks, libraries en tooling, maar:
+- toont nieuwsgierigheid naar frameworks, libraries en tooling, maar:
   - kiest niet blind voor “de nieuwste tool”,
   - kan keuzes onderbouwen vanuit de opdracht en context.
-- gebruikt **documentatie** (MDN, framework‑docs, library‑docs) actief als bron en verwijst ernaar.
+- gebruikt documentatie (MDN, framework‑docs, library‑docs) actief als bron en verwijst ernaar.
 - is bereid eigen aannames over implementatie te herzien wanneer tests, feedback of metingen dat vragen.
-- werkt **gestructureerd**:
+- werkt gestructureerd:
   - bouwt stap voor stap (van werkende basis naar complexer),
   - houdt overzicht over bestanden, componenten en dependencies.
-
 
 #### 1. Web fundamentals 
 
 In dit deel staat de basis van webontwikkeling centraal: HTML voor structuur, CSS voor vormgeving en JavaScript voor interactie, aangevuld met principes als toegankelijkheid, responsive design, progressive enhancement en performance. 
 
-##### Hypertext Markup Language
+##### HyperText Markup Language (HTML)
 
 HTML (HyperText Markup Language) is de standaardtaal die wordt gebruikt om webpagina’s te maken en structureren. Het bestaat uit een verzameling elementen en tags die bepalen hoe de inhoud op een website wordt weergegeven. Met HTML kan onder andere de structuur van koppen, paragrafen, lijsten, links, afbeeldingen en formulieren worden vastgelegd.
 
@@ -669,7 +668,7 @@ Bronnen:
 - [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-##### Cascading Stylesheets
+##### Cascading Style Sheets (CSS)
 
 CSS (Cascading Style Sheets) wordt gebruikt om de presentatie en vormgeving van HTML‑documenten te bepalen. Met CSS legt de student onder andere kleur, typografie, spacing, layout, animaties en responsief gedrag vast.
 
@@ -689,7 +688,7 @@ Bij progressive enhancement bouwt de student eerst een robuuste HTML‑basis, vo
 
 Responsive ontwerp past layout en typografie aan op basis van de viewport en het gebruikte apparaat. Door het inzetten van media‑ of container queries en een correcte viewport‑meta‑tag wordt een betrouwbare weergave op verschillende schermformaten gegarandeerd. Moderne CSS‑features maken het steeds eenvoudiger om responsive design te realiseren.
 
-Veelgebruikte principes binnen responsive webdesign zijn _content first_ en _mobile first_. Daarbij wordt een website vanuit de inhoud eerst ontworpen voor een mobiele viewport (single‑column layout) en vervolgens opgeschaald naar grotere viewports.
+Veelgebruikte principes binnen responsive webdesign zijn content first en mobile first. Daarbij wordt een website vanuit de inhoud eerst ontworpen voor een mobiele viewport (single‑column layout) en vervolgens opgeschaald naar grotere viewports.
 
 Bronnen:
 
@@ -717,9 +716,9 @@ Het DRY‑principe staat voor “Don’t Repeat Yourself”. Het betekent dat he
 
 Bij het kiezen van technieken, patronen en libraries geldt: zo simpel als kan, zo complex als nodig. De student voorkomt onnodige afhankelijkheden en over‑engineerde oplossingen. Er wordt begonnen met een eenvoudige, goed te testen basis en alleen complexiteit toegevoegd als daar een duidelijke reden voor is (bijvoorbeeld performance, schaalbaarheid of hergebruik).
 
-#### 2. Architectuur & data 
+#### 2. Architecture & data 
 
-In dit deel gaat het over hoe de frontend met data omgaat en hoe de student applicaties structureert rond resources, URL’s, datamodellen en verschillende renderstrategieën. 
+In dit deel gaat het over hoe de frontend met data omgaat en hoe de student applicaties structureert rond resources, URL’s, data models en verschillende render strategies. 
 
 ##### API’s
 
@@ -731,29 +730,29 @@ Een REST API (Representational State Transfer) is een manier om data en function
 
 ##### GraphQL
 
-GraphQL is een alternatief voor traditionele REST API’s en stelt front‑end developers in staat precies de gegevens op te vragen die nodig zijn. In plaats van vaste eindpunten zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data‑uitwisseling efficiënter, overzichtelijker en flexibeler en helpt bij het ontwikkelen van schaalbare webapplicaties.
+GraphQL is een alternatief voor traditionele REST API’s en stelt front‑end developers in staat precies de gegevens op te vragen die nodig zijn. In plaats van vaste endpoints zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data‑uitwisseling efficiënter, overzichtelijker en flexibeler en helpt bij het ontwikkelen van schaalbare webapplicaties.
 
-##### URL‑Driven Development
+##### URL‑driven development
 
-URL‑driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (_state_) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
+URL‑driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (state) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
 
 ##### CRUD
 
 CRUD staat voor Create, Read, Update en Delete en beschrijft de vier basisbewerkingen die mogelijk zijn op data binnen een applicatie. Dit principe sluit aan op de fundamentele werking van het web, waarin bronnen via URL’s toegankelijk zijn en bewerkt kunnen worden. Door CRUD als uitgangspunt te gebruiken, blijft het beheer van data overzichtelijk, voorspelbaar en consistent, zowel voor de gebruiker als voor de ontwikkelaar.
 
-##### Client‑side Rendering 
+##### Client‑side rendering 
 
 Bij client‑side rendering wordt de webpagina opgebouwd in de browser van de gebruiker met behulp van JavaScript. De server levert meestal een minimale HTML‑basis, waarna de inhoud dynamisch wordt gerenderd. Dit maakt interactieve applicaties mogelijk, maar kan invloed hebben op performance en SEO.
 
-##### Server‑side Rendering
+##### Server‑side rendering
 
 Server‑side rendering houdt in dat de HTML van een pagina op de server wordt gegenereerd en volledig naar de browser wordt gestuurd. Hierdoor is de pagina direct zichtbaar voor de gebruiker en beter toegankelijk voor zoekmachines. JavaScript kan daarna worden gebruikt om extra interactiviteit toe te voegen.
 
-##### Static Rendering
+##### Static rendering
 
 Bij static rendering worden pagina’s vooraf gegenereerd tijdens een build‑proces en als statische bestanden geserveerd. Dit resulteert in snelle laadtijden en hoge betrouwbaarheid. Static rendering wordt vaak gebruikt voor websites met grotendeels vaste content, zoals documentatie of marketingpagina’s.
 
-##### Universal Rendering
+##### Universal rendering
 
 Universal rendering, ook wel isomorphic rendering genoemd, combineert server‑ en client‑side rendering. De pagina wordt eerst op de server gerenderd voor snelle weergave en SEO, waarna dezelfde code in de browser wordt gebruikt voor verdere interactiviteit. Dit sluit aan bij de fundamentele werking van moderne webapplicaties.
 
@@ -775,7 +774,7 @@ Express is een veelgebruikt webframework voor Node.js waarmee snel HTTP‑server
 
 ###### Template engines
 
-Een template engine is een hulpmiddel om HTML‑pagina’s (of andere tekstbestanden) dynamisch te genereren op basis van _views_ en _data_. In een template wordt statische markup gecombineerd met placeholders en eenvoudige logica (zoals _loops_ en _conditions_). Tijdens het renderen worden deze placeholders ingevuld met data uit bijvoorbeeld een database of API.
+Een template engine is een hulpmiddel om HTML‑pagina’s (of andere tekstbestanden) dynamisch te genereren op basis van views en data. In een template wordt statische markup gecombineerd met placeholders en eenvoudige logica (zoals loops en conditions). Tijdens het renderen worden deze placeholders ingevuld met data uit bijvoorbeeld een database of API.
 
 Voor frontenders is een template engine belangrijk bij server‑side rendering: de server genereert HTML die naar de browser wordt gestuurd. Dit verbetert vaak de eerste laadtijd, SEO en toegankelijkheid, terwijl de pagina daarna eventueel verder interactief kan worden gemaakt met client‑side JavaScript. 
 
@@ -807,7 +806,7 @@ Voorbeelden: Chakra (UI‑componenten), Three.js (3D‑graphics), Threlte (Three
 
 ##### Living styleguide
 
-Een levende styleguide documenteert componenten, varianten en tokens met voorbeelden. Dit borgt consistentie en versnelt samenwerking tussen design en development.
+Een living styleguide documenteert componenten, varianten en tokens met voorbeelden. Dit borgt consistentie en versnelt samenwerking tussen design en development.
 
 ##### Component library
 
@@ -821,7 +820,7 @@ Code editors helpen frontenders bij het schrijven, lezen en onderhouden van code
 
 ##### Code‑editor plugins
 
-VS Code‑plugins kunnen frontenders helpen hun workflow te optimaliseren, bijvoorbeeld door sneller en netter code te schrijven en fouten te signaleren. Voorbeelden van plugins zijn: _ESLint_, _Prettier_ en _Live Server_/_Live Preview_. Binnen een webteam kunnen afspraken worden gemaakt over de plugins die gebruikt worden en hoe deze zijn geconfigureerd.
+VS Code‑plugins kunnen frontenders helpen hun workflow te optimaliseren, bijvoorbeeld door sneller en netter code te schrijven en fouten te signaleren. Voorbeelden van plugins zijn: ESLint, Prettier en Live Server/Live Preview. Binnen een webteam kunnen afspraken worden gemaakt over de plugins die gebruikt worden en hoe deze zijn geconfigureerd.
 
 ##### Browsers
 
@@ -834,6 +833,7 @@ npm staat voor Node Package Manager en is de standaard package manager voor Node
 ##### Afhandelen van issues
 
 Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een project worden geregistreerd, systematisch worden opgepakt en opgelost. Dit omvat het beoordelen, prioriteren, toewijzen en uiteindelijk sluiten van een issue wanneer het is opgelost. Een gestructureerde aanpak zorgt voor overzicht, betere samenwerking en een hogere kwaliteit van het eindproduct.
+
 
 ### Integreren
 
