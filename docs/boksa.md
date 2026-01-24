@@ -519,7 +519,7 @@ Een REST API (Representational State Transfer) is een manier om data en function
 
 GraphQL is een alternatief voor traditionele REST API’s en stelt front-end developers in staat precies de gegevens op te vragen die ze nodig hebben. In plaats van vaste eindpunten zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data-uitwisseling efficiënter, overzichtelijker en flexibeler, en helpt bij het ontwikkelen van schaalbare webapplicaties.
 
-##### URL-Drive Development
+##### URL-Driven Development
 
 URL-driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (_state_) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
 
@@ -534,12 +534,6 @@ Bij clientside rendering wordt de webpagina opgebouwd in de browser van de gebru
 ##### Serverside Rendering
 
 Serverside rendering houdt in dat de HTML van een pagina op de server wordt gegenereerd en volledig naar de browser wordt gestuurd. Hierdoor is de pagina direct zichtbaar voor de gebruiker en beter toegankelijk voor zoekmachines. JavaScript kan daarna worden gebruikt om extra interactiviteit toe te voegen.
-
-###### Node.js
-
-###### Express
-
-###### EJS
 
 ##### Static Rendering
 
@@ -557,15 +551,48 @@ Hydration is het proces waarbij een server-gerenderde pagina in de browser inter
 
 In dit deel staan de tools, frameworks, libraries en werkwijzen centraal die je helpen om code te schrijven, te organiseren en effectief samen te werken binnen een team. 
 
-##### Frameworks
+###### Node.js
+Node.js is een JavaScript-runtime waarmee je JavaScript buiten de browser kunt draaien, op de server of lokaal tijdens development. Hierdoor kun je met één taal – JavaScript – zowel frontend als backend ontwikkelen. Voor frontenders is Node.js vooral belangrijk als basis voor tooling (npm, bundlers, linters) en voor het bouwen van eigen servers of API’s die content aan de frontend leveren. 
 
-##### Sveltekit
+###### Express 
 
-Svelte, React, Vue, Angular, Express, Gatsby, 11ty, Ember, Hugo
+Express is een veelgebruikt webframework voor Node.js waarmee je snel HTTP‑servers en API’s kunt opzetten. Met Express definieer je routes (URL’s) en bepaal je welke data of HTML bij welke request wordt teruggegeven. Voor frontenders is Express relevant om eenvoudige backends, prototypes of server‑side rendering op te zetten die goed aansluiten op de URL‑structuur en databehoefte van de frontend. 
 
-##### Libraries
+###### Template Engines
+Een template engine is een hulpmiddel om HTML‑pagina’s (of andere tekstbestanden) dynamisch te genereren op basis van _views_ en _data_. In een template combineer je statische markup met placeholders en eenvoudige logica (zoals _loops_ en _conditions_). Tijdens het renderen worden deze placeholders ingevuld met data uit bijvoorbeeld een database of API.
 
-Chakra, Tailwind, Three.js, Threlte, Storybook, GSAP, Framer, socket.io
+Voor frontenders is een template engine belangrijk bij server‑side rendering: de server genereert HTML die naar de browser wordt gestuurd. Dit verbetert vaak de eerste laadtijd, SEO en toegankelijkheid, terwijl de pagina daarna eventueel verder interactief kan worden gemaakt met client‑side JavaScript. 
+
+Voorbeelden: Liquid.js, EJS
+
+##### Frontend Frameworks 
+
+Frontend frameworks bieden een gestructureerde basis voor het bouwen van web interfaces, met collections van opinionated patterns, utilities en reusable components. Ze nemen veel repetitief werk uit handen – zoals state management, routing en het opzetten van een consistente component structure – en bevorderen herbruikbare, voorspelbare patronen in HTML, CSS en JavaScript.
+
+Frameworks richten zich meestal op één laag van de applicatie – vaak de UI‑laag in de browser, soms gecombineerd met een eenvoudige serverlaag. Voor frontenders maken ze het makkelijker om grote applicaties onderhoudbaar, testbaar en uitbreidbaar te houden.
+
+Voorbeelden: Svelte, React, Vue, Angular, Express, Gatsby, 11ty, Ember, Hugo. 
+
+
+##### Meta Frameworks 
+
+Meta frameworks bouwen bovenop bestaande frontend frameworks en voegen daar zaken aan toe als routing, data‑fetching, renderstrategieën (SSR, SSG, CSR), bestandsstructuur en tooling voor productie. Ze geven een “opiniated” manier van werken die veel keuzes voor je standaardiseert, zoals hoe je pagina’s opbouwt, hoe je bundelt en hoe je deployt.
+
+Voor frontenders zijn meta frameworks belangrijk omdat ze de brug slaan tussen componenten, data en hosting: je werkt nog steeds met bijvoorbeeld Svelte, maar krijgt er een complete applicatie‑ en deploymentstructuur bij.
+
+Voorbeelden: SvelteKit, Next, Nuxt, Astro. 
+
+##### Libraries 
+
+Libraries zijn losse, herbruikbare packages die een specifieke functionaliteit aan je project toevoegen. In tegenstelling tot frameworks bepalen ze meestal de overall application structure, maar hebben ze één doel, zoals animations, 3D graphics, UI components of real‑time communication.
+
+Frontenders gebruiken libraries om sneller te kunnen werken, complex gedrag betrouwbaar te implementeren en consistente UI‑patronen te hergebruiken, zonder zelf alles from scratch te bouwen.
+
+Voorbeelden: Chakra (UI‑componenten), Three.js (3D‑graphics), Threlte (Three.js + Svelte), Storybook (component‑documentatie), GSAP (animaties), Framer (animaties/prototyping), socket.io (real‑time communicatie). 
+Copy to clipboard
+Good response
+Bad response
+
 
 ##### Living Styleguide
 
@@ -757,7 +784,7 @@ Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets b
 
 ###### Testen in Usability Lab
 
-Testen in een usability lab richt zich op het observeren van gebruikers tijdens het uitvoeren van taken binnen een applicatie of website. Door gebruikersgedrag te analyseren, zoals navigatie, interactie en feedback, worden knelpunten in gebruiksvriendelijkheid en toegankelijkheid zichtbaar. Deze vorm van testen helpt bij het verbeteren van de ge
+Testen in een usability lab richt zich op het observeren van gebruikers tijdens het uitvoeren van taken binnen een applicatie of website. Door gebruikersgedrag te analyseren, zoals navigatie, interactie en feedback, worden knelpunten in gebruiksvriendelijkheid en toegankelijkheid zichtbaar. Deze vorm van testen helpt bij het verbeteren van de gebruikservaring van de website.
 
 ###### Real User Monitoring
 
@@ -808,10 +835,6 @@ Een toegankelijkheidstest (A11Y-test) controleert of een website of applicatie b
 
 Een screenreadertest controleert hoe een website wordt voorgelezen door screenreadersoftware. Hierbij wordt gekeken of de content logisch is opgebouwd, of semantische HTML correct wordt gebruikt en of interactieve elementen goed worden aangekondigd. Deze test is essentieel voor blinde en slechtziende gebruikers.
 
-##### Colorcontrast
-
-Een colorcontrasttest controleert of het contrast tussen tekst en achtergrond voldoende is. Dit is essentieel voor leesbaarheid en toegankelijkheid, met name voor gebruikers met visuele beperkingen. Deze test draagt bij aan het voldoen aan WCAG-richtlijnen.
-
 #### 4. Techniek, compatibiliteit & performance 
 
 In deze categorie vallen tests die vooral gericht zijn op technische correctheid, compatibiliteit tussen apparaten en browsers, en de prestaties van de site. 
@@ -823,10 +846,6 @@ Handmatig testen is het testen van een applicatie door deze zelf te gebruiken, z
 ##### Geautomatiseerd testen
 
 Geautomatiseerd testen houdt in dat tests automatisch worden uitgevoerd met behulp van testtools en scripts. Deze tests controleren bijvoorbeeld of functionaliteit correct werkt na codewijzigingen. Geautomatiseerd testen wordt vaak ingezet binnen Continuous Integration en helpt om fouten vroegtijdig te signaleren en regressies te voorkomen.
-
-##### Geautomatiseerde tests
-
-Geautomatiseerde tests zijn tests die automatisch worden uitgevoerd met behulp van tools en scripts. Ze controleren of functionaliteit correct blijft werken na wijzigingen in de code. Deze tests worden vaak ingezet binnen Continuous Integration.
 
 ###### W3C validator
 
