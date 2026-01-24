@@ -568,86 +568,86 @@ In deze fase staat het toepassen van webtechnologie centraal: werken met HTML, C
   - rol van **CSS** (layout, typografie, spacing, theming),
   - rol van **JavaScript** (interactie, gedrag, data‑koppeling).
 - de principes van **progressive enhancement**:
-  - eerst solide HTML, daarna CSS, vervolgens JS,
-  - het belang van feature detection en graceful degradation.
+  - eerst solide **HTML**, daarna **CSS**, vervolgens **JS**,
+  - het belang van **feature detection** en **graceful degradation**.
 - de kernprincipes van **responsive design**:
-  - mobile first en content first,
-  - media queries, container queries, viewport‑meta‑tag,
-  - basis van responsive typografie en layouts.
-- het belang van semantiek, toegankelijkheid en DRY in HTML, CSS en JS.
+  - **mobile first** en **content first**,
+  - **media queries**, **container queries**, **viewport‑meta‑tag**,
+  - basis van **responsive typografie** en **responsive layouts**.
+- het belang van **semantiek**, **toegankelijkheid** en **DRY** in **HTML**, **CSS** en **JS**.
 - de basisconcepten van **architecture & data** aan de frontend:
-  - wat een API is en hoe deze wordt aangesproken,
-  - verschillen tussen REST API en GraphQL,
-  - het CRUD‑principe (Create, Read, Update, Delete),
-  - URL‑driven development en het belang van betekenisvolle URL’s.
-- de verschillende render strategies:
-  - client‑side rendering (CSR),
-  - server‑side rendering (SSR),
-  - static site generation (SSG/static rendering),
-  - universal / isomorphic rendering,
-  - hydration en het effect op performance, SEO en UX.
-- het doel van een template engine binnen server‑side rendering.
-- de rol van frontend frameworks en meta frameworks:
-  - frameworks als Svelte, React, Vue, Angular, 11ty, etc.,
-  - meta frameworks als SvelteKit, Next, Nuxt, Astro.
-- het onderscheid tussen frameworks en libraries (bijv. GSAP, Three.js, Storybook, Tailwind).
-- de basis van tooling & workflow:
-  - code editors (VS Code), relevante plugins (ESLint, Prettier, Live Server/Live Preview),
-  - browsers en devtools (Elements, Network, Performance, Console),
-  - npm als package manager (dependencies, scripts),
-  - issues als manier om werk, bugs en verbeteringen te organiseren.
+  - wat een **API** is en hoe deze wordt aangesproken,
+  - verschillen tussen **REST API** en **GraphQL**,
+  - het **CRUD**‑principe (**Create, Read, Update, Delete**),
+  - **URL‑driven development** en het belang van betekenisvolle URL’s.
+- de verschillende **render strategies**:
+  - **client‑side rendering (CSR)**,
+  - **server‑side rendering (SSR)**,
+  - **static site generation (SSG / static rendering)**,
+  - **universal / isomorphic rendering**,
+  - **hydration** en het effect op **performance**, **SEO** en **UX**.
+- het doel van een **template engine** binnen **server‑side rendering**.
+- de rol van **frontend frameworks** en **meta frameworks**:
+  - frameworks als **Svelte**, **React**, **Vue**, **Angular**, **11ty**, etc.,
+  - meta frameworks als **SvelteKit**, **Next**, **Nuxt**, **Astro**.
+- het onderscheid tussen **frameworks** en **libraries** (bijv. **GSAP**, **Three.js**, **Storybook**, **Tailwind**).
+- de basis van **tooling & workflow**:
+  - **code editors** (bijv. **VS Code**), relevante **plugins** (**ESLint**, **Prettier**, **Live Server/Live Preview**),
+  - **browsers** en **devtools** (**Elements**, **Network**, **Performance**, **Console**),
+  - **npm** als **package manager** (dependencies, scripts),
+  - **issues** als manier om werk, bugs en verbeteringen te organiseren.
 
 **Skills: de student kan ...**
 
-- een ontwerp vertalen naar een werkende webpagina met:
-  - semantische HTML,
-  - gestructureerde CSS (bijv. mobile‑first, modulair, DRY),
-  - doelgerichte JavaScript voor interactiviteit.
-- progressive enhancement toepassen:
-  - eerst een bruikbare, toegankelijke basis zonder JS realiseren,
-  - daarna styling en enhanced behavior toevoegen.
-- een responsive layout opzetten:
-  - werken met mobile‑first media queries,
+- een ontwerp vertalen naar een werkende **webpagina** met:
+  - semantische **HTML**,
+  - gestructureerde **CSS** (bijv. **mobile‑first**, modulair, **DRY**),
+  - doelgerichte **JavaScript** voor interactiviteit.
+- **progressive enhancement** toepassen:
+  - eerst een bruikbare, toegankelijke basis zonder **JS** realiseren,
+  - daarna styling en **enhanced behavior** toevoegen.
+- een **responsive layout** opzetten:
+  - werken met **mobile‑first media queries**,
   - content en typografie laten meeschalen,
-  - eenvoudige componenten (nav, cards, grids) responsive maken.
-- semantische HTML kiezen en inzetten (headings, landmarks, lists, forms).
-- herhaling verminderen volgens DRY:
-  - herbruikbare CSS‑classes en componenten maken,
-  - gedrag in JS structureren (functions, modules) in plaats van copy‑paste.
+  - eenvoudige componenten (**nav**, **cards**, **grids**) responsive maken.
+- **semantische HTML** kiezen en inzetten (**headings**, **landmarks**, **lists**, **forms**).
+- herhaling verminderen volgens **DRY**:
+  - herbruikbare **CSS‑classes** en componenten maken,
+  - gedrag in **JS** structureren (**functions**, **modules**) in plaats van copy‑paste.
 - data ophalen en gebruiken in de frontend:
-  - eenvoudige requests doen naar een REST API of GraphQL endpoint,
-  - responses verwerken (JSON) en data renderen in de UI.
-- een eenvoudige render strategy kiezen en implementeren die past bij de opdracht
-  (bijv. statische site vs. client‑rendered app) en deze keuze beargumenteren.
-- werken met een frontend framework of meta framework op instapniveau:
-  - een project opzetten met tooling (bijv. via create‑app / CLI / template),
-  - componenten aanmaken, props/state gebruiken,
-  - basisrouting begrijpen (pages/views).
-- gericht libraries inzetten:
-  - een library installeren en importeren via npm,
-  - de documentatie volgen om een concrete use‑case te bouwen
-    (bijv. animatie met GSAP, 3D‑scene met Three.js, componenten met Chakra).
-- effectief werken met code editors en browser devtools:
-  - syntax highlighting, formatters, linters gebruiken,
-  - DOM inspecteren, styles debuggen, network requests en performance analyseren.
-- issues gebruiken om werk te structureren:
-  - taken en bugs als issues vastleggen,
-  - issues koppelen aan commits/PR’s,
+  - eenvoudige requests doen naar een **REST API** of **GraphQL endpoint**,
+  - responses verwerken (**JSON**) en data renderen in de UI.
+- een eenvoudige **render strategy** kiezen en implementeren die past bij de opdracht
+  (bijv. **statische site** vs. **client‑rendered app**) en deze keuze beargumenteren.
+- werken met een **frontend framework** of **meta framework** op instapniveau:
+  - een project opzetten met tooling (bijv. via **create‑app / CLI / template**),
+  - **componenten** aanmaken, **props/state** gebruiken,
+  - basisrouting begrijpen (**pages/views**).
+- gericht **libraries** inzetten:
+  - een library installeren en importeren via **npm**,
+  - de documentatie volgen om een concrete **use‑case** te bouwen
+    (bijv. animatie met **GSAP**, 3D‑scene met **Three.js**, componenten met **Chakra**).
+- effectief werken met **code editors** en **browser devtools**:
+  - **syntax highlighting**, **formatters**, **linters** gebruiken,
+  - **DOM** inspecteren, **styles** debuggen, **network requests** en **performance** analyseren.
+- **issues** gebruiken om werk te structureren:
+  - taken en bugs als **issues** vastleggen,
+  - issues koppelen aan **commits/PR’s**,
   - issues sluiten na implementatie.
 
 **Attitude: de student...**
 
-- neemt verantwoordelijkheid voor de kwaliteit van code:
-  - streeft naar leesbare, consistente en onderhoudbare HTML, CSS en JS,
-  - is bereid code te refactoren als het schoner of duidelijker kan.
-- denkt tijdens het bouwen na over toegankelijkheid, performance en responsiveness
+- neemt verantwoordelijkheid voor de **kwaliteit** van code:
+  - streeft naar leesbare, consistente en onderhoudbare **HTML**, **CSS** en **JS**,
+  - is bereid code te **refactoren** als het schoner of duidelijker kan.
+- denkt tijdens het bouwen na over **toegankelijkheid**, **performance** en **responsiveness**
   in plaats van dit achteraf te “fixen”.
-- toont nieuwsgierigheid naar frameworks, libraries en tooling, maar:
+- toont nieuwsgierigheid naar **frameworks**, **libraries** en **tooling**, maar:
   - kiest niet blind voor “de nieuwste tool”,
   - kan keuzes onderbouwen vanuit de opdracht en context.
-- gebruikt documentatie (MDN, framework‑docs, library‑docs) actief als bron en verwijst ernaar.
+- gebruikt **documentatie** (**MDN**, **framework‑docs**, **library‑docs**) actief als bron en verwijst ernaar.
 - is bereid eigen aannames over implementatie te herzien wanneer tests, feedback of metingen dat vragen.
-- werkt gestructureerd:
+- werkt **gestructureerd**:
   - bouwt stap voor stap (van werkende basis naar complexer),
   - houdt overzicht over bestanden, componenten en dependencies.
 
