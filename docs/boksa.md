@@ -633,7 +633,7 @@ De student kent:
   - **npm** als package manager (dependencies, scripts),
   - **issues** als manier om werk, bugs en verbeteringen te organiseren.
 
----
+
 
 **Skills**
 
@@ -675,7 +675,7 @@ De student kan:
   - issues koppelen aan commits/PR’s,
   - issues sluiten na implementatie.
 
----
+
 
 **Attitude**
 
@@ -877,8 +877,91 @@ Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een p
 
 ### Integreren
 
-Publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
+In de integratiefase zorg je ervoor dat je applicatie vanuit je ontwikkelomgeving naar een gedeelde (test- of productie) omgeving gaat, zodat verschillende teamleden en medestudenten kunnen testen en doorontwikkelen, docenten kunnen beoordelen en een opdrachtgever of eindgebruikers de toepassing daadwerkelijk kunnen gebruiken. Je brengt de code samen via Git, maakt een werkend build en publiceert deze op een geschikt hostingplatform, zoals Netlify of een hosted server.
 
+#### Leeruitkomst Integreren (Kennis / Skills / Attitude)
+
+**Kennis**
+
+De student kent:
+
+- De rol van **Integreren** binnen de development lifecycle (DLC):
+  - code samenbrengen, publiceren, automatiseren en overdraagbaar maken.
+- De basis van **versiebeheer met Git**:
+  - wat een **Git workflow** is en waarom afspraken hierover nodig zijn,
+  - het verschil tussen **lokale** en **remote** repositories,
+  - de rol van **branches**, **commits** en **pull requests**.
+- De belangrijkste begrippen in Git:
+  - **Git CLI** (commit, push, pull, branch, merge, clone, etc.),
+  - het belang van duidelijke **commit messages**,
+  - het idee achter **Gitmoji** als visuele commit‑conventie.
+- Concepten rond **deploy & hosting**:
+  - wat **hosting** is en welke vormen er zijn (statisch, server, serverless),
+  - verschil tussen handmatig uploaden met **(S)FTP** en geautomatiseerde deploys,
+  - de basis van platforms als **Render**, **GitHub Pages**, **Vercel** en **Netlify**.
+- De principes van **automatisering & configuratie**:
+  - **Continuous Integration (CI)** als praktijk om automatisch te testen en builden,
+  - de rol van **GitHub Actions** bij het opzetten van workflows (test, build, deploy),
+  - het doel van **environment variables** en `.env`‑bestanden (scheiding code/configuratie, security).
+- De functie van **documentatie & overdracht**:
+  - het verschil tussen **README.md**, **Handover.md** en **Contributing.md**,
+  - welke informatie waar thuishoort (installatie, gebruik, structuur, bijdragen, overdracht).
+
+**Skills**
+
+De student kan:
+
+- Met Git werken in een teamcontext:
+  - een bestaande repository clonen en lokaal opzetten,
+  - wijzigingen gestructureerd vastleggen met **commits** en duidelijke commit messages,
+  - **branches** aanmaken voor features of fixes en deze later samenvoegen.
+- Een eenvoudige maar heldere **Git workflow** volgen:
+  - werken met feature branches,
+  - **pull requests** aanmaken, bespreken en verwerken,
+  - kleine, logische stappen maken in plaats van grote “alles‑in‑één” commits.
+- Projecten **deployen** naar een hostingplatform:
+  - een statische site publiceren (bijv. met **GitHub Pages**, **Netlify** of **Vercel**),
+  - basisinstellingen configureren (build command, output folder, environment variables),
+  - een eenvoudige update‑flow gebruiken (push → build → deploy).
+- Verschillende deployment‑strategieën herkennen en toepassen:
+  - weten wanneer (S)FTP nog relevant is (bijv. legacy hosting),
+  - een Git‑gebaseerde pipeline gebruiken bij moderne platforms.
+- Eenvoudige **CI‑workflows** begrijpen en inzetten:
+  - een basic **GitHub Action** configureren (bijv. lint/test op elke push of pull request),
+  - build‑ en testfouten interpreteren en oplossen.
+- Veilig omgaan met **configuratie en secrets**:
+  - gevoelige gegevens in een `.env`‑bestand plaatsen,
+  - `.env` uitsluiten van versiebeheer,
+  - environment variables instellen in het deploymentplatform.
+- **Documentatie** schrijven en bijhouden:
+  - een duidelijke **README.md** opstellen (doel, installatie, gebruik, tech‑stack),
+  - een **Handover.md** maken voor overdracht (structuur, scripts, bekende issues),
+  - eenvoudige **Contributing.md**‑richtlijnen formuleren (branches, commits, PR‑flow).
+
+**Attitude**
+
+De student:
+
+- Ziet **versiebeheer** als essentieel onderdeel van professioneel werken:
+  - commit regelmatig in kleine stappen,
+  - schrijft eerlijke, beschrijvende commit messages,
+  - is voorzichtig met direct op `main`/`master` werken.
+- Neemt verantwoordelijkheid voor de **stabiliteit van de main branch**:
+  - test lokaal voordat er gecommit wordt,
+  - gebruikt pull requests voor review en checks,
+  - lost merge conflicts zorgvuldig op in overleg met het team.
+- Heeft een **automation‑first** mentaliteit waar passend:
+  - zoekt naar mogelijkheden om repeterende taken (testen, builden, deployen) te automatiseren,
+  - ziet CI/CD niet als “extra werk”, maar als kwaliteitsborging.
+- Is zich bewust van **security en privacy**:
+  - pusht geen secrets (API keys, wachtwoorden) naar Git,
+  - gaat zorgvuldig om met `.env` en configuratie.
+- Schrijft documentatie met het oog op **anderen**:
+  - helpt toekomstige ontwikkelaars of stagiairs met een goede README/Handover,
+  - houdt documentatie up‑to‑date bij belangrijke wijzigingen.
+- Werkt **transparant en samenwerkingsgericht**:
+  - gebruikt issues, PR‑beschrijvingen en documentatie om keuzes te communiceren,
+  - staat open voor code reviews en is bereid eigen code aan te passen na feedback.
 
 #### 1. Versiebeheer & workflow 
 
