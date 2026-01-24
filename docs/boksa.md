@@ -848,7 +848,7 @@ Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een p
 
 ### Integreren
 
-In de integratiefase zorg je ervoor dat je applicatie vanuit je ontwikkelomgeving naar een gedeelde (test- of productie) omgeving gaat, zodat verschillende teamleden en medestudenten kunnen testen en doorontwikkelen, docenten kunnen beoordelen en een opdrachtgever of eindgebruikers de toepassing daadwerkelijk kunnen gebruiken. Je brengt de code samen via Git, maakt een werkend build en publiceert deze op een geschikt hostingplatform, zoals Netlify of een hosted server.
+In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwikkelomgeving naar een gedeelde (test‑ of productie‑)omgeving wordt overgezet, zodat verschillende teamleden en medestudenten kunnen testen en doorontwikkelen, docenten kunnen beoordelen en een opdrachtgever of eindgebruikers de toepassing daadwerkelijk kunnen gebruiken. De student brengt de code samen via Git, maakt een werkende build en publiceert deze op een geschikt hostingplatform, zoals Netlify, Vercel, Render of een (gehoste) server.
 
 #### Leeruitkomst Integreren (Kennis / Skills / Attitude)
 
@@ -859,7 +859,7 @@ De student kent:
 - De rol van **Integreren** binnen de development lifecycle (DLC):
   - code samenbrengen, publiceren, automatiseren en overdraagbaar maken.
 - De basis van **versiebeheer met Git**:
-  - wat een **Git workflow** is en waarom afspraken hierover nodig zijn,
+  - wat een **Git‑workflow** is en waarom afspraken hierover nodig zijn,
   - het verschil tussen **lokale** en **remote** repositories,
   - de rol van **branches**, **commits** en **pull requests**.
 - De belangrijkste begrippen in Git:
@@ -886,16 +886,16 @@ De student kan:
   - een bestaande repository clonen en lokaal opzetten,
   - wijzigingen gestructureerd vastleggen met **commits** en duidelijke commit messages,
   - **branches** aanmaken voor features of fixes en deze later samenvoegen.
-- Een eenvoudige maar heldere **Git workflow** volgen:
+- Een eenvoudige maar heldere **Git‑workflow** volgen:
   - werken met feature branches,
   - **pull requests** aanmaken, bespreken en verwerken,
   - kleine, logische stappen maken in plaats van grote “alles‑in‑één” commits.
 - Projecten **deployen** naar een hostingplatform:
   - een statische site publiceren (bijv. met **GitHub Pages**, **Netlify** of **Vercel**),
-  - basisinstellingen configureren (build command, output folder, environment variables),
+  - basisinstellingen configureren (build‑command, output‑folder, environment variables),
   - een eenvoudige update‑flow gebruiken (push → build → deploy).
 - Verschillende deployment‑strategieën herkennen en toepassen:
-  - weten wanneer (S)FTP nog relevant is (bijv. legacy hosting),
+  - herkennen wanneer (S)FTP nog relevant is (bijv. legacy hosting),
   - een Git‑gebaseerde pipeline gebruiken bij moderne platforms.
 - Eenvoudige **CI‑workflows** begrijpen en inzetten:
   - een basic **GitHub Action** configureren (bijv. lint/test op elke push of pull request),
@@ -925,7 +925,7 @@ De student:
   - zoekt naar mogelijkheden om repeterende taken (testen, builden, deployen) te automatiseren,
   - ziet CI/CD niet als “extra werk”, maar als kwaliteitsborging.
 - Is zich bewust van **security en privacy**:
-  - pusht geen secrets (API keys, wachtwoorden) naar Git,
+  - pusht geen secrets (API‑keys, wachtwoorden) naar Git,
   - gaat zorgvuldig om met `.env` en configuratie.
 - Schrijft documentatie met het oog op **anderen**:
   - helpt toekomstige ontwikkelaars of stagiairs met een goede README/Handover,
@@ -936,15 +936,15 @@ De student:
 
 #### 1. Versiebeheer & workflow 
 
-In dit deel beschrijven we hoe je met Git samenwerkt aan dezelfde codebase: hoe je branches gebruikt, wijzigingen vastlegt en samenvoegt en hoe je de workflow voorspelbaar en veilig houdt. 
+In dit deel wordt beschreven hoe de student met Git samenwerkt aan dezelfde codebase: hoe branches worden gebruikt, wijzigingen worden vastgelegd en samengevoegd en hoe de workflow voorspelbaar en veilig blijft. 
 
-##### Git workflow
+##### Git‑workflow
 
-Een Git workflow beschrijft de afspraken en stappen die een team volgt bij het werken met Git. Denk aan hoe branches worden aangemaakt, hoe wijzigingen worden samengevoegd en wanneer code wordt gereviewd. Een duidelijke workflow zorgt voor overzicht, voorkomt conflicten en maakt samenwerking voorspelbaar en efficiënt.
+Een Git‑workflow beschrijft de afspraken en stappen die een team volgt bij het werken met Git. Denk aan hoe branches worden aangemaakt, hoe wijzigingen worden samengevoegd en wanneer code wordt gereviewd. Een duidelijke workflow zorgt voor overzicht, voorkomt conflicten en maakt samenwerking voorspelbaar en efficiënt.
 
 ##### Git CLI
 
-De Git CLI (Command Line Interface) is een tekstgebaseerde manier om Git te gebruiken via de terminal. Hiermee kunnen developers repositories beheren, commits maken en branches aansturen. Werken met de Git CLI geeft meer controle en inzicht in versiebeheer dan grafische tools.
+De Git CLI (Command Line Interface) is een tekstgebaseerde manier om Git te gebruiken via de terminal. Hiermee kunnen developers repositories beheren, commits maken en branches aansturen. Werken met de Git CLI geeft veel controle en inzicht in versiebeheer en vormt een belangrijke basisvaardigheid voor frontenders.
 
 ##### Branches
 
@@ -958,17 +958,17 @@ Commit messages beschrijven welke wijzigingen in een commit zijn gedaan en waaro
 
 Gitmoji is een conventie waarbij emoji’s worden gebruikt in commit messages om het type wijziging aan te geven, zoals ✨ voor nieuwe features of 🐛 voor bugfixes. Dit maakt commits visueel herkenbaar en verbetert de leesbaarheid van de commitgeschiedenis.
 
-##### Pull-request
+##### Pull request
 
-Een pull-request is een verzoek om wijzigingen uit een branch samen te voegen met een andere branch, meestal de hoofdbranch. Het biedt ruimte voor code review, discussie en automatische checks, en speelt een belangrijke rol in samenwerking en kwaliteitsbewaking.
+Een pull request is een verzoek om wijzigingen uit een branch samen te voegen met een andere branch, meestal de hoofdbranch. Het biedt ruimte voor code review, discussie en automatische checks, en speelt een belangrijke rol in samenwerking en kwaliteitsbewaking.
 
 #### 2. Deploy & hosting 
 
-In dit deel gaat het over hoe je je applicatie daadwerkelijk online krijgt en beschikbaar maakt voor gebruikers, met verschillende vormen van hosting en deploymentplatformen. 
+In dit deel gaat het over hoe de student applicaties daadwerkelijk online krijgt en beschikbaar maakt voor gebruikers, met verschillende vormen van hosting en deploymentplatformen. 
 
 ##### Hosting
 
-Hosting is het beschikbaar maken van een website of applicatie op het internet via een server. Front-end developers gebruiken hostingdiensten om projecten te publiceren, te testen en te delen. Goede hosting zorgt voor bereikbaarheid, performance en betrouwbaarheid.
+Hosting is het beschikbaar maken van een website of applicatie op het internet via een server. Front‑end developers gebruiken hostingdiensten om projecten te publiceren, te testen en te delen. Goede hosting zorgt voor bereikbaarheid, performance en betrouwbaarheid.
 
 ##### (S)FTP
 
@@ -976,24 +976,23 @@ Hosting is het beschikbaar maken van een website of applicatie op het internet v
 
 ##### Render
 
-Render is een cloudplatform waarmee webapplicaties automatisch kunnen worden gedeployed. Het ondersteunt onder andere statische sites, servers en databases. Door integratie met Git kunnen wijzigingen direct live worden gezet na een commit of merge.
+Render is een cloudplatform waarmee webapplicaties automatisch kunnen worden gedeployed. Het ondersteunt onder andere statische sites, webservers en databases. Door integratie met Git kunnen wijzigingen direct live worden gezet na een commit of merge.
 
 ##### GitHub Pages
 
-GitHub Pages is een hostingdienst van GitHub waarmee statische websites direct vanuit een repository gepubliceerd kunnen worden. Het wordt vaak gebruikt voor portfolio’s, documentatie en demo’s en sluit goed aan bij Git-gebaseerde workflows.
+GitHub Pages is een hostingdienst van GitHub waarmee statische websites direct vanuit een repository gepubliceerd kunnen worden. Het wordt vaak gebruikt voor portfolio’s, documentatie en demo’s en sluit goed aan bij Git‑gebaseerde workflows.
 
 ##### Vercel
 
-Vercel is een platform gericht op het hosten en deployen van moderne front-end applicaties. Het biedt automatische builds, previews per branch en optimale performance voor frameworks zoals Next.js. Deployments worden direct gekoppeld aan Git-repositories.
+Vercel is een platform gericht op het hosten en deployen van moderne front‑end applicaties. Het biedt automatische builds, previews per branch en optimale performance voor frameworks zoals Next.js. Deployments worden direct gekoppeld aan Git‑repositories.
 
 ##### Netlify
 
-Netlify is een hostingplatform voor statische websites en front-end applicaties. Het ondersteunt automatische deploys, form handling en serverless functies. Door de Git-integratie kunnen projecten eenvoudig en snel worden gepubliceerd.
-
+Netlify is een hostingplatform voor statische websites en front‑end applicaties. Het ondersteunt automatische deploys, form‑handling en serverless functies. Door de Git‑integratie kunnen projecten eenvoudig en snel worden gepubliceerd.
 
 #### 3. Automatisering & configuratie 
 
-Hier gaat het over het automatiseren van builds, tests en deploys (CI/CD) en over het veilig beheren van configuratie via omgevingsvariabelen. 
+In dit deel gaat het over het automatiseren van builds, tests en deploys (CI/CD) en over het veilig beheren van configuratie via omgevingsvariabelen. 
 
 ##### Continuous Integration
 
@@ -1001,15 +1000,15 @@ Continuous Integration (CI) is een ontwikkelpraktijk waarbij codewijzigingen aut
 
 ##### GitHub Actions
 
-GitHub Actions is een tool voor het automatiseren van workflows binnen GitHub, zoals testen, builden en deployen. Het wordt veel gebruikt voor Continuous Integration en Continuous Deployment en werkt op basis van configuratiebestanden in de repository.
+GitHub Actions is een tool voor het automatiseren van workflows binnen GitHub, zoals testen, builden en deployen. Het wordt veel gebruikt voor Continuous Integration en Continuous Deployment en werkt op basis van configuratiebestanden (YAML) in de repository.
 
-##### .env
+##### `.env`
 
-Een `.env`-bestand wordt gebruikt om omgevingsvariabelen op te slaan, zoals API-sleutels en configuratie-instellingen. Deze gegevens worden gescheiden van de code om veiligheid en flexibiliteit te verbeteren en worden niet meegenomen in versiebeheer.
+Een `.env`‑bestand wordt gebruikt om omgevingsvariabelen op te slaan, zoals API‑sleutels en configuratie‑instellingen. Deze gegevens worden gescheiden van de code om veiligheid en flexibiliteit te verbeteren en worden niet meegenomen in versiebeheer (door `.env` in `.gitignore` op te nemen).
 
 #### 4. Documentatie & overdracht 
 
-Dit deel gaat over hoe je projecten documenteert en overdraagt, zodat anderen (of jijzelf later) het werk kunnen begrijpen, gebruiken en voortzetten. 
+In dit deel gaat het over hoe de student projecten documenteert en overdraagt, zodat anderen (of de student zelf later) het werk kunnen begrijpen, gebruiken en voortzetten. 
 
 ##### Documentatie
 
@@ -1019,17 +1018,18 @@ Documentatie beschrijft hoe een project werkt, hoe het gebruikt kan worden en ho
 
 De `README.md` is het centrale document van een repository en geeft een overzicht van het project. Het bevat vaak informatie over installatie, gebruik, structuur en gebruikte technologieën. Een duidelijke README maakt een project toegankelijk en begrijpelijk voor anderen.
 
-De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat jullie hebben gemaakt, je kan screenshots laten toevoegen en vertellen wie de website hebben gemaakt. De Readme is het uithangbord van jullie project.
+De README is het eerste wat iemand ziet op GitHub. In de README kan het team uitleggen wat er is gemaakt, screenshots toevoegen en toelichten wie aan de website hebben gewerkt. De README fungeert als uithangbord van het project.
 
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
 ###### Handover.md
 
-De `Handover.md` bevat informatie die nodig is om een project over te dragen aan andere developers of beheerders. Hierin staat onder andere hoe het project is opgebouwd, hoe het lokaal gedraaid kan worden en welke aandachtspunten of openstaande zaken er zijn. Dit document zorgt voor een soepele overdracht en continuïteit.
+De `Handover.md` bevat informatie die nodig is om een project over te dragen aan andere developers of beheerders. Hierin staat onder andere hoe het project is opgebouwd, hoe het lokaal kan worden gedraaid en welke aandachtspunten of openstaande zaken er zijn. Dit document zorgt voor een soepele overdracht en continuïteit.
 
 ###### Contributing.md
 
-De `Contributing.md` beschrijft de richtlijnen voor het bijdragen aan een project. Denk aan afspraken over branches, commit messages, code style en pull-requests. Door deze regels vast te leggen, wordt samenwerking duidelijker en blijft de kwaliteit van het project consistent.
+De `Contributing.md` beschrijft de richtlijnen voor het bijdragen aan een project. Denk aan afspraken over branches, commit messages, code‑style en pull requests. Door deze regels vast te leggen, wordt samenwerking duidelijker en blijft de kwaliteit van het project consistent.
+
 
 ### Testen
 
