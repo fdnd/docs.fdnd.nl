@@ -10,13 +10,13 @@ Het is lastig om te beschrijven wat een frontender precies doet. Er is geen alge
 
 Zoals overal binnen de ICT vind ook binnen het frontend vakgebied *arbeidsdeling* plaats. Enerzijds zijn er frontenders die zich meer richten op HTML, CSS en gebruikerservaring. Deze *front-of-the-front-end* ontwikkelaars zijn verantwoordelijk voor de vormgeving en het uiterlijk van een website door middel van HTML, CSS en presentatie JavaScript. Anderzijds zijn er frontenders die zich focussen op JavaScript, frameworks en tools. Deze *back-of-the-front-end* ontwikkelaars schrijven de bedrijfslogica en functionaliteit van een website met JavaScript door bijvoorbeeld gegevens van API's op te halen en weer te geven. ([Frost, 2021](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)) Deze twee groepen lopen steeds meer uit elkaar door de groeiende complexiteit van JavaScript. Dit ligt ten grondslag aan eerder beschreven onduidelijkheid over functiebeschrijvingen en waardering van vaardigheden. ([Cohier, 2019](https://css-tricks.com/the-great-divide/)) FDND omarmt en bedient beide specialisaties omdat ze elkaar aanvullen en blijft daarmee gericht op het geheel.
 
-Een goede frontender wordt gekenmerkt door een aantal belangrijke eigenschappen. Vooraleerst beschikt deze over sterke technische vaardigheden op het gebied van HTML, CSS en JavaScript en ontwerpen voor het web. Heel belangrijk is gedegen kennis op het gebied van gebruiksvriendelijkheid en toegankelijkheid. Een frontender kan zich inleven in de gebruiker en stelt deze centraal in het ontwerp- en ontwikkelproces. Daarbovenop heeft een frontender uitstekende communicatieve vaardigheden en lost met een team op een constructieve manier problemen op. Tenslote blijven frontenders voortdurend bijleren gezien de snelle ontwikkelingen in het vak. ([Cohier, 2018](https://css-tricks.com/what-makes-a-good-front-end-developer/))
+Een goede frontender wordt gekenmerkt door een aantal belangrijke eigenschappen. Vooraleerst beschikt deze over sterke technische vaardigheden op het gebied van HTML, CSS en JavaScript en ontwerpen voor het web. Heel belangrijk is gedegen kennis op het gebied van gebruiksvriendelijkheid en toegankelijkheid. Een frontender kan zich inleven in de gebruiker en stelt deze centraal in het ontwerp- en ontwikkelproces. Daarbovenop heeft een frontender uitstekende communicatieve vaardigheden en lost met een team op een constructieve manier problemen op. Tenslotte blijven frontenders voortdurend bijleren gezien de snelle ontwikkelingen in het vak. ([Cohier, 2018](https://css-tricks.com/what-makes-a-good-front-end-developer/))
 
 ### Bronnen en voorbeelden 
 
-- [The spectrum of design roles in 2018](https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966) Op UX-collective worden verschillende Designer rollen neest elkaar gezet. 
+- [The spectrum of design roles in 2018](https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966) Op UX-collective worden verschillende Designer rollen naast elkaar gezet. 
 
-- [Concept to Code, code literay](https://uxmag.com/articles/concept-to-code) Code is the material that breathes life into a user experience, so we ought to get familiar with it. The enthusiast. The mash-up artist. The inventor. The wizard.
+- [Concept to Code, code literacy](https://uxmag.com/articles/concept-to-code) Code is the material that breathes life into a user experience, so we ought to get familiar with it. The enthusiast. The mash-up artist. The inventor. The wizard.
 
 Fenna vertelt in 7 minuten waar ze nu werkt en wat ze zoal doet als frontend developer bij Build - https://vimeo.com/456884089
 
@@ -698,7 +698,7 @@ De student:
 
 #### 1. Web fundamentals 
 
-In dit deel staat de basis van webontwikkeling centraal: HTML voor structuur, CSS voor vormgeving en JavaScript voor interactie, aangevuld met kernprincipes als semantiek, responsive design, progressive enhancement en DRY. 
+In dit deel staat de basis van webontwikkeling centraal: HTML voor structuur, CSS voor vormgeving en JavaScript voor interactie, aangevuld met principes als toegankelijkheid, responsive design, progressive enhancement en performance. 
 
 ##### Hypertext Markup Language
 
@@ -753,6 +753,10 @@ Semantiek betekent dat HTML-elementen worden gebruikt volgens hun betekenis, nie
 ##### DRY
 
 Het DRY-principe staat voor “Don’t Repeat Yourself”. Het betekent dat je herhaling in code zoveel mogelijk moet vermijden. In plaats van dezelfde logica, waarden of structuren meerdere keren te kopiëren, leg je deze vast op één centrale plek. Zo voorkom je inconsistenties en maak je je code: beter onderhoudbaar, overzichtelijker en minder foutgevoelig.
+
+##### Keep it simple
+
+Bij het kiezen van technieken, patronen en libraries geldt: zo simpel als kan, zo complex als nodig. Voorkom onnodige afhankelijkheden en over‑engineerde oplossingen. Begin met een eenvoudige, goed te testen basis en voeg alleen complexiteit toe als daar een duidelijke reden voor is (bijvoorbeeld performance, schaalbaarheid of hergebruik).
 
 #### 2. Architectuur & data 
 
@@ -1065,7 +1069,7 @@ De `Contributing.md` beschrijft de richtlijnen voor het bijdragen aan een projec
 In de testfase controleer je of jouw oplossing werkt zoals bedoeld. Dat kan gaan om technische checks, tests met echte gebruikers of een review/presentatie bij de opdrachtgever.
 
 Voor een frontender betekent dit onder andere:
-gebruikerstesten, toegankelijkheidstesten, prototypetesten en browsertesten. Ook de Sprint Review met de opdrachtgever hoort erbij: je demonstreert wat je hebt gebouwd, verzamelt feedback en neemt die mee naar de volgende sprin
+gebruikerstesten, toegankelijkheidstesten, prototypetesten en browsertesten. Ook de Sprint Review met de opdrachtgever hoort erbij: je demonstreert wat je hebt gebouwd, verzamelt feedback en neemt die mee naar de volgende sprint.
 
 #### Leeruitkomst Testen (Kennis / Skills / Attitude)
 
