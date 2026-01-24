@@ -589,11 +589,111 @@ Contrast in kleur, licht‑donker en grootte stuurt aandacht en leesbaarheid en 
 
 ### Bouwen
 
-In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in Github en kopieert de repository naar jouw computer. Je begint met de structuur in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
+In de bouwfase vertaal je de keuzes uit de ontwerpfase naar werkende code in HTML, CSS en JavaScript. Op basis van je ontwerpschets bepaal je hoe je de interface opbouwt: je richt een project in (bijvoorbeeld met GitHub), haalt de repository naar je eigen machine en bouwt stap voor stap aan de frontend. Je start met een semantische HTML‑structuur, voegt CSS toe voor layout en vormgeving en gebruikt JavaScript om interactie en gedrag te realiseren.
 
-Toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgens conventies en wetgeving, documenteren en bijhouden van een changelog.
+In deze fase staat het toepassen van webtechnologie centraal: werken met HTML, CSS en JS, inzetten van tooling, volgen van conventies en best-practices, en het documenteren van je werk (bijvoorbeeld in een changelog). Je ontwikkelt je vaardigheid om deze technologieën te beheersen, past passende ontwikkelmethodes toe en denkt in herbruikbare componenten, bijvoorbeeld met atomic design.
 
-HTML, CSS, JS beheersen. Ontwikkelmethodes inzetten. Atomic design. 
+#### Leeruitkomst Bouwen (Kennis / Skills / Attitude)
+
+**Kennis**
+
+De student kent:
+
+- De basis van **web fundamentals**:
+  - rol en structuur van **HTML** (semantische elementen, documentstructuur),
+  - rol van **CSS** (layout, typografie, spacing, theming),
+  - rol van **JavaScript** (interactie, gedrag, data‑koppeling).
+- De principes van **progressive enhancement**:
+  - eerst solide HTML, daarna CSS, vervolgens JS,
+  - het belang van **feature detection** en graceful degradation.
+- De kernprincipes van **responsive design**:
+  - **mobile first** en content first,
+  - **media queries**, **container queries**, viewport‑meta‑tag,
+  - basis van responsive typografie en layouts.
+- Het belang van **semantiek**, **toegankelijkheid** en **DRY** in HTML, CSS en JS.
+- De basisconcepten van **architectuur & data** aan de frontend:
+  - wat een **API** is en hoe deze wordt aangesproken,
+  - verschillen tussen **REST API** en **GraphQL**,
+  - het **CRUD**‑principe (Create, Read, Update, Delete),
+  - **URL‑driven development** en het belang van betekenisvolle URL’s.
+- De verschillende **render strategies**:
+  - **Client‑side Rendering (CSR)**,
+  - **Server‑side Rendering (SSR)**,
+  - **Static Site Generation (SSG/static rendering)**,
+  - **Universal / Isomorphic Rendering**,
+  - **hydration** en het effect op performance, SEO en UX.
+- Het doel van een **template engine** binnen server‑side rendering.
+- De rol van **frontend frameworks** en **meta frameworks**:
+  - frameworks als Svelte, React, Vue, Angular, 11ty, etc.,
+  - meta frameworks als SvelteKit, Next, Nuxt, Astro.
+- Het onderscheid tussen **frameworks** en **libraries** (bijv. GSAP, Three.js, Storybook, Tailwind).
+- De basis van **tooling & workflow**:
+  - **code editors** (VS Code), relevante plugins (ESLint, Prettier, Live Server/Live Preview),
+  - **browsers** en **devtools** (Elements, Network, Performance, Console),
+  - **npm** als package manager (dependencies, scripts),
+  - **issues** als manier om werk, bugs en verbeteringen te organiseren.
+
+---
+
+**Skills**
+
+De student kan:
+
+- Een ontwerp vertalen naar een werkende **webpagina** met:
+  - semantische **HTML**,
+  - gestructureerde **CSS** (bijv. mobile‑first, modulair, DRY),
+  - doelgerichte **JavaScript** voor interactiviteit.
+- **Progressive enhancement** toepassen:
+  - eerst een bruikbare, toegankelijke basis zonder JS,
+  - daarna styling en enhanced behavior toevoegen.
+- Een **responsive layout** opzetten:
+  - werken met mobile‑first media queries,
+  - content en typografie laten meeschalen,
+  - eenvoudige componenten (nav, cards, grids) responsive maken.
+- **Semantische HTML** kiezen en inzetten (headings, landmarks, lists, forms).
+- Herhaling verminderen volgens **DRY**:
+  - herbruikbare CSS‑classes en componenten maken,
+  - gedrag in JS structureren (functions, modules) in plaats van copy‑paste.
+- Data **ophalen en gebruiken** in de frontend:
+  - eenvoudige requests doen naar een **REST API** of **GraphQL endpoint**,
+  - responses verwerken (JSON) en data renderen in de UI.
+- Een eenvoudige **render strategy** kiezen en implementeren die past bij de opdracht
+  (bijv. statische site vs. client‑rendered app) en deze keuze beargumenteren.
+- Werken met een **frontend framework of meta framework** op instapniveau:
+  - een project opzetten met tooling (bijv. via create‑app / CLI / template),
+  - componenten aanmaken, props/state gebruiken,
+  - basisrouting begrijpen (pages/views).
+- Gericht **libraries** inzetten:
+  - een library installeren en importeren via **npm**,
+  - de documentatie volgen om een concrete use‑case te bouwen
+    (bijv. animatie met GSAP, 3D‑scene met Three.js, componenten met Chakra).
+- Effectief werken met **code editors** en **browser devtools**:
+  - syntax highlighting, formatters, linters gebruiken,
+  - DOM inspecteren, styles debuggen, network requests en performance analyseren.
+- **Issues** gebruiken om werk te structureren:
+  - taken en bugs als issues vastleggen,
+  - issues koppelen aan commits/PR’s,
+  - issues sluiten na implementatie.
+
+---
+
+**Attitude**
+
+De student:
+
+- Neemt verantwoordelijkheid voor de **kwaliteit** van code:
+  - streeft naar leesbare, consistente en onderhoudbare HTML, CSS en JS,
+  - is bereid code te **refactoren** als het schoner of duidelijker kan.
+- Denkt tijdens het bouwen na over **toegankelijkheid**, **performance** en **responsiveness**
+  in plaats van dit achteraf te “fixen”.
+- Toont **nieuwsgierigheid** naar frameworks, libraries en tooling, maar:
+  - kiest niet blind voor “de nieuwste tool”,
+  - kan keuzes onderbouwen vanuit de opdracht en context.
+- Gebruikt **documentatie** (MDN, framework‑docs, library‑docs) actief als bron en verwijst ernaar.
+- Is bereid eigen aannames over implementatie te herzien wanneer tests, feedback of metingen dat vragen.
+- Werkt **gestructureerd**:
+  - bouwt stap voor stap (van werkende basis naar complexer),
+  - houdt overzicht over bestanden, componenten en dependencies.
 
 
 #### 1. Web fundamentals 
