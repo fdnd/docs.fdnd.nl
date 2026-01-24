@@ -12,6 +12,8 @@ Zoals overal binnen de ICT vind ook binnen het frontend vakgebied *arbeidsdeling
 
 Een goede frontender wordt gekenmerkt door een aantal belangrijke eigenschappen. Vooraleerst beschikt deze over sterke technische vaardigheden op het gebied van HTML, CSS en JavaScript en ontwerpen voor het web. Heel belangrijk is gedegen kennis op het gebied van gebruiksvriendelijkheid en toegankelijkheid. Een frontender kan zich inleven in de gebruiker en stelt deze centraal in het ontwerp- en ontwikkelproces. Daarbovenop heeft een frontender uitstekende communicatieve vaardigheden en lost met een team op een constructieve manier problemen op. Tenslote blijven frontenders voortdurend bijleren gezien de snelle ontwikkelingen in het vak. ([Cohier, 2018](https://css-tricks.com/what-makes-a-good-front-end-developer/))
 
+### Bronnen en voorbeelden 
+
 - [The spectrum of design roles in 2018](https://uxdesign.cc/the-spectrum-of-digital-design-roles-in-2018-3286390a9966) Op UX-collective worden verschillende Designer rollen neest elkaar gezet. 
 
 - [Concept to Code, code literay](https://uxmag.com/articles/concept-to-code) Code is the material that breathes life into a user experience, so we ought to get familiar with it. The enthusiast. The mash-up artist. The inventor. The wizard.
@@ -39,13 +41,16 @@ De development lifecycle hanteert de volgende fasering:
 4. [Integreren](#integreren) - bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
 5. [Testen](#testen) - bijvoorbeeld: Unit testing (TDD), System test, User test, device lab test, A\B testing.
 
+
 ### Analyseren
 
 In de analyse fase onderzoek en inventariseer je wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die je hierbij kunt gebruiken. De aanpak verschilt per sprint afhankelijk van de fase in je project.
 
 Als je voor de eerste keer met een team samenwerkt is het handig om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreek je de opdrachtgever in een [briefing en debriefing](#briefing-en-debriefing) sessie.
 
-#### Teamcanvas
+#### 1. Samenwerking en teamafspraken 
+
+##### Teamcanvas
 
 Een raamwerk dat helpt bij het ontwikkelen en uitlijnen van hun teamdynamiek. Met aandacht invullen helpt teams bij:
 - Definiëren van doelen voor het team en voor individuele teamleden;
@@ -55,7 +60,7 @@ Een raamwerk dat helpt bij het ontwikkelen en uitlijnen van hun teamdynamiek. Me
 
 Lees meer op: [https://www.theteamcanvas.com/](https://www.theteamcanvas.com/)
 
-#### (Code) Conventies
+##### (Code) Conventies
 
 *(Code) Conventies* zijn richtlijnen voor programmeurs om de leesbaarheid en onderhoud van broncode te verbeteren. Ze omvatten zaken als bestandsorganisatie, inspringen, commentaar, naamgeving en programmeerpraktijken. Het volgen van deze richtlijnen kan de onderhoudskosten van software verlagen en de kwaliteit verbeteren.
 
@@ -70,8 +75,9 @@ In Semester 1 beginnen we met de 3 basisregels voor *code conventies*:
 - Schrijf je CSS selectors in dezelfde volgorde als de HTML
 - Nest je media queries
 
+#### 2. Opdracht en inhoud begrijpen 
 
-#### Briefing en debriefing
+##### Briefing en debriefing
 
 Een briefing is de initiële instructie waarin de opdrachtgever duidelijk maakt wat er onderzocht moet worden. Dit omvat de hoofdvraag, doelen, de afbakening van het onderzoek en de verwachtingen van de opdrachtgever. Het helpt om het onderzoeksproces in goede banen te leiden en zorgt ervoor dat de onderzoeker weet wat er verwacht wordt.
 
@@ -82,7 +88,7 @@ Bronnen:
  - [Hoe stel je een goede briefing en debriefing (onderzoeksomschrijving en terugkoppeling daarop) op?](https://www.joho.org/en/hoe-stel-je-een-goede-briefing-en-debriefing-onderzoeksomschrijving-en-terugkoppeling-daarop-op)
 - [Preparing an Effective Briefing @ Imperial College London](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/staff-development/public/ipd/Preparing-an-effective-briefing.pdf)
 
-#### Contentanalyse
+##### Contentanalyse
 
 Een contentanalyse voor een website is een gestructureerde methode om de inhoud van een website te evalueren en te beoordelen. Het doel is om te begrijpen hoe effectief de content is in het bereiken van de doelgroep en het behalen van bedrijfsdoelen. Dit proces omvat vaak de volgende stappen:
 
@@ -99,7 +105,9 @@ Een goede contentanalyse helpt bij het identificeren van zwakke plekken in de in
 Bronnen:
 - [How (and Why) to Perform a Content Analysis](https://fivechannels.com/how-to-perform-a-content-analysis/)
 
-#### Projectbord inrichten
+#### 3. Projectorganisatie en tooling 
+
+##### Projectbord inrichten
 
 Een projectbord is een visueel hulpmiddel om de voortgang van een project te organiseren en te beheren. Het helpt teams om hun taken, deadlines, en verantwoordelijkheden duidelijk te visualiseren. Een goed ingericht projectboard bestaat vaak uit een aantal standaard componenten die bijdragen aan overzicht en efficiëntie.
 
@@ -125,7 +133,7 @@ Belangrijke tips:
 - **Communicatie**: Sommige tools bieden communicatie- of commentaarsecties binnen taken, wat handig is voor snelle updates of vragen.
 - **Rapportages**: Zorg dat je een overzicht hebt van voltooid werk, werk in uitvoering, en wat nog gepland is. Dit kan helpen bij rapportages of evaluaties van projectvoortgang.
 
-#### Projectinrichting
+##### Projectinrichting
 
 GitHub is in het vakgebied een van de meest gebruikte platformen om samen te werken aan webprojecten. heeft verschillende tools om een project in te richten. Hieronder een samenvatting van de meest gebruikte tools:
 
@@ -155,7 +163,10 @@ Bronnen:
 - [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
 - [Branches](https://docs.github.com/en/get-started/quickstart/github-flow)
 
-#### Taken vaststellen
+#### 4. Scope, planning en prioritering 
+
+##### Taken vaststellen
+
 In een webproject worden epics, user stories en job stories gebruikt om het werk te structureren en overzichtelijk te maken. Hier is een uitleg over hoe je deze elementen kunt afleiden en hoe je ze uiteindelijk vertaalt naar concrete taken binnen het project.
 
 1. **Epics:** Een epic is een grote, overkoepelende functie of onderdeel van een project dat vaak te complex is om in één keer af te ronden. Het beschrijft een kernfunctionaliteit van de webapplicatie op hoog niveau.
@@ -193,7 +204,7 @@ Bronnen:
 - [5 Tips For Writing A Job Story](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9)
 - [User Stories and Epics for Your Product Backlog](https://www.christianstrunk.com/blog/user-stories-and-epics-for-the-win)
 
-#### Planning poker
+##### Planning poker
 
 Planning Poker is een Agile-methode die teams helpt om de tijd en moeite voor taken of user stories in te schatten.
 
@@ -205,7 +216,8 @@ Hoe het werkt:
 
 - [Scrum Planning Poker: Best Estimation Method for Agile Teams](https://www.scrum-institute.org/Effort_Estimations_Planning_Poker.php)
 
-#### MoSCoW Prioritering
+##### MoSCoW Prioritering
+
 MoSCoW-prioritering is een techniek die wordt gebruikt om de prioriteit van de vastgestelde taken in een project te bepalen. Het helpt teams bij het focussen op wat essentieel is voor de succesvolle oplevering van een project. De term "MoSCoW" staat voor vier categorieën van prioriteiten:
 
 Must have: Essentiële taken die absoluut moeten worden gerealiseerd om het project te laten slagen.
@@ -215,7 +227,7 @@ Won't have this time: Vereisten die voor nu worden uitgesloten, maar mogelijk in
 
 - [Moscow method](https://en.wikipedia.org/wiki/MoSCoW_method)
 
-#### Budgetten
+##### Budgetten
 
 Als frontender maak je gebruik van verschillende budgetten die de mogelijke reikwijdte van een project begrenzen:
 
@@ -225,7 +237,7 @@ Een *performance budget* is een set van richtlijnen om de minimale prestaties va
 
 Een *accessibility budget* is een set van richtlijnen om ervoor te zorgen dat een website toegankelijk is. Een accessibility budget helpt bij het waarborgen van een inclusieve en gebruiksvriendelijke ervaring. Opgenomen worden afspraken over: WCAG Compliance (bijv. A+, A++ of A+++), contrast ratio, grootte van het lettertype, keyboard navigatie, audio beschrijving, formulieren, foutmeldingen, focus states, testen en validatie.
 
-#### Tech-stack bepalen
+##### Tech-stack bepalen
 
 Het bepalen van de tech-stack heeft invloed op de ontwikkeling, prestaties, schaalbaarheid en het onderhoud van een applicatie. Bij de bepaling weeg je mee: projectvereisten en doelen, teamexpertise, compatibiliteit met bestaande it-infrastructuur, community en ondersteuning, beveiliging, wetgeving en trends.
 
@@ -233,6 +245,7 @@ Het bepalen van de tech-stack heeft invloed op de ontwikkeling, prestaties, scha
 - [Ten criteria for choosing the correct framework](https://symfony.com/ten-criteria)
 - [Choosing the Right Tech Stack for Your Project: Basic Principles](https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/)
 - [How to align your tech stack with your organization](https://tray.ai/resources/blog/align-revenue-ops-tech-stack)
+
 
 ### Ontwerpen
 
@@ -416,8 +429,6 @@ HTML (HyperText Markup Language) is de standaardtaal die wordt gebruikt om webpa
 
 Webbrowsers lezen HTML-bestanden en zetten de code om in de zichtbare webpagina die gebruikers zien. HTML werkt vaak samen met CSS voor opmaak en JavaScript voor interactieve functies.
 
-
-
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
 Link naar web.dev
@@ -507,8 +518,8 @@ npm staat voor Node Package Manager en is de standaard package manager voor Node
 #### DRY
 Het DRY-principe staat voor “Don’t Repeat Yourself”. Het betekent dat je herhaling in code zoveel mogelijk moet vermijden. In plaats van dezelfde logica, waarden of structuren meerdere keren te kopiëren, leg je deze vast op één centrale plek. Zo voorkom je inconsistenties en maak je je code: beter onderhoudbaar, overzichtelijker en minder foutgevoelig.
 
-
 #### Mobile first
+Mobile first is een ontwerpprincipe waarbij een website of applicatie eerst wordt ontwikkeld voor mobiele schermen. Vanuit deze basis wordt het ontwerp vervolgens uitgebreid naar grotere schermformaten. Door te starten met mobile first ligt de focus op essentiële content en functionaliteit, wat leidt tot betere performance, gebruiksvriendelijkheid en een duidelijkere structuur.
 
 - [Mobile first](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First)
 
@@ -516,6 +527,7 @@ Het DRY-principe staat voor “Don’t Repeat Yourself”. Het betekent dat je h
 Semantiek betekent dat HTML-elementen worden gebruikt volgens hun betekenis, niet alleen voor opmaak. Zo gebruik je <header> voor een kop, <article> voor een zelfstandig stukje inhoud en <footer> voor de voettekst. Door semantische HTML te gebruiken, wordt de structuur van een website duidelijker voor browsers, zoekmachines en hulpmiddelen voor toegankelijkheid, wat de gebruikerservaring en het onderhoud van de site verbetert.
 
 #### Afhandelen van issues
+Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een project worden geregistreerd, systematisch worden opgepakt en opgelost. Dit omvat het beoordelen, prioriteren, toewijzen en uiteindelijk sluiten van een issue wanneer het is opgelost. Een gestructureerde aanpak zorgt voor overzicht, betere samenwerking en een hogere kwaliteit van het eindproduct.
 
 #### CRUD
 CRUD staat voor Create, Read, Update en Delete en beschrijft de vier basisbewerkingen die mogelijk zijn op data binnen een applicatie. Dit principe sluit aan op de fundamentele werking van het web, waarin bronnen via URL’s toegankelijk zijn en bewerkt kunnen worden. Door CRUD als uitgangspunt te gebruiken, blijft het beheer van data overzichtelijk, voorspelbaar en consistent, zowel voor de gebruiker als voor de ontwikkelaar.
@@ -525,56 +537,81 @@ CRUD staat voor Create, Read, Update en Delete en beschrijft de vier basisbewerk
 Publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
 
 #### Git workflow
+Een Git workflow beschrijft de afspraken en stappen die een team volgt bij het werken met Git. Denk aan hoe branches worden aangemaakt, hoe wijzigingen worden samengevoegd en wanneer code wordt gereviewd. Een duidelijke workflow zorgt voor overzicht, voorkomt conflicten en maakt samenwerking voorspelbaar en efficiënt.
 
 #### Git CLI
+De Git CLI (Command Line Interface) is een tekstgebaseerde manier om Git te gebruiken via de terminal. Hiermee kunnen developers repositories beheren, commits maken en branches aansturen. Werken met de Git CLI geeft meer controle en inzicht in versiebeheer dan grafische tools.
 
 #### Branches
+Branches maken het mogelijk om los van de hoofdcode aan nieuwe features, bugfixes of experimenten te werken. Elke branch vormt een aparte ontwikkellijn die later kan worden samengevoegd. Dit voorkomt dat onvoltooide of foutieve code direct invloed heeft op de hoofdversie.
 
 #### Commit messages
+Commit messages beschrijven welke wijzigingen in een commit zijn gedaan en waarom. Duidelijke en consistente commit messages maken de projectgeschiedenis beter leesbaar en helpen bij debugging, samenwerking en code reviews.
 
 #### Gitmoji
+Gitmoji is een conventie waarbij emoji’s worden gebruikt in commit messages om het type wijziging aan te geven, zoals ✨ voor nieuwe features of 🐛 voor bugfixes. Dit maakt commits visueel herkenbaar en verbetert de leesbaarheid van de commitgeschiedenis.
 
 #### Pull-request
+Een pull-request is een verzoek om wijzigingen uit een branch samen te voegen met een andere branch, meestal de hoofdbranch. Het biedt ruimte voor code review, discussie en automatische checks, en speelt een belangrijke rol in samenwerking en kwaliteitsbewaking.
 
 #### Hosting
+Hosting is het beschikbaar maken van een website of applicatie op het internet via een server. Front-end developers gebruiken hostingdiensten om projecten te publiceren, te testen en te delen. Goede hosting zorgt voor bereikbaarheid, performance en betrouwbaarheid.
 
 #### (S)FTP
+(S)FTP staat voor (Secure) File Transfer Protocol en wordt gebruikt om bestanden van en naar een server te versturen. Het wordt vaak ingezet bij traditionele hosting om websites handmatig te uploaden en te beheren. SFTP voegt encryptie toe voor extra beveiliging.
 
 #### Render
+Render is een cloudplatform waarmee webapplicaties automatisch kunnen worden gedeployed. Het ondersteunt onder andere statische sites, servers en databases. Door integratie met Git kunnen wijzigingen direct live worden gezet na een commit of merge.
 
 #### Continuous Integration
+Continuous Integration (CI) is een ontwikkelpraktijk waarbij codewijzigingen automatisch worden getest en gecontroleerd zodra ze worden toegevoegd aan een repository. Dit helpt fouten vroeg te signaleren en zorgt voor stabielere en betrouwbaardere software.
 
-#### Github Pages
+#### GitHub Pages
+GitHub Pages is een hostingdienst van GitHub waarmee statische websites direct vanuit een repository gepubliceerd kunnen worden. Het wordt vaak gebruikt voor portfolio’s, documentatie en demo’s en sluit goed aan bij Git-gebaseerde workflows.
 
-#### Github Actions
+#### GitHub Actions
+GitHub Actions is een tool voor het automatiseren van workflows binnen GitHub, zoals testen, builden en deployen. Het wordt veel gebruikt voor Continuous Integration en Continuous Deployment en werkt op basis van configuratiebestanden in de repository.
 
 #### Vercel
+Vercel is een platform gericht op het hosten en deployen van moderne front-end applicaties. Het biedt automatische builds, previews per branch en optimale performance voor frameworks zoals Next.js. Deployments worden direct gekoppeld aan Git-repositories.
 
 #### Netlify
+Netlify is een hostingplatform voor statische websites en front-end applicaties. Het ondersteunt automatische deploys, form handling en serverless functies. Door de Git-integratie kunnen projecten eenvoudig en snel worden gepubliceerd.
 
 #### .env
+Een `.env`-bestand wordt gebruikt om omgevingsvariabelen op te slaan, zoals API-sleutels en configuratie-instellingen. Deze gegevens worden gescheiden van de code om veiligheid en flexibiliteit te verbeteren en worden niet meegenomen in versiebeheer.
 
 #### Documentatie
+Documentatie beschrijft hoe een project werkt, hoe het gebruikt kan worden en hoe het onderhouden wordt. Goede documentatie helpt bij samenwerking, onboarding van nieuwe developers en het langdurig beheer van een project.
 
-##### Readme.md
+##### README.md
+De `README.md` is het centrale document van een repository en geeft een overzicht van het project. Het bevat vaak informatie over installatie, gebruik, structuur en gebruikte technologieën. Een duidelijke README maakt een project toegankelijk en begrijpelijk voor anderen.
 
 De Readme is het eerste wat iemand ziet op GitHub. In de Readme kan je uitleggen wat jullie hebben gemaakt, je kan screenshots laten toevoegen en vertellen wie de website hebben gemaakt. De Readme is het uithangbord van jullie project.
 
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
 ##### Handover.md
+De `Handover.md` bevat informatie die nodig is om een project over te dragen aan andere developers of beheerders. Hierin staat onder andere hoe het project is opgebouwd, hoe het lokaal gedraaid kan worden en welke aandachtspunten of openstaande zaken er zijn. Dit document zorgt voor een soepele overdracht en continuïteit.
 
 ##### Contributing.md
+De `Contributing.md` beschrijft de richtlijnen voor het bijdragen aan een project. Denk aan afspraken over branches, commit messages, code style en pull-requests. Door deze regels vast te leggen, wordt samenwerking duidelijker en blijft de kwaliteit van het project consistent.
 
 #### Clientside Rendering
+Bij clientside rendering wordt de webpagina opgebouwd in de browser van de gebruiker met behulp van JavaScript. De server levert meestal een minimale HTML-basis, waarna de inhoud dynamisch wordt gerenderd. Dit maakt interactieve applicaties mogelijk, maar kan invloed hebben op performance en SEO.
 
 #### Serverside Rendering
+Serverside rendering houdt in dat de HTML van een pagina op de server wordt gegenereerd en volledig naar de browser wordt gestuurd. Hierdoor is de pagina direct zichtbaar voor de gebruiker en beter toegankelijk voor zoekmachines. JavaScript kan daarna worden gebruikt om extra interactiviteit toe te voegen.
 
 #### Static Rendering
+Bij static rendering worden pagina’s vooraf gegenereerd tijdens een build-proces en als statische bestanden geserveerd. Dit resulteert in snelle laadtijden en hoge betrouwbaarheid. Static rendering wordt vaak gebruikt voor websites met grotendeels vaste content, zoals documentatie of marketingpagina’s.
 
 #### Universal Rendering
+Universal rendering, ook wel isomorphic rendering genoemd, combineert server- en clientside rendering. De pagina wordt eerst op de server gerenderd voor snelle weergave en SEO, waarna dezelfde code in de browser wordt gebruikt voor verdere interactiviteit. Dit sluit aan bij de fundamentele werking van moderne webapplicaties.
 
 #### Hydration
+Hydration is het proces waarbij een server-gerenderde pagina in de browser interactief wordt gemaakt. JavaScript neemt de bestaande HTML over en koppelt hier gedrag aan, zoals event handlers en state. Zonder hydration blijft een pagina statisch en niet interactief.
+
 
 ### Testen
 
@@ -595,8 +632,11 @@ Na de test verwerk je de resultaten in issues, pas je je code aan en ga je metee
 
 
 #### Geautomatiseerd testen
+Geautomatiseerd testen houdt in dat tests automatisch worden uitgevoerd met behulp van testtools en scripts. Deze tests controleren bijvoorbeeld of functionaliteit correct werkt na codewijzigingen. Geautomatiseerd testen wordt vaak ingezet binnen Continuous Integration en helpt om fouten vroegtijdig te signaleren en regressies te voorkomen.
 
 #### Handmatig testen
+Handmatig testen is het testen van een applicatie door deze zelf te gebruiken, zonder geautomatiseerde scripts. Hierbij wordt gekeken naar functionaliteit, gebruiksvriendelijkheid en randgevallen. Handmatig testen is vooral waardevol voor het beoordelen van de gebruikerservaring en het opsporen van fouten die lastig te automatiseren zijn.
+
 
 #### Gebruikerstesten/ Usability testen
 
@@ -608,6 +648,8 @@ Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets b
 - [Topic User testing op Normal & Neilsen](https://www.nngroup.com/topic/user-testing/)
 
 ##### Testen in Usability Lab
+Testen in een usability lab richt zich op het observeren van gebruikers tijdens het uitvoeren van taken binnen een applicatie of website. Door gebruikersgedrag te analyseren, zoals navigatie, interactie en feedback, worden knelpunten in gebruiksvriendelijkheid en toegankelijkheid zichtbaar. Deze vorm van testen helpt bij het verbeteren van de ge
+
 
 
 ##### Real User Monitoring
@@ -615,42 +657,60 @@ Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets b
 - [Usabilitytesting: doe het zelf!](https://blog.q42.nl/usabilitytesting-5c223bc7e8b5/)
 - [Real World Wednesdays Dropbox](https://medium.com/dropbox-design/how-to-run-a-research-session-if-youre-not-a-design-researcher-2d6c1c769557)
 
-##### Roast/ Design Critique
+##### Roast / Design Critique
+Een roast of design critique is een sessie waarin een ontwerp kritisch wordt besproken door anderen. Hierbij wordt feedback gegeven op onder andere gebruiksvriendelijkheid, visuele hiërarchie en consistentie. Het doel is niet om het ontwerp af te kraken, maar om verbeterpunten te ontdekken en de kwaliteit van het ontwerp te verhogen.
 
-##### Tab/Keyboard test
+##### Tab / Keyboard test
+De tab- of keyboardtest controleert of een website volledig te bedienen is met alleen het toetsenbord. Hierbij wordt gekeken naar de tabvolgorde, focus-states en bereikbaarheid van interactieve elementen. Deze test is belangrijk voor toegankelijkheid en ondersteunt gebruikers die geen muis kunnen gebruiken.
 
 ##### Kleuren en contrast test
+Een kleuren- en contrasttest controleert of tekst en interactieve elementen voldoende contrast hebben ten opzichte van de achtergrond. Dit is essentieel voor leesbaarheid en toegankelijkheid, vooral voor gebruikers met visuele beperkingen. Deze test helpt te voldoen aan toegankelijkheidsrichtlijnen zoals WCAG.
+
 
 
 [Colour Contrast Analyser (CCA) - TPGi](https://www.tpgi.com/color-contrast-checker/)
 
 
 ##### Kleurenblindheid test
+Een kleurenblindheidstest controleert of informatie niet uitsluitend door kleur wordt overgebracht. Hierbij wordt gekeken of contrast, patronen of tekstlabels voldoende ondersteuning bieden. Deze test is belangrijk om de website bruikbaar te houden voor gebruikers met kleurenblindheid.
 
 ##### Brillentest
+De brillentest simuleert verminderd zicht door bijvoorbeeld een wazig filter of een bril met beperkte scherpte. Hiermee wordt getest of teksten, knoppen en interacties nog steeds goed leesbaar en bruikbaar zijn. Dit helpt bij het verbeteren van toegankelijkheid en leesbaarheid.
 
 ##### Acceptatietest
-(review/oplevering opdrachtgever)
+(review / oplevering opdrachtgever)
+De acceptatietest wordt uitgevoerd om te controleren of de applicatie voldoet aan de eisen en verwachtingen van de opdrachtgever. Tijdens deze fase wordt beoordeeld of de functionaliteit compleet is en gereed voor oplevering. Goedkeuring tijdens de acceptatietest betekent dat het product als afgerond wordt beschouwd.
 
 ##### Colorcontrast
+Een colorcontrasttest controleert of het contrast tussen tekst en achtergrond voldoende is. Dit is essentieel voor leesbaarheid en toegankelijkheid, met name voor gebruikers met visuele beperkingen. Deze test draagt bij aan het voldoen aan WCAG-richtlijnen.
 
 ##### Browsertest
+Bij een browsertest wordt gecontroleerd of een website correct werkt en wordt weergegeven in verschillende browsers. Omdat browsers verschillen in rendering en ondersteuning van features, helpt deze test compatibiliteitsproblemen te voorkomen.
 
 ##### Elderly test
+De elderly test richt zich op het testen van een website met oudere gebruikers. Hierbij wordt gekeken naar leesbaarheid, navigatie en begrijpelijkheid. Deze test helpt om interfaces eenvoudiger en gebruiksvriendelijker te maken voor een brede doelgroep.
 
 ##### Performance test
+Een performance test meet hoe snel en efficiënt een website of applicatie werkt. Hierbij wordt gekeken naar laadtijden, responsiviteit en resourcegebruik. Goede performance draagt bij aan een betere gebruikerservaring en hogere betrouwbaarheid.
 
 ##### Waterval performance
+Waterval performance beschrijft het analyseren van de laadtijd per onderdeel van een pagina, zoals HTML, CSS, JavaScript en afbeeldingen. Door deze volgorde inzichtelijk te maken, kunnen knelpunten in performance worden opgespoord en geoptimaliseerd.
 
 ##### Expert review
+Een expert review is een evaluatie van een website of applicatie door een specialist, bijvoorbeeld op het gebied van UX, toegankelijkheid of performance. De expert identificeert verbeterpunten op basis van kennis en best practices.
 
 ##### Client review
+Bij een client review wordt het product besproken met de opdrachtgever of klant. Hierbij wordt gekeken of het resultaat aansluit bij de wensen, doelen en verwachtingen. Feedback uit een client review kan leiden tot laatste aanpassingen voor oplevering.
 
-##### Code/Design review
+##### Code / Design review
+Een code- of designreview is een controle van code of ontwerp door andere developers of designers. Hierbij wordt gelet op kwaliteit, consistentie, leesbaarheid en best practices. Reviews helpen fouten te voorkomen en kennis te delen binnen een team.
 
 ##### Geautomatiseerde tests
+Geautomatiseerde tests zijn tests die automatisch worden uitgevoerd met behulp van tools en scripts. Ze controleren of functionaliteit correct blijft werken na wijzigingen in de code. Deze tests worden vaak ingezet binnen Continuous Integration.
 
 ###### W3C validator
+De W3C validator is een geautomatiseerde tool die HTML en CSS controleert op fouten en naleving van webstandaarden. Het gebruik van deze validator helpt bij het verbeteren van compatibiliteit, toegankelijkheid en onderhoudbaarheid van websites.
+
 
 ###### WCAG-test
 
@@ -659,9 +719,13 @@ Een WCAG‑test controleert of je interface voldoet aan toegankelijkheidscriteri
 - [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
 
 ###### Toegankelijkheidstest / A11Y-test
+Een toegankelijkheidstest (A11Y-test) controleert of een website of applicatie bruikbaar is voor mensen met verschillende beperkingen. Hierbij wordt gekeken naar onder andere toetsenbordbediening, screenreader-ondersteuning, kleurgebruik en semantiek. Deze test draagt bij aan inclusieve en toegankelijke digitale producten.
 
 ##### Screenreader test
+Een screenreadertest controleert hoe een website wordt voorgelezen door screenreadersoftware. Hierbij wordt gekeken of de content logisch is opgebouwd, of semantische HTML correct wordt gebruikt en of interactieve elementen goed worden aangekondigd. Deze test is essentieel voor blinde en slechtziende gebruikers.
 
 ##### Device test
+Bij een device test wordt een website getest op verschillende apparaten, zoals desktops, tablets en smartphones. Hierbij wordt gekeken naar layout, interactie en performance. Deze test helpt om een consistente gebruikerservaring te garanderen op uiteenlopende schermformaten en hardware.
 
 ##### Quality assurance
+Quality assurance (QA) omvat alle processen en controles die worden ingezet om de kwaliteit van een product te waarborgen. Dit omvat onder andere testen, reviews en validaties gedurende het hele ontwikkelproces. QA zorgt ervoor dat software betrouwbaar, consistent en klaar voor gebruik is.
