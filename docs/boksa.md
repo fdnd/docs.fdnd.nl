@@ -1,8 +1,8 @@
 # Body of Knowledge, Skills and Attitude
 
-In dit document beschrijven **wij** de gerichtheid en het corpus van de opleiding Frontend Design & Development. In het hoger onderwijs wordt dit de body of knowledge, skills and attitude (BOKSA) genoemd.
+In dit document beschrijven wij de gerichtheid en het corpus van de opleiding Frontend Design & Development. In het hoger onderwijs wordt dit de body of knowledge, skills and attitude (BOKSA) genoemd.
 
-Wij lichten eerst toe wat **wij** verstaan onder de term ‘frontender’, omdat dit verheldert waar **wij** voor opleiden. Vervolgens brengen **wij** aan de hand van de development lifecycle (DLC) de BOKSA zo volledig mogelijk in kaart. Vanzelfsprekend, en geheel in lijn met de aard van het vakgebied, zien **wij** dit als een levend document dat doorlopend aan verandering onderhevig is.
+Wij lichten eerst toe wat wij verstaan onder de term ‘frontender’, omdat dit verheldert waar wij voor opleiden. Vervolgens brengen wij aan de hand van de development lifecycle (DLC) de BOKSA zo volledig mogelijk in kaart. Vanzelfsprekend, en geheel in lijn met de aard van het vakgebied, zien wij dit als een levend document dat doorlopend aan verandering onderhevig is.
 
 ## De Frontender
 
@@ -23,9 +23,9 @@ Chanel vertelt wat zij zoal doet bij Triple als Frontender - https://vimeo.com/4
 
 ## De Development Lifecycle
 
-Met FDND willen **wij** studenten zo goed mogelijk voorbereiden op de beroepspraktijk. De veranderlijke beroepspraktijk en de diversiteit in instroom van studenten qua vooropleiding, gender en cultuur vragen om een flexibel onderwijsprogramma. Die diversiteit maakt het bovendien belangrijk dat **wij** goed kunnen omgaan met individuele verschillen tussen studenten. Daarnaast vinden **wij** het van groot belang dat studenten leren zelfstandig te opereren in een steeds complexer wordende wereld.
+Met FDND willen wij studenten zo goed mogelijk voorbereiden op de beroepspraktijk. De veranderlijke beroepspraktijk en de diversiteit in instroom van studenten qua vooropleiding, gender en cultuur vragen om een flexibel onderwijsprogramma. Die diversiteit maakt het bovendien belangrijk dat wij goed kunnen omgaan met individuele verschillen tussen studenten. Daarnaast vinden wij het van groot belang dat studenten leren zelfstandig te opereren in een steeds complexer wordende wereld.
 
-Om die reden gebruiken **wij** bij het ontwerp van het curriculum en de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een vaste, in de praktijk beproefde projectcyclus die de *development-lifecycle* (DLC) wordt genoemd. FDND implementeert deze manier van werken in het hele programma. Daarom beschrijven **wij** de BOKSA ook aan de hand van de DLC. Bij elke fase worden werkzaamheden en een woordenlijst beschreven.
+Om die reden gebruiken wij bij het ontwerp van het curriculum en de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een vaste, in de praktijk beproefde projectcyclus die de *development-lifecycle* (DLC) wordt genoemd. FDND implementeert deze manier van werken in het hele programma. Daarom beschrijven wij de BOKSA ook aan de hand van de DLC. Bij elke fase worden werkzaamheden en een woordenlijst beschreven.
 
 ![De development-lifecycle](./assets/img/dev-lifecycle.png)
 
@@ -45,55 +45,50 @@ In de analysefase onderzoekt en inventariseert de student wat er moet gebeuren o
 
 Wanneer een student voor de eerste keer met een team samenwerkt, is het zinvol om een [teamcanvas](#teamcanvas) in te vullen om afspraken te maken en [conventies](#conventies) vast te stellen. Vaak spreekt het team de opdrachtgever in een [briefing- en debriefing](#briefing-en-debriefing)sessie.
 
-#### Leeruitkomsten Analyseren (Kennis / Skills / Attitude)
+#### Leeruitkomsten Analyseren
 
-**Kennis**
+**Kennis: de student kent ...**
 
-De student kent:
-
-- De rol van de analysefase binnen de development lifecycle (DLC) en Scrum.
-- Het doel en de opzet van een **teamcanvas** en (code) **conventies**.
-- Het verschil tussen **briefing** en **debriefing** en de belangrijkste onderdelen van beide.
-- De stappen van een **contentanalyse** (inventarisatie, beoordeling, SEO, UX).
-- De basisconcepten van **projectorganisatie**:
+- de rol van de analysefase binnen de development lifecycle (DLC) en Scrum.
+- het doel en de opzet van een **teamcanvas** en (code) **conventies**.
+- het verschil tussen **briefing** en **debriefing** en de belangrijkste onderdelen van beide.
+- de stappen van een **contentanalyse** (inventarisatie, beoordeling, SEO, UX).
+- de basisconcepten van **projectorganisatie**:
   - projectboard (kolommen, taken, workflow),
   - GitHub‑begrippen: repository, commit, branch, fork, issues, pull request, README.
-- De begrippen **epic**, **user story**, **job story** en hun onderlinge relatie.
-- Het principe van **planning poker** als schattingsmethode.
-- De categorieën in **MoSCoW‑prioritering** (Must, Should, Could, Won’t).
-- Het idee van verschillende **budgetten** (financieel, performance, accessibility) en hun impact op scope.
-- De factoren die meewegen bij het bepalen van een **tech‑stack** (doelen, expertise, infrastructuur, community, security, etc.).
+- de begrippen **epic**, **user story**, **job story** en hun onderlinge relatie.
+- het principe van **planning poker** als schattingsmethode.
+- de categorieën in **MoSCoW‑prioritering** (must, should, could, won’t).
+- het idee van verschillende **budgetten** (financieel, performance, accessibility) en hun impact op scope.
+- de factoren die meewegen bij het bepalen van een **tech‑stack** (doelen, expertise, infrastructuur, community, security, etc.).
 
-**Skills**
+**Skills: de student kan ...**
 
-De student kan:
-
-- Samen met een team een **teamcanvas** invullen en (code)conventies afspreken en vastleggen.
-- Op basis van een briefing een **debriefing** schrijven die doelen, scope, randvoorwaarden en open vragen expliciteert.
-- Een **contentinventarisatie** maken en content globaal beoordelen op kwaliteit, relevantie, structuur en vindbaarheid.
-- Een **projectboard** opzetten (kolommen, kaarten, labels) en dit gedurende de sprint actief bijhouden.
-- Een eenvoudige **GitHub‑projectinrichting** doen:
+- samen met een team een **teamcanvas** invullen en (code)conventies afspreken en vastleggen.
+- op basis van een briefing een **debriefing** schrijven die doelen, scope, randvoorwaarden en open vragen expliciteert.
+- een **contentinventarisatie** maken en content globaal beoordelen op kwaliteit, relevantie, structuur en vindbaarheid.
+- een **projectboard** opzetten (kolommen, kaarten, labels) en dit gedurende de sprint actief bijhouden.
+- een eenvoudige **GitHub‑projectinrichting** doen:
   - repo aanmaken/klonen,
   - README toevoegen,
   - issues en branches gebruiken om werk te structureren.
-- Uit een opdracht **epics** afleiden en deze vertalen naar concrete **user stories** en/of **job stories**.
-- Stories vertalen naar **taken** en deze opnemen in board/issues.
-- Met het team **planning poker** uitvoeren en verschillen in inschatting bespreken.
-- Taken en stories **prioriteren** met behulp van **MoSCoW**.
-- Op basis van doelen en constraints meedenken over een passende **tech‑stack** en keuzes beargumenteren.
-- Eenvoudige **budgetten** (tijd, performance, accessibility) meewegen bij het bepalen van scope.
+- uit een opdracht **epics** afleiden en deze vertalen naar concrete **user stories** en/of **job stories**.
+- stories vertalen naar **taken** en deze opnemen in board/issues.
+- met het team **planning poker** uitvoeren en verschillen in inschatting bespreken.
+- taken en stories **prioriteren** met behulp van **MoSCoW**.
+- op basis van doelen en constraints meedenken over een passende **tech‑stack** en keuzes beargumenteren.
+- eenvoudige **budgetten** (tijd, performance, accessibility) meewegen bij het bepalen van scope.
 
-**Attitude**
+**Attitude: de student...**
 
-De student:
+- neemt actief deel aan het maken van teamafspraken en houdt zich hieraan.
+- vraagt expliciet om verduidelijking bij onduidelijke opdrachten (briefing/debriefing‑houding).
+- toont **methodisch handelen**: analyseert eerst het probleem voordat er gebouwd wordt.
+- is transparant over voortgang door het projectboard en issues up‑to‑date te houden.
+- weegt belangen van **eindgebruiker**, **opdrachtgever** en **team** af bij scope‑ en prioriteitskeuzes.
+- is bereid aannames te herzien na nieuwe informatie (bijv. uit contentanalyse of debriefing).
+- heeft oog voor haalbaarheid: denkt in termen van budgetten (tijd, performance, toegankelijkheid) en maakt dit bespreekbaar.
 
-- Neemt actief deel aan het maken van teamafspraken en houdt zich hieraan.
-- Vraagt expliciet om verduidelijking bij onduidelijke opdrachten (briefing/debriefing‑houding).
-- Toont **methodisch handelen**: analyseert eerst het probleem voordat er gebouwd wordt.
-- Is transparant over voortgang door het projectboard en issues up‑to‑date te houden.
-- Weegt belangen van **eindgebruiker**, **opdrachtgever** en **team** af bij scope‑ en prioriteitskeuzes.
-- Is bereid aannames te herzien na nieuwe informatie (bijv. uit contentanalyse of debriefing).
-- Heeft oog voor haalbaarheid: denkt in termen van budgetten (tijd, performance, toegankelijkheid) en maakt dit bespreekbaar.
 
 #### 1. Samenwerking en teamafspraken 
 
@@ -276,40 +271,38 @@ Soms maakt de student het ontwerp van een website *from scratch*, maar in het fr
 
 Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van het project eruit zal zien. De student maakt keuzes en eventuele alternatieve ontwerpen vallen af.
 
-#### Leeruitkomst Ontwerpen (Kennis / Skills / Attitude)
+#### Leeruitkomst Ontwerpen
 
-**Kennis**
+**Kennis: de student kent ...**
 
-De student kent:
-
-- De rol van de ontwerpfase binnen de development lifecycle (DLC):
+- de rol van de ontwerpfase binnen de development lifecycle (DLC):
   - verkennen van oplossingsrichtingen vóór de bouw,
   - verschil tussen oriënteren, uitwerken en kiezen.
-- De basis van **visual thinking** en het nut van visueel werken om ideeën en structuren te verkennen.
-- Kernbegrippen rond **ideation**:
+- de basis van **visual thinking** en het nut van visueel werken om ideeën en structuren te verkennen.
+- kernbegrippen rond **ideation**:
   - divergeren en convergeren,
   - het doel van creatieve technieken (brainstorm, mindmap, schetsen).
-- De functie en inzet van:
+- de functie en inzet van:
   - **moodboards** (sfeer, stijl, richting),
   - **style tiles** (typografie, kleur, UI‑elementen),
   - **morphological charts** (ontwerpparameters en combinaties),
   - **Harris profiles** (gewogen vergelijking van concepten).
-- Het doel van **prototyping** in verschillende fidelities:
+- het doel van **prototyping** in verschillende fidelities:
   - verschil tussen **LoFi** en **HiFi**,
   - wanneer gekozen wordt voor schetsen, paper prototypes of digitale tools (zoals Figma).
-- De basis van **informatie‑architectuur**:
+- de basis van **informatie‑architectuur**:
   - structureren van content,
   - navigatie‑ en labelingsystemen.
-- De rol en vorm van:
+- de rol en vorm van:
   - **sitemaps** (hiërarchie),
   - **wireframes** (pagina‑opbouw),
   - **wireflows** (schermen + interactiestroom),
   - **breakdown‑schetsen** (annotaties voor HTML/CSS/JS).
-- Het nut van eenvoudige **data‑ en flow‑modellen**:
+- het nut van eenvoudige **data‑ en flow‑modellen**:
   - **datamodellen** (entiteiten, relaties),
   - **data flow diagrams**,
   - **activity diagrams** (control flow, states).
-- Belangrijke **ontwerpprincipes** voor interfaces:
+- belangrijke **ontwerpprincipes** voor interfaces:
   - algemene UI‑principes (bijv. van Joshua Porter),
   - **atomic design** (atoms → molecules → organisms → templates → pages),
   - de **UI‑stack** (verschillende states, feedbacklagen),
@@ -317,64 +310,61 @@ De student kent:
   - **touch‑design** (targets, bereik, gestures),
   - **kleur en contrast**, **visuele hiërarchie**, **nabijheid/afstand** en **contrast** als Gestalt‑principes.
 
-**Skills**
+**Skills: de student kan ...**
 
-De student kan:
-
-- Op basis van een opdracht en doelstellingen:
+- op basis van een opdracht en doelstellingen:
   - de context en randvoorwaarden van het ontwerpprobleem benoemen,
   - relevante voorbeelden en referenties verzamelen.
-- **Visual thinking** inzetten:
+- **visual thinking** inzetten:
   - ideeën, structuren en user flows schetsen,
   - informatie en beslissingen visueel ordenen.
-- **Ideation**‑sessies voorbereiden en uitvoeren:
+- **ideation**‑sessies voorbereiden en uitvoeren:
   - uiteenlopende oplossingsrichtingen genereren (divergeren),
   - samen met het team keuzes maken en focussen (convergeren).
-- Visuele richtingen expliciteren met:
+- visuele richtingen expliciteren met:
   - een **moodboard** (sfeer, kleur, beeldtaal),
   - een **style tile** (fonts, kleuren, UI‑elementen).
-- Concepten systematisch verkennen en beoordelen:
+- concepten systematisch verkennen en beoordelen:
   - een **morphological chart** opstellen met varianten per parameter,
   - een **Harris profile** maken om concepten op criteria te scoren.
-- Ideeën vertalen naar concrete schermvoorstellen:
+- ideeën vertalen naar concrete schermvoorstellen:
   - **LoFi wireframes** schetsen voor verschillende layouts en states,
   - **HiFi wireframes** of mockups maken in een digitale tool.
-- De structuur van een site of applicatie ontwerpen:
+- de structuur van een site of applicatie ontwerpen:
   - een **sitemap** opstellen op basis van content en user needs,
   - **informatie‑architectuur** beargumenteren (navigatie, labels).
-- Interacties en flows uitwerken:
+- interacties en flows uitwerken:
   - **wireflows** tekenen voor belangrijke user journeys,
   - een **breakdown‑schets** maken met annotaties voor HTML/CSS/JS.
-- Eenvoudige **data‑ en procesmodellen** maken:
+- eenvoudige **data‑ en procesmodellen** maken:
   - een basic **datamodel** schetsen voor de benodigde informatie,
   - een **data flow diagram** of **activity diagram** gebruiken om logica te verduidelijken.
-- Ontwerpprincipes toepassen in eigen werk:
+- ontwerpprincipes toepassen in eigen werk:
   - **visuele hiërarchie**, **nabijheid**, **contrast** en **kleurgebruik** bewust inzetten,
   - rekening houden met **responsive** gedrag en **touch**‑interactie,
   - interfaces opbouwen volgens **atomic design** of componentgedachte.
 
-**Attitude**
+**Attitude: de student...**
 
-De student:
-
-- Neemt een **user‑centered** houding aan:
+- neemt een **user‑centered** houding aan:
   - denkt vanuit doelen, taken en context van de gebruiker,
   - is bereid aantrekkelijke oplossingen aan te passen als deze niet werken voor de gebruiker.
-- Ziet ontwerpen als een **iteratief proces**:
+- ziet ontwerpen als een **iteratief proces**:
   - is niet gehecht aan eerste ideeën en durft te schrappen en te verbeteren,
   - gebruikt prototypes om te leren in plaats van om alleen te bewijzen dat iets “af” is.
-- Werkt **onderzoekend en nieuwsgierig**:
+- werkt **onderzoekend en nieuwsgierig**:
   - verkent meerdere oplossingsrichtingen voordat er gekozen wordt,
   - experimenteert met stijlen, structuren en interacties.
-- Staat open voor **feedback en critique**:
+- staat open voor **feedback en critique**:
   - presenteert ontwerpen vroegtijdig,
   - verwerkt feedback van peers, docenten en stakeholders constructief.
-- Denkt in **systemen en componenten**:
+- denkt in **systemen en componenten**:
   - kijkt voorbij losse pagina’s naar patronen en herbruikbare elementen,
   - bewaakt consistentie in stijl, interactie en structuur.
-- Neemt **verantwoordelijkheid voor toegankelijkheid en haalbaarheid**:
+- neemt **verantwoordelijkheid voor toegankelijkheid en haalbaarheid**:
   - houdt rekening met beperkingen (tijd, technologie, toegankelijkheid),
   - ontwerpt oplossingen die realiseerbaar zijn in HTML, CSS en JS.
+
 
 #### 1. Oriëntatie & idee‑generatie 
 
@@ -565,103 +555,98 @@ In de bouwfase vertaalt de student de keuzes uit de ontwerpfase naar werkende co
 
 In deze fase staat het toepassen van webtechnologie centraal: werken met HTML, CSS en JS, het inzetten van tooling, het volgen van conventies en best practices, en het documenteren van het werk (bijvoorbeeld in een changelog). De student ontwikkelt zijn/haar vaardigheid om deze technologieën te beheersen, past passende ontwikkelmethodes toe en denkt in herbruikbare componenten, bijvoorbeeld met atomic design.
 
-#### Leeruitkomst Bouwen (Kennis / Skills / Attitude)
+#### Leeruitkomst Bouwen
 
-**Kennis**
+**Kennis: de student kent ...**
 
-De student kent:
-
-- De basis van **web fundamentals**:
+- de basis van **web fundamentals**:
   - rol en structuur van **HTML** (semantische elementen, documentstructuur),
   - rol van **CSS** (layout, typografie, spacing, theming),
   - rol van **JavaScript** (interactie, gedrag, data‑koppeling).
-- De principes van **progressive enhancement**:
+- de principes van **progressive enhancement**:
   - eerst solide HTML, daarna CSS, vervolgens JS,
   - het belang van **feature detection** en graceful degradation.
-- De kernprincipes van **responsive design**:
+- de kernprincipes van **responsive design**:
   - **mobile first** en content first,
   - **media queries**, **container queries**, viewport‑meta‑tag,
   - basis van responsive typografie en layouts.
-- Het belang van **semantiek**, **toegankelijkheid** en **DRY** in HTML, CSS en JS.
-- De basisconcepten van **architectuur & data** aan de frontend:
+- het belang van **semantiek**, **toegankelijkheid** en **DRY** in HTML, CSS en JS.
+- de basisconcepten van **architectuur & data** aan de frontend:
   - wat een **API** is en hoe deze wordt aangesproken,
   - verschillen tussen **REST API** en **GraphQL**,
   - het **CRUD**‑principe (Create, Read, Update, Delete),
   - **URL‑driven development** en het belang van betekenisvolle URL’s.
-- De verschillende **render strategies**:
-  - **Client‑side Rendering (CSR)**,
-  - **Server‑side Rendering (SSR)**,
-  - **Static Site Generation (SSG/static rendering)**,
-  - **Universal / Isomorphic Rendering**,
+- de verschillende **render strategies**:
+  - **client‑side rendering (CSR)**,
+  - **server‑side rendering (SSR)**,
+  - **static site generation (SSG/static rendering)**,
+  - **universal / isomorphic rendering**,
   - **hydration** en het effect op performance, SEO en UX.
-- Het doel van een **template engine** binnen server‑side rendering.
-- De rol van **frontend frameworks** en **meta frameworks**:
+- het doel van een **template engine** binnen server‑side rendering.
+- de rol van **frontend frameworks** en **meta frameworks**:
   - frameworks als Svelte, React, Vue, Angular, 11ty, etc.,
   - meta frameworks als SvelteKit, Next, Nuxt, Astro.
-- Het onderscheid tussen **frameworks** en **libraries** (bijv. GSAP, Three.js, Storybook, Tailwind).
-- De basis van **tooling & workflow**:
+- het onderscheid tussen **frameworks** en **libraries** (bijv. GSAP, Three.js, Storybook, Tailwind).
+- de basis van **tooling & workflow**:
   - **code editors** (VS Code), relevante plugins (ESLint, Prettier, Live Server/Live Preview),
   - **browsers** en **devtools** (Elements, Network, Performance, Console),
   - **npm** als package manager (dependencies, scripts),
   - **issues** als manier om werk, bugs en verbeteringen te organiseren.
 
-**Skills**
+**Skills: de student kan ...**
 
-De student kan:
-
-- Een ontwerp vertalen naar een werkende **webpagina** met:
+- een ontwerp vertalen naar een werkende **webpagina** met:
   - semantische **HTML**,
   - gestructureerde **CSS** (bijv. mobile‑first, modulair, DRY),
   - doelgerichte **JavaScript** voor interactiviteit.
-- **Progressive enhancement** toepassen:
+- **progressive enhancement** toepassen:
   - eerst een bruikbare, toegankelijke basis zonder JS realiseren,
   - daarna styling en enhanced behavior toevoegen.
-- Een **responsive layout** opzetten:
+- een **responsive layout** opzetten:
   - werken met mobile‑first media queries,
   - content en typografie laten meeschalen,
   - eenvoudige componenten (nav, cards, grids) responsive maken.
-- **Semantische HTML** kiezen en inzetten (headings, landmarks, lists, forms).
-- Herhaling verminderen volgens **DRY**:
+- **semantische HTML** kiezen en inzetten (headings, landmarks, lists, forms).
+- herhaling verminderen volgens **DRY**:
   - herbruikbare CSS‑classes en componenten maken,
   - gedrag in JS structureren (functions, modules) in plaats van copy‑paste.
-- Data **ophalen en gebruiken** in de frontend:
+- data **ophalen en gebruiken** in de frontend:
   - eenvoudige requests doen naar een **REST API** of **GraphQL endpoint**,
   - responses verwerken (JSON) en data renderen in de UI.
-- Een eenvoudige **render strategy** kiezen en implementeren die past bij de opdracht
+- een eenvoudige **render strategy** kiezen en implementeren die past bij de opdracht
   (bijv. statische site vs. client‑rendered app) en deze keuze beargumenteren.
-- Werken met een **frontend framework of meta framework** op instapniveau:
+- werken met een **frontend framework of meta framework** op instapniveau:
   - een project opzetten met tooling (bijv. via create‑app / CLI / template),
   - componenten aanmaken, props/state gebruiken,
   - basisrouting begrijpen (pages/views).
-- Gericht **libraries** inzetten:
+- gericht **libraries** inzetten:
   - een library installeren en importeren via **npm**,
   - de documentatie volgen om een concrete use‑case te bouwen
     (bijv. animatie met GSAP, 3D‑scene met Three.js, componenten met Chakra).
-- Effectief werken met **code editors** en **browser devtools**:
+- effectief werken met **code editors** en **browser devtools**:
   - syntax highlighting, formatters, linters gebruiken,
   - DOM inspecteren, styles debuggen, network requests en performance analyseren.
-- **Issues** gebruiken om werk te structureren:
+- **issues** gebruiken om werk te structureren:
   - taken en bugs als issues vastleggen,
   - issues koppelen aan commits/PR’s,
   - issues sluiten na implementatie.
 
-**Attitude**
+**Attitude: de student...**
 
-De student:
-
-- Neemt verantwoordelijkheid voor de **kwaliteit** van code:
+- neemt verantwoordelijkheid voor de **kwaliteit** van code:
   - streeft naar leesbare, consistente en onderhoudbare HTML, CSS en JS,
   - is bereid code te **refactoren** als het schoner of duidelijker kan.
-- Denkt tijdens het bouwen na over **toegankelijkheid**, **performance** en **responsiveness**
+- denkt tijdens het bouwen na over **toegankelijkheid**, **performance** en **responsiveness**
   in plaats van dit achteraf te “fixen”.
-- Toont **nieuwsgierigheid** naar frameworks, libraries en tooling, maar:
+- toont **nieuwsgierigheid** naar frameworks, libraries en tooling, maar:
   - kiest niet blind voor “de nieuwste tool”,
   - kan keuzes onderbouwen vanuit de opdracht en context.
-- Gebruikt **documentatie** (MDN, framework‑docs, library‑docs) actief als bron en verwijst ernaar.
-- Is bereid eigen aannames over implementatie te herzien wanneer tests, feedback of metingen dat vragen.
-- Werkt **gestructureerd**:
+- gebruikt **documentatie** (MDN, framework‑docs, library‑docs) actief als bron en verwijst ernaar.
+- is bereid eigen aannames over implementatie te herzien wanneer tests, feedback of metingen dat vragen.
+- werkt **gestructureerd**:
   - bouwt stap voor stap (van werkende basis naar complexer),
   - houdt overzicht over bestanden, componenten en dependencies.
+
 
 #### 1. Web fundamentals 
 
@@ -850,89 +835,84 @@ Het afhandelen van issues betekent dat problemen, bugs of verzoeken die in een p
 
 In de integratiefase zorgt de student ervoor dat een applicatie vanuit de ontwikkelomgeving naar een gedeelde (test‑ of productie‑)omgeving wordt overgezet, zodat verschillende teamleden en medestudenten kunnen testen en doorontwikkelen, docenten kunnen beoordelen en een opdrachtgever of eindgebruikers de toepassing daadwerkelijk kunnen gebruiken. De student brengt de code samen via Git, maakt een werkende build en publiceert deze op een geschikt hostingplatform, zoals Netlify, Vercel, Render of een (gehoste) server.
 
-#### Leeruitkomst Integreren (Kennis / Skills / Attitude)
+#### Leeruitkomst Integreren
 
-**Kennis**
+**Kennis: de student kent ...**
 
-De student kent:
-
-- De rol van **Integreren** binnen de development lifecycle (DLC):
+- de rol van **integreren** binnen de development lifecycle (DLC):
   - code samenbrengen, publiceren, automatiseren en overdraagbaar maken.
-- De basis van **versiebeheer met Git**:
+- de basis van **versiebeheer met Git**:
   - wat een **Git‑workflow** is en waarom afspraken hierover nodig zijn,
   - het verschil tussen **lokale** en **remote** repositories,
   - de rol van **branches**, **commits** en **pull requests**.
-- De belangrijkste begrippen in Git:
+- de belangrijkste begrippen in Git:
   - **Git CLI** (commit, push, pull, branch, merge, clone, etc.),
   - het belang van duidelijke **commit messages**,
   - het idee achter **Gitmoji** als visuele commit‑conventie.
-- Concepten rond **deploy & hosting**:
+- concepten rond **deploy & hosting**:
   - wat **hosting** is en welke vormen er zijn (statisch, server, serverless),
   - verschil tussen handmatig uploaden met **(S)FTP** en geautomatiseerde deploys,
   - de basis van platforms als **Render**, **GitHub Pages**, **Vercel** en **Netlify**.
-- De principes van **automatisering & configuratie**:
-  - **Continuous Integration (CI)** als praktijk om automatisch te testen en builden,
+- de principes van **automatisering & configuratie**:
+  - **continuous integration (CI)** als praktijk om automatisch te testen en builden,
   - de rol van **GitHub Actions** bij het opzetten van workflows (test, build, deploy),
   - het doel van **environment variables** en `.env`‑bestanden (scheiding code/configuratie, security).
-- De functie van **documentatie & overdracht**:
+- de functie van **documentatie & overdracht**:
   - het verschil tussen **README.md**, **Handover.md** en **Contributing.md**,
   - welke informatie waar thuishoort (installatie, gebruik, structuur, bijdragen, overdracht).
 
-**Skills**
+**Skills: de student kan ...**
 
-De student kan:
-
-- Met Git werken in een teamcontext:
+- met Git werken in een teamcontext:
   - een bestaande repository clonen en lokaal opzetten,
   - wijzigingen gestructureerd vastleggen met **commits** en duidelijke commit messages,
   - **branches** aanmaken voor features of fixes en deze later samenvoegen.
-- Een eenvoudige maar heldere **Git‑workflow** volgen:
+- een eenvoudige maar heldere **Git‑workflow** volgen:
   - werken met feature branches,
   - **pull requests** aanmaken, bespreken en verwerken,
   - kleine, logische stappen maken in plaats van grote “alles‑in‑één” commits.
-- Projecten **deployen** naar een hostingplatform:
+- projecten **deployen** naar een hostingplatform:
   - een statische site publiceren (bijv. met **GitHub Pages**, **Netlify** of **Vercel**),
   - basisinstellingen configureren (build‑command, output‑folder, environment variables),
   - een eenvoudige update‑flow gebruiken (push → build → deploy).
-- Verschillende deployment‑strategieën herkennen en toepassen:
+- verschillende deployment‑strategieën herkennen en toepassen:
   - herkennen wanneer (S)FTP nog relevant is (bijv. legacy hosting),
   - een Git‑gebaseerde pipeline gebruiken bij moderne platforms.
-- Eenvoudige **CI‑workflows** begrijpen en inzetten:
+- eenvoudige **CI‑workflows** begrijpen en inzetten:
   - een basic **GitHub Action** configureren (bijv. lint/test op elke push of pull request),
   - build‑ en testfouten interpreteren en oplossen.
-- Veilig omgaan met **configuratie en secrets**:
+- veilig omgaan met **configuratie en secrets**:
   - gevoelige gegevens in een `.env`‑bestand plaatsen,
   - `.env` uitsluiten van versiebeheer,
   - environment variables instellen in het deploymentplatform.
-- **Documentatie** schrijven en bijhouden:
+- **documentatie** schrijven en bijhouden:
   - een duidelijke **README.md** opstellen (doel, installatie, gebruik, tech‑stack),
   - een **Handover.md** maken voor overdracht (structuur, scripts, bekende issues),
   - eenvoudige **Contributing.md**‑richtlijnen formuleren (branches, commits, PR‑flow).
 
-**Attitude**
+**Attitude: de student...**
 
-De student:
-
-- Ziet **versiebeheer** als essentieel onderdeel van professioneel werken:
+- ziet **versiebeheer** als essentieel onderdeel van professioneel werken:
   - commit regelmatig in kleine stappen,
   - schrijft eerlijke, beschrijvende commit messages,
   - is voorzichtig met direct op `main`/`master` werken.
-- Neemt verantwoordelijkheid voor de **stabiliteit van de main branch**:
+- neemt verantwoordelijkheid voor de **stabiliteit van de main branch**:
   - test lokaal voordat er gecommit wordt,
   - gebruikt pull requests voor review en checks,
   - lost merge conflicts zorgvuldig op in overleg met het team.
-- Heeft een **automation‑first** mentaliteit waar passend:
+- heeft een **automation‑first** mentaliteit waar passend:
   - zoekt naar mogelijkheden om repeterende taken (testen, builden, deployen) te automatiseren,
   - ziet CI/CD niet als “extra werk”, maar als kwaliteitsborging.
-- Is zich bewust van **security en privacy**:
+- is zich bewust van **security en privacy**:
   - pusht geen secrets (API‑keys, wachtwoorden) naar Git,
   - gaat zorgvuldig om met `.env` en configuratie.
-- Schrijft documentatie met het oog op **anderen**:
+- schrijft documentatie met het oog op **anderen**:
   - helpt toekomstige ontwikkelaars of stagiairs met een goede README/Handover,
   - houdt documentatie up‑to‑date bij belangrijke wijzigingen.
-- Werkt **transparant en samenwerkingsgericht**:
+- werkt **transparant en samenwerkingsgericht**:
   - gebruikt issues, PR‑beschrijvingen en documentatie om keuzes te communiceren,
   - staat open voor code reviews en is bereid eigen code aan te passen na feedback.
+
 
 #### 1. Versiebeheer & workflow 
 
@@ -1036,96 +1016,91 @@ In de testfase controleert de student of de oplossing werkt zoals bedoeld. Dat k
 
 Voor een frontender betekent dit onder andere: gebruikerstesten, toegankelijkheidstesten, prototypetesten en browsertesten. Ook de Sprint Review met de opdrachtgever hoort hierbij: de student demonstreert wat er is gebouwd, verzamelt feedback en neemt die mee naar de volgende sprint.
 
-#### Leeruitkomst Testen (Kennis / Skills / Attitude)
+#### Leeruitkomst Testen
 
-**Kennis**
+**Kennis: de student kent ...**
 
-De student kent:
-
-- De rol van **testen** binnen de development lifecycle (DLC) en Scrum:
+- de rol van **testen** binnen de development lifecycle (DLC) en Scrum:
   - testen als integraal onderdeel van het proces, niet alleen aan het eind,
   - verschil tussen **ontwikkeltests**, **acceptatietests** en **regressietests**.
-- De belangrijkste soorten tests voor webprojecten:
+- de belangrijkste soorten tests voor webprojecten:
   - **functionele tests** (doet het wat het moet doen?),
   - **usability tests** (is het begrijpelijk en bruikbaar?),
   - **accessibility tests** (is het toegankelijk voor verschillende gebruikers?),
   - **performance tests** (laadtijd, responsiviteit),
   - basis van **unit**, **integration** en **end‑to‑end** tests.
-- Basisbegrippen rond **teststrategie**:
+- basisbegrippen rond **teststrategie**:
   - werken vanuit **user stories** en **acceptatiecriteria**,
   - het doel van een **testplan** en **testscripts** (wat test je, hoe, met wie?).
-- De mogelijkheden van **browser devtools** voor testen:
+- de mogelijkheden van **browser devtools** voor testen:
   - console, network, performance, device emulation, Lighthouse.
-- Basisprincipes van **usability testing**:
+- basisprincipes van **usability testing**:
   - verschil tussen **think‑aloud** en observatietests,
   - belang van realistische taken en neutrale vragen.
-- Basisprincipes van **accessibility testing**:
+- basisprincipes van **accessibility testing**:
   - semantische HTML, toetsenbordtoegankelijkheid, contrast,
   - hulpmiddelen zoals screenreaders, devtools en linters (bijv. axe, WAVE).
-- Basisconcepten van **geautomatiseerd testen**:
+- basisconcepten van **geautomatiseerd testen**:
   - idee achter **unit tests** en test frameworks (bijv. Jest, Vitest),
   - het nut van linters (ESLint) en formatters (Prettier) als kwaliteitschecks,
   - het principe van **CI** die tests automatisch draait.
-- Het belang van **bug‑tracking en issue‑beheer**:
+- het belang van **bug‑tracking en issue‑beheer**:
   - wat een **bug report** bevat,
   - hoe issues gebruikt worden om bugs te registreren en op te volgen.
 
-**Skills**
+**Skills: de student kan ...**
 
-De student kan:
-
-- Op basis van user stories en acceptatiecriteria:
+- op basis van user stories en acceptatiecriteria:
   - een eenvoudige **teststrategie** opstellen,
   - een kort **testplan** of **testscripts** formuleren (scenario’s, stappen, verwachte uitkomst).
-- Webapplicaties **functioneel testen**:
+- webapplicaties **functioneel testen**:
   - cruciale user flows doorlopen (aanmelden, formulier invullen, navigeren),
   - vastleggen wat er misgaat, inclusief stappen om dit te reproduceren.
-- **Usability tests** voorbereiden en uitvoeren op kleine schaal:
+- **usability tests** voorbereiden en uitvoeren op kleine schaal:
   - passende testpersonen en taken kiezen,
   - een kort testscript maken,
   - observaties en citaten verzamelen,
   - bevindingen samenvatten in concrete verbeterpunten.
-- Eenvoudige **accessibility checks** uitvoeren:
+- eenvoudige **accessibility checks** uitvoeren:
   - basis toetsenbordnavigatie testen (focus, tabvolgorde),
   - controleren op duidelijke labels, headings en alt‑teksten,
   - (visueel) contrast beoordelen en browser‑/plugin‑tools inzetten.
-- **Performance** globaal beoordelen:
+- **performance** globaal beoordelen:
   - met devtools/network nagaan welke resources laden en hoe lang dat duurt,
   - eenvoudige optimalisaties herkennen (afbeeldingen, ongebruikte code).
-- Browser **devtools** gebruiken voor foutopsporing:
+- browser **devtools** gebruiken voor foutopsporing:
   - console‑errors uitlezen en interpreteren,
   - DOM en styles inspecteren, breakpoints gebruiken,
   - netwerkverkeer analyseren (API‑calls, statuscodes).
-- Geautomatiseerde kwaliteitschecks inzetten:
+- geautomatiseerde kwaliteitschecks inzetten:
   - linters en formatters draaien (bijv. `npm run lint`, `npm run format`),
   - indien beschikbaar een eenvoudige **unit test** schrijven of aanpassen,
   - fouten uit test‑/lint‑output interpreteren en oplossen.
-- Bugs en bevindingen **gestructureerd vastleggen**:
+- bugs en bevindingen **gestructureerd vastleggen**:
   - duidelijke **bug reports** schrijven (context, stappen, verwacht vs. werkelijk resultaat, omgeving),
   - issues aanmaken, labelen en koppelen aan user stories of taken.
 
-**Attitude**
+**Attitude: de student...**
 
-De student:
-
-- Ziet testen als **vast onderdeel van ontwikkelen**, niet als sluitpost:
+- ziet testen als **vast onderdeel van ontwikkelen**, niet als sluitpost:
   - test tussentijds, niet alleen vlak voor oplevering,
   - plant tijd in voor het oplossen van gevonden problemen.
-- Neemt een **kritische maar constructieve** houding aan:
+- neemt een **kritische maar constructieve** houding aan:
   - zoekt actief naar fouten en onduidelijkheden,
   - ervaart bugs niet als falen, maar als informatie om te verbeteren.
-- Denkt vanuit de **eindgebruiker**:
+- denkt vanuit de **eindgebruiker**:
   - test scenario’s die passen bij realistisch gebruik,
   - heeft oog voor begrijpelijkheid, toegankelijkheid en frustraties van gebruikers.
-- Is zorgvuldig in **vastleggen en communiceren**:
+- is zorgvuldig in **vastleggen en communiceren**:
   - beschrijft bugs volledig en reproduceerbaar,
   - koppelt testbevindingen aan concrete acties of issues.
-- Staat open voor **feedback en iteratie**:
+- staat open voor **feedback en iteratie**:
   - gebruikt testresultaten om ontwerpen en implementaties bij te sturen,
   - is bereid eerder gemaakte keuzes te herzien als tests iets anders uitwijzen.
-- Heeft aandacht voor **kwaliteit op lange termijn**:
+- heeft aandacht voor **kwaliteit op lange termijn**:
   - ziet de waarde van automatisering (linting, tests in CI),
   - denkt vooruit over testbaarheid bij nieuwe features (small, testbare units, duidelijke flows).
+
 
 #### 1. Proces‑ & sprinttests 
 
