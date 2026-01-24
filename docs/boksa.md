@@ -8,7 +8,7 @@ Wij lichten eerst toe wat wij verstaan onder de term ‘frontender’, omdat dit
 
 Het is lastig om te beschrijven wat een frontender precies doet. Er is geen algemeen geaccepteerde en gebruikte functietitel die specifiek gericht is op vaardigheden in HTML, CSS en JS. Er zijn in het vakgebied wel wat suggesties — voorbeelden zijn: CSS/HTML Developer, Frontend Developer, Frontend Engineer, Frontend Web Designer, UI Developer, Mobile Frontend Developer, Frontend SEO Expert, Frontend Toegankelijkheidsexpert, Frontend DevOps, Frontend Tester — maar deze hebben allemaal hun eigen beperkingen ([Cohier, 2017](https://css-tricks.com/getting-nowhere-job-titles/)).
 
-Zoals overal binnen de ICT vindt ook binnen het frontend-vakgebied *arbeidsdeling* plaats. Enerzijds zijn er frontenders die zich meer richten op HTML, CSS en gebruikerservaring. Deze *front-of-the-front-end* ontwikkelaars zijn verantwoordelijk voor de vormgeving en het uiterlijk van een website door middel van HTML, CSS en presentatie-JavaScript. Anderzijds zijn er frontenders die zich focussen op JavaScript, frameworks en tools. Deze *back-of-the-front-end* ontwikkelaars schrijven de bedrijfslogica en functionaliteit van een website met JavaScript door bijvoorbeeld gegevens van API's op te halen en weer te geven. ([Frost, 2021](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)) Deze twee groepen lopen steeds meer uit elkaar door de groeiende complexiteit van JavaScript. Dit ligt ten grondslag aan eerder beschreven onduidelijkheid over functiebeschrijvingen en waardering van vaardigheden. ([Cohier, 2019](https://css-tricks.com/the-great-divide/)) FDND omarmt en bedient beide specialisaties omdat ze elkaar aanvullen en blijft daarmee gericht op het geheel.
+Zoals overal binnen de ICT vindt ook binnen het frontend-vakgebied *arbeidsdeling* plaats. Enerzijds zijn er frontenders die zich meer richten op HTML, CSS en user experience (UX). Deze *front-of-the-front-end* ontwikkelaars zijn verantwoordelijk voor de vormgeving en het uiterlijk van een website door middel van HTML, CSS en presentatie-JavaScript. Anderzijds zijn er frontenders die zich focussen op JavaScript, frameworks en tools. Deze *back-of-the-front-end* ontwikkelaars schrijven de bedrijfslogica en functionaliteit van een website met JavaScript door bijvoorbeeld gegevens van API's op te halen en weer te geven. ([Frost, 2021](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)) Deze twee groepen lopen steeds meer uit elkaar door de groeiende complexiteit van JavaScript. Dit ligt ten grondslag aan eerder beschreven onduidelijkheid over functiebeschrijvingen en waardering van vaardigheden. ([Cohier, 2019](https://css-tricks.com/the-great-divide/)) FDND omarmt en bedient beide specialisaties omdat ze elkaar aanvullen en blijft daarmee gericht op het geheel.
 
 Een goede frontender wordt gekenmerkt door een aantal belangrijke eigenschappen. Vooraleerst beschikt deze over sterke technische vaardigheden op het gebied van HTML, CSS en JavaScript en ontwerpen voor het web. Heel belangrijk is gedegen kennis op het gebied van gebruiksvriendelijkheid en toegankelijkheid. Een frontender kan zich inleven in de gebruiker en stelt deze centraal in het ontwerp- en ontwikkelproces. Daarbovenop heeft een frontender uitstekende communicatieve vaardigheden en lost met een team op een constructieve manier problemen op. Tenslotte blijven frontenders voortdurend bijleren gezien de snelle ontwikkelingen in het vak. ([Cohier, 2018](https://css-tricks.com/what-makes-a-good-front-end-developer/))
 
@@ -21,11 +21,11 @@ Fenna vertelt in 7 minuten waar ze nu werkt en wat ze zoal doet als frontend dev
 
 Chanel vertelt wat zij zoal doet bij Triple als Frontender - https://vimeo.com/453220098
 
-## De Development Lifecycle
+## Development lifecycle
 
 Met FDND willen wij studenten zo goed mogelijk voorbereiden op de beroepspraktijk. De veranderlijke beroepspraktijk en de diversiteit in instroom van studenten qua vooropleiding, gender en cultuur vragen om een flexibel onderwijsprogramma. Die diversiteit maakt het bovendien belangrijk dat wij goed kunnen omgaan met individuele verschillen tussen studenten. Daarnaast vinden wij het van groot belang dat studenten leren zelfstandig te opereren in een steeds complexer wordende wereld.
 
-Om die reden gebruiken wij bij het ontwerp van het curriculum en de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een vaste, in de praktijk beproefde projectcyclus die de *development-lifecycle* (DLC) wordt genoemd. FDND implementeert deze manier van werken in het hele programma. Daarom beschrijven wij de BOKSA ook aan de hand van de DLC. Bij elke fase worden werkzaamheden en een woordenlijst beschreven.
+Om die reden gebruiken wij bij het ontwerp van het curriculum en de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een vaste, in de praktijk beproefde projectcyclus die de *development lifecycle* (DLC) wordt genoemd. FDND implementeert deze manier van werken in het hele programma. Daarom beschrijven wij de BOKSA ook aan de hand van de DLC. Bij elke fase worden werkzaamheden en een woordenlijst beschreven.
 
 ![De development-lifecycle](./assets/img/dev-lifecycle.png)
 
@@ -36,8 +36,8 @@ De development lifecycle hanteert de volgende fasering:
 1. [Analyseren](#analyseren) – bijvoorbeeld: teamorganisatie, grip krijgen op een opdracht door gesprekken met een opdrachtgever, schrijven van een debriefing, maken van een takenlijst, inventarisatie van bestaande informatie, overzicht creëren, plannen, definition of done et cetera.
 2. [Ontwerpen](#ontwerpen) – bijvoorbeeld: het maken van idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
 3. [Bouwen](#bouwen) – bijvoorbeeld: toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgens conventies en wetgeving, documenteren en bijhouden van een changelog.
-4. [Integreren](#integreren) – bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
-5. [Testen](#testen) – bijvoorbeeld: unit testing (TDD), system test, user test, device lab test, A/B testing.
+4. [Integreren](#integreren) – bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, FTP‑en.
+5. [Testen](#testen) – bijvoorbeeld: unit testing (TDD), system tests, user tests, device lab tests, A/B testing.
 
 ### Analyseren
 
@@ -53,8 +53,8 @@ Wanneer een student voor de eerste keer met een team samenwerkt, is het zinvol o
 - het doel en de opzet van een **teamcanvas** en (code) **conventies**.
 - het verschil tussen **briefing** en **debriefing** en de belangrijkste onderdelen van beide.
 - de stappen van een **contentanalyse** (inventarisatie, beoordeling, SEO, UX).
-- de basisconcepten van **projectorganisatie**:
-  - projectboard (kolommen, taken, workflow),
+- de basisconcepten van **project management**:
+  - project board (kolommen, taken, workflow),
   - GitHub‑begrippen: repository, commit, branch, fork, issues, pull request, README.
 - de begrippen **epic**, **user story**, **job story** en hun onderlinge relatie.
 - het principe van **planning poker** als schattingsmethode.
@@ -67,7 +67,7 @@ Wanneer een student voor de eerste keer met een team samenwerkt, is het zinvol o
 - samen met een team een **teamcanvas** invullen en (code)conventies afspreken en vastleggen.
 - op basis van een briefing een **debriefing** schrijven die doelen, scope, randvoorwaarden en open vragen expliciteert.
 - een **contentinventarisatie** maken en content globaal beoordelen op kwaliteit, relevantie, structuur en vindbaarheid.
-- een **projectboard** opzetten (kolommen, kaarten, labels) en dit gedurende de sprint actief bijhouden.
+- een **project board** opzetten (kolommen, kaarten, labels) en dit gedurende de sprint actief bijhouden.
 - een eenvoudige **GitHub‑projectinrichting** doen:
   - repo aanmaken/klonen,
   - README toevoegen,
@@ -84,11 +84,10 @@ Wanneer een student voor de eerste keer met een team samenwerkt, is het zinvol o
 - neemt actief deel aan het maken van teamafspraken en houdt zich hieraan.
 - vraagt expliciet om verduidelijking bij onduidelijke opdrachten (briefing/debriefing‑houding).
 - toont **methodisch handelen**: analyseert eerst het probleem voordat er gebouwd wordt.
-- is transparant over voortgang door het projectboard en issues up‑to‑date te houden.
+- is transparant over voortgang door het project board en issues up‑to‑date te houden.
 - weegt belangen van **eindgebruiker**, **opdrachtgever** en **team** af bij scope‑ en prioriteitskeuzes.
 - is bereid aannames te herzien na nieuwe informatie (bijv. uit contentanalyse of debriefing).
 - heeft oog voor haalbaarheid: denkt in termen van budgetten (tijd, performance, toegankelijkheid) en maakt dit bespreekbaar.
-
 
 #### 1. Samenwerking en teamafspraken 
 
@@ -138,27 +137,33 @@ Een contentanalyse voor een website is een gestructureerde methode om de inhoud 
 - **Inventarisatie van content**: een volledige lijst maken van alle inhoud op de website, inclusief tekst, afbeeldingen, video’s, blogs, productpagina’s, enzovoort.
 - **Evaluatie van kwaliteit en relevantie**: beoordelen of de content voldoet aan de doelen van de website, zoals informatie verstrekken, de gebruiker begeleiden of een merkboodschap overbrengen. 
 - **SEO‑analyse**: controleren of de content geoptimaliseerd is voor zoekmachines. Dit omvat het analyseren van het juiste gebruik van zoekwoorden, meta‑tags en andere SEO‑elementen die de zichtbaarheid in zoekresultaten beïnvloeden.
-- **Gebruikerservaring (UX)**: beoordelen hoe goed de content georganiseerd is en of deze gemakkelijk te navigeren en te consumeren is. Hierbij wordt gekeken naar lay‑out, leesbaarheid en hoe intuïtief de site is.
+- **User experience (UX)**: beoordelen hoe goed de content georganiseerd is en of deze gemakkelijk te navigeren en te consumeren is. Hierbij wordt gekeken naar lay‑out, leesbaarheid en hoe intuïtief de site is.
 
 Een goede contentanalyse helpt bij het identificeren van zwakke plekken in de inhoud en biedt een strategie om deze te verbeteren, zodat beter wordt aangesloten bij de behoeften van de doelgroep en de bedrijfsdoelen.
 
 Bronnen:
 - [How (and Why) to Perform a Content Analysis](https://fivechannels.com/how-to-perform-a-content-analysis/)
 
-#### 3. Projectorganisatie en tooling 
+#### 3. Project management en tooling 
 
-##### Projectbord inrichten
+##### Project board inrichten
 
-Een projectbord is een visueel hulpmiddel om de voortgang van een project te organiseren en te beheren. Het helpt teams om taken, deadlines en verantwoordelijkheden duidelijk te visualiseren. Een goed ingericht projectboard bestaat vaak uit een aantal standaardcomponenten die bijdragen aan overzicht en efficiëntie.
+Een project board is een visueel hulpmiddel om de voortgang van een project te organiseren en te beheren. Het helpt teams om taken, deadlines en verantwoordelijkheden duidelijk te visualiseren. Een goed ingericht project board bestaat vaak uit een aantal standaardcomponenten die bijdragen aan overzicht en efficiëntie.
 
-Stappen om een projectboard in te richten:
+Stappen om een project board in te richten:
 
-1. **Kies een tool**: er zijn verschillende tools beschikbaar voor projectboards, zoals GitHub, Trello, Asana, Jira of MS Azure DevOps. Elk biedt aanpasbare borden waarmee taken en statussen kunnen worden bijgehouden. Bij FDND wordt voornamelijk gewerkt met GitHub, maar tijdens stages kunnen studenten andere tools tegenkomen.
-2. **Maak kolommen aan**: organiseer het projectboard door kolommen te creëren die de workflow representeren. Veelvoorkomende kolommen zijn: *To do*, *In progress*, *Review*, *Done*. Afhankelijk van de aard van het project kunnen extra kolommen nuttig zijn, zoals “Blokkerende issues” of “Afwachting goedkeuring”.
+1. **Kies een tool**: er zijn verschillende tools beschikbaar voor project boards, zoals GitHub, Trello, Asana, Jira of MS Azure DevOps. Elk biedt aanpasbare borden waarmee taken en statussen kunnen worden bijgehouden. Bij FDND wordt voornamelijk gewerkt met GitHub, maar tijdens stages kunnen studenten andere tools tegenkomen.
+
+2. **Maak kolommen aan**: organiseer het project board door kolommen te creëren die de workflow representeren. Veelvoorkomende kolommen zijn: *To do*, *In progress*, *Review*, *Done*. Afhankelijk van de aard van het project kunnen extra kolommen nuttig zijn, zoals “Blokkerende issues” of “Afwachting goedkeuring”.
+
 3. **Maak taken (cards)**: voeg specifieke taken toe als cards (op GitHub, Trello of Jira bijvoorbeeld) binnen de kolommen. Elke taak bevat bij voorkeur gedetailleerde informatie, zoals beschrijvingen, subtaken, deadlines en verantwoordelijke teamleden.
+
 4. **Wijs verantwoordelijkheden toe**: koppel teamleden aan de taken, zodat duidelijk is wie waarvoor verantwoordelijk is.
+
 5. **Stel prioriteiten**: geef aan welke taken het meest urgent zijn door prioriteitslabels of kleuren te gebruiken. Dit helpt het team te focussen op wat eerst moet worden aangepakt.
-6. **Werk het board bij en onderhoud het**: een projectboard is dynamisch. Het wordt regelmatig geüpdatet om voortgang bij te houden, taken te verplaatsen tussen kolommen en nieuwe taken toe te voegen.
+
+6. **Werk het project board bij en onderhoud het**: een project board is dynamisch. Het wordt regelmatig geüpdatet om voortgang bij te houden, taken te verplaatsen tussen kolommen en nieuwe taken toe te voegen.
+
 7. **Voeg tijdslijnen en deadlines toe**: maak gebruik van tijdsmanagementfuncties zoals deadlines, kalenderintegraties en herinneringen. Zo blijft iedereen op de hoogte van de planning en kan er tijdig worden bijgestuurd.
 
 Belangrijke tips:
@@ -190,7 +195,7 @@ Bronnen:
 - [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
 - [Branches](https://docs.github.com/en/get-started/quickstart/github-flow)
 
-#### 4. Scope, planning en prioritering 
+#### 4. Scope, planning & prioritization 
 
 ##### Taken vaststellen
 
