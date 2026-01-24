@@ -39,8 +39,6 @@ De development lifecycle hanteert de volgende fasering:
 4. [Integreren](#integreren) – bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
 5. [Testen](#testen) – bijvoorbeeld: unit testing (TDD), system test, user test, device lab test, A/B testing.
 
-
-```markdown
 ### Analyseren
 
 In de analysefase onderzoekt en inventariseert de student wat er moet gebeuren om een taak uit te voeren. Er zijn verschillende technieken die daarbij kunnen worden gebruikt. De aanpak verschilt per sprint, afhankelijk van de fase van het project.
@@ -563,9 +561,9 @@ Contrast in kleur, licht‑donker en grootte stuurt aandacht en leesbaarheid en 
 
 ### Bouwen
 
-In de bouwfase vertaal je de keuzes uit de ontwerpfase naar werkende code in HTML, CSS en JavaScript. Op basis van je ontwerpschets bepaal je hoe je de interface opbouwt: je richt een project in (bijvoorbeeld met GitHub), haalt de repository naar je eigen machine en bouwt stap voor stap aan de frontend. Je start met een semantische HTML‑structuur, voegt CSS toe voor layout en vormgeving en gebruikt JavaScript om interactie en gedrag te realiseren.
+In de bouwfase vertaalt de student de keuzes uit de ontwerpfase naar werkende code in HTML, CSS en JavaScript. Op basis van een ontwerpschets bepaalt de student hoe de interface wordt opgebouwd: een project wordt ingericht (bijvoorbeeld met GitHub), de repository wordt lokaal opgezet en stap voor stap wordt aan de frontend gebouwd. Er wordt gestart met een semantische HTML‑structuur, vervolgens wordt CSS toegevoegd voor layout en vormgeving en wordt JavaScript ingezet om interactie en gedrag te realiseren.
 
-In deze fase staat het toepassen van webtechnologie centraal: werken met HTML, CSS en JS, inzetten van tooling, volgen van conventies en best-practices, en het documenteren van je werk (bijvoorbeeld in een changelog). Je ontwikkelt je vaardigheid om deze technologieën te beheersen, past passende ontwikkelmethodes toe en denkt in herbruikbare componenten, bijvoorbeeld met atomic design.
+In deze fase staat het toepassen van webtechnologie centraal: werken met HTML, CSS en JS, het inzetten van tooling, het volgen van conventies en best practices, en het documenteren van het werk (bijvoorbeeld in een changelog). De student ontwikkelt zijn/haar vaardigheid om deze technologieën te beheersen, past passende ontwikkelmethodes toe en denkt in herbruikbare componenten, bijvoorbeeld met atomic design.
 
 #### Leeruitkomst Bouwen (Kennis / Skills / Attitude)
 
@@ -607,8 +605,6 @@ De student kent:
   - **npm** als package manager (dependencies, scripts),
   - **issues** als manier om werk, bugs en verbeteringen te organiseren.
 
-
-
 **Skills**
 
 De student kan:
@@ -618,7 +614,7 @@ De student kan:
   - gestructureerde **CSS** (bijv. mobile‑first, modulair, DRY),
   - doelgerichte **JavaScript** voor interactiviteit.
 - **Progressive enhancement** toepassen:
-  - eerst een bruikbare, toegankelijke basis zonder JS,
+  - eerst een bruikbare, toegankelijke basis zonder JS realiseren,
   - daarna styling en enhanced behavior toevoegen.
 - Een **responsive layout** opzetten:
   - werken met mobile‑first media queries,
@@ -649,8 +645,6 @@ De student kan:
   - issues koppelen aan commits/PR’s,
   - issues sluiten na implementatie.
 
-
-
 **Attitude**
 
 De student:
@@ -669,44 +663,46 @@ De student:
   - bouwt stap voor stap (van werkende basis naar complexer),
   - houdt overzicht over bestanden, componenten en dependencies.
 
-
 #### 1. Web fundamentals 
 
 In dit deel staat de basis van webontwikkeling centraal: HTML voor structuur, CSS voor vormgeving en JavaScript voor interactie, aangevuld met principes als toegankelijkheid, responsive design, progressive enhancement en performance. 
 
 ##### Hypertext Markup Language
 
-HTML (HyperText Markup Language) is de standaardtaal die wordt gebruikt om webpagina’s te maken en structureren. Het bestaat uit een verzameling elementen en tags die bepalen hoe de inhoud op een website wordt weergegeven. Met HTML kun je onder andere:
+HTML (HyperText Markup Language) is de standaardtaal die wordt gebruikt om webpagina’s te maken en structureren. Het bestaat uit een verzameling elementen en tags die bepalen hoe de inhoud op een website wordt weergegeven. Met HTML kan onder andere de structuur van koppen, paragrafen, lijsten, links, afbeeldingen en formulieren worden vastgelegd.
 
-Webbrowsers lezen HTML-bestanden en zetten de code om in de zichtbare webpagina die gebruikers zien. HTML werkt vaak samen met CSS voor opmaak en JavaScript voor interactieve functies.
+Webbrowsers lezen HTML‑bestanden en zetten de code om in de zichtbare webpagina die gebruikers zien. HTML werkt vaak samen met CSS voor opmaak en JavaScript voor interactieve functies.
 
-https://developer.mozilla.org/en-US/docs/Web/HTML
+Bronnen:
 
-Link naar web.dev
-
+- <https://developer.mozilla.org/en-US/docs/Web/HTML>
 - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ##### Cascading Stylesheets
 
-Best practices for CSS
+CSS (Cascading Style Sheets) wordt gebruikt om de presentatie en vormgeving van HTML‑documenten te bepalen. Met CSS legt de student onder andere kleur, typografie, spacing, layout, animaties en responsief gedrag vast.
 
-https://www.taniarascia.com/overview-of-css-concepts/
+- [Overview of CSS concepts – Tania Rascia](https://www.taniarascia.com/overview-of-css-concepts/)
 
-##### Javascript
+##### JavaScript
 
-Best practices for JS
+JavaScript wordt gebruikt om webpagina’s interactief te maken. Met JavaScript kan de student onder andere events afhandelen, DOM‑elementen manipuleren, data ophalen van API’s en eenvoudige state beheren.
 
-https://2020.stateofjs.com/en-US/
+- [State of JS](https://2020.stateofjs.com/en-US/)
 
-##### Progressive Enhancement
+##### Progressive enhancement
 
-Bij progressive enhancement bouw je eerst een robuuste HTML-basis, voeg je vervolgens presentatie toe met CSS en verrijk je het gedrag met JavaScript. Hierdoor blijft de website bruikbaar in verschillende browsers. Een belangrijk onderdeel van progressive enhancement is feature detection, waarbij in de code wordt gecontroleerd of bepaalde CSS- of JavaScript-features door de browser worden ondersteund. Afhankelijk van deze ondersteuning wordt bepaald of specifieke code wel of niet wordt uitgevoerd.
+Bij progressive enhancement bouwt de student eerst een robuuste HTML‑basis, voegt vervolgens presentatie toe met CSS en verrijkt het gedrag met JavaScript. Hierdoor blijft de website bruikbaar in verschillende browsers en onder verschillende omstandigheden. Een belangrijk onderdeel van progressive enhancement is feature detection: in de code wordt gecontroleerd of bepaalde CSS‑ of JavaScript‑features door de browser worden ondersteund. Afhankelijk van deze ondersteuning wordt bepaald of specifieke code wel of niet wordt uitgevoerd.
 
 ##### Responsive
 
-Responsive ontwerp past de layout en typografie aan op basis van de viewport en het gebruikte apparaat. Door het inzetten van media- of container queries en een correcte viewport-meta-tag wordt een betrouwbare weergave op verschillende schermformaten gegarandeerd. Daarnaast zijn er steeds meer moderne CSS-features beschikbaar waarmee responsive design kan worden gerealiseerd. Veelgebruikte principes binnen responsive webdesign zijn _content first_ en _mobile first_. Hierbij wordt een website vanuit de inhoud eerst ontworpen voor een mobiele viewport (ook wel de single-column layout genoemd) en vervolgens opgeschaald naar steeds grotere viewports.
+Responsive ontwerp past layout en typografie aan op basis van de viewport en het gebruikte apparaat. Door het inzetten van media‑ of container queries en een correcte viewport‑meta‑tag wordt een betrouwbare weergave op verschillende schermformaten gegarandeerd. Moderne CSS‑features maken het steeds eenvoudiger om responsive design te realiseren.
+
+Veelgebruikte principes binnen responsive webdesign zijn _content first_ en _mobile first_. Daarbij wordt een website vanuit de inhoud eerst ontworpen voor een mobiele viewport (single‑column layout) en vervolgens opgeschaald naar grotere viewports.
+
+Bronnen:
 
 - [Mobile first](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First)
 - [CSS media queries @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries)
@@ -716,138 +712,135 @@ Responsive ontwerp past de layout en typografie aan op basis van de viewport en 
 
 ##### Mobile first
 
-Mobile first is een ontwerpprincipe waarbij een website of applicatie eerst wordt ontwikkeld voor mobiele schermen. Vanuit deze basis wordt het ontwerp vervolgens uitgebreid naar grotere schermformaten. Door te starten met mobile first ligt de focus op essentiële content en functionaliteit, wat leidt tot betere performance, gebruiksvriendelijkheid en een duidelijkere structuur.
+Mobile first is een ontwerp- en ontwikkelprincipe waarbij een website of applicatie eerst wordt ontwikkeld voor mobiele schermen. Vanuit deze basis wordt het ontwerp vervolgens uitgebreid naar grotere schermformaten. Door te starten met mobile first ligt de focus op essentiële content en functionaliteit, wat leidt tot betere performance, gebruiksvriendelijkheid en een duidelijkere structuur.
 
 - [Mobile first](https://developer.mozilla.org/en-US/docs/Glossary/Mobile_First)
 
 ##### Semantiek
 
-Semantiek betekent dat HTML-elementen worden gebruikt volgens hun betekenis, niet alleen voor opmaak. Zo gebruik je <header> voor een kop, <article> voor een zelfstandig stukje inhoud en <footer> voor de voettekst. Door semantische HTML te gebruiken, wordt de structuur van een website duidelijker voor browsers, zoekmachines en hulpmiddelen voor toegankelijkheid, wat de gebruikerservaring en het onderhoud van de site verbetert.
+Semantiek betekent dat HTML‑elementen worden gebruikt volgens hun betekenis, niet alleen voor opmaak. Zo wordt `<header>` gebruikt voor een kopgedeelte, `<article>` voor een zelfstandig stukje inhoud en `<footer>` voor de voettekst. Door semantische HTML te gebruiken, wordt de structuur van een website duidelijker voor browsers, zoekmachines en hulpmiddelen voor toegankelijkheid, wat de gebruikerservaring en het onderhoud van de site verbetert.
 
 ##### DRY
 
-Het DRY-principe staat voor “Don’t Repeat Yourself”. Het betekent dat je herhaling in code zoveel mogelijk moet vermijden. In plaats van dezelfde logica, waarden of structuren meerdere keren te kopiëren, leg je deze vast op één centrale plek. Zo voorkom je inconsistenties en maak je je code: beter onderhoudbaar, overzichtelijker en minder foutgevoelig.
+Het DRY‑principe staat voor “Don’t Repeat Yourself”. Het betekent dat herhaling in code zoveel mogelijk wordt vermeden. In plaats van dezelfde logica, waarden of structuren meerdere keren te kopiëren, legt de student deze vast op één centrale plek (bijvoorbeeld in een functie, component of CSS‑class). Zo worden inconsistenties voorkomen en wordt code beter onderhoudbaar, overzichtelijker en minder foutgevoelig.
 
 ##### Keep it simple
 
-Bij het kiezen van technieken, patronen en libraries geldt: zo simpel als kan, zo complex als nodig. Voorkom onnodige afhankelijkheden en over‑engineerde oplossingen. Begin met een eenvoudige, goed te testen basis en voeg alleen complexiteit toe als daar een duidelijke reden voor is (bijvoorbeeld performance, schaalbaarheid of hergebruik).
+Bij het kiezen van technieken, patronen en libraries geldt: zo simpel als kan, zo complex als nodig. De student voorkomt onnodige afhankelijkheden en over‑engineerde oplossingen. Er wordt begonnen met een eenvoudige, goed te testen basis en alleen complexiteit toegevoegd als daar een duidelijke reden voor is (bijvoorbeeld performance, schaalbaarheid of hergebruik).
 
 #### 2. Architectuur & data 
 
-In dit deel gaat het over hoe de frontend met data omgaat en hoe je applicaties structureert rond resources, URL’s, data‑modellen en verschillende renderstrategieën. 
+In dit deel gaat het over hoe de frontend met data omgaat en hoe de student applicaties structureert rond resources, URL’s, datamodellen en verschillende renderstrategieën. 
 
-##### API's
+##### API’s
 
-Een API (Application Programming Interface) is een manier waarop softwareprogramma’s met elkaar communiceren. Front-end developers gebruiken web-API’s om gegevens van servers op te halen of te versturen, bijvoorbeeld voor weerinformatie of social media‑content. API’s maken hergebruik van functionaliteit mogelijk en zorgen ervoor dat websites en applicaties sneller en efficiënter ontwikkeld kunnen worden.
+Een API (Application Programming Interface) is een manier waarop softwareprogramma’s met elkaar communiceren. Front‑end developers gebruiken web‑API’s om gegevens van servers op te halen of te versturen, bijvoorbeeld voor weerinformatie of social‑media‑content. API’s maken hergebruik van functionaliteit mogelijk en zorgen ervoor dat websites en applicaties sneller en efficiënter ontwikkeld kunnen worden.
 
 ##### REST API
 
-Een REST API (Representational State Transfer) is een manier om data en functionaliteit van een server toegankelijk te maken via het web. Het volgt de fundamentele werking van het web: elke bron heeft een unieke URL en wordt benaderd met standaard HTTP-methodes zoals GET, POST, PUT en DELETE. Door REST API’s te gebruiken, kunnen front-end en back-end developers op een overzichtelijke en consistente manier gegevens uitwisselen en applicaties schaalbaar bouwen.
+Een REST API (Representational State Transfer) is een manier om data en functionaliteit van een server toegankelijk te maken via het web. Het volgt de fundamentele werking van het web: elke bron heeft een unieke URL en wordt benaderd met standaard HTTP‑methodes zoals GET, POST, PUT en DELETE. Door REST API’s te gebruiken, kunnen front‑end en back‑end developers op een overzichtelijke en consistente manier gegevens uitwisselen en applicaties schaalbaar bouwen.
 
 ##### GraphQL
 
-GraphQL is een alternatief voor traditionele REST API’s en stelt front-end developers in staat precies de gegevens op te vragen die ze nodig hebben. In plaats van vaste eindpunten zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data-uitwisseling efficiënter, overzichtelijker en flexibeler, en helpt bij het ontwikkelen van schaalbare webapplicaties.
+GraphQL is een alternatief voor traditionele REST API’s en stelt front‑end developers in staat precies de gegevens op te vragen die nodig zijn. In plaats van vaste eindpunten zoals bij REST, kan de client zelf aangeven welke velden en objecten uit de server moeten komen. Dit maakt de data‑uitwisseling efficiënter, overzichtelijker en flexibeler en helpt bij het ontwikkelen van schaalbare webapplicaties.
 
-##### URL-Driven Development
+##### URL‑Driven Development
 
-URL-driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (_state_) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
+URL‑driven development is gebaseerd op een fundamentele werking van het web: elke URL verwijst naar een unieke bron of pagina. Bij deze aanpak wordt de structuur van een webapplicatie rondom de URL’s ontworpen, zodat elke pagina of toestand (_state_) van een pagina direct toegankelijk, deelbaar en te bookmarken is. Door URL’s als uitgangspunt te nemen, blijft de navigatie overzichtelijk, de gebruikerservaring consistent en het beheer van complexe applicaties eenvoudiger.
 
 ##### CRUD
 
 CRUD staat voor Create, Read, Update en Delete en beschrijft de vier basisbewerkingen die mogelijk zijn op data binnen een applicatie. Dit principe sluit aan op de fundamentele werking van het web, waarin bronnen via URL’s toegankelijk zijn en bewerkt kunnen worden. Door CRUD als uitgangspunt te gebruiken, blijft het beheer van data overzichtelijk, voorspelbaar en consistent, zowel voor de gebruiker als voor de ontwikkelaar.
 
-##### Clientside Rendering 
+##### Client‑side Rendering 
 
-Bij clientside rendering wordt de webpagina opgebouwd in de browser van de gebruiker met behulp van JavaScript. De server levert meestal een minimale HTML-basis, waarna de inhoud dynamisch wordt gerenderd. Dit maakt interactieve applicaties mogelijk, maar kan invloed hebben op performance en SEO.
+Bij client‑side rendering wordt de webpagina opgebouwd in de browser van de gebruiker met behulp van JavaScript. De server levert meestal een minimale HTML‑basis, waarna de inhoud dynamisch wordt gerenderd. Dit maakt interactieve applicaties mogelijk, maar kan invloed hebben op performance en SEO.
 
-##### Serverside Rendering
+##### Server‑side Rendering
 
-Serverside rendering houdt in dat de HTML van een pagina op de server wordt gegenereerd en volledig naar de browser wordt gestuurd. Hierdoor is de pagina direct zichtbaar voor de gebruiker en beter toegankelijk voor zoekmachines. JavaScript kan daarna worden gebruikt om extra interactiviteit toe te voegen.
+Server‑side rendering houdt in dat de HTML van een pagina op de server wordt gegenereerd en volledig naar de browser wordt gestuurd. Hierdoor is de pagina direct zichtbaar voor de gebruiker en beter toegankelijk voor zoekmachines. JavaScript kan daarna worden gebruikt om extra interactiviteit toe te voegen.
 
 ##### Static Rendering
 
-Bij static rendering worden pagina’s vooraf gegenereerd tijdens een build-proces en als statische bestanden geserveerd. Dit resulteert in snelle laadtijden en hoge betrouwbaarheid. Static rendering wordt vaak gebruikt voor websites met grotendeels vaste content, zoals documentatie of marketingpagina’s.
+Bij static rendering worden pagina’s vooraf gegenereerd tijdens een build‑proces en als statische bestanden geserveerd. Dit resulteert in snelle laadtijden en hoge betrouwbaarheid. Static rendering wordt vaak gebruikt voor websites met grotendeels vaste content, zoals documentatie of marketingpagina’s.
 
 ##### Universal Rendering
 
-Universal rendering, ook wel isomorphic rendering genoemd, combineert server- en clientside rendering. De pagina wordt eerst op de server gerenderd voor snelle weergave en SEO, waarna dezelfde code in de browser wordt gebruikt voor verdere interactiviteit. Dit sluit aan bij de fundamentele werking van moderne webapplicaties.
+Universal rendering, ook wel isomorphic rendering genoemd, combineert server‑ en client‑side rendering. De pagina wordt eerst op de server gerenderd voor snelle weergave en SEO, waarna dezelfde code in de browser wordt gebruikt voor verdere interactiviteit. Dit sluit aan bij de fundamentele werking van moderne webapplicaties.
 
 ##### Hydration
 
-Hydration is het proces waarbij een server-gerenderde pagina in de browser interactief wordt gemaakt. JavaScript neemt de bestaande HTML over en koppelt hier gedrag aan, zoals event handlers en state. Zonder hydration blijft een pagina statisch en niet interactief.
+Hydration is het proces waarbij een server‑gerenderde pagina in de browser interactief wordt gemaakt. JavaScript neemt de bestaande HTML over en koppelt hier gedrag aan, zoals event handlers en state. Zonder hydration blijft een pagina statisch en niet interactief.
 
 #### 3. Tooling & workflow 
 
-In dit deel staan de tools, frameworks, libraries en werkwijzen centraal die je helpen om code te schrijven, te organiseren en effectief samen te werken binnen een team. 
+In dit deel staan de tools, frameworks, libraries en werkwijzen centraal die de student helpen om code te schrijven, te organiseren en effectief samen te werken binnen een team. 
 
 ###### Node.js
-Node.js is een JavaScript-runtime waarmee je JavaScript buiten de browser kunt draaien, op de server of lokaal tijdens development. Hierdoor kun je met één taal – JavaScript – zowel frontend als backend ontwikkelen. Voor frontenders is Node.js vooral belangrijk als basis voor tooling (npm, bundlers, linters) en voor het bouwen van eigen servers of API’s die content aan de frontend leveren. 
+
+Node.js is een JavaScript‑runtime waarmee JavaScript buiten de browser kan worden gedraaid, op de server of lokaal tijdens development. Hierdoor kan met één taal – JavaScript – zowel frontend als backend worden ontwikkeld. Voor frontenders is Node.js vooral belangrijk als basis voor tooling (npm, bundlers, linters) en voor het bouwen van eigen servers of API’s die content aan de frontend leveren. 
 
 ###### Express 
 
-Express is een veelgebruikt webframework voor Node.js waarmee je snel HTTP‑servers en API’s kunt opzetten. Met Express definieer je routes (URL’s) en bepaal je welke data of HTML bij welke request wordt teruggegeven. Voor frontenders is Express relevant om eenvoudige backends, prototypes of server‑side rendering op te zetten die goed aansluiten op de URL‑structuur en databehoefte van de frontend. 
+Express is een veelgebruikt webframework voor Node.js waarmee snel HTTP‑servers en API’s kunnen worden opgezet. Met Express worden routes (URL’s) gedefinieerd en wordt bepaald welke data of HTML bij welke request wordt teruggegeven. Voor frontenders is Express relevant om eenvoudige backends, prototypes of server‑side rendering op te zetten die goed aansluiten op de URL‑structuur en databehoefte van de frontend. 
 
-###### Template Engines
-Een template engine is een hulpmiddel om HTML‑pagina’s (of andere tekstbestanden) dynamisch te genereren op basis van _views_ en _data_. In een template combineer je statische markup met placeholders en eenvoudige logica (zoals _loops_ en _conditions_). Tijdens het renderen worden deze placeholders ingevuld met data uit bijvoorbeeld een database of API.
+###### Template engines
+
+Een template engine is een hulpmiddel om HTML‑pagina’s (of andere tekstbestanden) dynamisch te genereren op basis van _views_ en _data_. In een template wordt statische markup gecombineerd met placeholders en eenvoudige logica (zoals _loops_ en _conditions_). Tijdens het renderen worden deze placeholders ingevuld met data uit bijvoorbeeld een database of API.
 
 Voor frontenders is een template engine belangrijk bij server‑side rendering: de server genereert HTML die naar de browser wordt gestuurd. Dit verbetert vaak de eerste laadtijd, SEO en toegankelijkheid, terwijl de pagina daarna eventueel verder interactief kan worden gemaakt met client‑side JavaScript. 
 
-Voorbeelden: Liquid.js, EJS
+Voorbeelden: Liquid.js, EJS.
 
-##### Frontend Frameworks 
+##### Frontend frameworks 
 
-Frontend frameworks bieden een gestructureerde basis voor het bouwen van web interfaces, met collections van opinionated patterns, utilities en reusable components. Ze nemen veel repetitief werk uit handen – zoals state management, routing en het opzetten van een consistente component structure – en bevorderen herbruikbare, voorspelbare patronen in HTML, CSS en JavaScript.
+Frontend frameworks bieden een gestructureerde basis voor het bouwen van webinterfaces, met collecties van opinionated patterns, utilities en herbruikbare componenten. Ze nemen veel repetitief werk uit handen – zoals state management, routing en het opzetten van een consistente componentstructuur – en bevorderen herbruikbare, voorspelbare patronen in HTML, CSS en JavaScript.
 
 Frameworks richten zich meestal op één laag van de applicatie – vaak de UI‑laag in de browser, soms gecombineerd met een eenvoudige serverlaag. Voor frontenders maken ze het makkelijker om grote applicaties onderhoudbaar, testbaar en uitbreidbaar te houden.
 
 Voorbeelden: Svelte, React, Vue, Angular, Express, Gatsby, 11ty, Ember, Hugo. 
 
+##### Meta frameworks 
 
-##### Meta Frameworks 
+Meta frameworks bouwen bovenop bestaande frontend frameworks en voegen daar zaken aan toe als routing, data‑fetching, renderstrategieën (SSR, SSG, CSR), bestandsstructuur en tooling voor productie. Ze geven een opinionated manier van werken die veel keuzes standaardiseert, zoals hoe pagina’s worden opgebouwd, hoe er wordt gebundeld en hoe er wordt gedeployed.
 
-Meta frameworks bouwen bovenop bestaande frontend frameworks en voegen daar zaken aan toe als routing, data‑fetching, renderstrategieën (SSR, SSG, CSR), bestandsstructuur en tooling voor productie. Ze geven een “opiniated” manier van werken die veel keuzes voor je standaardiseert, zoals hoe je pagina’s opbouwt, hoe je bundelt en hoe je deployt.
-
-Voor frontenders zijn meta frameworks belangrijk omdat ze de brug slaan tussen componenten, data en hosting: je werkt nog steeds met bijvoorbeeld Svelte, maar krijgt er een complete applicatie‑ en deploymentstructuur bij.
+Voor frontenders zijn meta frameworks belangrijk omdat ze de brug slaan tussen componenten, data en hosting: er wordt nog steeds gewerkt met bijvoorbeeld Svelte, maar er komt een complete applicatie‑ en deploymentstructuur bij.
 
 Voorbeelden: SvelteKit, Next, Nuxt, Astro. 
 
 ##### Libraries 
 
-Libraries zijn losse, herbruikbare packages die een specifieke functionaliteit aan je project toevoegen. In tegenstelling tot frameworks bepalen ze meestal de overall application structure, maar hebben ze één doel, zoals animations, 3D graphics, UI components of real‑time communication.
+Libraries zijn losse, herbruikbare packages die specifieke functionaliteit aan een project toevoegen. In tegenstelling tot frameworks bepalen ze meestal niet de overall application structure, maar hebben ze één doel, zoals animaties, 3D‑graphics, UI‑componenten of real‑time communicatie.
 
-Frontenders gebruiken libraries om sneller te kunnen werken, complex gedrag betrouwbaar te implementeren en consistente UI‑patronen te hergebruiken, zonder zelf alles from scratch te bouwen.
+Frontenders gebruiken libraries om sneller te kunnen werken, complex gedrag betrouwbaar te implementeren en consistente UI‑patronen te hergebruiken, zonder alles from scratch te bouwen.
 
 Voorbeelden: Chakra (UI‑componenten), Three.js (3D‑graphics), Threlte (Three.js + Svelte), Storybook (component‑documentatie), GSAP (animaties), Framer (animaties/prototyping), socket.io (real‑time communicatie). 
-Copy to clipboard
-Good response
-Bad response
 
+##### Living styleguide
 
-##### Living Styleguide
+Een levende styleguide documenteert componenten, varianten en tokens met voorbeelden. Dit borgt consistentie en versnelt samenwerking tussen design en development.
 
-Een levende styleguide documenteert componenten, varianten en tokens met voorbeelden; het borgt consistentie en versnelt samenwerking tussen design en dev.
+##### Component library
 
-##### Component Library
+Een component library bevat herbruikbare, toegankelijke UI‑onderdelen met duidelijke props en states. Met goede documentatie ontstaat een schaalbare design‑system‑workflow.
 
-Een component library bevat herbruikbare, toegankelijke UI‑onderdelen met duidelijke props en states; met goede documentatie ontstaat een schaalbare design‑system workflow.
+##### Code editors
 
-##### Code Editors
+Code editors helpen frontenders bij het schrijven, lezen en onderhouden van code. Ze bieden functionaliteiten zoals syntax highlighting, automatische code‑aanvulling, foutdetectie en integratie met versiebeheersystemen. Moderne code editors, zoals Visual Studio Code, zijn uitbreidbaar met plugins en extensies, waardoor de werkomgeving kan worden afgestemd op specifieke workflows en programmeertalen. Hierdoor werken developers efficiënter, consistenter en met minder fouten.
 
-Code editors helpen frontenders bij het schrijven, lezen en onderhouden van code. Ze bieden functionaliteiten zoals syntax highlighting, automatische code-aanvulling, foutdetectie en integratie met versiebeheersystemen. Moderne code editors, zoals Visual Studio Code, zijn uitbreidbaar met plugins en extensies, waardoor de werkomgeving kan worden afgestemd op specifieke workflows en programmeertalen. Hierdoor werken developers efficiënter, consistenter en met minder fouten.
+- [Code editors @ MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Code_editors)
 
-[Code Editors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Code_editors)
+##### Code‑editor plugins
 
-##### Code Editor Plugins
-
-VS Code-plugins kunnen frontenders helpen hun workflow te optimaliseren, bijvoorbeeld door het sneller en netter schrijven van code en het signaleren van fouten. Voorbeelden van plugins zijn: _ESLint_, _Prettier_ en _Live Link_. En een web team kunnen afspraken gemaakt worden over de plugins die gebruikt worden en hoe ze geconfigureerd zijn.
+VS Code‑plugins kunnen frontenders helpen hun workflow te optimaliseren, bijvoorbeeld door sneller en netter code te schrijven en fouten te signaleren. Voorbeelden van plugins zijn: _ESLint_, _Prettier_ en _Live Server_/_Live Preview_. Binnen een webteam kunnen afspraken worden gemaakt over de plugins die gebruikt worden en hoe deze zijn geconfigureerd.
 
 ##### Browsers
 
-Browsers zijn de programma’s waarmee gebruikers websites en webapplicaties bekijken. Ze verwerken HTML voor de structuur, CSS voor de opmaak en JavaScript voor de functionaliteit. Dankzij ingebouwde ontwikkelaarstools kunnen front-end developers code inspecteren, fouten opsporen en prestaties verbeteren. Omdat browsers verschillen in de ondersteuning van webstandaarden en functies, is het belangrijk bij het ontwikkelen rekening te houden met compatibiliteit en toegankelijkheid.
+Browsers zijn de programma’s waarmee gebruikers websites en webapplicaties bekijken. Ze verwerken HTML voor de structuur, CSS voor de opmaak en JavaScript voor de functionaliteit. Dankzij ingebouwde ontwikkelaarstools kunnen front‑end developers code inspecteren, fouten opsporen en prestaties verbeteren. Omdat browsers verschillen in de ondersteuning van webstandaarden en features, is het belangrijk bij het ontwikkelen rekening te houden met compatibiliteit en toegankelijkheid.
 
-##### NPM
+##### npm
 
-npm staat voor Node Package Manager en is de standaard package manager voor Node.js. Met npm kun je: JavaScript-packages (libraries en tools) installeren, dependencies van een project beheren en scripts draaien, zoals build-, test- of lint-taken
+npm staat voor Node Package Manager en is de standaard package manager voor Node.js. Met npm kunnen JavaScript‑packages (libraries en tools) worden geïnstalleerd, dependencies van een project beheerd en scripts gedraaid, zoals build‑, test‑ of lint‑taken.
 
 ##### Afhandelen van issues
 
