@@ -255,56 +255,65 @@ Soms maak je het ontwerp van een website *from scratch* maar in het frontend-vak
 
 Aan het einde van de ontwerpfase is duidelijk hoe het resultaat van dit project eruit zal zien. Je maakt keuzes en evenutele alternatieve ontwerpen vallen af.
 
-~~In de ontwerpfase maakt een frontender idee-schetsen, wireframes, wireflows, break-down schetsen, site-maps en actor-diagrams. Maar ook inspiratie opdoen, patterns onderzoeken en ontwerp variaties maken... User scenario's bedenken, Customer Journey mapping, Job stories onderzoeken, Wireframes, wireflows, break-down schetsen, actor-diagrams maken.~~
+#### 1. Oriëntatie & idee-generatie 
 
-#### Visual Thinking
+In deze fase onderzoek je het probleem en genereer je mogelijke richtingen en stijlen voordat je in detail gaat uitwerken. 
+
+##### Visual Thinking
 
 Visual thinking leert studenten en docenten hun gedachten en doelen te verbeelden. Het helpt ze bij het creëren van overzicht en het overbrengen van hun boodschap. Kijk voor een overzicht van tekenmethodes op [visualthinking.school](https://visualthinking.school)
 
-#### Ideation
+##### Ideation
 
 Het creatieve proces waarin actief nieuwe ideeën worden gegenereerd, ontwikkeld en verfijnd. Het gaat verder dan alleen het bedenken van losse ideeën: het omvat een gestructureerde aanpak waarbij verschillende technieken en methoden worden ingezet, zoals brainstormen, mindmaps, design thinking-sessies en schetsen. Het doel van ideation is om innovatieve oplossingen, concepten of strategieën te vinden die inspelen op een specifieke uitdaging of vraagstuk.
 
-##### Divergeren Convergeren
+###### Divergeren Convergeren
 
 Bij ideation verken je eerst breed mogelijke richtingen (divergeren) en kies je daarna doelgericht de beste opties (convergeren); visualiseren helpt om keuzes helder te maken en te communiceren met je team.
 
 - [Design Thinking 101 @ Nielsen Norman Group](https://www.nngroup.com/articles/design-thinking/)
 - [The Double Diamond @ Design Council](https://www.designcouncil.org.uk/our-resources/the-double-diamond/)
 
-##### Moodboard
+###### Moodboard
 
 Een moodboard is een visueel overzicht dat de sfeer, stijl en richting van een idee of project samenvat. Het bestaat vaak uit een collage van afbeeldingen, kleuren, materialen, typografie en korte teksten die samen een gevoel communiceren. 
 
 Het doel van een moodboard is om inspiratie te ordenen en duidelijk te maken welke emotie of stijl je wilt neerzetten voordat je daadwerkelijk ontwerpt of uitvoert. Het helpt bij het overbrengen van een concept naar anderen en vormt een gezamenlijk referentiepunt voor een team of klant.
 
-##### Style Tile
+###### Style Tile
 
 Een *style tile* bestaat uit lettertypen, kleuren en interface-elementen die de essentie van een visueel merk voor het web communiceren. Ze helpen een gemeenschappelijke visuele taal te vormen tussen ontwerpers en belanghebbenden binnen een project kunnen helpen bij het vaststellen van voorkeuren en doelen van de opdrachtgever. Kijk voor meer uitleg en voorbeelden op [styletil.es](https://styletil.es/)
 
-##### Morphological Chart
+###### Morphological Chart
 
 Een morphological chart laat alternatieven per ontwerp-parameter zien en stimuleert combinaties om tot nieuwe concepten te komen; handig om systematisch varianten te verkennen vóór je prototype.
 
-##### Harris Profile
+###### Harris Profile
 
 Een Harris‑profile is een gewogen beoordelingsmatrix om concepten objectief te scoren op criteria; zo maak je keuzes transparant en herhaalbaar binnen de squad.
 
-#### Prototyping
+---
+
+#### 2. Prototyping & structureren 
+
+In deze fase werk je ideeën uit in concrete structuren en schermindelingen, zodat duidelijk wordt wat waar komt en hoe gebruikers door de interface bewegen. 
+
+##### Prototyping
+
 Om een ontwerpprobleem op te lossen kan je verschillende (schets) technieken toepassen om grip krijgen op de opdracht, ideeën te verkennen en te onderzoeken. In de ontwerpfase van het project is het doel om snel een prototype te maken dat je kan testen en uitproberen. Zo zorg je ervoor dat je precies weet wat je moet gaan bouwen.
 Een prototype kan van alles zijn, bijvoorbeeld een schets om te bespreken met iemand uit je squad, een paper-prototype om snel te kunnen testen met een gebruiker of een gedetailleerd uitgewerkt design in Figma.
 
 Je kan een Wireframe LoFi (low fidelity) of meer HiFi (high fidelity) maken met meer detail en kleuren. Voor een HiFi Wireframe kun je goed prototype software gebruiken zoals Figma. Door LoFI Wireframes te schetsen kan je snel verschillende layouts uitproberen, ideeën visualiseren, bespreken en aanpassen.
 
-
 ##### Informatie architectuur
+
 Informatie architectuur is een ontwerp discipline die zich bezig houdt met het structureren en organiseren van de content van een website zodat bezoekers (gebruikers) makkelijk het antwoord op hun vragen kunnen vinden. Het organiseren en structureren van informatie doe je door passende organisatie systemen te ontwerpen voor de content, en duidelijke labels en navigatie systemen te gebruiken.
 
 - [Designing Web navigation - Chapter 4. Types of Navigation](https://www.oreilly.com/library/view/designing-web-navigation/9780596528102/ch04.html)
 - [Presenting Information Architecture - Site diagrams](https://www.webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
 
+###### Sitemap (Hierarchie)
 
-##### Sitemap (Hierarchie)
 Een sitemap geeft een gestructureerd overzicht van alle pagina's van een website.
 Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig schetsen en uitdenken van de site structuur met een team kan ook zorgen voor gerichtheid van een project.
 
@@ -312,39 +321,57 @@ Er bestaan verschillende (online) tools om sitemaps mee te maken. Het handmatig 
 - [Sitemaps & Information Architecture (IA)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
 
 ##### Breakdown Schets
+
 Een Breakdown schets is een Wireframe of Wireflow met annotaties voor de HTML, CSS en/of JS. Het is een methode die frontenders gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code.
 Door blokken in de schets te tekenen voor de HTML, de CSS properties te annoteren en ideeën op te schrijven voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Dan kan je inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. Dit gaat je ook helpen als je iets online gaat zoeken, zo kan je gericht zoeken naar oplossingen.
 
 ##### Wireframe
+
 Een Wireframe is een schematische tekening van een pagina. Met een Wireframe kun je (snel) schetsen hoe een pagina er uit kan komen te zien, wat belangrijk is, welke onderdelen waar komen te staan, wat in de viewpoort staat en wat de interactieve elementen zijn.
 
 - [What is wireframing?](https://www.figma.com/resource-library/what-is-wireframing/)
 
 ##### Wireflow
+
 Een Wireflow toont een aantal schermen van een interactie. Het is nuttig om uit te denken wat een gebruiker te zien krijgt als die iets op een pagina doet, zoals een formulier versturen of met een carrousel verschillende plaatjes of producten bekijkt.
 
 - [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows)
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
+---
+
+#### 3. Data & flows 
+
+In deze fase breng je in kaart welke data je nodig hebt en hoe die door het systeem en de interface stroomt, zodat ontwerp en architectuur goed op elkaar aansluiten. 
+
 ##### Datamodel
+
 Een Datamodel laat de logische structuur van een database zien, inclusief de relaties tussen tabellen.
 
 - [Directus Data Model](https://docs.directus.io/app/data-model.html)
 
 ##### Data Flow Diagram
+
 Een Data Flow Diagram is een manier om systemen en software te visualiseren met behulp van Unified Modeling Language (UML). Developers maken diagrammen om inzicht te krijgen in de ontwerpen, codearchitectuur en implementatie van complexe softwaresystemen.
 
 - [What is a data flow diagram?](https://miro.com/diagramming/what-is-a-data-flow-diagram/)
 - [What is a UML diagram?](https://miro.com/diagramming/what-is-a-uml-diagram/)
 
 ##### Activity Diagram
+
 In een Activity Diagram ontwerp je de logica / structuur van je code, door de Wireflow en de Control Flow van een applicatie te combineren.
 
 [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/) 
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
 
-#### Principes
+---
+
+#### 4. Ontwerpprincipes 
+
+Naast concrete technieken werk je in de ontwerpfase ook vanuit een aantal algemene ontwerpprincipes die zorgen voor consistente, toegankelijke en schaalbare interfaces. 
+
+##### Principes
 
 - [Principles of User Interface Design, door Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 
