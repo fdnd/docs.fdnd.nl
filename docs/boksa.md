@@ -1062,11 +1062,101 @@ De `Contributing.md` beschrijft de richtlijnen voor het bijdragen aan een projec
 
 ### Testen
 
-In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.
-Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever. 
+In de testfase controleer je of jouw oplossing werkt zoals bedoeld. Dat kan gaan om technische checks, tests met echte gebruikers of een review/presentatie bij de opdrachtgever.
 
-Testen voor een frontender zijn bijvoorbeeld gebruikerstesten, toegankelijkheids testen, Prototype testen en browser testen. 
-Maar ook de Sprint Review met een opdrachtgever om feedback en opmerkingen meenemen naar een volgende sprint.
+Voor een frontender betekent dit onder andere:
+gebruikerstesten, toegankelijkheidstesten, prototypetesten en browsertesten. Ook de Sprint Review met de opdrachtgever hoort erbij: je demonstreert wat je hebt gebouwd, verzamelt feedback en neemt die mee naar de volgende sprin
+
+#### Leeruitkomst Testen (Kennis / Skills / Attitude)
+
+**Kennis**
+
+De student kent:
+
+- De rol van **testen** binnen de development lifecycle (DLC) en Scrum:
+  - testen als integraal onderdeel van het proces, niet alleen aan het eind,
+  - verschil tussen **ontwikkeltests**, **acceptatietests** en **regressietests**.
+- De belangrijkste soorten tests voor webprojecten:
+  - **functionele tests** (doet het wat het moet doen?),
+  - **usability tests** (is het begrijpelijk en bruikbaar?),
+  - **accessibility tests** (is het toegankelijk voor verschillende gebruikers?),
+  - **performance tests** (laadtijd, responsiviteit),
+  - basis van **unit**, **integration** en **end‑to‑end** tests.
+- Basisbegrippen rond **teststrategie**:
+  - werken vanuit **user stories** en **acceptatiecriteria**,
+  - het doel van een **testplan** en **testscripts** (wat test je, hoe, met wie?).
+- De mogelijkheden van **browser devtools** voor testen:
+  - console, network, performance, device emulation, Lighthouse.
+- Basisprincipes van **usability testing**:
+  - verschil tussen **think‑aloud** en observatietests,
+  - belang van realistische taken en neutrale vragen.
+- Basisprincipes van **accessibility testing**:
+  - semantische HTML, toetsenbordtoegankelijkheid, contrast,
+  - hulpmiddelen zoals screenreaders, devtools en linters (bijv. axe, WAVE).
+- Basisconcepten van **geautomatiseerd testen**:
+  - idee achter **unit tests** en test frameworks (bijv. Jest, Vitest),
+  - het nut van linters (ESLint) en formatters (Prettier) als kwaliteitschecks,
+  - het principe van **CI** die tests automatisch draait.
+- Het belang van **bug‑tracking en issue‑beheer**:
+  - wat een **bug report** bevat,
+  - hoe je issues gebruikt om bugs te registreren en op te volgen.
+
+**Skills**
+
+De student kan:
+
+- Op basis van user stories en acceptatiecriteria:
+  - een eenvoudige **teststrategie** opstellen,
+  - een kort **testplan** of **testscripts** formuleren (scenario’s, stappen, verwachte uitkomst).
+- Webapplicaties **functioneel testen**:
+  - cruciale user flows doorlopen (aanmelden, formulier invullen, navigeren),
+  - vastleggen wat er misgaat, inclusief stappen om het te reproduceren.
+- **Usability tests** voorbereiden en uitvoeren op klein schaal:
+  - passende testpersonen en taken kiezen,
+  - een korte testscript maken,
+  - observaties en citaten verzamelen,
+  - de bevindingen samenvatten in concrete verbeterpunten.
+- Eenvoudige **accessibility checks** uitvoeren:
+  - basis toetsenbordnavigatie testen (focus, tabvolgorde),
+  - controleren op duidelijke labels, headings en alt‑teksten,
+  - (visueel) contrast beoordelen en browser‑/plugin‑tools inzetten.
+- **Performance** globaal beoordelen:
+  - met devtools/network nagaan welke resources laden en hoe lang dat duurt,
+  - eenvoudige optimalisaties herkennen (afbeeldingen, ongebruikte code).
+- Browser **devtools** gebruiken voor foutopsporing:
+  - console‑errors uitlezen en interpreteren,
+  - DOM en styles inspecteren, breakpoints gebruiken,
+  - netwerkverkeer analyseren (API‑calls, statuscodes).
+- Geautomatiseerde kwaliteitschecks inzetten:
+  - linters en formatters draaien (bijv. `npm run lint`, `npm run format`),
+  - indien beschikbaar een eenvoudige **unit test** schrijven of aanpassen,
+  - fouten uit test‑/lint‑output interpreteren en oplossen.
+- Bugs en bevindingen **gestructureerd vastleggen**:
+  - duidelijke **bug reports** schrijven (context, stappen, verwacht vs. werkelijk resultaat, omgeving),
+  - issues aanmaken, labelen en koppelen aan user stories of taken.
+
+**Attitude**
+
+De student:
+
+- Ziet testen als **vast onderdeel van ontwikkelen**, niet als sluitpost:
+  - test tussentijds, niet alleen vlak voor oplevering,
+  - plant tijd in voor het oplossen van gevonden problemen.
+- Neemt een **kritische maar constructieve** houding aan:
+  - zoekt actief naar fouten en onduidelijkheden,
+  - ervaart bugs niet als falen, maar als informatie om te verbeteren.
+- Denkt vanuit de **eindgebruiker**:
+  - test scenario’s die passen bij realistisch gebruik,
+  - heeft oog voor begrijpelijkheid, toegankelijkheid en frustraties van gebruikers.
+- Is zorgvuldig in **vastleggen en communiceren**:
+  - beschrijft bugs volledig en reproduceerbaar,
+  - koppelt testbevindingen aan concrete acties of issues.
+- Staat open voor **feedback en iteratie**:
+  - gebruikt testresultaten om ontwerpen en implementaties bij te sturen,
+  - is bereid eerder gemaakte keuzes te herzien als tests iets anders uitwijzen.
+- Heeft aandacht voor **kwaliteit op lange termijn**:
+  - ziet de waarde van automatisering (linting, tests in CI),
+  - denkt vooruit over testbaarheid bij nieuwe features (small, testbare units, duidelijke flows).
 
 #### 1. Proces- & sprinttests 
 
