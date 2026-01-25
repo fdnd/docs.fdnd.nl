@@ -1239,7 +1239,7 @@ Quality assurance (QA) omvat alle processen en controles die worden ingezet om d
 
 - https://medium.com/@mv.gokul442/importance-of-testing-and-quality-assurance-in-frontend-development-85d947d94294
 
-#### 2. User & usability 
+#### 2. User & usability
 
 In deze categorie gaat het om tests waarbij echte of representatieve gebruikers centraal staan: hoe ervaren zij de interface, begrijpen zij de flow en kunnen zij hun doelen bereiken? 
 
