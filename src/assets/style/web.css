@@ -900,7 +900,7 @@ article {
 
 pre {
   padding: var(--gap);
-  overflow-x:auto;
+  overflow-x: auto;
 }
 
 table {
@@ -913,8 +913,8 @@ th,
 td,
 tr,
 caption {
-  display: block;
   text-align: left;
+  vertical-align: top;
 }
 
 tr,
@@ -928,19 +928,8 @@ caption {
   font-style: italic;
 }
 
-thead {
-  display: block;
-  border: none;
-  clip: rect(0 0 0 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px;
-}
-
-tbody {
+th,
+td {
   border: 1px solid var(--color-accent);
   padding: var(--nav-padding);
 }

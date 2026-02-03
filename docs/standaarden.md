@@ -8,7 +8,7 @@
 
 —
 
-In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2025 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. We lopen met het docententeam, opleidingscommissie, studenten en onze contacten in het bedrijfsleven de standaarden na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft dezelfde structuur als ons [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl) en [midterm review](https://mtr-nov-2024.docs.fdnd.nl/) en volgt qua opbouw de vier standaarden van de NVAO, .
+In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2026 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. Om dit zo navolgbaar mogelijk te presenteren staat onderaan een [matrix verwerking aanbevelingen](http://localhost:8080/standaarden.html#matrix-verwerking-aanbevelingen) waarin we de ontvangen feedback koppelen aan ondernomen acties. FDND loopt met het docententeam, opleidingscommissie, studenten en contacten in het bedrijfsleven de standaarden na en reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft dezelfde structuur als ons [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl) en [midterm review](https://mtr-nov-2024.docs.fdnd.nl/) en volgt qua opbouw de vier standaarden van de NVAO. 
 
 FDND is trots op de bereikte resultaten! Er staat een mooie opleiding met een gedegen fundament waar wij als team het volste vertrouwen in hebben. De beroepspraktijk is dit met ons eens en is op allerlei manieren betrokken bij de opleiding en wij hanteren hetzelfde jargon. _Agility_ zit verweven in ons DNA, wij _itereren_ doorlopend en brengen zo onze kwaliteit naar een steeds hoger niveau. Ook studenten werken doorlopend iteratief aan échte projecten voor échte opdrachtgevers. Het omarmen van _GitHub_ als publieke _code-repository_ en de bijbehorende projecttools (issues, projectboard, branches, pull-requests) werpt zichtbaar vruchten af. Niet alleen zijn onze interne projecten (bijv. deze docs website) georganiseerd en transparant, ook kunnen studenten na hun opleiding naadloos door in de beroepspraktijk.
 
@@ -50,7 +50,7 @@ GenAI kan helpen meerdere oplossingsrichtingen te verkennen maar is geen vervang
 
 Vooralsnog zijn we de enige Ad Frontend in Nederland en daarom schreven wij tijdens de TNO ons eigen profiel. Er bestaan voor het beroep van frontender geen wettelijke- of domeinvereisten. Voor de fundamentele webtechnologieën HTML en CSS en de [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG22/) zijn standaarden welke beheerd worden door het [World Wide Web consortium (W3C)](https://w3.org/). Deze standaarden vormen het richtsnoer voor al het werk wat studenten opleveren. 
 
-Uiteraard in nauwe samenspraak met het werkveld en rekening houdend met wettelijke kaders en verwante opleidingen. Wij beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) op pagina 15. Ook hebben we onze [leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de landelijke gedragscriteria en bijbehorende gedragsindicatoren getoetst aan het landelijk profiel CMD (p10), HBO-ICT (p13), de kwaliteitsraamwerken NLQF (p16) en EQF (p19), de Dublin Descriptoren (p21) en tenslotte het e-Competence framework (p23). Matrices met de relatie tussen het FDND leerresultaat, de gedragscriteria, -indicatoren en de bovengenoemde frameworks zijn te vinden op betreffende paginanummers.
+Uiteraard in nauwe samenspraak met het werkveld en rekening houdend met wettelijke kaders en verwante opleidingen. Wij beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) dat wij in de TNO fase ontwikkelde, op pagina 15. Ook hebben we onze [leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de landelijke gedragscriteria en door ons ontwikkelde bijbehorende gedragsindicatoren getoetst aan het landelijk profiel CMD (p10), HBO-ICT (p13), de kwaliteitsraamwerken NLQF (p16) en EQF (p19), de Dublin Descriptoren (p21) en tenslotte het e-Competence framework (p23). Matrices met de relatie tussen het FDND leerresultaat, de gedragscriteria, -indicatoren en de bovengenoemde frameworks zijn te vinden op betreffende paginanummers.
 
 #### Verhouding 
 
@@ -219,13 +219,22 @@ FDND is een zelforganiserende [Agile organisatie](/organisatie.html#agile-organi
 
 Deze organisatie- en vergader structuur bevalt goed. Bij tijd en wijlen verslapt de frequentie van overleggen waarop we gezamenlijk besluiten de regel weer beter na te leven. Dit is een golfbeweging die samenhangt met piekmomenten in het jaar, als het druk is leven we de regel van sociocratisch overleg iets minder netjes na.
 
+### Toelatingseisen
+
+
+
 ### Studentenbegeleiding
+
+Cijfers uit de NSE en blokenquête, stukje van de studentendecaan
+
 
 Evalueren met de opleidingscommissie. Verwijzen naar onderwijs document
 
-Cijfers uit de NSE en blokenquête, stukje van de decaan
-
 Gezichtsveld vanuit de student
+
+### Studeren met een functiebeperking
+
+
 
 ### Studiekeuzecheck
 
@@ -271,7 +280,7 @@ De docent/ student-ratio is bij FDND ontworpen op 1 fte/ 25 studenten. Daarvan w
 
 _‌De opleiding beschikt over een adequaat systeem van toetsing._
 
-De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor de inrichting van het toetsprogramma en voor het proces van toetsing. Ook de kwaliteit van de toetsing wordt in dit toetsbeleid geborgd. In 2025 vindt HvA-breed visitatie voor integraal toets en kwaliteitsbeleid plaats tijdens de Instellingstoets Kwaliteitszorg (ITK).
+De HvA kent een hogeschoolbreed toetsbeleid waarin de kaders geschetst zijn voor de inrichting van het toetsprogramma en voor het proces van toetsing. Ook de kwaliteit van de toetsing wordt in dit toetsbeleid geborgd. In 2025 vond HvA-breed visitatie voor integraal toets en kwaliteitsbeleid plaats tijdens de Instellingstoets Kwaliteitszorg (ITK).
 
 Dit beleid is voor de opleiding Frontend Design & Development (FDND) uitgewerkt in het document [Didactiek en toetsing](/assets/docs/Bijlage06_DidactiekEnToetsing.pdf) en de [Onderwijs- en Examenregeling](https://studiegids.hva.nl/fdnd-advt) van de opleiding. In het document Didactiek en toetsing zijn de twee functies van toetsen: stimuleren van het leerproces (formatief) en beoordelen (summatief), onlosmakelijk met elkaar verbonden en worden de validiteit, betrouwbaarheid, transparantie en kwaliteit van toetsen geborgd.
 
@@ -467,5 +476,22 @@ Vragen tijdens de midterm:
 - Waar heb je tot nu het meeste van geleerd?
 - Wat kan er volgens jou nog verbeterd worden bij de opleiding?
 
-## Matrix verwerking aanbevelingen (TNO/MTR)
+## Matrix verwerking aanbevelingen
+
+### Aandachtspunten MTR-panel 2024
+
+### Aandachtspunten TNO-panel 2021
+
+| Feedback panel 2021 | NVAO std | Follow up |
+|---------------------|----------|------------|
+| **Naam van de opleiding**: Communiceer helder op de website en op open dagen over de verhouding tussen ontwerp (design) en ontwikkeling (development) in het programma, zodat toekomstige studenten en werkgevers de juiste verwachtingen bij FDND hebben. (p7,10) | 1 (2) | … |
+| **Stage**: Overweeg om alle studenten tijdens het curriculum in een echte bedrijfsomgeving buiten de opleiding te laten functioneren om het beroepenbeeld en de ervaring volledig te maken. Aangezien de meerderheid van de FDND’ers direct na het afstuderen een plek op de arbeidsmarkt zoekt, is het goed om al tijdens de opleiding de ‘veilige’ schoolomgeving tijdelijk in te ruilen voor het ‘harde’ werkveld. (p2) | 2 | … r|
+| Personeel: Het panel dringt er bij de opleiding op aan om zeker voldoende co-teachers uit het werkveld in te zetten. (p14) | 2 | … |
+| **Examencommissie**: Maak werk van de ontwikkeling van een clusterexamencommissie voor Ad’s die opereert voor alle Ad-opleidingen. De examencommissieleden opereerden op het moment van de visitatie nog niet optimaal als een team dat zich specifiek richt op de Ad-opleiding FDND. Het panel adviseert de opleiding om de expertise binnen het ontwikkelteam te gebruiken om de examen-commissie te helpen bij het internaliseren van de toetsvisie van de opleiding en bij het borgen van de toetskwaliteit op niveau 5. (p7, 17) | 3 | … |
+| **Assessment as learning**: Overweeg een meer holistische blik op toetsing die wellicht nog beter aansluit bij het profiel van de opleiding, de diversiteit van studenten en de verwachtingen van het werkveld. Het panel geeft ter overweging om assessment as learning sterker te verankeren door nog meer in te zetten op programmatisch toetsen. Wanneer het onderscheid tussen formatief en summatief toetsen wordt losgelaten, kan de opleiding zich richten op low-stake, mid-stake en high-stake toetsmomenten (volledige toetsaanpak belicht vanuit programmatisch toetsen) (p7, 16) | 3 | … |
+
+
+
+
+
 

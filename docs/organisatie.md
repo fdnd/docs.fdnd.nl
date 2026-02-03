@@ -287,6 +287,82 @@ De Nationale Studenten Enquête wordt elk jaar uitgezet onder alle studenten in 
 
 #### Periodieke evaluatie Examencommissie
 
+FDND deelt een examencommisie met de andere Associate degree opleidingen binnen de faculteit. In onderstaande paragraven zijn  voor onderwijs en organisatie van FDND relevante passages uit betreffende documenten opgenomen. Volledige documenten kunnen worden opgevraagd via [examencommissie-ad-fdmci@hva.nl](mailto:examencommissie-ad-fdmci@hva.nl).
+
+##### Jaarverslag 2024/25
+
+##### Evaluatie Afstudeerwerken 2024/25
+
+##### Jaarverslag 2023/24
+
+> […]
+> **6.3 Toetsing bij Ad Frontend Design & Development (FDND)**
+> […]
+> **6.3.1 Inleiding toetsing FDND**
+> 
+> De Ad FDND is een opleiding die voortdurend in beweging is. Vorig jaar werden studenten nog gevraagd om aan het eind van elk blok een ontwikkeldocument op te stellen (in plaats van de STARR’s). Dit jaar is ook dit losgelaten en heeft de opleiding besloten de reflecties te doen en bespreken tijdens de formatieve checkpoints en het summatieve portfolio-assessment aan de hand van het criterium gericht interview. Dit is erg goed bevallen aangezien de studenten nu meer tijd aan de inhoud kunnen besteden en zich tijdens de gesprekken met docenten kunnen richten op het reflecteren.
+> 
+> Er zijn in schooljaar 2023-2024 68 nieuwe studenten begonnen waarvan er 48 over zijn gegaan naar het tweede jaar en vier studenten het eerste jaar opnieuw doen. Dit is een slagingspercentage van ~ 71% wat FDND voldoende vindt.
+> 
+> **6.2.2 Procedurele borging toetsing FDND**
+> 
+> De docenten bij FDND worden getraind in het voeren van de assessment gesprekken. Het idee is dat deze persoonlijke manier van toetsing in dienst staat van het leerproces van studenten. Over het algemeen lijkt dit goed te werken. Nieuwe docenten worden goed begeleid door de docenten met al wat meer ervaring op het gebied van didactiek en toetsing. Bij FDND krijgt elke docent een training om assessments te kunnen afnemen en wordt er, als er genoeg tijd is, aan de start van elke assessmentweek kort gekalibreerd. Docenten bekijken een aantal voorbeelden en stellen gezamenlijk vast wat voldoende is en wat niet. Ook werkt iedere docent aan de hand van een aantal standaardvragen. Die helpen om het assessment scherp te houden en zorgen ervoor dat studenten op dezelfde manier getoetst worden. Bij alle assessments zijn twee assessoren betrokken, de vaste docent (squad-leader) die per semester aan studenten toegewezen wordt én een docent die aan een andere groep verbonden is, daarmee wordt het vier ogen principe omarmd. Docenten vullen tijdens het assessment een online beoordelingsformulier op DLO in. Studenten kunnen dit gemakkelijk bekijken en teruglezen. Uiteindelijk zien ze het cijfer terug in SIS. Studenten worden gestimuleerd om hun beoordeling en feedback goed bij te houden, zowel de checkpoints in Portflow als de eindbeoordeling op DLO. De examencommissie heeft geen verzoeken gehad omtrent goedkeuring een beoordelingsmodel aan te passen na toetsafname.
+> 
+> **6.2.3 Inhoudelijke borging toetsing FDND**
+> 
+> De Ad FDND toetst de studenten vier keer per jaar aan de hand van portfolio-assessments. De assessments hebben de vorm van een criteriumgericht interview op basis van de ingediende bewijslast en met vastgestelde kaders. Om deel te nemen aan het assessment moet de bewijslast volledig zijn. Dit houdt in dat het portfolio met daarin de beroepsproducten, de feedback van de squad-leader (de hoofddocent van de betreffende student) en reflecties over de gehele periode ingeleverd is via de digitale leeromgeving.
+> 
+> Bij het assessment toont de student aan in welke mate het leerresultaat behaald is, aan de hand van de gedragsindicatoren ‘methodisch handelen’, ‘samenwerken’, ‘communiceren’, ‘probleemoplossend vermogen’ en ‘lerend vermogen’. In het beoordelingsformulier wordt het oordeel van twee assessoren vastgelegd en onderbouwd. Dit eindoordeel wordt gebaseerd op het portfolio en het assessmentgesprek. In week tien is een midterm assessment waarin de student aantoont onderweg te zijn naar het behalen van het leerresultaat. In week twintig is het endterm assessment waarin de student aantoont het leerresultaat behaald te hebben.
+> 
+> Als genoeg bewijs is aangedragen en dit tijdens het assessment onderbouwd is dan wordt een voldoende beoordeling toegekend en krijgt de student 15 studiepunten voor het betreffende blok. Dit houdt in dat er bij voldoende prestatie na het midterm assessment 15 EC zijn behaald en na voldoende endterm assessment ook 15 EC. 
+> 
+> De afgeronde leer- en deeltaken werden in schooljaar 2023-2024 nog besproken tijdens zogenaamde ‘checkpoints’: studenten tonen hun afgeronde taak en docenten geven daar feedback op. Dit werd vervolgens vastgelegd in Portflow en bekeken door de docenten voorafgaand aan het assessment. Sinds het nieuwe schooljaar (september 2024) zijn ook de checkpoints afgeschaft. De studenten voegen nog wel bewijslast toe in portflow en ook hebben zij regelmatig gesprekken met hun squad-leaders maar het zijn nu minder ‘afvink-momenten’. Studenten zijn zelf verantwoordelijk voor het verzamelen van hun bewijslast en zullen ook zelf moeten inschatten of de bewijslast volstaat voor het summatieve assessment.
+> […]
+
+##### Evaluatie Afstudeerwerken 2023/24
+
+##### Jaarverslag 2022/23
+
+> […]
+> 
+> **Deel II Borgen kwaliteit van tentamens en examens**
+> 
+> **2 KWALITEIT VAN DE TENTAMENS**
+> 
+> Zoals al is aangegeven beschikken we in 2022-2023 nog niet over een toetscommissie (TC). Dit neemt niet weg dat de examencommissie, op basis van de inbreng van de verschillende leden, zich een voldoende beeld heeft kunnen vormen over de wijze van toetsing. Onderstaand is per AD-opleiding beschreven hoe de toetsing gedurende het studiejaar 21/22 is verlopen.
+> 
+> […]
+> 
+> **2.2 TOETSING BIJ DE AD FRONTEND DESIGN & DEVELOPMENT (FDND)**
+> 
+> De Ad FDND is in studiejaar 21/22 gestart en toetst de studenten vier keer per jaar aan de hand van portfolio-assessments. Aan studenten is gevraagd om elke drie sprints (van 9 weken) een ontwikkeldocument te schrijven waarin ze reflecteren op hoe ze zich ontwikkeld hebben in de vijf gedragsindicatoren. Dit ontwikkeldocument dienen ze, samen met de voltooide leer- en deeltaken, in als bewijslast voor het portfolio-assessment. De afgeronde leer- en deeltaken worden besproken tijdens zogenaamde ‘checkpoints’: studenten tonen hun afgeronde taak en docenten geven daar feedback op. Dit wordt vervolgens vastgelegd in Feedpulse en bekeken door de docenten voorafgaand aan het assessment.
+>
+> De docenten bij FDND worden getraind in het voeren van de assessment gesprekken. Het idee is dat deze persoonlijke manier van toetsing in dienst staat van het leerproces van studenten. Over het algemeen lijkt dit goed te werken. In studiejaar 2022-2023 heeft twee derde van de studenten al hun studiepunten gehaald. Waar docenten in het eerste jaar nog moesten wennen aan deze manier van toetsing, ging het dit jaar al makkelijker. Nieuwe docenten worden goed begeleid door de docenten met al wat meer ervaring op dit gebied. Bij FDND wordt, als er genoeg tijd is, aan de start van elke assessmentweek kort gekalibreerd. Docenten bekijken een aantal voorbeelden en stellen gezamenlijk vast wat voldoende is en wat niet. Ook werkt iedere docent aan de hand van een aantal standaardvragen. Die helpen om het assessment scherp te houden en zorgen ervoor dat studenten op dezelfde manier getoetst worden. Bij alle assessments zijn twee assessoren betrokken, de vaste docent (squad-leader) die per semester aan studenten toegewezen wordt én een docent die aan een andere groep verbonden is, daarmee wordt het vier ogen principe omarmd. Docenten vullen tijdens het assessment een (inmiddels online) beoordelingsformulier op DLO in. Studenten kunnen dit gemakkelijk bekijken en teruglezen. Uiteindelijk zien ze het cijfer terug in SIS. Studenten worden gestimuleerd om hun beoordeling en feedback goed bij te houden, zowel de checkpoints op Feedpulse als de eindbeoordeling op DLO. De examencommissie heeft geen verzoeken gehad omtrent goedkeuring een beoordelingsmodel aan te passen na toetsafname.
+> […]
+
+##### Jaarverslag 2021/22
+
+> […]
+> **Deel II Borgen kwaliteit van tentamens en examens**
+> 
+> **4. KWALITEIT VAN DE TENTAMENS**
+> 
+> Zoals al is aangegeven beschikken we nog niet over een toetscommissie TC). Dit neemt niet weg dat de examencommissie, op basis van de inbreng van de verschillende leden, zich een voldoende beeld heeft kunnen vormen over de wijze van toetsing. Onderstaand is per AD-opleiding beschreven hoe de toetsing gedurende het studiejaar 21/22 is verlopen.
+> 
+> […]
+> 
+> **4.2 TOETSING BIJ DE AD FRONTEND DESIGN & DEVELOPMENT (FDND)**
+> 
+> De Ad FDND is in studiejaar 21/22 gestart en toetst de studenten vier keer per jaar aan de hand van portfolio-assessments. Aan studenten is gevraagd na elke sprint (3 weken) een STARR reflectie te schrijven en deze, samen met de voltooide leer- en deeltaken, in te dienen als bewijslast voor het portfolio-assessment. De afgeronde leer- en deeltaken worden besproken tijdens zogenaamde ‘checkpoints’: studenten tonen hun afgeronde taak en docenten geven daar feedback op. Dit wordt vervolgens vastgelegd in Feedpulse en bekeken door de docenten voorafgaand aan het assessment. In verband met corona hebben deze checkpoints op sommige momenten ook online plaatsgevonden. Alle portfolio-assessment gesprekken waren op locatie.
+> 
+> De docenten bij FDND worden getraind in het voeren van de assessment gesprekken. Het idee is dat deze persoonlijke manier van toetsing in dienst staat van het leerproces van studenten. Over het algemeen lijkt dit goed te werken. In studiejaar 2021-2022 heeft twee derde van de studenten al hun studiepunten gehaald. Docenten moeten nog wennen aan deze manier van toetsing. Het zweet moet op de juiste ruggen staan en docenten moeten niet in de 'reparatiereflex' schieten. Ook is het belangrijk dat er regelmatig gekalibreerd wordt. Bij FDND wordt dit gedaan aan de start van elke assessmentweek. Docenten bekijken een aantal voorbeelden en stellen gezamenlijk vast wat voldoende is en wat niet. Ook werkt iedere docent aan de hand van een aantal standaardvragen. Die helpen om het assessment scherp te houden en zorgen ervoor dat studenten op dezelfde manier getoetst worden. Bij alle assessments zijn twee assessoren betrokken, de vaste docent (squad-leader) die per semester aan studenten toegewezen wordt én een docent die aan een andere groep verbonden is, daarmee wordt het vier ogen principe omarmd.
+>
+> Docenten vullen tijdens het assessment een beoordelingsformulier in. Studenten kunnen hier achteraf een foto van maken maar zijn dit niet verplicht. Uiteindelijk zien ze het cijfer terug in SIS. Studenten worden wel gestimuleerd om hun beoordeling en feedback goed bij te houden. De eerste paar weken zijn ze vaak nog hard bezig met de feedforward maar later ebt dat weg. Dit wordt aan de studenten zelf gelaten aangezien het aan de studenten zelf is om orde te scheppen. Hierin zoekt de opleiding nog een balans tussen alles 'dichttimmeren' en het belang van de zelfsturing en autonomie van de student.
+>
+> De examencommissie heeft geen verzoeken gehad omtrent goedkeuring een beoordelingsmodel aan te passen na toetsafname.
+>
+> […]
+
 #### HEAL: Retrospect
 
 ##### Schooljaar 2024/25
