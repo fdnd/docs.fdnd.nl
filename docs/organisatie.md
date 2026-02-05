@@ -287,7 +287,7 @@ De Nationale Studenten Enquête wordt elk jaar uitgezet onder alle studenten in 
 
 #### Periodieke evaluatie Examencommissie
 
-FDND deelt een examencommisie met de andere Associate degree opleidingen binnen de faculteit. In onderstaande paragraven zijn  voor onderwijs en organisatie van FDND relevante passages uit betreffende documenten opgenomen. Volledige documenten kunnen worden opgevraagd via [examencommissie-ad-fdmci@hva.nl](mailto:examencommissie-ad-fdmci@hva.nl).
+FDND deelt een examencommisie met de andere Associate degree opleidingen binnen de faculteit. In onderstaande paragraven zijn  de letterlijke passages over onderwijs en organisatie van FDND uit betreffende documenten geciteerd. Volledige documenten kunnen worden opgevraagd via [examencommissie-ad-fdmci@hva.nl](mailto:examencommissie-ad-fdmci@hva.nl).
 
 ##### Jaarverslag 2024/25
 
