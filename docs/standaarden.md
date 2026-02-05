@@ -282,12 +282,25 @@ Deze organisatie- en vergader structuur bevalt goed. Bij tijd en wijlen verslapt
 
 ### Toelating/instroom
 
-Regels beschrijven…
+Aankomend studenten zijn toelaatbaar met een MBO-4, HAVO of VWO diploma of met een 21+ toets aangeboden door de instelling. Wij hebben geen vereisten voor een specifiek vakkenpakket.
 
-- statistieken adhv: [powerBI](https://app.powerbi.com/groups/me/reports/234dc20a-6b61-4899-8fe3-57134b7c23c3/ReportSectionae166bc316224ab0b487?experience=power-bi)
-  - vooropleiding
-  - geslacht
-  - leeftijd
+Na een impuls in 2022 zien we inschrijvingsaantallen een beetje teruglopen. We ondernemen actie om onze naamsbekendheid te vergroten.
+
+| 2021 | 2022 | 2023 | 2024 | 2025 |
+| ---- | ---- | ---- | ---- | ---- |
+| 16 | 68 | 69 | 59 | 52 |
+
+Onze opleiding is gericht op het aantrekken van MBO afstudeerders. Toch zien we dat een aanzienlijk deel van onze eerstejaars HAVO of VWO achtergrond heeft. Een klein aantal heeft al aan een andere HBO opleiding gestudeerd.
+
+![](/assets/img/instroom-vooropleiding.png)
+
+Een grote vraag uit het bedrijfsleven is het tot frontender opleiden van dames omdat bewezen is dat diverse teams beter presteren. Tot onze spijt zien we het aantal vrouwelijke studenten teruglopen.
+
+![](/assets/img/instroom-geslacht.png)
+
+De gemiddelde Ad student is iets ouder dan de gemiddelde Ba student. Dit is duidelijk terug te zien in de verdeling naar leeftijdscategorie.
+
+![](/assets/img/instroom-leeftijd.png)
 
 ### Studentenbegeleiding
 
