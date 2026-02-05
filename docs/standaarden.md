@@ -1,36 +1,46 @@
 # Standaarden
 
-**Work in progress tbv. de visitatie voorjaar 2026 welke wordt uitgevoerd aan de hand van:**
+> **Work in progress tbv. de visitatie voorjaar 2026 welke wordt uitgevoerd aan de hand van:**
+> 
+> - [Vaste onderdelen van het ABO-visitatierapport](https://www.nvao.net/files/attachments/.12726/Vaste_onderdelen_ABO_rapport.pdf)
+> - [Uitvoeringsregels Accreditatiestelsel Hoger Onderwijs Nederland 2025](https://www.nvao.net/files/attachments/.13163/Uitvoeringsregels_Accreditatiestelsel_Hoger_Onderwijs_Nederland_september_2025.pdf)
+> - [Beoordelingskader Accreditatiestelsel Hoger Onderwijs Nederland](https://www.nvao.net/files/attachments/.11273/Beoordelingskader_accreditatiestelsel_hoger_onderwijs_Nederland.pdf)
 
-- [Vaste onderdelen van het ABO-visitatierapport](https://www.nvao.net/files/attachments/.12726/Vaste_onderdelen_ABO_rapport.pdf)
-- [Uitvoeringsregels Accreditatiestelsel Hoger Onderwijs Nederland 2025](https://www.nvao.net/files/attachments/.13163/Uitvoeringsregels_Accreditatiestelsel_Hoger_Onderwijs_Nederland_september_2025.pdf)
-- [Beoordelingskader Accreditatiestelsel Hoger Onderwijs Nederland](https://www.nvao.net/files/attachments/.11273/Beoordelingskader_accreditatiestelsel_hoger_onderwijs_Nederland.pdf)
+In dit document reflecteert de Associate degree Frontend Design & Development (FDND) ten behoeve van de visitatie op 22 mei 2026 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier (2021)](https://tno-apr-2021.docs.fdnd.nl/) en het [MTR-dosier (2024)](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en in 2021 vergunde opleiding en de opzet en resultaten van de eerste midterm review in 2024 beschreven. Om dit zo navolgbaar mogelijk te presenteren staat onderaan het document een [matrix verwerking aanbevelingen](http://localhost:8080/standaarden.html#matrix-verwerking-aanbevelingen) waarin we de na de TNO en MTR ontvangen feedback koppelen aan ondernomen acties.
 
-—
-
-In dit document reflecteert FDND ten behoeve van de visitatie op 22 mei 2026 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/) en de [midterm review](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en vergunde opleiding en de opzet en resultaten van de eerste midterm review beschreven. Om dit zo navolgbaar mogelijk te presenteren staat onderaan een [matrix verwerking aanbevelingen](http://localhost:8080/standaarden.html#matrix-verwerking-aanbevelingen) waarin we de ontvangen feedback koppelen aan ondernomen acties.
-
-FDND loopt met het docententeam, opleidingscommissie, studenten en contacten in het bedrijfsleven de standaarden na en betrokken personen reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft dezelfde structuur als ons [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl) en [midterm review](https://mtr-nov-2024.docs.fdnd.nl/) en volgt qua opbouw de vier standaarden van de NVAO.
+FDND loopt met het docententeam, opleidingscommissie, studenten en contacten in het bedrijfsleven dit document na en betrokken personen reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft dezelfde structuur als bovengenoemde documenten en volgt qua opbouw de vier standaarden van de NVAO.
 
 ## Inleiding
 
 FDND is trots op bereikte resultaten! Er staat een mooie opleiding met een gedegen fundament waar wij als team het volste vertrouwen in hebben. De beroepspraktijk is dit met ons eens en is op allerlei manieren betrokken bij de opleiding. Wij hanteren hetzelfde jargon: _Agility_ zit verweven in ons DNA, wij _itereren_ doorlopend en brengen zo onze kwaliteit naar een steeds hoger niveau. Ook studenten werken doorlopend iteratief aan échte projecten voor échte opdrachtgevers. Het omarmen van _GitHub_, defacto standaard, als publieke _code-repository_ en de bijbehorende projecttools (issues, projectboard, branches, pull-requests) werpt zichtbaar vruchten af. Niet alleen zijn onze interne projecten (bijv. deze docs website) systematisch, georganiseerd en transparant, ook kunnen studenten na hun opleiding naadloos door in de beroepspraktijk.
 
-FDND studenten zijn blij, dit blijkt voor het 3e jaar op rij uit lovende resultaten in de NSE. In 2023, 2024 en 2025 ontving FDND het predicaat Topopleiding. Natuurlijk is de NSE niet leidend, wij merken ook in blokenquetes en tijdens panelgesprekken met studenten dat ze overwegend tevreden zijn.
+FDND studenten zijn blij, dit blijkt voor het 3e jaar op rij uit lovende resultaten in de NSE: In 2023, 2024 én 2025 ontving FDND het predicaat Topopleiding. Natuurlijk is de NSE niet leidend, wij merken ook in onze [blokenquêtes](/organisatie.html#blokenquete) en tijdens [panelgesprekken](/organisatie.html#panelgesprekken-1) met studenten dat ze overwegend tevreden zijn.
 
-FDND is ook kritisch, in dit document vind je onze ongefilterde zelfreflectie. Wij zien op veel vlakken mogelijkheden voor verbetering en zijn zodoende ook zeer benieuwd naar inzichten die voortkomen uit de Midterm Review.
+FDND is ook kritisch, in dit document vind je onze ongefilterde zelfreflectie. Wij zien op veel vlakken mogelijkheden voor verbetering en zijn zodoende ook zeer benieuwd naar inzichten die voortkomen uit deze visitatie.
 
 ### Context van de opleiding
 
-- Positionering binnen de Hogeschool van Amsterdam
-- organigram FDMCI
-- samenwerking met andere Ad’s
-- aansluiting bij internationale organisaties
-- Amsterdam, bedrijfsleven + lectoraten, MBO’s
+Voor we de standaarden induiken en in detail treden willen we even stilstaan bij de context van onze opleiding. FDND staat in de doorlopende lijn van het cluster Mediadesign. Samen met drie andere clusters vormen wij het onderwijs binnen de faculteit Digitale Media en Creatieve Industrie (FDMCI), een van de zeven faculteiten van de Hogeschool van Amsterdam (HvA).
+
+|  | Mediadesign | ICT | Media en Communicatie | Fashion |
+| ----- | ----- | ----- | ----- | ----- |
+| **Ad** | Frontend Design & Development |	Software Development, Cyber Security	| Smart Media Production | Ad in ontwikkeling |
+| **Ba** | Communication & Multimedia Design	 | HBO-ICT | Communicatie + Creative Business | Amsterdam Fashion Institute |
+| **Ma** | Digital Design | Applied Artificial Intelligence, Cyber Security | | 
+
+Binnen FDMCI delen de vier Associate degree programma’s een examen- en toetscommissie, en overleggen elke twee weken met elkaar. Tijdens dit overleg worden ervaring, onderwijs- en organisatorische inzichten en expertise met elkaar gedeeld. Daarboven is op HvA niveau een leergemeenschap Associate Degree’s, dit orgaan komt jaarlijks enkele malen bij elkaar voor een thematische bijeenkomst.
+
+[Onderzoekers van FDMCI](https://www.hva.nl/over-de-hva/organisatie/faculteiten/digitale-media-en-creatieve-industrie/onderzoek) doen praktijkgericht onderzoek dat ontstaat vanuit een vraag of probleem uit de praktijk. Resultaten zijn kennis, inzichten, producten en diensten die bijdragen aan innovatie van de beroepspraktijk, het oplossen van maatschappelijke vraagstukken en de vernieuwing van het onderwijs. Het onderzoek wordt uitgevoerd binnen verschillende lectoraten en onderzoeksgroepen, een aantal van deze lectoraten vervullen als [partner in education](https://partners.fdnd.nl/projecten) de rol van opdrachtgever bij FDND projecten.
+
+Ook veel bedrijven uit de metropoolregio Amsterdam zijn [partner in education](https://partners.fdnd.nl) en werken op verschillende manieren met ons samen. Als projectpartner, bij design-challenges, als co-teacher, bij het geven van talks of het aanbieden van een stageplek. Een actueel overzicht van lopende projecten is te zien op [dashboard.fdnd.nl/](https://dashboard.fdnd.nl/).
+
+We hebben contact met verschillende MBO opleidingen en doen een pilot binnen [FDND Agency](/standaarden.html#fdnd-agency): een vernieuwend onderwijsconcept waarin studenten van verschillende niveau’s (4, 5 en 6) en studierichtingen bij elkaar komen en in multidisciplinaire teams aan échte opdrachten voor échte opdrachtgevers werken.
+
+FDND is aangesloten [Fronteers](https://www.fronteers.nl/),  vakvereniging voor front-end developers in Nederland en bezoekt met regelmaat (inter)nationale vakgerelateerde conferenties en bijeenkomsten (vb. [CSSDay](https://cssday.nl/), [performance.now()](https://perfnow.nl/), [Smashing Conference](https://smashingconf.com/amsterdam-2026)). Wij staan in contact met [accessibility.nl](https://www.accessibility.nl/), onderdeel van Bartiméus dat specifiek gericht is op digitale toegankelijkheid. Ook zijn wij aangesloten bij [Chain 5](https://www.chain5.net/), de Europese Community of Practice voor niveau 5 opleidingen waar we op de jaarlijkse conferentie workshops/talks verzorgen.
 
 ### Administratieve gegevens
 
-tabelvorm..
+
 
 ## Standaard 1: Beoogde leer­resultaten
 
