@@ -207,7 +207,7 @@ De precieze uitvoer van het toetsproces is ten opzichte van de [beoogde werkwijz
 
 ### Vormgeving van de opleiding
 
-We beschrijven hoe het curriculum van FDND zich in de afgelopen jaren heeft ontwikkeld tot een samenhangend, iteratief geheel. We laten zien hoe de sprints logisch op elkaar aansluiten, hoe studenten stap voor stap in toenemende complexiteit worden uitgedaagd en hoe echte projecten, het Learning Journal en de mentorrol elkaar versterken. Zo wordt zichtbaar hoe de vormgeving van de opleiding niet alleen de inhoud structureert, maar ook het leerproces, de samenwerking en de professionele houding van studenten vormgeeft.
+We beschrijven hoe het curriculum van FDND is ontwikkeld tot een samenhangend, iteratief geheel. We laten zien hoe de sprints logisch op elkaar aansluiten, hoe studenten stap voor stap in toenemende complexiteit worden uitgedaagd en hoe echte projecten, het Learning Journal en de mentorrol elkaar versterken. Zo wordt zichtbaar hoe de vormgeving van de opleiding niet alleen de inhoud structureert, maar ook het leerproces, de samenwerking en de professionele houding van studenten vormgeeft.
 
 #### Opbouw Curriculum
 
@@ -351,6 +351,10 @@ Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraa
 > We hadden regelmatig meetings met de OC. Vaak liepen we inhoudelijk vast op onderwerpen als budgetten en de OER, waardoor er soms weinig concreets uit de vergaderingen kwam. <cite>Suus van Harsveld, OC-lid 2022/23</cite>
 
 > Over het algemeen hebben we het proces van de OC goed uitgevoerd. Ik heb actief deelgenomen aan externe vergaderingen, trainingen en interne vergaderingen. Ik denk dat ik onze opleiding tijdens deze momenten goed heb vertegenwoordigd. Daarnaast heb ik me ook ingezet voor het werven van een nieuw OC-lid. Over het algemeen ben ik tevreden over de OC, en ik hoop in de toekomst mijn taak over te dragen aan een andere enthousiaste deelnemer. <cite>Stefan Espant, OC-voorzitter 2022/24</cite>
+
+> Sinds kort ben ik lid van de OC. In het begin was het even wennen, omdat er veel nieuwe informatie en termen op mij afkwamen. Gelukkig kon ik met vragen terecht bij een ervaren team, waardoor ik goed werd begeleid en snel een duidelijker beeld kreeg van de werkwijze en onderwerpen binnen de OC. Hierdoor voelde ik mij steeds zekerder in mijn rol en kon ik actiever deelnemen aan de overleggen. <cite>Yassine Akka, OC-lid 2025/26</cite>
+
+> Als OC-lid heb ik actief deelgenomen aan externe vergaderingen. Omdat ik de eerste periode het enige OC lid was, vond ik het lastig om alles op te pakken en aan de slag te kunnen. De externe meetings waren soms lastig te volgen, ook omdat niet alles relevant was voor onze opleiding. Toen de OC ging uitbreiden doordat er een docent bijkwam en ik twee nieuwe OC-leden had gevonden, werd het allemaal een stuk duidelijker en waren de vergaderingen makkelijker te volgen. Ook plande wij sindsdien regelmatig interne meetings in dus is het binnen de OC in mijn ervaring verbeterd in vergelijking van toen ik er begon en hoe het nu gaat. <cite>Clarice Boerlijst, OC-voorzitter 2025/2026</cite>
 
 ### Personeel
 
