@@ -24,11 +24,11 @@ Voor we de standaarden induiken en in detail treden willen we even stilstaan bij
 
 |  | Mediadesign | ICT | Media en Communicatie | Fashion |
 | ----- | ----- | ----- | ----- | ----- |
-| **Ad** | Frontend Design & Development |	Software Development, Cyber Security	| Smart Media Production | Ad Fashion DNA* |
+| **Ad** | Frontend Design & Development |	Software Development, Cyber Security	| Smart Media Production | Ad Fashion DNA &#42; |
 | **Ba** | Communication & Multimedia Design	 | HBO-ICT | Communicatie + Creative Business | Amsterdam Fashion Institute |
-| **Ma** | Digital Design | Applied Artificial Intelligence, Cyber Security | | 
-* in ontwikkeling
+| **Ma** | Digital Design | Applied Artificial Intelligence, Cyber Security | | Fashion Track bij Digital Design |
 
+&#42; in ontwikkeling
 
 Binnen FDMCI delen de vier Associate degree programma’s een examen- en toetscommissie, en overleggen elke twee weken met elkaar. Tijdens dit overleg worden ervaring, onderwijs- en organisatorische inzichten en expertise met elkaar gedeeld. Daarboven is op HvA niveau een leergemeenschap Associate Degree’s, dit orgaan komt jaarlijks enkele malen bij elkaar voor een thematische bijeenkomst.
 
@@ -96,6 +96,8 @@ LLM's, zoals ChatGPT, en andere genAI-tools, zoals Co-Pilot, kunnen een verleide
 Wij herkennen de conclusie van het artikel [Kids who use ChatGPT as a study assistant do worse on tests](https://www.popsci.com/technology/kids-who-use-chatgpt-as-a-study-assistant-do-worse-on-tests/) waarin over het leerrendement met gebruik van AI gesproken wordt maar er zijn ook tegengeluiden, bijvoorbeeld in het artikel [How does generative artificial intelligence impact student creativity?](https://www.sciencedirect.com/science/article/pii/S2713374523000316) (aangereikt door @jayka45). Wat ons betreft ligt een belangrijk onderscheid in het type toepassing.
 
 GenAI kan helpen meerdere oplossingsrichtingen te verkennen maar is geen vervanging voor het doorgronden van o.a. browser-API’s. LLM's zijn wat ons betreft dus geen vervanging voor diepgaand leren, experimenteren, en samenwerking met anderen, maar kunnen daar wel bij helpen. Wij leren studenten een balans te vinden tussen het gebruik van deze technologie en het zelf ontwikkelen van vaardigheden door praktijkervaring en het opdoen van kennis uit betrouwbare bronnen, waarbij de nadruk ligt op het laatste.
+
+We leren studenten in het derde semester hoe ze AI op een verantwoorde manier kunnen inzetten, zodat ze goed voorbereid zijn op hun stage en daarna. Tijdens het eerste jaar focussen we op coderen zonder AI. Deze aanpak helpt studenten om zelfstandig te beoordelen of code van goede kwaliteit is. Met deze vaardigheden zijn studenten een waardevolle aanwinst voor bedrijven. Ze kunnen niet alleen code schrijven, maar ook begrijpen en evalueren.
 
 ### Frontend op Ad niveau
 
@@ -205,6 +207,8 @@ De precieze uitvoer van het toetsproces is ten opzichte van de [beoogde werkwijz
 
 ### Vormgeving van de opleiding
 
+We beschrijven hoe het curriculum van FDND zich in de afgelopen jaren heeft ontwikkeld tot een samenhangend, iteratief geheel. We laten zien hoe de sprints logisch op elkaar aansluiten, hoe studenten stap voor stap in toenemende complexiteit worden uitgedaagd en hoe echte projecten, het Learning Journal en de mentorrol elkaar versterken. Zo wordt zichtbaar hoe de vormgeving van de opleiding niet alleen de inhoud structureert, maar ook het leerproces, de samenwerking en de professionele houding van studenten vormgeeft.
+
 #### Opbouw Curriculum
 
 Het curriculum werkt in grote lijnen zeer goed. De opbouw in toenemende complexiteit komt vanaf het begin duidelijk naar voren. Wel hebben we op enkele punten de thema's of de volgorde van de sprints aangepast. Zo hebben we op semesterniveau, in iteraties, belangrijke front-endprincipes steeds meer in dezelfde volgorde van sprints aangeboden. Vanuit herhaling van lesstof uit voorgaande semesters wordt de stof geleidelijk steeds complexer in opvolgende semesters. Een voorbeeld hiervan is sprint 10 in semester 2, die we hebben hernoemd van _Performance Matters_ naar _User Experience_, waardoor deze sprint beter aansluit bij sprint 4 uit semester 1, _Look and Feel_.
@@ -221,16 +225,7 @@ Hoewel de thema's over het algemeen goed aansluiten bij de opdrachtomschrijvinge
 
 #### Leerproces
 
-Uit leertaak https://github.com/fdnd-task/i-love-web/blob/main/docs/INSTRUCTIONS.md
-
-https://docs.fdnd.nl/onderwijs.html#learning-journal
-
-routinematig
-
-Studenten houden hun eigen leerproces bij in een Learning Journal. Een plek waar ze code en design experimenten kunnen doen, en kunnen bijhouden wat ze hebben geleerd. Het learning journal kent een routinematig deel waarin ze (leren) aantekeningen bijhouden en gestructureerd studeren. Tijdens checkouts en retrospects gaan ze regelmatig terugkijken naar wat ze hebben gedaan en geleerd. Tegelijkertijd werken studenten aan een eigen website, een etelage, die meegroeit, zodat ze aan het eind van de opleiding een écht online visitekaartje hebben. Hierdoor worden zich nog meer bewust dat ze aan het leren zijn.
-
-
-i-love-website
+Naast het aangeboden programma en het werken aan leer- en deeltaken houden hun eigen leerproces bij in een Learning Journal. Een plek waar ze code en design experimenten kunnen doen, en kunnen bijhouden wat ze hebben geleerd. Het Learning Journal kent een routinematig deel waarin ze (leren) aantekeningen bijhouden en gestructureerd studeren. Tijdens checkouts en retrospects kijken studenten regelmatig terug naar wat ze hebben gedaan en geleerd. Tegelijkertijd werken studenten aan een eigen website, een etalage, die meegroeit, zodat ze aan het eind van de opleiding een portfolio-website hebben.
 
 #### Mentorrol
 
@@ -307,14 +302,15 @@ De gemiddelde Ad student is iets ouder dan de gemiddelde Ba student. Dit is duid
 
 ### Studentenbegeleiding
 
+Naast persoonlijke coaching die studenten van hun squad-leader ontvangen hebben we duidelijke richtlijnen voor afnemende sturing en toenemde complexiteit. Daarin veranderd ook de manier van aanspreken van studenten en de houding die docenten innemen.
 
+In het eerste semester gaan we er van uit dat studenten enthousiast zijn. We spreken ze aan op enthousiasme en uitproberen, durven en fouten maken is oké. We laten ze zien hoe het moet, we geven voorbeelden en verwijzen daarbij naar de bronnen die bij die voorbeelden horen. We houden ons voornamelijk aan de materie die bij de lessen behandeld is tenzij we merken dat studenten meer aan kunnen. Dit is het semester van nadoen en spiegelen.
 
-— TODO:
-- Cijfers uit de NSE en blokenquête, stukje van de studentendecaan
-- Evalueren met de opleidingscommissie. Verwijzen naar onderwijs document
-- Gezichtsveld vanuit de student
+In het tweede semester spreken we studenten meer en meer aan op nieuwsgierigheid. We verwijzen naar bronnen die in lessen genoemd worden, vragen of ze al zelf bronnen consumeren (mailinglists). We geven geen voorgekauwde voorbeelden meer bij zelfwerkzaamheid en doen geen keyboard-takeovers maar maken samen een breakdown schets maken om inzicht te verkrijgen. We helpen studenten die in paniek slaan op S1 niveau maar benoemen dit wel.
 
-—
+In het derde semester beheersen studenten de principes van het web en voelen zich comfortabel in het omarmen van nieuwe technieken. We spreken ze aan op vindingrijkheid. Bij het leren van een tool of framework worden studenten gestimuleerd zelfstandig de documentatie door te lezen. Tijdens de lessen worden voorbeelden gegeven maar vooral de abstractere principes uitgelegd. Studenten volgen de documentatie van de frameworks zelf en krijgen in leertaken geen stapsgewijze instructie meer.  Als studenten een probleem ervaren zoeken ze eerst zelf naar oplossingen of bespreken ze dit met teamleden voor ze naar de docent stappen.
+
+Tenslotte bewijzen studenten bewijzen in semester vier zelfstandig dat ze het leerresultaat beheersen. Docenten praten over het gemaakte werk en de bijbehorende gedragscriteria en -indicatoren. Inhoudelijke hulp halen ze bij jaargenoten, op het internet of bij professionals. Als ze oplossingen vinden die het delen waard zijn brengen ze dat in de groep. Docenten verwijzen naar de groep.
 
 ### Studeren met een functiebeperking
 
@@ -392,7 +388,7 @@ Wij beogen toetsing in dienst van het leerproces te plaatsen maar de werkelijkhe
 
 2023/24: We omarmen Portflow, een ontwikkelingsgerichte onderwijsportfoliotool van de makers van Feedpulse. In Portflow kan bewijslast ingericht op semester gekoppeld worden aan de indicatoren, dit vervangt het ontwikkeldocument. Studenten schrijven bij het ingediende werk nog steeds uitgebreide STARR-Reflecties. Door deze stap worden assessments iets meer gericht op het gemaakte werk en minder op de reflectiecapaciteit van studenten. De nakijkdruk in voorbereiding op asssessments is nog hoog, docenten rapporteren tussen de 30 en 90 minuten aan voorbereiding per student omdat vragen die in het assessment gesteld werden persoonlijk en op basis van het portfolio opgesteld worden. De navolgbaarheid en archivering van Portflow is veel beter dan voorheen. Er is sprake van afnemende sturing in de mate van zelfstandigheid voor het naar Portflow brengen van gemaakt werk. In semester 1 is er geleide instructie, in semester 2 gedeelde verantwoordelijkheid, in semester 3 facilitering voor stellen van vragen en organisatie van peer-feedback sessies op het portfolio en in semester 4 zijn studenten zelf verantwoordelijk. Assessments zijn 30 minuten.
 
-2024/25: Portflow bevalt maar de resolutie mag lager. In plaats van inrichting op indicator (15 mapjes met gemaakt werk en reflecties) besluiten we in te richten op criteria (5 mapjes met gemaakt werk en reflecties). Dit maakt Portflow overzichtelijker. We vragen studenten daarnaast een *Learning Journal* bij te houden. Nakijktijd en voorbereiding blijven, bij kalibratie en uit ervaring afgelopen jaren wordt duidelijker welk type vragen bij de criteria/indicatoren op het assessment uitgevraagd worden dus er ontstaat routine bij het docententeam. De afnemende sturing blijft gehandhaafd, studenten in semester 4 weten goed waar ze voor opgeleid worden en hoe ze dit inzichtelijk kunnen maken. Assessments zijn 30 minuten.
+2024/25: Portflow bevalt maar de resolutie mag lager, zodat we meer holistisch kunnen beoordelen. In plaats van inrichting op indicator (15 mapjes met gemaakt werk en reflecties) besluiten we in te richten op criteria (5 mapjes met gemaakt werk en reflecties). Dit maakt Portflow overzichtelijker. We vragen studenten daarnaast een *Learning Journal* bij te houden. Nakijktijd en voorbereiding blijven, bij kalibratie en uit ervaring afgelopen jaren wordt duidelijker welk type vragen bij de criteria/indicatoren op het assessment uitgevraagd worden dus er ontstaat routine bij het docententeam. De afnemende sturing blijft gehandhaafd, studenten in semester 4 weten goed waar ze voor opgeleid worden en hoe ze dit inzichtelijk kunnen maken. Assessments zijn 30 minuten.
 
 2025/26: Dit jaar stellen de resolutie in Portflow opnieuw bij. Nu richten we dit in op semester. Dus een mapje met gemaakt werk in voorbereiding op het assessment. Daarmee is het koppelen aan indicatoren belangrijker en worden gedragscriteria en -indicatoren als raamwerk toegevoegd. Tijdens de retrospect (aan het einde van elke sprint) is aandacht voor het *mappen* van verzamelde bewijslast op indicatoren waarbij afnemende sturing gehandhaafd blijft. Voor het eerst proberen we zonder vooraf nakijken tijdens het assessment het gemaakte werk te beoordelen. Daartoe hanteren we een serie standaard vragen die naar gelang de kwaliteit van het gemaakte werk gesteld kunnen worden. We roosteren assessments in een ruimte met scherm zodat de student ter plekke diens portfolio kan demonstreren. Omdat dit meer tijd kost zijn assessments 45 minuten met 5 minuten uitloop.
 
@@ -403,7 +399,7 @@ Het is goed hierbij te benoemen dat wij als docententeam veel kritischer zijn da
 
 > Binnen de assements en één op één momenten [checkpoints] wordt aandacht gegeven aan onze persoonlijke groei en wij krijgen opbouwende feedback gebaseerd op onze persoonlijke leerdoelen. Ook is er binnen de studie een fijne leeromgeving gecreëerd waar je als student ook van andere studenten leert. Er zijn soms bepaalde momenten tijdens leertaken waarin wij naar medestudenten worden gestuurd over onze vragen, terwijl het juist handiger is dat die momenten worden opgepakt door leraren. <cite>Daan, Rick en Youssra - Studenten 2023/24</cite>
 
-De huidige toetsmethodiek ziet er als volgt uit: We vragen studenten een _learning-journal_ bij te houden. We verzamelen bewijslast in Portflow tijdens de retrospect (elke 3e / = laatste vrijdag in een sprint) aan de hand van de [niveaumatrix](https://niveaumatrix.fdnd.nl). De bewijslast in Portflow wordt in de weken na de retrospect persoonlijk besproken tijdens een coachgesprek met de squad-leader. We delen Portflow nu in op semester en we labelen het gemaakte werk aan de hand van de gedragsindicatoren. Met deze aanpassing  wordt het doel, toetsing als leermoment, beter bediend en worden zowel bij de retrospect (formatief) als bij assessments (summatief) meer aandacht besteed aan feed-back/ feed-forward en feed-up. We gebruiken sinds het advies tijdens de MTR de term ‘ontwikkelingsgericht toetsen’.
+De huidige toetsmethodiek ziet er als volgt uit: We vragen studenten een _learning-journal_ bij te houden. We verzamelen bewijslast in Portflow tijdens de retrospect (elke laatste vrijdag in een sprint) aan de hand van de [niveaumatrix](https://niveaumatrix.fdnd.nl). De bewijslast in Portflow wordt in de weken na de retrospect persoonlijk besproken tijdens een coachgesprek met de squad-leader. We delen Portflow nu in op semester en we labelen het gemaakte werk aan de hand van de gedragsindicatoren. Met deze aanpassing  wordt het doel, toetsing als leermoment, beter bediend en worden zowel bij de retrospect (formatief) als bij assessments (summatief) meer aandacht besteed aan feed-back/ feed-forward en feed-up. We gebruiken sinds het advies tijdens de MTR de term ‘ontwikkelingsgericht toetsen’.
 
 > De manier van toetsen wordt steeds verder aangepast en we merken dat dit zichtbaar beter wordt. We hebben het gevoel dat docenten daadwerkelijk iets doen met de feedback van studenten. Er is minder schrijfwerk en meer ruimte om bewijs te leveren in de vorm van presentaties tijdens assessments. De niveaumatrix is duidelijk opgesteld; op dezelfde pagina kun je het niveau van volgende semesters bekijken en zien of je daar al aan voldoet. Voor sommige studenten kan de niveaumatrix nog wat vaag zijn, maar docenten zorgen ervoor dat we op de laatste schooldag vóór het assessment samen met medestudenten en docenten bespreken wat goede bewijslast is voor de criteria. Het assessment voelt meer als een gesprek waarin je over je werk praat, en niet per se als een traditionele toetsing. Nieuwe manier van portflow inleveren is fijner. Links + STAR i.p.v. Free Text. Dit scheelt tijd voor de student tijdens het inleveren, voor de docent tijdens het assessen en maakt het in het geheel overzichtelijker. <cite>Amber, Arman, Nayome, Viresh - Studenten 2025/26</cite>
 
@@ -439,11 +435,11 @@ Door het bijstellen van de toetsmethodiek en afschaffen van de formatieve checkp
 
 ### Onze toetsen zijn transparant
 
-Bij de kickoff van een semster en bij elke sprintplanning (de eerste maandag van een sprint) wordt de gerichtheid van respectievelijk semester en sprint besproken. Daarbij worden onder andere het leerresultaat en de bijbehorende vijf criteria en vijftien indicatoren besproken. Omdat deze manier van beoordelen gedurende 2 jaar hetzelfde blijft leren studenten de [niveaumatrix](https://niveaumatrix.fdnd.nl/) steeds beter zelf te raadplegen en te interpreteren.
+Bij de kickoff van elk semster wordt de gerichtheid besproken. Daarbij worden onder andere het leerresultaat en de bijbehorende vijf criteria en vijftien indicatoren behandeld. Omdat de manier van beoordelen gedurende 2 jaar hetzelfde blijft leren studenten de [niveaumatrix](https://niveaumatrix.fdnd.nl/) steeds beter zelf te raadplegen en te interpreteren. Wij zetten in het toetsproces bewust afnemende sturing of toenemende verantwoordelijkheid in op de aanlevering van werk als bewijslast (de student aan het roer). In semester 1 worden studenten bij de hand genomen en wordt het proces meerdere malen stap voor stap uitgelegd en geoefend, in semester 4 zijn studenten in staat zelfstandig hun bewijslast te verzorgen.
 
-Ook in het toetsproces is sprake van afnemende sturing (de student aan het roer). In semester 1 worden studenten bij de hand genomen en wordt het proces meerdere malen stap voor stap uitgelegd en geoefend, in semester vier zijn studenten in staat zelfstandig hun bewijslast te verzorgen.
+Bij FDND is zowel formatieve als summatieve feedback gericht op de jaarlijks vastgestelde niveaumatrix. Formatieve feedback wordt vastgelegd in GitHub waar docenten in issues, dicht op het werk van studenten, feedback gegeven. Summatieve feedback in de digitale leeromgeving waar studenten voorafgaand aan hun assessment een _snapshot_, een momentopname van hun Portflow inleveren. Zowel Portflow als het beoordelingsformulier in onze digitale leeromgeving (Brightspace) zijn ingericht op basis van de vijf gedragscriteria.
 
-Bij FDND is zowel formatieve als summatieve feedback gericht op de jaarlijks vastgestelde niveaumatrix. Formatieve feedback wordt vastgelegd in Portflow, summatieve feedback in de digitale leeromgeving waar studenten voorafgaand aan hun assessment een _snapshot_ - d.w.z. momentopname - van hun Portflow inleveren. Zowel Portflow als het beoordelingsformulier in onze digitale leeromgeving (Brightspace) zijn ingericht op basis van de vijf gedragscriteria. Het beoordelingsformulier werd voorheen op papier ingevuld maar is tegenwoordig digitaal. Deze digitaliseringsslag heeft goede archivering en snelheid als voordeel. Studenten zijn na hun assessment direct op de hoogte van de totstandkoming van hun beoordeling, de behandelde vragen en hun antwoorden en de ontvangen feedback. Daarnaast worden courses op onze digitale leeromgeving goed gearchiveerd en zeven jaar bewaard.
+Het beoordelingsformulier werd voorheen op papier ingevuld maar is tegenwoordig digitaal. Deze digitaliseringsslag heeft goede archivering en snelheid als voordeel. Studenten zijn na hun assessment direct op de hoogte van de totstandkoming van hun beoordeling, de behandelde vragen en hun antwoorden en de ontvangen feedback. Daarnaast worden courses op onze digitale leeromgeving goed gearchiveerd en zeven jaar bewaard.
 
 ### Organisatie en kwaliteitsborging van het toetsprogramma
 
@@ -454,7 +450,7 @@ Wij borgen de kwaliteit van toetsing op de volgende wijze:
 - Resultaten worden besproken in de [HEAL Retrospect](/organisatie.html#retrospect) die docenten aan het eind van elk semester uitvoeren. Inzichten worden meegenomen bij onderwijs(door)ontwikkeling.
 - De niveaumatrix kent net als de OER een jaarlijkse cyclus en wordt door het docententeam geevalueerd en bijgesteld waar nodig ([zie historie op GitHub](https://github.com/fdnd/niveaumatrix.fdnd.nl/releases)).
 - Bedrijven zijn nauw betrokken bij het onderwijsproces, als opdrachtgever, co-teacher of gastspreker. Wij praten doorlopend met bedrijven en nemen inzichten mee naar de opleiding.
-- Validering, actualisering en borging van het eindniveau wordt gedaan door gesprekken met stagebedrijven. 2024 is de 1e échte brede ronde stages (38 studenten), in 2023 ging dit slechts om een handjevol studenten (4 studenten). In 2025 zijn dit 
+- Validering, actualisering en borging van het eindniveau wordt gedaan door gesprekken met stagebedrijven. 2024 is de 1e échte brede ronde stages (38 studenten), in 2023 ging dit slechts om een handjevol studenten (4 studenten). In 2025 zijn is dit twee derde van de groep (19 studenten).
 - Borgingsagenda examencommissie, inmiddels ook voorzien van toetscommissie.
 
 ### Kwaliteitsborging door examencommissie
@@ -471,17 +467,18 @@ De examencommissie is verantwoordelijk voor de afhandeling van verzoekschriften 
 
 #### Borging toetsing
 
-De examencommissie borgt de kwaliteit van de organisatie en de procedures rondom tentamens en examens. De examencommissie heeft daartoe een borgingsagenda opgesteld. Bij de borging van de kwaliteit van de toetsing werkt de examencommissie samen met de gezamenlijke toetscommissie die met ingang van het studiejaar 2023-2024 is ingesteld. Ook hier is de meerwaarde van de gezamenlijkheid dat er kruisbestuiving plaatsvindt. De toetscommissie heeft een werkplan opgesteld waarin is aangegeven hoe de toetsing per Ad-opleiding wordt geborgd. De focus lag in studiejaar 2023- 2024 op het doorvoeren van verbeteringen in toetsing van de afstudeerfase en het onderzoeken van knelpunten in het onderliggende toetsproces. Door afwezigheid van een TC_lid van de Ad FDND is de aandacht echter naar de andere Ad’s gegaan. Vanaf studiejaar 2024-2025 is er weer een TC-lid van FDND toegevoegd aan de toetscommissie.
+De examencommissie borgt de kwaliteit van de organisatie en de procedures rondom tentamens en examens. De examencommissie heeft daartoe een borgingsagenda opgesteld. Bij de borging van de kwaliteit van de toetsing werkt de examencommissie samen met de gezamenlijke toetscommissie die met ingang van het studiejaar 2023-2024 is ingesteld. Ook hier is de meerwaarde van de gezamenlijkheid dat er kruisbestuiving plaatsvindt. De toetscommissie heeft een werkplan opgesteld waarin is aangegeven hoe de toetsing per Ad-opleiding wordt geborgd. De focus lag in studiejaar 2023- 2024 op het doorvoeren van verbeteringen in toetsing van de afstudeerfase en het onderzoeken van knelpunten in het onderliggende toetsproces. Door afwezigheid van een TC_lid van de Ad FDND is de aandacht echter naar de andere Ad’s gegaan. Vanaf studiejaar 2024-2025 is er weer een TC-lid van FDND toegevoegd aan de toetscommissie. 
 
-- Doorlinken naar organisatie!
+Lees bij [Organisatie > Kwaliteitsborging > Periodieke evaluatie Examencommissie](http://localhost:8080/organisatie.html#periodieke-evaluatie-examencommissie) de letterlijke passages over onderwijs en organisatie van FDND uit betreffende documenten geciteerd. 
 
 #### Borging eindniveau
 
 Bij de borging van het eindniveau werkt de examencommissie samen met de toetscommissie. Jaarlijks worden uit de eindwerken per opleiding twee tot drie werken geselecteerd waarvan de inhoud en de beoordeling door zowel de examencommissie as de toetscommissie wordt bekeken aan de hand van vooraf opgestelde aandachtspunten (zie evaluatie eindwerken 2023-2024). Verder is de hoofdassessor altijd bevoegd examinator en wordt het vier-ogen principe gehanteerd.
 
-### Steekproef eindwerken okt 2024
+##### Steekproef eindwerken:
 
-[Bevindingen zullen t.z.t. op deze plaats gedeeld worden. Het Midterm panel krijgt bericht als deze gepubliceerd zijn.]
+- [Evaluatie Afstudeerwerken 2024/25](/organisatie.html#evaluatie-afstudeerwerken-202425)
+- [Evaluatie Afstudeerwerken 2023/24](/organisatie.html#evaluatie-afstudeerwerken-202324)
 
 ## Standaard 4: Gerealiseerde leerresultaten
 
@@ -568,6 +565,28 @@ Hoe kijken alumni terug op hun opleiding bij FDND? We stelde deze vraag eind 202
 > De opleiding FDND heeft mij geleerd hoe ontwerp en front-end development elkaar kunnen versterken voor het bouwen van robuuste websites. Hierdoor heb ik mijn vaardigheden verbreed en ben ik goed inzetbaar op de arbeidsmarkt. De nadruk op samenwerken, communicatie en het blijven leren van nieuwe technieken heeft mij geholpen om met vertrouwen de stap naar het werkveld te zetten. <cite>Stefan van der Kort - Esens Design</cite>
 
 > Ik vond het prettig dat je op de opleiding geen 'nummertje' bent. Je wordt serieus genomen, ze kennen je bij naam, en je voelt je echt gezien. De opleiding heeft me veel gebracht, waaronder mijn eigen onderneming! Dat is natuurlijk supergaaf en iets waar ik best wel trots op ben. <cite>Rosa Hoffer, eigen onderneming</cite>
+
+## Bedrijven aan het woord
+
+> We waren blij dat de twee FDND stagiairs na hun stage bij Frameless wilden blijven! Ze hadden goede fundamentele skills voor het web platform, praktijkervaring met diverse frameworks en CMS-en, en gingen goed georganiseerd en sociaal aan de slag in ons scrum-team. Veel tevreden klanten, weinig zorgen! <cite>Robbert Broersma - Frameless, Amersfoort</cite>
+
+> We zijn als Hypersolid al een langere tijd betrokken bij FDND en nog altijd even enthousiast. Studenten die stage komen lopen bij ons passen goed binnen het bedrijf. Ze hebben al weet van de Scrum methodieken en hebben een goede technische basis opgebouwd, waardoor ze onze tech-stacks snel eigen kunnen maken. Ze denken mee op technisch en op design vlak maar zijn bovenal leergierig en groeien daardoor hard mee! <cite>Shyanta Vleugel - HyperSolid, Alkmaar</cite>
+
+> Ellenoor kwam als net afgestudeerde FDND'er bij ons binnen en verraste ons direct met haar leervermogen. Ze pikte onze tech stack (React.js en Next.js) razendsnel op en draagt nu al bij aan projecten. Daarnaast deelt ze actief kennis via ons tech blog. FDND levert echt startklare professionals die zowel technisch als qua houding goed voorbereid zijn! <cite>Dave Bitter - iO Digital, Amsterdam
+
+> De studenten van FDND passen perfect bij de werkwijze van Label Vier. Dankzij de opleiding ben je op de hoogte van de nieuwste techieken en werkwijze, maar word je ook goed klaargestoomd voor de arbeidsmarkt. <cite>Eric Mulder - Label Vier, Amersfoort</cite>
+
+> Na zijn stage is Luuk bij ons in dienst gekomen en kon hij meteen volwaardig meedraaien in het team. Bij FDND leren studenten de kernprincipes van het web via praktijkgerichte leertrajecten, zodat ze helemaal klaar zijn voor de arbeidsmarkt. <cite>Declan Rek - De Voorhoede, Amsterdam</cite>
+
+> Het was echt bijzonder om te zien hoe onze FDND-stagiairs uitgroeien tot volwaardige collega’s. Doordat ze de opdrachten goed wisten aan te sluiten, hebben wij hier veel aan gehad. En met nieuwe ideeën en vooral jonge frisse blikken gaven ze ons team nieuwe inzichten. Dat werkt niet alleen inspirerend voor korte periodes, maar blijkt zelfs waardevol op de lange termijn. Meerdere FDND’ers zijn inmiddels bij ons doorgegroeid naar een vaste rol. Hun open, gestructureerde en sociale manier van werken maakte dat ze naadloos in ons team pasten. <cite>David Withuis - Werktijden.nl, Amsterdam</cite>
+
+> Als student Communicatie & Multimedia Design (CMD) volgde ik destijds de frontend minor. Tijdens deze minor kreeg ik al de kans om bij Funda een opdracht te doen, en inmiddels werk ik daar al zeven jaar als frontend developer.
+>
+> Later hebben docenten vanuit CMD de Associate Degree Frontend Design & Development (FDND) opgericht. Vanuit mijn rol bij Funda heb ik de samenwerking met FDND geïntroduceerd en verder opgebouwd. Jaarlijks bieden wij opdrachten aan voor eerste- en tweedejaars studenten en hebben we ook een stageplek begeleid.
+>
+> Een mooie mijlpaal was een stage via de FDND stagemarkt, waar uiteindelijk een contract bij Funda uit is voortgevloeid. Inmiddels werkt deze stagiair bij Funda en werken we nauw samen.
+> 
+> Deze samenwerking laat zien wat er mogelijk is wanneer onderwijs en praktijk écht samen optrekken: studenten krijgen een waardevolle start, bedrijven ontdekken nieuw talent en FDND leidt professionals op die direct impact maken. <cite>Lars Schuitema - Funda, Amsterdam</cite>
 
 ## Studenten aan het woord
 
