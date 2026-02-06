@@ -291,13 +291,142 @@ FDND deelt een examencommisie met de andere Associate degree opleidingen binnen 
 
 ##### Jaarverslag 2024/25
 
+> […]
+> 
+> **5. Kwaliteit van toetsen**
+> 
+> a. De examencommissie heeft, naar eigen inzicht, de kwaliteit van toetsen goed kunnen borgen door dit deels te delegeren aan de toetscommissie. De toetscommissie let daarbij op de kwaliteit van de toetsing (validiteit, betrouwbaarheid, transparantie en navolgbaarheid van de oordelen) en procedurele aspecten van de toetsing. De toetscommissie deelt de bevindingen per opleiding met de examencommissie. Zoals aangegeven werken de toets- en examencommissie nauw samen en stemmen steeds onderling af wat prioriteit behoeft. We komen op basis hiervan tot gezamenlijke adviezen aan het management. De adviezen die de toetscommissie (gevraagd en ongevraagd) naar voren brengt worden besproken en in de praktijk altijd overgenomen. Op deze wijze borgen we gezamenlijk de kwaliteit van de toetsing en het eindniveau.
+> 
+> b. In de hiernavolgende paragrafen van dit hoofdstuk wordt per Ad-opleiding uitvoerig toegelicht op welke wijze invulling is gegeven aan de borging van de kwaliteit van toetsen en beoordelen waarbij steeds onderscheid is gemaakt naar de inrichting en uitvoering van de borgingsactiviteiten (de procedurele aspecten van de borging) en naar de mate waarin de examencommissie de gerealiseerde kwaliteit inhoudelijk naar eigen tevredenheid heeft kunnen borgen. Onderstaand hebben we de belangrijkste bevingen per Ad-opleiding samengevat.
+>
+> […]
+> 
+> **Ad Frontend Design & Development (FDND)**
+> - Procedurele borging: de overstap naar beoordeling op criteriumniveau, de herinrichting van Portflow en het versterken van formatief handelen hebben de borging verbeterd. Daarnaast zijn maatregelen genomen om piekbelasting te verminderen.
+> - Inhoudelijke borging: door duidelijke criteria, regelmatige feedbackmomenten en focus op vakmanschap is de inhoudelijke borging sterk toegenomen.
+> 
+> […]
+> 
+> c. De examen- en toetscommissie hebben kunnen beschikken over de Onderwijs- en toetsplannen van de vier Ad-opleidingen. Deze zijn sinds de start van de opleidingen niet aangepast. Maar de strekking van de toetsing is nog steeds hetzelfde. Wellicht dat de Ad-opleidingen CS en SD deze volgend jaar iets moeten aanpassen, maar in 2024-2025 was dat niet nodig. Het is in het studiejaar 2024-2025 niet voorgekomen dat, na een gemaakte toets, het beoordelingsmodel (inclusief cesuur) is aangepast. De examencommissie ziet, ten aanzien van de borgingsactiviteiten, nog ruimte voor verbetering op het gebied van de navolgbaarheid van de totstandkoming van de beoordelingen. Zie ook onze opmerkingen bij borging Eindniveau. Daarnaast verdient het gebruik van GAI meer aandacht bij toetsing en eindniveau, in die zin dat moeilijker kan worden vastgesteld wat het werk van de student is. Daartoe zal meer mondelinge toetsing noodzakelijk zijn.
+> 
+> […]
+> 
+> **5.2 Toetsing bij Ad Frontend Design & Development (FDND)**
+> 
+> In het afgelopen jaar zijn binnen FDND, mede op grond van aanbevelingen van de TC/ MTR en uit bevindingen van de EC, een aantal stappen gezet in de verbetering van de beoordelingssystematiek en de organisatie van Portflow en formatief handelen.
+> 
+> **5.2.1 Verbeteringen in beoordelingsstructuur en Portflow**
+> 
+> De beoordeling vond eerst plaats op indicator-niveau en vanaf schooljaar 2024-2025 op criterium-niveau. Dit heeft geleid tot tijdwinst en minder administratieve belasting voor docenten. Ook is het voor de studenten prettig dat het aantal lagen tussen studentenwerk en de beoordelingscriteria zijn verminderd. Ze begrijpen beter waar hun werk (en gedrag) aan moet voldoen. Studenten reflecteren nog wel op hoe hun werk zich verhoudt tot de indicatoren, o.a. tijdens de Retrospects (een keer in de drie weken), maar deze reflecties zijn in jaar 1 bewust verminderd. Vanaf semester 2 is er steeds meer tijd en aandacht voor het begrip van de indicatoren en hoe het werk en gedrag van de student zich hiertoe verhoudt.
+> 
+> **5.2.2 Formatief handelen en feedback**
+> 
+> Tijdens de eerste twee jaar van FDND werden de formatieve evaluatiemomenten ingericht door middel van checkpoints. Deze checkpoints werden als te summatief ervaren en zijn helemaal afgeschaft. Feedback wordt nu gedurende het blok gegeven, is vooral inhoudelijk (issues) en vindt plaats tijdens code- en designreviews. Reflectie vindt vooral plaats tijdens Retrospects, waarbij studenten hun bewijslast in Portflow bespreken onder begeleiding van een docent.
+> 
+> **5.2.3 Verschillen tussen Jaar 1 en Jaar 2**
+>
+> Jaar 1:
+> - Focus op doorlopende feedback en Retrospects; minder nadruk op expliciete bewijslast-momenten.
+> - Docenten hadden in het vorige studiejaar nog zeer intensieve voorbereiding voor assessments, wat leidde tot hoge piekbelasting.
+> 
+> Jaar 2:
+> - Wekelijkse formatieve momenten op vrijdag gericht op indicatoren.
+> - Er lag nog te veel focus op het verzamelen van bewijslast, terwijl de wens was dat studenten zich meer op het werk zelf zouden richten.
+> 
+> **5.2.4 Verminderen van piekbelasting**
+> 
+> Voor 2025–2026 is een duidelijke ambitie geformuleerd om de piekbelasting rondom beoordelings-weken te verminderen:
+> - In semesters 1, 2 en 3 wordt de duur van het assessment verlengd en wordt het werk ter plekke tegen de indicatoren aangehouden om voorbereidend nakijkwerk te beperken.
+> - De assessments in semester 4 worden wel vooraf voorbereid. De assessments zelf zullen hierdoor korter zijn.
+> 
+> **5.2.5 Focus op vakmanschap en ‘assessment as learning’**
+> 
+> De aandacht verschuift van toetsing als afvinklijst naar vakinhoudelijk frontend werk als basis voor feedback en beoordeling. In semester 3 vindt een uitgebreidere uitleg plaats over de indicatoren en hoe die zich verhouden tot het werk van de student om ze naar meer zelfstandigheid in semester 4 te begeleiden. Er vindt tijdens de opleiding dus een opbouw in meta-reflectie en een afnemende mate van sturing plaats.
+> 
+> […]
+
 ##### Evaluatie Afstudeerwerken 2024/25
+
+> […]
+>
+> **Wat geëvalueerd**
+> We hebben gekeken naar de eindwerken/portfolio’s van de afstudeeropdrachten en de beoordelingen daarvan. 
+> 
+> […]
+>
+> - Ad FDND: zes afstudeeropdrachten, beoordeeld met 1 / 5 / 6,5 / 8 / 9,5 / 10 
+> 
+> […]
+>
+> **Hoe geëvalueerd**
+> We hebben de beoordelingen en opdrachten bekeken aan de hand van de volgende aspecten:
+> 1. Is de opdracht afstudeerwaardig? Waaruit blijkt dat?
+> 2. Worden de beoogde leerresultaten getoetst in het eindwerk / de eindwerken / het portfolio? 
+> 3. Voldoen alle eindwerken aan de vooraf gestelde voorwaarden? Indien niet, hoe kan dat?
+> 4. Is niveau 5 (AD-niveau) voldoende aantoonbaar geborgd? 
+> 5. Zijn de vijf gedragsindicatoren (Methodisch handelen, Samenwerken, Communiceren, Probleemoplossend vermogen, Lerend vermogen) opgenomen in de beoordelingsformulieren aan de hand van uitgewerkte rubrics?
+> 6. Wordt de beoordeling voldoende toegelicht/onderbouwd?
+> 7. Eens met cijfer beoordeling? Waarom wel/niet? 
+> 8. Is de totstandkoming van het cijfer navolgbaar?
+> 9. Is het werkveld voldoende betrokken bij de beoordeling van afstudeerwerk?
+> 10. In hoeverre zijn er regels voor het gebruik van AI? 
+> 11. In hoeverre zijn de aanbevelingen aan het management uit 2023 opgevolgd? 
+> 12. Eventueel nog andere opmerkingen?
+> 
+> […]
+> 
+> Bevindingen FDND
+> 
+> **Algemene bevindingen**
+> 
+> - Heldere opbouw en inzicht in de werkwijze en beoordelingssystematiek
+> - Adviezen van vorig jaar uit de evaluatie eindwerken en adviezen van de MTR zijn opgevolgd.
+> - We hebben ook een 1 gezien, niet geheel duidelijk op basis waarvan een student een 1 heeft gekregen en waarom deze in de steekproef is opgenomen. De 1 heeft wel geleid tot veel discussie in de toets- en examencommissie.
+> 
+> Zijn de afstudeeropdrachten voldoende afstudeerwaardig? Waaruit blijkt dat?
+> - Ja; We zien een variatie aan beroepsproducten en andere bewijslast in het portfolio van de studenten op basis van de leertaken die ze hebben uitgevoerd. Alle studenten waarvan een portfolio hebben gezien, studeren af op een opdracht(en) die past bij het laatste leerresultaat: De student ontwerpt en ontwikkelt zelfstandig complexe gebruiksvriendelijke interactieve toepassingen voor het web. De student beheerst de principes van het web, kan API’s en databases gebruiken, kan frameworks, templates en build tools inzetten, en werken volgens gangbare ontwikkelmethoden. 
+> 
+> Worden de beoogde leerresultaten getoetst in het eindwerk / de eindwerken / het portfolio?
+> - Ja; duidelijke koppeling gedragsindicatoren, leertaken en bewijslast. 
+> 
+> Voldoen alle eindwerken aan de vooraf gestelde voorwaarden? Indien niet, hoe kan dat?
+> - Niet beoordeeld.
+> 
+> Is niveau 5 (AD-niveau) voldoende aantoonbaar geborgd? Zijn de vijf gedragsindicatoren (Methodisch handelen, Samenwerken, Communiceren, Probleemoplossend vermogen, Lerend vermogen) opgenomen in de beoordelingsformulieren aan de hand van uitgewerkte rubrics?
+> - Ja, vijf gedragsindicatoren uitgewerkt in concrete gedragsindicatoren.
+> - De feedback is gericht op de criteria vd gedragsindicatoren
+> 
+> Is de totstandkoming van het cijfer navolgbaar? Wordt de beoordeling voldoende toegelicht/onderbouwd? Eens met cijfer beoordeling? Waarom wel/niet? 
+> - Ja, al is de feedback/toelichting uitgebreider wanneer iets als ‘goed’ is beoordeeld dan wanneer het nog niet goed is. Dan is het ‘niet behaald’.
+> - Het werk dat met een 1 is beoordeeld leek wel heel streng beoordeeld, is niet duidelijk onderbouwd. Het is gissen voor ons hoe dat komt, immers de student heeft wel werk ingeleverd: 
+> - Het komt waarschijnlijk omdat dan nog niets op gewenste niveau is behaald. Want als een criterium niet op niveau is, worden geen punten toegekend. 
+> - Maar dat zou betekenen dat wanneer alle criteria zijn behaald, er maar één cijfer uit kan komen, hetgeen niet het geval is. Dus hoe verloopt de weging in de puntentoekenning? Wanneer worden meer/minder punten toegekend? Toelichting hierover ontbreekt.
+> - Is het niet zo dat het werk eigenlijk ‘niet ontvankelijk is’ i.p.v. beoordeeld met een 1?
+> - De eerdere feedback (in het geval er iets gerepareerd moest worden) is niet goed te achterhalen. Dat is omdat het niet een herkansing is maar een reparatie; maar dan nog is het relevant om de eerdere feedback te zien. Dan kun je zien hoe dat is meegenomen in de reparatie. 
+> - Het lijkt wel erg intensief qua tijdsinvestering voor de beoordelaars. Is dat te doen? 
+> 
+> Is het werkveld voldoende betrokken bij de beoordeling van afstudeerwerk?
+> - Ja, wordt nu wel meer benadrukt, de feedback van werkgever is echter geen must. 
+> 
+> In hoeverre zijn er regels voor het gebruik van AI? 
+> - Het staat wel in het OER. Maar in de eindwerken is door studenten geen verantwoording gegeven over het gebruik van GAI.
+> 
+>
+> Conclusie 
+> - Ziet er over het geheel genomen goed uit. In de DLO zijn de eindwerken goed te zien en de bijbehorende beoordelingen geven voldoende inzicht in de totstandkoming daarvan.
+> 
+> Adviezen: 
+> - Overweeg, om de praktijkgerichtheid van de opleiding en student te benadrukken, de feedback/terugkoppeling van de opdrachtgever prominenter in beeld te brengen. Daarmee is zichtbaar hoe het werkveld betrokken is en tevreden is. Dit is ook iets om als opleiding trots op te zijn. 
+> - Laat het gebruik van GAI beter verantwoorden; verwerk het eventueel in een gedragscriterium. 
 
 ##### Jaarverslag 2023/24
 
 > […]
+> 
 > **6.3 Toetsing bij Ad Frontend Design & Development (FDND)**
+> 
 > […]
+> 
 > **6.3.1 Inleiding toetsing FDND**
 > 
 > De Ad FDND is een opleiding die voortdurend in beweging is. Vorig jaar werden studenten nog gevraagd om aan het eind van elk blok een ontwikkeldocument op te stellen (in plaats van de STARR’s). Dit jaar is ook dit losgelaten en heeft de opleiding besloten de reflecties te doen en bespreken tijdens de formatieve checkpoints en het summatieve portfolio-assessment aan de hand van het criterium gericht interview. Dit is erg goed bevallen aangezien de studenten nu meer tijd aan de inhoud kunnen besteden en zich tijdens de gesprekken met docenten kunnen richten op het reflecteren.
@@ -320,6 +449,91 @@ FDND deelt een examencommisie met de andere Associate degree opleidingen binnen 
 > […]
 
 ##### Evaluatie Afstudeerwerken 2023/24
+
+> […]
+>
+> **Wat geëvalueerd**
+> 
+> We hebben gekeken naar de beoordelingen van de afstudeeropdrachten en de bijbehorende portfolio’s. Van zowel SD als FDND hebben we drie afstudeerwerken bekeken, van CS en SMP hebben we twee werken bekeken.
+> 
+> […]
+> 
+> - AD FDND: drie afstudeeropdrachten, beoordeeld met respectievelijk een 8,3 en 7,3 en 5 (welke eind augustus is herkanst met een voldoende)
+> 
+> […]
+> 
+> **Hoe geëvalueerd**
+> 
+> We hebben de beoordelingen en opdrachten bekeken aan de hand van de volgende aspecten:
+> 1.	Is de opdracht afstudeerwaardig? Waaruit blijkt dat?
+> 2.	Worden de beoogde leerresultaten getoetst in het eindwerk / de eindwerken / het portfolio? 
+> 3.	Voldoen alle eindwerken aan de vooraf gestelde voorwaarden? Indien niet, hoe kan dat?
+> 4.	Is niveau 5 (AD-niveau) voldoende aantoonbaar geborgd? 
+> 5.	Zijn de vijf gedragsindicatoren (Methodisch handelen, Samenwerken, Communiceren, Probleemoplossend vermogen, Lerend vermogen) opgenomen in de beoordelingsformulieren aan de hand van uitgewerkte rubrics?
+> 6.	Wordt de beoordeling voldoende toegelicht/onderbouwd?
+> 7.	Eens met cijfer beoordeling? Waarom wel/niet? 
+> 8.	Is de totstandkoming van het cijfer navolgbaar?
+> 9.	Is het werkveld voldoende betrokken bij de beoordeling van afstudeerwerk?
+> 10.	In hoeverre zijn er regels voor het gebruik van AI? 
+> 11.	In hoeverre zijn de aanbevelingen aan het management uit 2023 opgevolgd? (zie hieronder)
+> 12.	Eventueel nog andere opmerkingen?
+> 
+> […]
+> 
+> **Bevindingen FDND**
+> 
+> Zijn de afstudeeropdrachten voldoende afstudeerwaardig? Waaruit blijkt dat?
+> - Ja, alle opdrachten lijken afstudeerwaardig. Uitspraken in de bewijslast worden (in verschillende mate) met concrete voorbeelden aangetoond.
+> - Er wordt niet gewerkt met één afstudeeropdracht maar met een hoeveelheid aan bewijs. Dit bewijs bestaat uit allerlei onderdelen waarmee een indicator op afstudeerniveau kan worden aangetoond
+>
+> Worden de beoogde leerresultaten getoetst in het eindwerk / de eindwerken / het portfolio?
+> - Ja; beoordeling is per gedragsindicator uitgewerkt en toegelicht
+>
+> Voldoen alle eindwerken aan de vooraf gestelde voorwaarden? Indien niet, hoe kan dat?
+> - De criteria en indicatoren staan in de rubric beschreven, de docenten schrijven feedback die verwijst naar de bewijslast van de student en verbinden die aan de betreffende indicator. 
+> - Niet duidelijk of de criteria zijn opgenomen in handleiding? 
+>
+> Is niveau 5 (AD-niveau) voldoende aantoonbaar geborgd? Zijn de vijf gedragsindicatoren (Methodisch handelen, Samenwerken, Communiceren, Probleemoplossend vermogen, Lerend vermogen) opgenomen in de beoordelingsformulieren aan de hand van uitgewerkte rubrics?
+> - Ja, vijf gedragsindicatoren opgenomen in beoordeling en toegelicht per onderdeel. 
+>
+> Wordt de beoordeling voldoende toegelicht/onderbouwd?
+> - Puntentoekenning is niet altijd goed navolgbaar; op basis van wat precies 1 of 3 pnt worden toegekend. 
+> - Niet duidelijk of er gekalibreerd wordt
+>
+> Eens met cijfer beoordeling? Waarom wel/niet? 
+> - Of de gegeven cijfers terecht zijn is niet echt vast te stellen; wordt wel uitgebreid onderbouwd. De onvoldoende wordt duidelijk door de (aanvankelijk) ontoereikende antwoorden op de vragen.
+> - Grappig dat er heel holistisch wordt beoordeeld en er dan toch resp 8,3 en 7,3 uitkomt
+> 
+> Is de totstandkoming van het cijfer navolgbaar?
+> - Ja, weging per gedragsindicator is aangegeven. 
+>
+> Is het werkveld voldoende betrokken bij de beoordeling van afstudeerwerk?
+> - Impliciet wel zichtbaar in PF’s studenten waarin ze screenshot geven met FB van werkveld.
+> 
+> In hoeverre zijn er regels voor het gebruik van AI? 
+> - Niet duidelijk gemaakt welke regels er worden gehanteerd, wat de student hierover moet melden. 
+> - Studenten mogen AI gebruiken. Er wordt inzicht en begrip beoordeeld hetgeen studenten moeten kunnen aantonen tijdens het assessment gesprek en het invullen van Portflow
+> 
+> In hoeverre zijn de aanbevelingen aan het management uit 2023 opgevolgd? (zie hieronder)
+> - Nvt, dit is de eerste keer dat de eindwerken van FDND worden geëvalueerd.
+> 
+> Eventueel nog andere opmerkingen?
+> - Is de rubric vastgezet? Lijkt alsof die nog is te wijzigen.
+> - Namen van beoordelaar(s?) ontbreken. Niet na te gaan of 4-ogen principe wordt gehanteerd. 
+> - De antwoorden op de vragen wegen kennelijk mee in de beoordeling. In welke mate is niet goed duidelijk. 
+> 
+> Conclusie & advies
+> - Formulier is goed ingericht op het proces; per indicator verwijzing naar bewijslast. Cijfer hierdoor navolgbaar
+> - Uitgebreide toelichting op de beoordeling per onderdeel en overall. Houd dit vast!
+> - Niet na te gaan of 4-ogen principe wordt gehanteerd. Namen van beoordelaars niet op formulier;
+> - Werkveldbetrokkenheid niet goed zichtbaar
+> 
+> Adviezen:
+> - Zorg voor betere borging en transparantie beoordelingssystematiek:
+> - Voeg de namen van beoordelaars toe. Nu is niet na te gaan of 4-ogen principe wordt gehanteerd. 
+> - Maak inbreng werkveld zichtbaar in de beoordeling; neem advies/fb van de opdrachtgever/bedrijfsbegeleider op in de beoordeling. Geef ook de weging daarvan aan in het eindcijfer.
+>
+> […]
 
 ##### Jaarverslag 2022/23
 
