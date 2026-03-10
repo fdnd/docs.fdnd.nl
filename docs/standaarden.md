@@ -349,7 +349,7 @@ Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraa
 
 Veel technische en ICT gerichte opleidingen hebben moeite gekwalificeerd personeel te vinden. Wij hebben een groot netwerk binnen de frontend community. Een groot deel van ons docententeam is al jaren actief binnen de minor web bij CMD en veel van de alumni zijn nu senior frontender in de beroepspraktijk. Daarnaast zijn een aantal docenten lid van of in-the-loop bij vakverenigingen waaronder fronteers, okaydev, awwwards. Tot nog toe heeft FDND geen moeite om topdocenten te werven.
 
-### Aansluiten bij de actualiteit
+#### Aansluiten bij de actualiteit
 
 FDND wil _up-to-date_ te blijven met veranderingen in de HTML/CSS/JS standaarden. Dit betekent concreet dat docenten doorlopend met elkaar, van elkaar en van studenten leren. Zo garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
 
@@ -365,7 +365,9 @@ Een aanzienlijk deel van ons docententeam bezoekt jaarlijks de CSSDay conferenti
 
 Docenten blijven op de hoogte van ontwikkelingen in het vakgebied door samen les te geven, het lezen van vakliteratuur en het bezoeken van conferenties. Vakliteratuur in de vorm van artikelen op internet worden veelvuldig gedeeld in de daarvoor gemaakte kanalen in het docenten- en studententeam in MS Teams. We hebben een AI-guild ontwikkeld omdat deze opkomende technologie impact heeft op het frontenderschap. Hiertoe is een speciaal kanaal gemaakt voor AI-ontwikkelingen.
 
-Er is aandacht voor didactische scholing van docenten. Squad-leaders hebben het BDB programma gevolgd of zijn dat aan het doen. Alle docenten worden gestimuleerd hun BKE te behalen en leden van de examencommissie behalen hun SKE. Ook is er een assessorentraining en worden assessoren jaarlijks benoemd door de examencommissie. Een aantal van onze docenten volgde een jaartraject coaching 3.0. Alle docenten hebben de mogelijkheid scholingsprogramma bij de HvA Academie te volgen.
+#### Aandacht voor didactische vaardigheden
+
+Er is natuurlijk ook aandacht voor didactische scholing van docenten. Squad-leaders hebben het BDB programma gevolgd of zijn dat aan het doen. Docenten worden gestimuleerd hun BKE te behalen en leden van de examencommissie behalen hun SKE. Ook is er een assessorentraining en worden assessoren jaarlijks benoemd door de examencommissie. Een aantal van onze docenten volgde een jaartraject coaching 3.0. Alle docenten hebben de mogelijkheid scholingsprogramma bij de HvA Academie te volgen.
 
 ## Standaard 3: Toetsing
 
