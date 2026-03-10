@@ -12,9 +12,9 @@ FDND loopt met het docententeam, opleidingscommissie, studenten en contacten in 
 
 ## Inleiding
 
-FDND is trots op bereikte resultaten! Er staat een mooie opleiding met een gedegen fundament waar wij als team het volste vertrouwen in hebben. De beroepspraktijk is dit met ons eens en is op allerlei manieren betrokken bij de opleiding. Wij hanteren hetzelfde jargon: _Agility_ zit verweven in ons DNA, wij _itereren_ doorlopend en brengen zo onze kwaliteit naar een steeds hoger niveau. Ook studenten werken doorlopend iteratief aan échte projecten voor échte opdrachtgevers. Het omarmen van _GitHub_, defacto standaard, als publieke _code-repository_ en de bijbehorende projecttools (issues, projectboard, branches, pull-requests) werpt zichtbaar vruchten af. Niet alleen zijn onze interne projecten (bijv. deze docs website) systematisch, georganiseerd en transparant, ook kunnen studenten na hun opleiding naadloos door in de beroepspraktijk.
+FDND is trots op bereikte resultaten! Er staat een mooie opleiding met een gedegen fundament waar wij als team het volste vertrouwen in hebben. De beroepspraktijk is dit met ons eens en is op allerlei manieren betrokken bij de opleiding. Wij hanteren hetzelfde jargon als in de praktijk: _Agility_ zit verweven in ons DNA, wij _itereren_ doorlopend en brengen zo onze kwaliteit naar een steeds hoger niveau. Ook studenten werken doorlopend iteratief aan [échte projecten voor échte opdrachtgevers](https://github.com/fdnd-agency/). Het omarmen van _GitHub_, defacto standaard, als publieke _code-repository_ en de bijbehorende projecttools (issues, projectboard, branches, pull-requests) werpt zichtbaar vruchten af. Niet alleen zijn onze interne projecten (bijv. deze docs website) systematisch, georganiseerd en transparant, ook stromen studenten na hun opleiding naadloos door naar de beroepspraktijk.
 
-FDND studenten zijn blij, dit blijkt voor het 3e jaar op rij uit lovende resultaten in de NSE: In 2023, 2024 én 2025 ontving FDND het predicaat Topopleiding. Natuurlijk is de NSE niet leidend, wij merken ook in onze [blokenquêtes](/organisatie.html#blokenquete) en tijdens [panelgesprekken](/organisatie.html#panelgesprekken-1) met studenten dat ze overwegend tevreden zijn.
+FDND studenten zijn tevreden over hun opleiding, dit blijkt voor het 3e jaar op rij uit lovende resultaten in de NSE: In 2023, 2024 én 2025 ontving FDND het predicaat Topopleiding, ook in de Keuzegids. Natuurlijk is de NSE niet leidend, wij merken ook in onze [blokenquêtes](/organisatie.html#blokenquete) en tijdens [panelgesprekken](/organisatie.html#panelgesprekken-1) met studenten dat ze overwegend tevreden zijn.
 
 FDND is ook kritisch, in dit document vind je onze ongefilterde zelfreflectie. Wij zien op veel vlakken mogelijkheden voor verbetering en zijn zodoende ook zeer benieuwd naar inzichten die voortkomen uit deze visitatie.
 
@@ -24,13 +24,13 @@ Voor we de standaarden induiken en in detail treden willen we even stilstaan bij
 
 |  | Mediadesign | ICT | Media en Communicatie | Fashion |
 | ----- | ----- | ----- | ----- | ----- |
-| **Ad** | Frontend Design & Development |	Software Development, Cyber Security	| Smart Media Production | Ad Fashion DNA &#42; |
+| **Ad** | Frontend Design & Development |	Software Development, Cyber Security	| Smart Media Production | Ad Digital Fashion Technology &#42; |
 | **Ba** | Communication & Multimedia Design	 | HBO-ICT | Communicatie + Creative Business | Amsterdam Fashion Institute |
 | **Ma** | Digital Design | Applied Artificial Intelligence, Cyber Security | | Fashion Track bij Digital Design |
 
-&#42; in ontwikkeling
+&#42; nog niet goedgekeurd, in ontwikkeling
 
-Binnen FDMCI delen de vier Associate degree programma’s een examen- en toetscommissie, en overleggen elke twee weken met elkaar. Tijdens dit overleg worden ervaring, onderwijs- en organisatorische inzichten en expertise met elkaar gedeeld. Daarboven is op HvA niveau een leergemeenschap Associate Degree’s, dit orgaan komt jaarlijks enkele malen bij elkaar voor een thematische bijeenkomst.
+Binnen FDMCI delen de vier Associate degree programma’s een examen- en toetscommissie. Ook overleggen coördinatoren van deze vier Ad’s elke twee weken met elkaar. Tijdens dit overleg worden ervaring, onderwijs- en organisatorische inzichten en expertise met elkaar gedeeld. Daarboven is op HvA niveau een leergemeenschap Associate Degree’s, dit orgaan komt jaarlijks enkele malen bij elkaar voor een thematische bijeenkomst.
 
 [Onderzoekers van FDMCI](https://www.hva.nl/over-de-hva/organisatie/faculteiten/digitale-media-en-creatieve-industrie/onderzoek) doen praktijkgericht onderzoek dat ontstaat vanuit een vraag of probleem uit de praktijk. Resultaten zijn kennis, inzichten, producten en diensten die bijdragen aan innovatie van de beroepspraktijk, het oplossen van maatschappelijke vraagstukken en de vernieuwing van het onderwijs. Het onderzoek wordt uitgevoerd binnen verschillende lectoraten en onderzoeksgroepen, een aantal van deze lectoraten vervullen als [partner in education](https://partners.fdnd.nl/projecten) de rol van opdrachtgever bij FDND projecten.
 
@@ -38,7 +38,7 @@ Ook veel bedrijven uit de metropoolregio Amsterdam zijn [partner in education](h
 
 We hebben contact met verschillende MBO opleidingen en doen een pilot binnen [FDND Agency](/standaarden.html#fdnd-agency): een vernieuwend onderwijsconcept waarin studenten van verschillende niveau’s (4, 5 en 6) en studierichtingen bij elkaar komen en in multidisciplinaire teams aan échte opdrachten voor échte opdrachtgevers werken.
 
-FDND is aangesloten [Fronteers](https://www.fronteers.nl/),  vakvereniging voor front-end developers in Nederland en bezoekt met regelmaat (inter)nationale vakgerelateerde conferenties en bijeenkomsten (vb. [CSSDay](https://cssday.nl/), [performance.now()](https://perfnow.nl/), [Smashing Conference](https://smashingconf.com/amsterdam-2026)). Wij staan in contact met [accessibility.nl](https://www.accessibility.nl/), onderdeel van Bartiméus dat specifiek gericht is op digitale toegankelijkheid. Ook zijn wij aangesloten bij [Chain 5](https://www.chain5.net/), de Europese Community of Practice voor niveau 5 opleidingen waar we op de jaarlijkse conferentie workshops/talks verzorgen.
+FDND is aangesloten bij de vakvereniging [Fronteers](https://www.fronteers.nl/) voor front-end developers in Nederland en België en bezoekt met regelmaat (inter)nationale vakgerelateerde conferenties en bijeenkomsten (vb. [CSSDay](https://cssday.nl/), [performance.now()](https://perfnow.nl/), [Smashing Conference](https://smashingconf.com/amsterdam-2026)). Wij staan in contact met [stichting accessibility.nl](https://www.accessibility.nl/), een onderdeel van Bartiméus dat specifiek gericht is op digitale toegankelijkheid. Ook zijn wij aangesloten bij het [Overlegplatform Associate degree](https://www.deassociatedegree.nl/) en [Chain 5](https://www.chain5.net/), de Europese Community of Practice voor niveau 5 opleidingen waar we op de jaarlijkse conferentie workshops/talks verzorgen.
 
 ### Administratieve gegevens
 
@@ -49,7 +49,7 @@ FDND is aangesloten [Fronteers](https://www.fronteers.nl/),  vakvereniging voor 
 | Adres en website van instelling | Wibauthuis (WBH), Amstelcampus, Wibautstraat 3b, 1091 GH Amsterdam, www.hva.nl  |
 | **NAAM OPLEIDING** | **Frontend Design & Development** |
 | Adres en website van opleiding | Theo Thijssenhuis (TTH) Amstelcampus, Wibautstraat 2-4, Amsterdam, https://fdnd.nl |
-| Registratienummer RIO2 (ISAT) | 80176 |
+| Registratienummer RIO (ISAT) | 80176 |
 | RIO-onderdeel | Techniek | 
 | BRIN | 28DN |
 | Oriëntatie opleiding | Hbo |
@@ -71,33 +71,38 @@ De opleiding Frontend Design & Development (FDND) wordt doorlopend en in overleg
 
 ### Naamgeving
 
-Frontend is een internationaal gebruikte term. Omdat frontend professionals zowel op het gebied van webdesign als van webdevelopment opereren, hebben wij gekozen voor de naam 'Frontend Design & Development'. Frontend professionals oefenen binnen hun functie verschillende rollen uit. Daarnaast wordt de functie van een frontender door werkgevers op verschillende manieren gekenmerkt. De naam Frontend Design & Development dekt alle mogelijke rollen en functies die een frontend professional kan aannemen. Deze naam wordt wereldwijd (h)erkend in het beroepenveld en veelvuldig gebruikt op internationale conferenties.
+Frontend is een internationaal gebruikte term. Omdat frontend professionals zowel op het gebied van webdesign als van webdevelopment opereren, hebben wij gekozen voor de naam 'Frontend Design & Development'. Wat dit betekent wordt toegelicht in ons voorlichtingsmateriaal en tijdens open dagen: Frontend professionals ontwerpen en maken websites, ze opereren binnen hun functie vaak in verschillende rollen. De functie van frontender wordt door werkgevers op uiteenlopende manieren gekenmerkt. Zo zijn er:
+- *HTML/CSS Developers* die door designers gemaakte ontwerpen uitwerken op of vertalen naar het web maar een beetje weg blijven bij javascript, 
+- *Frontend Developers* die naast kennis van HTML en CSS ook veel kennis hebben van javascript en interactie in de browser programmeren,
+- *Frontend Web Designers* die grafischer georiënteerd zijn, zelf ontwerpen maken en deze vervolgens uitwerken,
+- *User Interface Developers* die gespecialiseerd zijn in het maken van interfaces en gebruikersinteractie,
+- *Frontend Engineers* die technischer georiënteerd zijn en naast frontend ook een liefde ontwikkelen voor de backend en
+- *Creative Developers* die met webtechnologie interactieve animaties of 3D interfaces ontwikkelen.
+De naam Frontend Design & Development dekt alle rollen en functies die een frontend professional kan aannemen. Onze naam wordt wereldwijd (h)erkend in het beroepenveld en veelvuldig gebruikt op internationale conferenties.
 
 ### Visie op het beroep
 
-De door ons in 2020 opgestelde [visie op het beroep](https://tno-apr-2021.docs.fdnd.nl/TNO-dossier.html#visie-op-het-beroep) doorstaat de tand des tijds. In het vakgebied zijn een aantal ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt continu en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. Maar ook nieuwe uitdagingen zoals het ontstaan van iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars en de iv) opkomst van het fenomeen genAI, in het bijzonder _Large Language Model (LLM)_ en de impact op het werk van frontend design & developers.
+Al veranderd de inhoud van de door ons gebruikte technologie met een rap tempo, de door ons in 2020 opgestelde [visie op het beroep](https://tno-apr-2021.docs.fdnd.nl/TNO-dossier.html#visie-op-het-beroep) behoudt na vijf jaar nog steeds haar waarde. Er is geen landelijk beroepsprofiel omdat we nog steeds de enige specialistische frontend opleiding zijn die ontwerp en ontwikkeling met elkaar combineren. Binnen het vakgebied zijn een aantal ontwikkelingen waar we op willen reflecteren. Het frontend vakgebied ontwikkelt continu en dit levert best wat uitdagingen. Gebruikelijke uitdagingen als i) de snelle evolutie en vervanging van technologie, frameworks en tools en ii) de blijvende zorg voor compatibiliteit, platform onafhankelijkheid, toegankelijkheid en prestaties welke daardoor steeds complexer wordt. Maar ook nieuwe uitdagingen zoals het ontstaan van iii) een groeiende kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars en de iv) opkomst van het fenomeen genAI, in het bijzonder _Large Language Model (LLM)_ en de impact op het werk van frontend design & developers.
 
 #### Snelle evolutie
 
-De halfwaardetijd van kennis met betrekking tot libraries, frameworks en tooling is in het frontendvakgebied vrij kort. Daarentegen verandert er in de basis van webtechnologie HTML/ CSS/ JS minder. Natuurlijk zijn er maandelijks uitbreidingen op CSS, echter het selecteren van HTML elementen om stijlregels te koppelen is nog steeds hetzelfde en ook de semantiek van HTML elementen is al jaren gelijk. Die tweeledigheid wordt gereflecteerd in de inhoud van het curriculum, we bieden studenten een stevige basis én de capaciteit verandering te omarmen. De beoogde opzet van de opleiding doet dus recht aan dit facet van het vakgebied.
+De halfwaardetijd van kennis met betrekking tot libraries, frameworks en tooling is in het frontendvakgebied vrij kort. Daarentegen verandert er in de basis van webtechnologie HTML/ CSS/ JS minder. Natuurlijk zijn er maandelijks uitbreidingen op CSS, echter het selecteren van HTML elementen om stijlregels te koppelen is nog steeds hetzelfde en ook de semantiek van HTML elementen is al jaren gelijk. Die tweeledigheid wordt gereflecteerd in de inhoud van het curriculum, we bieden studenten een stevige basis én de capaciteit verandering te omarmen. In de inhoud van het curriculum houden spelen we dus in op deze tweeledigheid.
 
-#### Blijvende zorg
+#### Voortdurend aandacht
 
-Het vakgebied vraagt nogal wat van docenten, deze hebben een blijvende zorg voor compatibiliteit, platformonafhankelijkheid, toegankelijkheid en prestaties. Met name toegankelijkheid wordt nog belangrijker door de aangekondigde invoering van digitale toegankelijkheidswetgeving in 2025. Gelukkig zijn onze docenten zeer gepassioneerd over het frontend vakgebied, leren we van elkaar en met elkaar en is het bedrijfsleven op allerlei manieren betrokken bij de opleiding. In de paragraaf [aansluiten bij de actualiteit](#aansluiten-bij-de-actualiteit) gaan we dieper in op wat dit precies inhoudt.
+Het vakgebied vraagt nogal wat van docenten, deze hebben voortdurend aandacht voor ontwikkelingen met op gebied van compatibiliteit, platformonafhankelijkheid, toegankelijkheid en prestaties. Wij noemen dit met een acroniem de RAPPE principes wat staat voor: Responsive, Accessible, Performant en Progressive Enhanced. Met name toegankelijkheid wordt nóg belangrijker door de invoering van de Europese Toegankelijkheidsrichtlijn (European Accessibility Act - EAA) welke sinds 28 juni 2025 in Nederland én de gehele EU van kracht is. Deze wet verplicht bedrijven om digitale producten en diensten (zoals webshops, banken, apps en e-books) toegankelijk te maken voor mensen met een beperking. De RAPPE principes zijn structureel verankerd in alle onderdelen van het curriculum en studenten raken hier gedurende de opleiding van doordrongen. 90% van het web voldoet nog helemaal niet aan de toegankelijkheidsrichtlijn, op dit gebied brengen onze studenten écht vernieuwende inzichten en helpen bedrijven zich beter aan de wet te houden. Omdat ontwikkelingen razendsnel gaat leren docenten van elkaar en met elkaar en betrekken het bedrijfsleven op allerlei manieren bij de opleiding. In de paragraaf [aansluiten bij de actualiteit](#aansluiten-bij-de-actualiteit) gaan we nog iets dieper in op wat dit precies inhoudt.
 
-#### Groeiende kloof
+#### Bewuste keuze voor de front-of-the-frontend
 
-Er ontstaat een groeiende een kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)). Binnen de HvA bestaat een Ad opleiding Software Development waar ze webtechnieken richten op de backend van websites, daarnaast wordt ook een beetje aandacht besteed aan de frontend. Bij FDND richten wij voornamelijk op de frontend maar leren we studenten in semester 2 en 3 ook wat backend technieken. De gerichtheid bij het aanbod van backend technieken blijft bij ons altijd de _front of the frontend_. Deze keuze heeft impact op de inhoud van het curriculum. In plaats van meer backend zijn 2 sprints in het 2e semester naar de frontend toe bewogen.
+Binnen het ICT vakgebied is op allerlei manieren sprake van arbeidsdeling. Er ontstaat een kloof tussen javascript gerichte full-stack web programmeurs en HTML/CSS gerichte ontwikkelaars ([Coyier, 2019](https://css-tricks.com/the-great-divide/)). Binnen FDMCI bestaat naast onze Frontend opleiding een Ad Software Development (SD) waar webtechnieken gericht zijn op de backend van websites, er wordt bij SD nagenoeg geen aandacht besteed aan de frontend. FDND is voornamelijk op de frontend gericht maar we leren studenten in semester 2 en 3 ook wat backend technieken. De gerichtheid bij het aanbod van backend technieken blijft altijd de *front-of-the-frontend*. Deze keuze heeft impact op de inhoud van het curriculum, 2 sprints in het 2e semester: *S16: Don’t Repeat Yourself* en *S17: User Needs* (voorheen Back to Static) zijn de afgelopen jaren meer naar de frontend toe bewogen.
 
 #### De opkomst van AI
 
-LLM's, zoals ChatGPT, en andere genAI-tools, zoals Co-Pilot, kunnen een verleidelijk hulpmiddel zijn voor aankomende junior frontenders, vooral in termen van snelheid, ondersteuning en leermogelijkheden. In de praktijk merken we dat studenten er veelvuldig gebruik van maken. Echter zien we terug in de dagelijkse begeleiding van studenten én bij assessments dat studenten die doorschieten in het gebruik van deze technologie juist minder grip krijgen op wat ze doen, gelukkig zijn dat er niet veel. In dergelijke gevallen proberen wij uit te leggen hoe genAI als junior frontender kan bijdragen aan het leerproces, namelijk als sparringspartner om grip te krijgen op moeilijke concepten. Het klakkeloos genereren van code zonder begrip van de inhoud keuren wij af. Overigens levert dit geen gevaar op voor de beoordeling, wij toetsen begrip en inzicht bij het werken aan projecten en geen producten.
+LLM's, zoals ChatGPT, Claude, Co-Pilot en andere genAI-tools, vormen een verleidelijk hulpmiddel voor aankomende junior frontenders. Vooral in termen van snelheid, ondersteuning en leermogelijkheden. In de praktijk merken we dat studenten er bij aanvang van de opleiding veelvuldig gebruik van willen maken. We merken echter in de dagelijkse begeleiding van studenten dat studenten die doorschieten in het gebruik van deze technologie juist minder grip krijgen op wat ze doen. Het gebruik van genAI levert geen gevaar op voor de betrouwbaarheid en validiteit van beoordelingen, dat komt door onze toetsvorm. Tijdens assessments toetsen wij begrip en inzicht bij het werken aan projecten, als dat achter blijft haalt de student het assessment niet. Meer over toetsing bij Standaard 3:
 
-Wij herkennen de conclusie van het artikel [Kids who use ChatGPT as a study assistant do worse on tests](https://www.popsci.com/technology/kids-who-use-chatgpt-as-a-study-assistant-do-worse-on-tests/) waarin over het leerrendement met gebruik van AI gesproken wordt maar er zijn ook tegengeluiden, bijvoorbeeld in het artikel [How does generative artificial intelligence impact student creativity?](https://www.sciencedirect.com/science/article/pii/S2713374523000316) (aangereikt door @jayka45). Wat ons betreft ligt een belangrijk onderscheid in het type toepassing.
+Wij herkennen de conclusie van het artikel [Kids who use ChatGPT as a study assistant do worse on tests](https://www.popsci.com/technology/kids-who-use-chatgpt-as-a-study-assistant-do-worse-on-tests/) waarin over het leerrendement met gebruik van AI gesproken wordt. Er zijn ook tegengeluiden, bijvoorbeeld in het artikel [How does generative artificial intelligence impact student creativity?](https://www.sciencedirect.com/science/article/pii/S2713374523000316) wat beschrijft hoe het creatief vermogen vergroot kan worden mits AI op een juiste manier gebruikt wordt. In lijn hiermee ligt wat ons betreft een belangrijk onderscheid in het type toepassing. GenAI kan helpen meerdere oplossingsrichtingen te verkennen maar is geen vervanging voor het doorgronden van de RAPPE principes en bijvoorbeeld browser-API’s. LLM's zijn wat ons betreft geen vervanging voor diepgaand leren, experimenteren en samenwerking met anderen, maar kunnen daar wel bij helpen. Wij leren studenten een balans te vinden tussen het gebruik van deze technologie en het zelf ontwikkelen van vaardigheden door praktijkervaring en het opdoen van kennis uit betrouwbare bronnen, waarbij de nadruk ligt op het laatste.
 
-GenAI kan helpen meerdere oplossingsrichtingen te verkennen maar is geen vervanging voor het doorgronden van o.a. browser-API’s. LLM's zijn wat ons betreft dus geen vervanging voor diepgaand leren, experimenteren, en samenwerking met anderen, maar kunnen daar wel bij helpen. Wij leren studenten een balans te vinden tussen het gebruik van deze technologie en het zelf ontwikkelen van vaardigheden door praktijkervaring en het opdoen van kennis uit betrouwbare bronnen, waarbij de nadruk ligt op het laatste.
-
-We leren studenten in het derde semester hoe ze AI op een verantwoorde manier kunnen inzetten, zodat ze goed voorbereid zijn op hun stage en daarna. Tijdens het eerste jaar focussen we op coderen zonder AI. Deze aanpak helpt studenten om zelfstandig te beoordelen of code van goede kwaliteit is. Met deze vaardigheden zijn studenten een waardevolle aanwinst voor bedrijven. Ze kunnen niet alleen code schrijven, maar ook begrijpen en evalueren.
+De opkomst van AI heeft impact gehad op ons curriculum, wij hebben een richtlijn opgenomen voor gebruik van genAI in de verschillende fases van de opleiding. In semester 1 leggen we uit hoe genAI als junior frontender kan bijdragen aan het leerproces, namelijk als sparringspartner om grip te krijgen op moeilijke concepten. Het klakkeloos genereren van code zonder begrip van de inhoud keuren wij af omdat dit de kans op een leerervaring verkleint. In semester 2 zetten studenten genAI gericht in om meer backend-gerichte vraagstukken te adresseren. Onze focus en expertise is en blijft de *front-of-the-frontend* en frontend-code wordt dus ook in semester 2 met de hand geschreven. In semester 3 willen we studenten leren hoe ze *AI assisted development* kunnen omarmen zonder door te schieten in *vibe-coding*. We trekken hierbij op met het bedrijfsleven en onderzoeken welke AI skills van junior frontenders verwacht worden. Deze aanpak helpt studenten om zelfstandig te beoordelen of code van goede kwaliteit is. Met deze vaardigheden zijn studenten een waardevolle aanwinst voor bedrijven. Ze kunnen niet alleen code schrijven, maar ook begrijpen en evalueren.
 
 ### Frontend op Ad niveau
 
@@ -105,9 +110,9 @@ Vooralsnog zijn we de enige Ad Frontend in Nederland en daarom schreven wij tijd
 
 Uiteraard in nauwe samenspraak met het werkveld en rekening houdend met wettelijke kaders en verwante opleidingen. Wij beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Deze beschrijving staat in het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) dat wij in de TNO fase ontwikkelde, op pagina 15. Ook hebben we onze [leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf) en de landelijke gedragscriteria en door ons ontwikkelde bijbehorende gedragsindicatoren getoetst aan het landelijk profiel CMD (p10), HBO-ICT (p13), de kwaliteitsraamwerken NLQF (p16) en EQF (p19), de Dublin Descriptoren (p21) en tenslotte het e-Competence framework (p23). Matrices met de relatie tussen het FDND leerresultaat, de gedragscriteria, -indicatoren en de bovengenoemde frameworks zijn te vinden op betreffende paginanummers.
 
-#### Verhouding 
+#### Verhouding
 
-Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Daarom zoeken wij educatief partnerschap buiten Nederland. Via Chain 5, de Europese community voor niveau 5 of Ad onderwijs, zijn we in contact gekomen met Hogeschool PXL (België). Alhoewel de gerichtheid niet precies hetzelfde is zijn daar 2 practoraten, Web-development en Web-design. Een eerste officieel overleg moet nog plaats vinden.
+Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Daarom zoeken wij educatief partnerschap buiten Nederland. Via Chain 5, de Europese community voor niveau 5 of Ad onderwijs, zijn we in contact gekomen met Hogeschool PXL (België). Alhoewel de gerichtheid niet precies hetzelfde is zijn daar 2 graduaatsopleidingen, Web-development en Web-design. PXL komt 
 
 ### Leerresultaten
 
@@ -122,22 +127,6 @@ Onze niveaumatrix wordt jaarlijks vastgesteld. We halen inhoudelijk [feedback](h
 Het frontend vakgebied is internationaal maar onze voertaal is Nederlands. Veel van het bronmateriaal wat wij studenten aanreiken is Engelstalig. Tijdens talks en workshops proberen we studenten zo goed mogelijk te helpen met het eigen maken van jargon, dit doen we o.a. door ze [op niveau aan te spreken](/onderwijs.html). Scroll voor een indruk even door de [BOKSA](/boksa.html), een document dat door het team bijgesteld wordt op basis van nieuwe ontwikkelingen en inzichten.
 
 Elke tweede week van een sprint nodigen wij een beroepsprofessional uit het vakgebied uit voor een [we♥web](https://github.com/fdnd/weloveweb.fdnd.nl/blob/main/2324.md) lezing. Vaak zijn dit internationale, soms in het vakgebied zeer gerenommeerde sprekers.
-
-### Aansluiten bij de actualiteit
-
-FDND wil _up-to-date_ te blijven met veranderingen in de HTML/CSS/JS standaarden. Dit betekent concreet dat docenten doorlopend met elkaar, van elkaar en van studenten leren. Zo garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
-
-Onze docenten hebben naast overlap in frontenderschap elk een eigen expertise, doordat we met meerdere docenten tegelijk in de groep staan leren we tijdens het werken. Daarnaast houden we elkaar voortdurend op de hoogte van ontwikkelingen via onze teamskanalen en bezoeken we regelmatig beroepsspecifieke conferenties.
-
-Vandaag (26 september 2024) is bijvoorbeeld in het Teams kanaal _random_ een [artikel van Alvaro Montoro](https://alvaromontoro.com/blog/68062/new-values-and-functions-in-CSS) gedeeld waarin de volgende _Public Working Draft_ voor _CSS Values and Units Module Level 5_ wordt besproken. Hierin worden updates met betrekking tot CSS besproken die in ontwikkeling zijn en hoogstwaarschijnlijk aankomende maanden door browsers omarmd gaan worden.
-
-Vorig semester werd een talk gegeven over het _responsive_ en _progressive enhanced_ opmaken van een caroussel - een serie plaatjes waar je horizontaal doorheen kunt scrollen - die een paar dagen na het verschijnen van een waardevol artikel bij ons gehouden werd. Deze talk was dermate _actionable_ dat zowel 1e als 2e jaars opgedane inzichten direct konden implementeren in hun werk.
-
-Een aanzienlijk deel van ons docententeam bezoekt jaarlijks de CSSDay conferentie en de daar opgedane inzichten worden verwerkt in ons curriculum. Zo zijn delen uit de talk [How to Teach CSS door Josh Comeau @ CSS Day 2024](https://youtu.be/ZPTVr2pS0XE?si=vE40iCk9HLot-1WO) verwerkt in het curriculum van sprint 2 in semester 1 en leren we studenten nu denken in termen van CSS Layout Modes.
-
-> De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van het web te blijven. Dit doen ze door goede blogs, website, events enz. te delen. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied. <cite>Sascha Davidson</cite>
-
-Het frontend vakgebied ligt binnen de passie van onze docenten en daardoor lukt het ons om bij te blijven. Het blijft ook een aandachtspunt, docenten bij FDND hebben tijd en ruimte nodig voor bestudering van het vakgebied.
 
 ## Standaard 2: De onderwijs­leeromgeving
 
@@ -356,17 +345,27 @@ Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraa
 
 > Als OC-lid heb ik actief deelgenomen aan externe vergaderingen. Omdat ik de eerste periode het enige OC lid was, vond ik het lastig om alles op te pakken en aan de slag te kunnen. De externe meetings waren soms lastig te volgen, ook omdat niet alles relevant was voor onze opleiding. Toen de OC ging uitbreiden doordat er een docent bijkwam en ik twee nieuwe OC-leden had gevonden, werd het allemaal een stuk duidelijker en waren de vergaderingen makkelijker te volgen. Ook plande wij sindsdien regelmatig interne meetings in dus is het binnen de OC in mijn ervaring verbeterd in vergelijking van toen ik er begon en hoe het nu gaat. <cite>Clarice Boerlijst, OC-voorzitter 2025/2026</cite>
 
-### Personeel
+### Docenten
 
 Veel technische en ICT gerichte opleidingen hebben moeite gekwalificeerd personeel te vinden. Wij hebben een groot netwerk binnen de frontend community. Een groot deel van ons docententeam is al jaren actief binnen de minor web bij CMD en veel van de alumni zijn nu senior frontender in de beroepspraktijk. Daarnaast zijn een aantal docenten lid van of in-the-loop bij vakverenigingen waaronder fronteers, okaydev, awwwards. Tot nog toe heeft FDND geen moeite om topdocenten te werven.
 
-De docent/ student-ratio is bij FDND ontworpen op 1 fte/ 25 studenten. Daarvan wordt 0,8 fte direct ingezet voor studenten. Uit de 0,2 fte overhead over blijft bekostigen wij de opleidingsmanager, tribe-leaders en de alliance officer welke indirect ten goede komen aan het onderwijs. Deze uren staan op dit moment, zoals bij elke HBO opleiding in Nederland, onder druk. Huidig studiejaar hanteren wij in het 1e jaar 1 fte / 32 studenten. De verhouding OP/OBP (1 fte / 250 studenten) lijkt voldoende omdat docenten dichtbij studenten staan en veel vragen zelf afhandelen.
+### Aansluiten bij de actualiteit
 
-> De docenten van FDND hebben veel kennis van front-end development. De opdrachten die wij maken binnen de opleiding worden goed bijgehouden door de docenten. Voor alle vragen en problemen binnen front-end development kunnen wij terecht bij de docenten. <cite>Sascha Davidson - 2022/24</cite>
+FDND wil _up-to-date_ te blijven met veranderingen in de HTML/CSS/JS standaarden. Dit betekent concreet dat docenten doorlopend met elkaar, van elkaar en van studenten leren. Zo garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
+
+Onze docenten hebben naast overlap in frontenderschap elk een eigen expertise, doordat we met meerdere docenten tegelijk in de groep staan leren we tijdens het werken. Daarnaast houden we elkaar voortdurend op de hoogte van ontwikkelingen via onze teamskanalen en bezoeken we regelmatig beroepsspecifieke conferenties.
+
+Regelmatig delen docenten in het Teams kanaal _random_ relevante artikelen, bijvoorbeeld over nieuwe CSS-features die in ontwikkeling zijn en hoogstwaarschijnlijk aankomende maanden door browsers omarmd gaan worden.
+
+Vorig semester werd een talk gegeven over het _responsive_ en _progressive enhanced_ opmaken van een caroussel - een serie plaatjes waar je horizontaal doorheen kunt scrollen - die een paar dagen na het verschijnen van een waardevol artikel bij ons gehouden werd. Deze talk was dermate _actionable_ dat zowel 1e als 2e jaars opgedane inzichten direct konden implementeren in hun werk.
+
+Een aanzienlijk deel van ons docententeam bezoekt jaarlijks de CSSDay conferentie en de daar opgedane inzichten worden verwerkt in ons curriculum. Zo zijn delen uit de talk [How to Teach CSS door Josh Comeau @ CSS Day 2024](https://youtu.be/ZPTVr2pS0XE?si=vE40iCk9HLot-1WO) verwerkt in het curriculum van sprint 2 in semester 1 en leren we studenten nu denken in termen van CSS Layout Modes.
+
+> De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van het web te blijven. Dit doen ze door goede blogs, website, events enz. te delen. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied. <cite>Sascha Davidson</cite>
 
 Docenten blijven op de hoogte van ontwikkelingen in het vakgebied door samen les te geven, het lezen van vakliteratuur en het bezoeken van conferenties. Vakliteratuur in de vorm van artikelen op internet worden veelvuldig gedeeld in de daarvoor gemaakte kanalen in het docenten- en studententeam in MS Teams. We hebben een AI-guild ontwikkeld omdat deze opkomende technologie impact heeft op het frontenderschap. Hiertoe is een speciaal kanaal gemaakt voor AI-ontwikkelingen.
 
-Er is aandacht voor didactische scholing van docenten. Squad-leaders hebben het BDB programma gevolgd of zijn dat aan het doen. Alle docenten worden gestimuleerd hun BKE te behalen en leden van de examencommissie behalen hun SKE. Ook is er een assessorentraining en worden assessoren jaarlijks benoemd door de examencommissie. Een aantal van onze docenten volgde een jaartraject coaching 3.0. Alle docenten hebben de mogelijkheid programma bij de HvA Academie te volgen.
+Er is aandacht voor didactische scholing van docenten. Squad-leaders hebben het BDB programma gevolgd of zijn dat aan het doen. Alle docenten worden gestimuleerd hun BKE te behalen en leden van de examencommissie behalen hun SKE. Ook is er een assessorentraining en worden assessoren jaarlijks benoemd door de examencommissie. Een aantal van onze docenten volgde een jaartraject coaching 3.0. Alle docenten hebben de mogelijkheid scholingsprogramma bij de HvA Academie te volgen.
 
 ## Standaard 3: Toetsing
 
@@ -473,7 +472,11 @@ De examencommissie is verantwoordelijk voor de afhandeling van verzoekschriften 
 
 De examencommissie borgt de kwaliteit van de organisatie en de procedures rondom tentamens en examens. De examencommissie heeft daartoe een borgingsagenda opgesteld. Bij de borging van de kwaliteit van de toetsing werkt de examencommissie samen met de gezamenlijke toetscommissie die met ingang van het studiejaar 2023-2024 is ingesteld. Ook hier is de meerwaarde van de gezamenlijkheid dat er kruisbestuiving plaatsvindt. De toetscommissie heeft een werkplan opgesteld waarin is aangegeven hoe de toetsing per Ad-opleiding wordt geborgd. De focus lag in studiejaar 2023- 2024 op het doorvoeren van verbeteringen in toetsing van de afstudeerfase en het onderzoeken van knelpunten in het onderliggende toetsproces. Door afwezigheid van een TC_lid van de Ad FDND is de aandacht echter naar de andere Ad’s gegaan. Vanaf studiejaar 2024-2025 is er weer een TC-lid van FDND toegevoegd aan de toetscommissie. 
 
-Lees bij [Organisatie > Kwaliteitsborging > Periodieke evaluatie Examencommissie](http://localhost:8080/organisatie.html#periodieke-evaluatie-examencommissie) de letterlijke passages over onderwijs en organisatie van FDND uit betreffende documenten geciteerd. 
+Lees bij [Periodieke evaluatie Examencommissie](/organisatie.html#periodieke-evaluatie-examencommissie) de letterlijke passages over onderwijs en organisatie van FDND uit betreffende documenten geciteerd. 
+
+<!-- TODO: Voeg de twee meest recente jaarverslagen (2023/24 en 2024/25) toe als bijlage. -->
+
+<!-- TODO: Voeg reflectie toe op de bevindingen van de examencommissie en wat daarmee gedaan is. --> 
 
 #### Borging eindniveau
 
@@ -569,6 +572,8 @@ Hoe kijken alumni terug op hun opleiding bij FDND? We stelde deze vraag eind 202
 > De opleiding FDND heeft mij geleerd hoe ontwerp en front-end development elkaar kunnen versterken voor het bouwen van robuuste websites. Hierdoor heb ik mijn vaardigheden verbreed en ben ik goed inzetbaar op de arbeidsmarkt. De nadruk op samenwerken, communicatie en het blijven leren van nieuwe technieken heeft mij geholpen om met vertrouwen de stap naar het werkveld te zetten. <cite>Stefan van der Kort - Esens Design</cite>
 
 > Ik vond het prettig dat je op de opleiding geen 'nummertje' bent. Je wordt serieus genomen, ze kennen je bij naam, en je voelt je echt gezien. De opleiding heeft me veel gebracht, waaronder mijn eigen onderneming! Dat is natuurlijk supergaaf en iets waar ik best wel trots op ben. <cite>Rosa Hoffer, eigen onderneming</cite>
+
+<!-- TODO: Reflecteer op terugkerende thema's in de alumni-feedback en trek conclusies voor de opleiding. Beschrijf ook het alumnibeleid. -->
 
 ## Bedrijven aan het woord
 

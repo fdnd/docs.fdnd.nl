@@ -1,5 +1,6 @@
 import document from '../../docs.conf.js'
 import fdndDiscussions from './fdnd-discussions.js'
+import fdndLinks from './fdnd-links.js'
 import fdndWrapper from './fdnd-wrapper.js'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeDocument from 'rehype-document'
@@ -23,6 +24,7 @@ export default unified()
   .use(remarkRehype, { allowDangerousHtml: true, footnoteLabel: 'Noten en citaties' })
   .use(rehypeRaw)
   .use(rehypeShiftHeading, { shift: 1 }) // Shift headings up, only h1 in header, h2 in documents
+  .use(fdndLinks)
   .use(rehypeSlug)
   .use(rehypeAutolinkHeadings, { behaviour: 'wrap' })
   .use(fdndDiscussions, document)
