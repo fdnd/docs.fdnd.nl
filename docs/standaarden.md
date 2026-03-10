@@ -112,7 +112,7 @@ Uiteraard in nauwe samenspraak met het werkveld en rekening houdend met wettelij
 
 #### Verhouding
 
-Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. Daarom zoeken wij educatief partnerschap buiten Nederland. Via Chain 5, de Europese community voor niveau 5 of Ad onderwijs, zijn we in contact gekomen met Hogeschool PXL (België). Alhoewel de gerichtheid niet precies hetzelfde is zijn daar 2 graduaatsopleidingen, Web-development en Web-design. PXL komt 
+Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. De Ad SMP en SD zijn wel aangesloten bij en LAdO en we zien absoluut meerwaarde. De gerichtheid van deze opleidingen is alleen zo anders dat deze niet aansluiten bij de doelen en het curriculum van FDND. Daarom zoeken wij educatief partnerschap buiten Nederland. Via Chain 5, de Europese community voor niveau 5 of Ad onderwijs, zijn we in contact gekomen met Hogeschool PXL (België). Alhoewel de gerichtheid niet exact hetzelfde is zijn daar 2 graduaatsopleidingen, Web-development en Web-design waar na vergelijking van curricula duidelijk overlap aanwezig is en waar we mee in contact zijn getreden. We hebben een afvaardiging van PXL in Amsterdam uitgenodigd voor een workshop met accessibility.nl over de verankering van toegankelijkheid in onze FDND, CMD en ICT curricula.
 
 ### Leerresultaten
 

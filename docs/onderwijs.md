@@ -1,6 +1,6 @@
 # Onderwijs
 
-Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handvatten aan docenten en studenten. Het waarom oftewel de didactische onderbouwing staat in het [TNO-dossier](./tno-dossier.md).
+Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handvatten aan docenten en studenten. Het waarom oftewel de didactische onderbouwing staat in het [TNO-dossier](https://tno-apr-2021.docs.fdnd.nl/TNO-dossier.html).
 
 ## Werkwijze
 
@@ -209,8 +209,6 @@ _Gedragsindicator 4.5.2 Maakt zelfstandig nieuwe materie eigen, gebruikt dit bij
 Bron: [Betts, Ryan, Concept to code, Ux Magazine, 2017](https://uxmag.com/articles/concept-to-code)
 
 Bron: Grootendorst, Annemiek, Professionele Identiteit ontwikkelen gedurende de hbo-opleiding, 2019, HRO
-
-
 
 
 

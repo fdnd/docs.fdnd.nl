@@ -24,13 +24,13 @@ De opleiding navigeert de groeiende kloof tussen JavaScript-gerichte full-stack 
 
 Hieronder een overzicht en beknopte omschrijving van de verschillende documenten op deze pagina:
 
-[Boksa](./boksa.html) - beschrijft de Body of Knowledge, Skills and Attitude (BOKSA) van de opleiding. Deze is ingedeeld aan de hand van de Development Lifecycle (DLC). Naast werkvormen staan hier ook woordenlijsten en links naar relevante bronnen.
+[Boksa](/boksa.html) - beschrijft de Body of Knowledge, Skills and Attitude (BOKSA) van de opleiding. Deze is ingedeeld aan de hand van de Development Lifecycle (DLC). Naast werkvormen staan hier ook woordenlijsten en links naar relevante bronnen.
 
-[Onderwijs](./onderwijs.html) - beschrijft de dagelijkse gang van zaken in het onderwijs bij FDND (Operations). Onderwerpen die aan bod komen zijn beoordelingssystematiek en studentbegeleiding.
+[Onderwijs](/onderwijs.html) - beschrijft de dagelijkse gang van zaken in het onderwijs bij FDND (Operations). Onderwerpen die aan bod komen zijn beoordelingssystematiek en studentbegeleiding.
 
-[Organisatie](./organisatie.html) - beschrijft de organisatieinrichting van FDND (Governance). Onderwerpen die aan bod komen zijn vergaderingen, beslissingsstructuur, rollen en verantwoordelijkheden.
+[Organisatie](/organisatie.html) - beschrijft de organisatieinrichting van FDND (Governance). Onderwerpen die aan bod komen zijn vergaderingen, beslissingsstructuur, rollen en verantwoordelijkheden.
 
-[Standaarden](./standaarden.html) - beschrijft de opleiding aan de hand van vier standaarden van de NVAO ten behoeve van de accreditatie voorjaar 2026.
+[Standaarden](/standaarden.html) - beschrijft de opleiding aan de hand van vier standaarden van de NVAO ten behoeve van de accreditatie voorjaar 2026.
 
 ## Versiegeschiedenis
 
