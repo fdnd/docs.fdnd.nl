@@ -8,7 +8,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Open Sans, sans-serif;
+  font-family:
+    Open Sans,
+    sans-serif;
 }
 header h1 abbr {
   text-decoration: none;
@@ -42,7 +44,9 @@ main {
 
 nav.subnav {
   page-break-before: always;
-  font-family: Open Sans, sans-serif;
+  font-family:
+    Open Sans,
+    sans-serif;
 }
 nav.subnav::before {
   display: block;
@@ -54,6 +58,8 @@ nav.subnav ol {
   padding: 0;
   list-style-position: inside;
 }
+
+/* 
 nav.subnav > ol {
   counter-reset: chapter;
 }
@@ -68,6 +74,54 @@ ol.toc-level-6 {
 
 li.toc-item::marker {
   content: counters(list-item, '.') ': ';
+} */
+
+/* Verberg de list item en link van hoogste niveau */
+li.toc-item-h2 {
+  list-style: none;
+}
+a.toc-link-h2 {
+  display: none;
+}
+
+ol.toc-level-2 {
+  counter-reset: toc2;
+}
+ol.toc-level-2 > li.toc-item {
+  counter-increment: toc2;
+}
+ol.toc-level-2 > li.toc-item::marker {
+  content: counter(toc2) ' ';
+}
+
+ol.toc-level-3 {
+  counter-reset: toc3;
+}
+ol.toc-level-3 > li.toc-item {
+  counter-increment: toc3;
+}
+ol.toc-level-3 > li.toc-item::marker {
+  content: counter(toc2) '.' counter(toc3) ' ';
+}
+
+ol.toc-level-4 {
+  counter-reset: toc4;
+}
+ol.toc-level-4 > li.toc-item {
+  counter-increment: toc4;
+}
+ol.toc-level-4 > li.toc-item::marker {
+  content: counter(toc2) '.' counter(toc3) '.' counter(toc4) ' ';
+}
+
+ol.toc-level-5 {
+  counter-reset: toc5;
+}
+ol.toc-level-5 > li.toc-item {
+  counter-increment: toc5;
+}
+ol.toc-level-5 > li.toc-item::marker {
+  content: counter(toc2) '.' counter(toc3) '.' counter(toc4) '.' counter(toc5) ' ';
 }
 
 ol.toc-level-2,
@@ -92,8 +146,7 @@ a {
   text-decoration: none;
 }
 
-p a[href^="https://"]:after
-{
+p a[href^='https://']:after {
   word-wrap: break-word;
   content: ' (' attr(href) ')';
 }
@@ -139,4 +192,13 @@ h6 {
 table,
 figure {
   page-break-inside: avoid;
+}
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid silver;
+}
+th {
+  font-weight: bold;
 }
