@@ -224,6 +224,22 @@ De opbouw van het programma leent zich uitstekend voor het werken aan langlopend
 
 Omdat we doorlopend aan échte projecten werken is er een spanningsveld tussen de materie die we over willen brengen en waardecreatie binnen projecten. Hoewel de thema's uit de sprints over het algemeen goed aansluiten bij de opdrachtomschrijvingen, hebben we in de afgelopen jaren steeds aanpassingen doorgevoerd om het programma, de beoogde BOKSA en waardecreatie voor projectpartners dichter naar elkaar te brengen. In semester 3 is dit heel duidelijk te zien in de gerichtheid van sprint 17 en 18. Deze sprints staan nu meer in het teken van het afronden van de projecten en sluiten nog beter aan op de manier van werken die we verwachten in de vrije ruimte en meesterproef.
 
+#### Vrije ruimte
+
+In het eerste blok van semester 4 in de opleiding, halverwege het 2e jaar, hebben studenten de zogenaamde vrije ruimte. De student staat hier aan het roer en kan 15 EC naar eigen inzicht invullen, lijkend op de minorruimte bij bacheloropleidingen. Verschil met een traditionele minor is dat studenten tijdens hun vrije ruimte ongeacht de keuze hun portfolio vullen met bewijslast, en bij FDND op de gebruikelijke wijze beoordeeld worden op de FDND gedragscriteria middels een assessment. Studenten kunnen hun vrije ruimte op verschillende manieren invullen.
+
+Studenten kunnen stage lopen bij een frontend bedrijf, digital agency, platform of web-afdeling. FDND organiseert een stagemarkt maar studenten kunnen ook zelf een stagebedrijf aandragen. Voor potentiële stagebedrijven is het belangrijk voor de ontwikkeling van de student dat er een senior frontender is die ruimte heeft om tijdens de stage te begeleiden. Studenten kunnen 10 weken meelopen als frontender en de meesterproef bij FDND-Agency doen of 20 weken stage lopen en de meesterproef uitvoeren bij het stagebedrijf. De student moet in dit geval eindverantwoording krijgen voor een project bij het bedrijf.
+
+Studenten kunnen deelnemen aan FDND-Agency, een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien, vanzelfsprekend voor échte opdrachtgevers. Studenten zijn meer dan in voorgaande semesters zelf eindverantwoordelijk voor projecten en krijgen daarbij geen ondersteunende lessen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen en geven feedback op inhoud en proces. Ze stellen zich hierbij op als senior frontender, net als bij de stage.
+
+Studenten kunnen ook de HvA brede minor ondernemerschap gericht op bachelorstudenten volgen of een blok lessen volgen bij de andere FDMCI Associate degree programma’s.
+
+#### Meesterproef
+
+Het afstudeerprogramma heet bij FDND meesterproef. Studenten hebben de keuze om hun meesterproef bij een bedrijf, binnen hun eigen onderneming óf bij FDND-Agency te volbrengen. De stage is de makkelijkste en meest gebruikelijke route omdat de stagiair terecht komt in een bestaande organisatie met bestaande processen. Bovendien krijgen veel studenten na hun stage een baan aangeboden bij hun stagebedrijf. FDND-Agency vraagt meer verantwoordelijkheid van studenten en is daarmee expliciet niet ‘de gemakkelijke optie’. Docenten zijn dichtbij en bewaken het proces maar studenten die deze route volgen dragen meer verantwoordelijkheid voor overzicht, organisatie en kwaliteit van projecten. De minor ondernemerschap is verreweg de moeilijkste richting. Studenten dragen niet alleen verantwoording voor het aantonen van hun afstudeerniveau voor FDND maar ook alle verantwoording voor alle facetten van hun startende onderneming. In alle gevallen draagt de student zelf eindverantwoording over diens werk. Tijdens terugkomdagen is ruimte om te werken aan het portfolio maar de student verzamelt zelfstandig bewijslast die het behalen van het leerresultaat demonstreert. Meer over de behaalde resultaten bij [Standaard 4: Gerealiseerde leerresultaten](#standaard-4-gerealiseerde-leerresultaten).
+
+Tijdens de toets nieuwe opleiding (TNO) adviseerde het panel om te overwegen om alle studenten stage te laten lopen om studenten in voldoende mate bloot te stellen aan de ‘échte wereld’. Wij behouden keuzevrijheid en zijn overtuigd dat studenten tijdens hun opleiding al heel veel in contact komen met het bedrijfsleven én werken op exact dezelfde manier. Een verschil is dat studenten die FDND Agency volgen allemaal moeten solliciteren na hun opleiding waar sommige stagairs blijven hangen bij hun stagebedrijf. Wij zijn ook heel blij met de mogelijkheid om af te studeren in een eigen onderneming.
+
 #### Leerproces
 
 Studenten documenteren hun leerproces in een Learning Journal waar ze code en design experimenten in verwerken en bijhouden wat ze hebben geleerd. Het Learning Journal kent een routinematig deel waarin ze leren aantekeningen bijhouden en gestructureerd studeren. Tijdens de retrospects kijken studenten regelmatig terug naar wat ze hebben gedaan en geleerd. Het Journal ondersteunt studenten bij de reflectie op hun proces. Daarnaast werken studenten aan een eigen website, een etalage die meegroeit, zodat ze aan het eind van de opleiding portfolio-website hebben om zich als frontender te presenteren aan het vakgebied.
@@ -234,25 +250,17 @@ Tweedejaarsstudenten fungeren als mentor voor een aantal eerstejaarsstudenten, e
 
 Voor de mentoren is de exercitie eveneens waardevol omdat zij hiermee hun communicatieve vaardigheden verder ontwikkelen. Zo leren ze bijvoorbeeld hoe ze complexe informatie kunnen overbrengen, rekening houdend met verschillende kennisniveaus. Daarnaast worden mentoren gestimuleerd na te denken over hun eigen studievoortgang, bijvoorbeeld wanneer ze een vraag krijgen van een eerstejaarsstudent waarop ze nog geen volledig antwoord hebben. Met de mentorrol spelen we dus in op de leerbehoeften van zowel eerstejaars- als tweedejaarsstudenten.
 
+#### Taal
+
+Bij FDND worden zowel Nederlandse als Engelse bronnen (artikelen, video’s etc.) aan studenten aangeboden. Dit is onvermijdelijk gezien het internationale karakter van het beroep. Studenten worden geacht deze bronnen eigen te kunnen maken. Tijdens voorlichting en op open dagen wordt dit expliciet genoemd zodat studenten weten wat ze kunnen verwachten.
+
+Studenten leveren werk voornamelijk op in het Nederlands, enkele uitzonderingen daargelaten. Wij beoordelen niet op de kwaliteit van het Nederlands en Engels. Soms is die kwaliteit echt heftig ondermaats, wij verwijzen dan door naar de taalwinkel van de HvA of het decanaat.
+
+FDND is bezig met het verkennen van de mogelijkheid tot het aanbieden van een engelstalige variant. Dit zouden we per studiejaar 2027/28 als traject willen aanbieden.
+
 #### Iteratieve doorontwikkeling
 
 Naast een aantal kwaliteitsinstrumenten zoals de 100-dagen-monitor, blokenquêtes en panelgesprekken, die door onze kwaliteitsmedewerker bewaakt en vanuit de HvA brede kwaliteitsorganisatie ondersteund worden evalueert het docententeam zelf regelmatig het curriculum. We zijn over het algemeen best tevreden over de inrichting van onze opleiding, toch blijven we altijd kritisch op door ons geleverde prestaties. Zoals bij elk ontwikkelend onderwijsprogramma zijn er weeffoutjes die pas opvallen als het programma draait. Om hiermee om te gaan hanteren we op alle vlakken een iteratieve aanpak. Aan het eind van elk semester houdt het docententeam een zogenaamde [Higher Education Agile Learning (HEAL)](/organisatie.html#higher-education-agile-learning-heal) sessie waarin wij het onderwijs evalueren middels een [retrospect](/organisatie.html#retrospect). De [resultaten van deze HEALs](/organisatie.html#heal-retrospect) staan ook op onze documentatiesite. We leren dus niet alleen aan studenten hoe ze iteratief werken, we passen dit zelf ook toe. *Practice what you preach!*
-
-### Vrije ruimte
-
-In het eerste blok van semester 4 in de opleiding, halverwege het 2e jaar, hebben studenten de zogenaamde vrije ruimte. De student staat hier aan het roer en kan 15 EC naar eigen inzicht invullen, lijkend op de minorruimte bij bacheloropleidingen. Verschil met een traditionele minor is dat studenten tijdens hun vrije ruimte ongeacht de keuze hun portfolio vullen met bewijslast, en bij FDND op de gebruikelijke wijze beoordeeld worden op de FDND gedragscriteria middels een assessment. Studenten kunnen hun vrije ruimte op verschillende manieren invullen.
-
-Studenten kunnen stage lopen bij een frontend bedrijf, digital agency, platform of web-afdeling. FDND organiseert een stagemarkt maar studenten kunnen ook zelf een stagebedrijf aandragen. Voor potentiële stagebedrijven is het belangrijk voor de ontwikkeling van de student dat er een senior frontender is die ruimte heeft om tijdens de stage te begeleiden. Studenten kunnen 10 weken meelopen als frontender en de meesterproef bij FDND-Agency doen of 20 weken stage lopen en de meesterproef uitvoeren bij het stagebedrijf. De student moet in dit geval eindverantwoording krijgen voor een project bij het bedrijf.
-
-Studenten kunnen deelnemen aan FDND-Agency, een interne onderneming, gecoördineerd door docenten, waar 2e jaars studenten in teams projecten kunnen draaien, vanzelfsprekend voor échte opdrachtgevers. Studenten zijn meer dan in voorgaande semesters zelf eindverantwoordelijk voor projecten en krijgen daarbij geen ondersteunende lessen. Docenten begeleiden het scrum proces, zijn bereikbaar voor vragen en geven feedback op inhoud en proces. Ze stellen zich hierbij op als senior frontender, net als bij de stage.
-
-Studenten kunnen ook de HvA brede minor ondernemerschap gericht op bachelorstudenten volgen of een blok lessen volgen bij de andere FDMCI Associate degree programma’s.
-
-### Meesterproef
-
-Het afstudeerprogramma heet bij FDND meesterproef. Studenten hebben de keuze om hun meesterproef bij een bedrijf, binnen hun eigen onderneming óf bij FDND-Agency te volbrengen. De stage is de makkelijkste en meest gebruikelijke route omdat de stagiair terecht komt in een bestaande organisatie met bestaande processen. Bovendien krijgen veel studenten na hun stage een baan aangeboden bij hun stagebedrijf. FDND-Agency vraagt meer verantwoordelijkheid van studenten en is daarmee expliciet niet ‘de gemakkelijke optie’. Docenten zijn dichtbij en bewaken het proces maar studenten die deze route volgen dragen meer verantwoordelijkheid voor overzicht, organisatie en kwaliteit van projecten. De minor ondernemerschap is verreweg de moeilijkste richting. Studenten dragen niet alleen verantwoording voor het aantonen van hun afstudeerniveau voor FDND maar ook alle verantwoording voor alle facetten van hun startende onderneming. In alle gevallen draagt de student zelf eindverantwoording over diens werk. Tijdens terugkomdagen is ruimte om te werken aan het portfolio maar de student verzamelt zelfstandig bewijslast die het behalen van het leerresultaat demonstreert. Meer over de behaalde resultaten bij [Standaard 4: Gerealiseerde leerresultaten](#standaard-4-gerealiseerde-leerresultaten).
-
-Tijdens de toets nieuwe opleiding (TNO) adviseerde het panel om te overwegen om alle studenten stage te laten lopen om studenten in voldoende mate bloot te stellen aan de ‘échte wereld’. Wij behouden keuzevrijheid en zijn overtuigd dat studenten tijdens hun opleiding al heel veel in contact komen met het bedrijfsleven én werken op exact dezelfde manier. Een verschil is dat studenten die FDND Agency volgen allemaal moeten solliciteren na hun opleiding waar sommige stagairs blijven hangen bij hun stagebedrijf. Wij zijn ook heel blij met de mogelijkheid om af te studeren in een eigen onderneming.
 
 ### Studenten
 
@@ -295,14 +303,6 @@ Bij het uitnodigen van gastsprekers houden we rekening met het tonen van een div
 Docenten bij FDND doen hun best studeren mogelijk te maken voor een diverse groep studenten. Daarbij ontstaat, net als bij alle andere onderwijsprogramma’s, een spagaat tussen persoonlijke begeleiding en de gerichtheid op het beoogde niveau. Omdat wij persoonlijk en individueel onderwijs verzorgen kunnen we veel extra ondersteuning bieden bij het doorlopen van ons lesprogramma. Aanpassingen in doorlooptijd zijn in overleg mogelijk, wij ontwierpen in overleg met collega’s en studenten al een aantal persoonlijke studieloopbaan plannen afgestemd op de situatie van studenten.
 
 Ondersteuning en begeleiding door docenten kent echter ook grenzen. Wij zijn in de eerste plaats docent en didactisch coach maar niet uitgerust om complexe bagage op te vangen. Gelukkig beschikt de Hogeschool van Amsterdam over een ruime selectie studieondersteunende faciliteiten waaronder een adequaat studentdecanaat en een goed taalloket. FDND docenten faciliteren en verwijzen door waar dat passend is.
-
-### Taal
-
-Bij FDND worden zowel Nederlandse als Engelse bronnen (artikelen, video’s etc.) aan studenten aangeboden. Dit is onvermijdelijk gezien het internationale karakter van het beroep. Studenten worden geacht deze bronnen eigen te kunnen maken. Tijdens voorlichting en op open dagen wordt dit expliciet genoemd zodat studenten weten wat ze kunnen verwachten.
-
-Studenten leveren werk voornamelijk op in het Nederlands, enkele uitzonderingen daargelaten. Wij beoordelen niet op de kwaliteit van het Nederlands en Engels. Soms is die kwaliteit echt heftig ondermaats, wij verwijzen dan door naar de taalwinkel van de HvA of het decanaat.
-
-FDND is bezig met het verkennen van de mogelijkheid tot het aanbieden van een engelstalige variant. Dit zouden we per studiejaar 2027/28 als traject willen aanbieden.
 
 ### Organisatie
 
