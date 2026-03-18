@@ -318,7 +318,7 @@ Deze organisatie- en vergader structuur bevalt goed. Bij tijd en wijlen verslapt
 
 _Deze tekst is door de studentgeleding van de OC aangeleverd._
 
-In 2022 werden Suus en Stefan onderdeel van de OC. Samen met de docenten Koop en Suus vormen zij de definitieve OC. Hiermee werd de gewenste balans tussen docenten en studenten behouden. De formatie van de OC verliep soepel.
+In 2022 werden Suus (student) en Stefan onderdeel van de OC. Samen met de docenten Koop en Suus (docent) vormen zij de definitieve OC. Hiermee werd de gewenste balans tussen docenten en studenten behouden. De formatie van de OC verliep soepel.
 
 Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraakmogelijkheden. Gaandeweg kregen we meer duidelijkheid over onze rol, inclusief inspraak op onder andere: de OER, het budget van de opleiding, het deelnemen aan externe OC-vergaderingen en het opzetten van interne vergaderingen.
 
@@ -328,13 +328,15 @@ Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraa
 
 #### Docenten
 
-Veel technische en ICT gerichte opleidingen hebben moeite gekwalificeerd personeel te vinden. Wij hebben een groot netwerk binnen de frontend community. Een groot deel van ons docententeam is al jaren actief binnen de minor web bij CMD en veel van de alumni zijn nu senior frontender in de beroepspraktijk. Daarnaast zijn een aantal docenten lid van of in-the-loop bij vakverenigingen waaronder fronteers, okaydev, awwwards. Tot nog toe heeft FDND geen moeite om topdocenten te werven.
+Veel technische en ICT gerichte opleidingen hebben moeite gekwalificeerd personeel te vinden. Wij hebben een groot netwerk binnen de frontend community. Een groot deel van ons docententeam is al jaren actief binnen de minor web bij CMD en veel van de alumni zijn nu senior frontender in de beroepspraktijk. Daarnaast zijn een aantal docenten lid van of in-the-loop bij vakverenigingen waaronder fronteers, okaydev, awwwards. Tot nog toe heeft FDND geen moeite om topdocenten te werven. Onze docenten hebben naast het frontenderschap elk een eigen expertise en doordat we met meerdere docenten tegelijk in de groep staan leren we van elkaar en met elkaar tijdens het werken. Co-teachers zijn naast hun aanstelling bij de HvA actief als frontender in het vakgebied, we staan dus met beroepsprofessionals voor de klas. 
+
+Net als de rest van het hoger onderwijs in Nederland maken wij ons grote zorgen om de continuïteit van het huidige team. Tot voor kort waren onze co-teachers ZZPer, en dus flexibel inzetbaar maar sinds vorig jaar was dit door overheidsrichtlijnen niet meer mogelijk. Door transitieplannen binnen de HvA staan de vorig jaar ingezette tijdelijke contracten van al onze co-teachers onder druk. Natuurlijk kunnen we op zoek gaan naar nieuwe co-teachers maar daarmee verliezen we de ervaring en kwaliteit van onze huidige co’s.
 
 ##### Aansluiten bij de actualiteit
 
 FDND wil _up-to-date_ blijven met veranderingen in de HTML/CSS/JS standaarden. Dit betekent concreet dat docenten doorlopend met elkaar, van elkaar en van studenten leren. Zo garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
 
-Onze docenten hebben naast het frontenderschap elk een eigen expertise, doordat we met meerdere docenten tegelijk in de groep staan leren we tijdens het werken. Co-teachers zijn naast hun aanstelling bij de HvA actief als frontender in het vakgebied, we staan dus met professionals voor de klas. Bovendien doen we actief aan kennisdeling, regelmatig delen docenten in het Teams kanaal _random_ of in specifieke guild kanalen voor docenten - A11Y (accessibility), S12Y (sustainability) en AI (artificial intelligence) -  relevante artikelen, bijvoorbeeld over nieuwe CSS-features die in ontwikkeling zijn en hoogstwaarschijnlijk aankomende maanden door browsers omarmd gaan worden.
+We doen actief aan kennisdeling, regelmatig delen docenten in het Teams kanaal _random_ of in specifieke guild kanalen voor docenten - A11Y (accessibility), S12Y (sustainability) en AI (artificial intelligence) -  relevante artikelen, bijvoorbeeld over nieuwe CSS-features die in ontwikkeling zijn en aankomende maanden door browsers omarmd gaan worden.
 
 Een aanzienlijk deel van ons docententeam bezoekt jaarlijks, vaak met een groep studenten in hun kielzog, vakgerichte bijeenkomsten en conferenties als [Fronteers Meetups](https://www.fronteers.nl/nl/activiteiten/), [CSS-Day](https://cssday.nl/), [performance.now()](https://perfnow.nl/) en [SmashingConf](https://smashingconf.com/amsterdam-2026) (hier gaan we met het hele team heen) en de daar opgedane inzichten worden altijd verwerkt in ons curriculum.
 
@@ -342,7 +344,19 @@ Een aanzienlijk deel van ons docententeam bezoekt jaarlijks, vaak met een groep 
 
 ##### Aandacht voor didactische vaardigheden
 
-Er is ook aandacht voor didactische scholing van docenten. Squad-leaders hebben het BDB programma gevolgd of zijn dat aan het doen. Docenten behoren hun basis kwalificatie examinator (BKE) te behalen en leden van de examencommissie behalen ook de senior kwalificatie examinator (SKE). Ook is er een assessorentraining en worden alle assessoren jaarlijks benoemd door de examencommissie. Een aantal van onze docenten volgden in het verleden een jaartraject coaching 3.0. Alle docenten hebben de mogelijkheid een uitgebreid scholingsprogramma bij de HvA Academie te volgen.
+Er is ook aandacht voor didactische scholing van docenten. Squad-leaders hebben het BDB programma gevolgd of zijn dat aan het doen. Docenten behoren hun basis kwalificatie examinator (BKE) te behalen en leden van de examencommissie behalen ook de senior kwalificatie examinator (SKE). Ook is er een assessorentraining en worden alle assessoren jaarlijks benoemd door de examencommissie. Een aantal van onze docenten volgden in het verleden een jaartraject coaching 3.0. Alle docenten hebben de mogelijkheid een uitgebreid scholingsprogramma bij de HvA Academie te volgen. Hieronder een overzicht van onze docenten en hun scholing.
+
+| Naam | Functie | BDB | Assessor training | Niveau 5 | SKE | Coaching |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cyd | Co-teacher |  | v |  |  |  |
+| Charley | Excie | v | v+ | v | v | v |
+| Dorien | Squad-leader J2 | bezig | v+ |  |  | v |
+| Joost | Alliance Officer / Co-teacher | v | v+ | v |  |  |
+| Justus | Tribe-leader J2 / Squad-leader J2 | v | v+ | v |  | v |
+| Koop | Tribe-leader J1 / Squad-leader J1 | v | v+ | v |  |  |
+| Krijn | Squad-leader J1 | bezig | v |  |  |  |
+| Sanne | Co-teacher | v |  |  |  |  |
+| Suus | Co-teacher |  | v+ | v |  | v |
 
 ## Standaard 3: Toetsing
 
