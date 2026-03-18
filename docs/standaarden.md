@@ -256,27 +256,23 @@ Tijdens de toets nieuwe opleiding (TNO) adviseerde het panel om te overwegen om 
 
 ### Studenten
 
+We staan kort stil bij de toelating en instroom, studentenbegeleiding, diversiteit en studeren met een ondersteuningsbehoefte.
+
+#### Toelating en instroom
+
 Aankomend studenten zijn toelaatbaar met een MBO-4, HAVO of VWO diploma of met een 21+ toets aangeboden door de instelling. Wij hebben geen vereisten voor een specifiek vakkenpakket. Na een impuls in 2022 zien we inschrijvingsaantallen een beetje teruglopen. We ondernemen actie om onze naamsbekendheid te vergroten.
 
 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | ---- | ---- | ---- | ---- | ---- |
 | 16 | 68 | 69 | 59 | 52 |
 
-Onze opleiding is gericht op het aantrekken van MBO afstudeerders. Toch zien we dat een aanzienlijk deel van onze eerstejaars HAVO of VWO achtergrond heeft. Een klein aantal heeft al aan een andere HBO opleiding gestudeerd. Studenten komen dus met verschillende achtergrond binnen, wij hebben een gelaagd curriculum en veel persoonlijke aandacht en bieden studenten uitdaging op hun eigen niveau.
+Onze opleiding is gericht op het aantrekken van MBO afstudeerders, specifieker op de profielen Software Developer en Mediavormgeving. Toch zien we dat een aanzienlijk deel van onze eerstejaars HAVO of VWO achtergrond heeft. Een klein aantal heeft al aan een andere HBO opleiding gestudeerd. Studenten komen dus met verschillende achtergrond binnen, wij hebben een gelaagd curriculum en veel persoonlijke aandacht en bieden studenten uitdaging op hun eigen niveau.
 
 ![](/assets/img/instroom-vooropleiding.png)
 
-Een grote vraag uit het bedrijfsleven is het tot frontender opleiden van dames omdat bewezen is dat diverse teams beter presteren. De verdeling was een aantal jaren perfect maar tot onze spijt zien we het laatste jaar het aantal vrouwelijke studenten teruglopen. We proberen te achterhalen waar dit aan ligt en besteden bij voorlichting aandacht aan vrouwelijke rolmodellen.
+#### Studentenbegeleiding
 
-![](/assets/img/instroom-geslacht.png)
-
-De gemiddelde Ad student is iets ouder dan de gemiddelde Ba student. Dit is duidelijk terug te zien in de verdeling naar leeftijdscategorie.
-
-![](/assets/img/instroom-leeftijd.png)
-
-### Studentenbegeleiding
-
-Naast persoonlijke coaching die studenten van hun squad-leader ontvangen hebben we duidelijke richtlijnen voor afnemende sturing en toenemende complexiteit. Daarin verandert ook de manier van aanspreken van studenten en de houding die docenten innemen.
+Naast persoonlijke coaching op het leerproces die studenten van hun squad-leader ontvangen hebben we duidelijke richtlijnen voor afnemende sturing en toenemende complexiteit. Daarin verandert ook de manier van aanspreken van studenten en de houding die docenten innemen.
 
 In het eerste semester gaan we er van uit dat studenten enthousiast zijn. We spreken ze aan op enthousiasme en uitproberen, durven en fouten maken is oké. We laten ze zien hoe het moet, we geven voorbeelden en verwijzen daarbij naar de bronnen die bij die voorbeelden horen. We houden ons voornamelijk aan de materie die bij de lessen behandeld is tenzij we merken dat studenten meer aan kunnen. Dit is het semester van nadoen en spiegelen.
 
@@ -286,17 +282,19 @@ In het derde semester beheersen studenten de principes van het web en voelen zic
 
 Tenslotte bewijzen studenten in semester vier zelfstandig dat ze het leerresultaat beheersen. Docenten praten over het gemaakte werk en de bijbehorende gedragscriteria en -indicatoren. Inhoudelijke hulp halen ze bij jaargenoten, op het internet of bij professionals. Als ze oplossingen vinden die het delen waard zijn brengen ze dat in de groep. Docenten verwijzen naar de groep.
 
-### Studeren met een functiebeperking
+#### Diversiteit en differentiatie
 
-Docenten bij FDND doen hun best studeren mogelijk te maken voor een diverse groep studenten. Daarbij ontstaat, net als bij alle andere onderwijsprogramma’s, een spagaat tussen persoonlijke begeleiding en de gerichtheid op het beoogde niveau. Omdat wij persoonlijk en individueel onderwijs verzorgen kunnen we veel extra ondersteuning bieden bij het doorlopen van ons lesprogramma. Aanpassingen in doorlooptijd zijn in overleg mogelijk, wij ontwierpen in overleg met collega’s en studenten al een aantal persoonlijke studieloopbaan plannen.
+FDND heeft op gebied van culturele- en genderdiversiteit een duidelijke gerichtheid welke is meegegeven door het bedrijfsleven tijdens het ontwikkelen van de opleiding. Frontend teams zijn over het algemeen vrij homogeen, dat wil zeggen bestaan uit voornamelijk roze mannen. Daarbovenop is diversiteit als een van de 3 D’s, speerpunt van de Hogeschool van Amsterdam. De genderverdeling van onze instroom was een aantal jaren perfect maar tot onze spijt zien we het laatste jaar het aantal vrouwelijke studenten teruglopen. We proberen te achterhalen waar dit aan ligt en besteden bij voorlichting aandacht aan het in de schijnwerpers zetten van vrouwelijke frontend rolmodellen.
 
-Ondersteuning en begeleiding door docenten kent echter ook grenzen. Wij zijn in de eerste plaats docent en didactisch coach maar niet uitgerust om complexe bagage op te vangen. Gelukkig beschikt de Hogeschool van Amsterdam over een ruime selectie studieondersteunende faciliteiten waaronder een adequaat decanaat en een goed taalloket. FDND docenten faciliteren en verwijzen door waar dat passend is.
+![](/assets/img/instroom-geslacht.png)
 
-### Diversiteit en differentiatie
+Bij het uitnodigen van gastsprekers houden we rekening met het tonen van een diverse groep rolmodellen aan studenten. In het docententeam proberen we de diversiteit van de studentenpopulatie te reflecteren maar dit blijft een aandachtspunt, we hebben een vrij groot percentage kalende roze mannen.
 
-FDND heeft op gebied van culturele- en genderdiversiteit een directe opdracht vanuit het bedrijfsleven. Frontend teams zijn over het algemeen vrij homogeen, dat wil zeggen bestaan uit voornamelijk roze mannen. Daarbovenop is diversiteit als een van de 3 D’s, speerpunt van de Hogeschool van Amsterdam.
+#### Studeren met ondersteuningsbehoefte
 
-Wat instroom, uitval en afstudeerders studenten betreft behalen wij onze diversiteitsdoelen. Bij het uitnodigen van gastsprekers houden we rekening met het tonen van een diverse groep rolmodellen aan studenten. Wat betreft docententeam hebben we een vrij groot percentage kalende roze mannen, dit is een aandachtspunt bij het zoeken naar nieuwe collegae.
+Docenten bij FDND doen hun best studeren mogelijk te maken voor een diverse groep studenten. Daarbij ontstaat, net als bij alle andere onderwijsprogramma’s, een spagaat tussen persoonlijke begeleiding en de gerichtheid op het beoogde niveau. Omdat wij persoonlijk en individueel onderwijs verzorgen kunnen we veel extra ondersteuning bieden bij het doorlopen van ons lesprogramma. Aanpassingen in doorlooptijd zijn in overleg mogelijk, wij ontwierpen in overleg met collega’s en studenten al een aantal persoonlijke studieloopbaan plannen afgestemd op de situatie van studenten.
+
+Ondersteuning en begeleiding door docenten kent echter ook grenzen. Wij zijn in de eerste plaats docent en didactisch coach maar niet uitgerust om complexe bagage op te vangen. Gelukkig beschikt de Hogeschool van Amsterdam over een ruime selectie studieondersteunende faciliteiten waaronder een adequaat studentdecanaat en een goed taalloket. FDND docenten faciliteren en verwijzen door waar dat passend is.
 
 ### Taal
 
