@@ -110,8 +110,6 @@ Vooralsnog zijn we de enige Ad Frontend in Nederland en daarom schreven wij tijd
 
 Wij beschreven hoe een frontend opleiding er op NLQF niveau’s 4, 5 en 6 uit zou kunnen zien. Uiteraard in nauwe samenspraak met het werkveld en rekening houdend met wettelijke kaders, landelijke en Europese richtlijnen en verwante opleidingen. Deze beschrijving staat op pagina 15 van het [beroeps en opleidingsprofiel](/assets/docs/Bijlage03_BeroepsEnOpleidingsprofiel.pdf) dat wij in de TNO fase ontwikkelde. Onze [leerresultaten](/assets/docs/Bijlage01_Leerresultaten.pdf), verankerd in de landelijke gedragscriteria en door ons ontwikkelde bijbehorende gedragsindicatoren, zijn getoetst aan het landelijk profiel CMD (p10), HBO-ICT (p13), de kwaliteitsraamwerken NLQF (p16) en EQF (p19), de Dublin Descriptoren (p21) en tenslotte het e-Competence framework (p23). Matrices met de relatie tussen het FDND leerresultaat, de gedragscriteria, -indicatoren en de bovengenoemde frameworks zijn te vinden op betreffende paginanummers.
 
-#### Verhouding
-
 Aansluiten bij een bestaand Landelijk Associate degree Overleg (LAdO) is lastig omdat geen van de bestaande groepen aansluit op ons profiel. De Ad SMP en SD zijn wel aangesloten bij een LAdO en we zien absoluut meerwaarde van kennisdeling en afstemming op inhoud. De gerichtheid van deze opleidingen is alleen zo anders dat deze niet aansluiten bij de doelen en het curriculum van FDND. Daarom zoeken wij educatief partnerschap buiten Nederland. Via Chain 5, de Europese community voor niveau 5 of Ad onderwijs, zijn we in contact gekomen met Hogeschool PXL (België). Alhoewel de gerichtheid niet exact hetzelfde is zijn daar 2 graduaatsopleidingen, Web-development en Web-design waar na vergelijking van curricula duidelijk overlap aanwezig is en waar we mee in contact zijn getreden. We hebben een afvaardiging van PXL in Amsterdam uitgenodigd voor een workshop met accessibility.nl over de verankering van toegankelijkheid in FDND, CMD en ICT curricula.
 
 ### Leerresultaten
@@ -238,13 +236,13 @@ Voor de mentoren is de exercitie eveneens waardevol omdat zij hiermee hun commun
 
 #### Iteratieve doorontwikkeling
 
-Naast een aantal kwaliteitsinstrumenten zoals de 100-dagen-monitor, blokenquêtes en panelgesprekken, die door onze kwaliteitsmedewerker bewaakt en vanuit de HvA brede kwaliteitsorganisatie ondersteund worden evalueert het docententeam zelf ook regelmatig het curriculum. We zijn over het algemeen best tevreden over de inrichting van onze opleiding, toch blijven we altijd kritisch op door ons geleverde prestaties. Zoals bij elk ontwikkelend onderwijsprogramma zijn er weeffoutjes die pas opvallen als het programma draait. Om hiermee om te gaan hanteren we op alle vlakken een iteratieve aanpak. Aan het eind van elk semester houdt het docententeam een zogenaamde [Higher Education Agile Learning (HEAL)](/organisatie.html#higher-education-agile-learning-heal) sessie waarin wij het onderwijs evalueren middels een [retrospect](/organisatie.html#retrospect). We leren dus niet alleen aan studenten hoe ze iteratief werken, we passen dit zelf ook toe. *Practice what you preach!* De onderstaande inzichten en verbeterpunten komen uit dit soort HEAL-sessies:
+Naast een aantal kwaliteitsinstrumenten zoals de 100-dagen-monitor, blokenquêtes en panelgesprekken, die door onze kwaliteitsmedewerker bewaakt en vanuit de HvA brede kwaliteitsorganisatie ondersteund worden evalueert het docententeam zelf regelmatig het curriculum. We zijn over het algemeen best tevreden over de inrichting van onze opleiding, toch blijven we altijd kritisch op door ons geleverde prestaties. Zoals bij elk ontwikkelend onderwijsprogramma zijn er weeffoutjes die pas opvallen als het programma draait. Om hiermee om te gaan hanteren we op alle vlakken een iteratieve aanpak. Aan het eind van elk semester houdt het docententeam een zogenaamde [Higher Education Agile Learning (HEAL)](/organisatie.html#higher-education-agile-learning-heal) sessie waarin wij het onderwijs evalueren middels een [retrospect](/organisatie.html#retrospect). We leren dus niet alleen aan studenten hoe ze iteratief werken, we passen dit zelf ook toe. *Practice what you preach!* De onderstaande inzichten en verbeterpunten komen uit dit soort HEAL-sessies:
 
 > Het hele eerste blok is een _onboarding_ periode, we hadden in het ontwerp alleen de eerste sprint aangemerkt maar dit is bij lange na niet het eind van het wennen aan ons onderwijsmodel. Daarnaast is eind semester 1 voor studenten het startpunt in plaats van het eindpunt voor het omarmen van de webtechnieken HTML/CSS/JS. - <cite>inzicht uit retrospect 9 maart 2023</cite>
 
 > S4: Er is piekbelasting in de laatste week voor de assessments. Het beoordelen van portfolia, met name in semester 4, kost te veel tijd. De bewijslast moet volledig in Portflow, nu linken studenten vaak door en staat het bewijs extern en de reflectie/onderbouwing in Portflow. S1-4: De uitvoer van checkpoints voelt als afvinklijst en studenten halen er niet altijd de formatieve waarde uit (zien het als ‘moetje’). We herontwerpen het toetsproces zonder de doelen daarvan uit het oog te verliezen. We willen hierbij meer richten op de vijf gedragscriteria in plaats van de 15 indicatoren. S1-3: We willen talks meer actionable maken. 80% leertaken 20% tijd voor eigen site/portfolio/garden. - <cite>selectie verbeterpunten uit retrospect 1 juli 2024</cite>
 
-### Vrije ruimte
+#### Vrije ruimte
 
 In het eerste blok van semester 4 in de opleiding, halverwege het 2e jaar, hebben studenten de zogenaamde vrije ruimte. De student staat hier aan het roer en kan 15 EC naar eigen inzicht invullen, lijkend op de minorruimte bij bacheloropleidingen. Verschil met een traditionele minor is dat studenten tijdens hun vrije ruimte ongeacht de keuze hun portfolio vullen met bewijslast, en bij FDND op de gebruikelijke wijze beoordeeld worden op de FDND gedragscriteria middels een assessment. Studenten kunnen hun vrije ruimte op verschillende manieren invullen.
 
@@ -254,35 +252,25 @@ Studenten kunnen deelnemen aan FDND-Agency, een interne onderneming, gecoördine
 
 Studenten kunnen ook de HvA brede minor ondernemerschap gericht op bachelorstudenten volgen of een blok lessen volgen bij de andere FDMCI Associate degree programma’s.
 
-###  Afstudeerprogramma (meesterproef)
+#### Afstudeerprogramma (meesterproef)
 
-Studenten hebben de keuze om hun meesterproef bij een bedrijf, binnen hun eigen onderneming óf bij FDND-Agency te volbrengen. De stage is verreweg de makkelijkste aanvliegroute, er is een bestaande organisatie met bestaande processen waar je de afstudeerder in rolt tijdens de vrije ruimte. Bovendien krijgen veel studenten na hun stage een baan aangeboden bij hun stagebedrijf. FDND-Agency vraagt meer verantwoordelijkheid van studenten en is daarmee expliciet niet ‘de gemakkelijke optie’. Docenten zijn dichtbij en bewaken het proces maar studenten die deze route volgen dragen meer verantwoordelijkheid voor overzicht en organisatie van projecten. De minor ondernemerschap is verreweg de moeilijkste richting. Studenten dragen niet alleen verantwoording voor het aantonen van hun afstudeerniveau voor FDND maar ook alle verantwoording voor alle facetten van hun startende onderneming. In alle gevallen draagt de student zelf eindverantwoording over diens werk. Tijdens terugkomdagen is ruimte om te werken aan het portfolio maar de student verzamelt zelfstandig bewijslast die het behalen van het leerresultaat demonstreert. Meer over de behaalde resultaten bij [Standaard 4: Gerealiseerde leerresultaten](#standaard-4-gerealiseerde-leerresultaten).
+Studenten hebben de keuze om hun meesterproef bij een bedrijf, binnen hun eigen onderneming óf bij FDND-Agency te volbrengen. De stage is de makkelijkste en meest gebruikelijke route omdat de stagiair terecht komt in een bestaande organisatie met bestaande processen. Bovendien krijgen veel studenten na hun stage een baan aangeboden bij hun stagebedrijf. FDND-Agency vraagt meer verantwoordelijkheid van studenten en is daarmee expliciet niet ‘de gemakkelijke optie’. Docenten zijn dichtbij en bewaken het proces maar studenten die deze route volgen dragen meer verantwoordelijkheid voor overzicht, organisatie en kwaliteit van projecten. De minor ondernemerschap is verreweg de moeilijkste richting. Studenten dragen niet alleen verantwoording voor het aantonen van hun afstudeerniveau voor FDND maar ook alle verantwoording voor alle facetten van hun startende onderneming. In alle gevallen draagt de student zelf eindverantwoording over diens werk. Tijdens terugkomdagen is ruimte om te werken aan het portfolio maar de student verzamelt zelfstandig bewijslast die het behalen van het leerresultaat demonstreert. Meer over de behaalde resultaten bij [Standaard 4: Gerealiseerde leerresultaten](#standaard-4-gerealiseerde-leerresultaten).
 
 Tijdens de toets nieuwe opleiding (TNO) adviseerde het panel om te overwegen om alle studenten stage te laten lopen om studenten in voldoende mate bloot te stellen aan de ‘échte wereld’. Wij behouden keuzevrijheid en zijn overtuigd dat studenten tijdens hun opleiding al heel veel in contact komen met het bedrijfsleven én werken op exact dezelfde manier. Een verschil is dat studenten die FDND Agency volgen allemaal moeten solliciteren na hun opleiding waar sommige stagairs blijven hangen bij hun stagebedrijf. Wij zijn ook heel blij met de mogelijkheid om af te studeren in een eigen onderneming.
 
-### Organisatiestructuur
-
-FDND is een zelforganiserende [Agile organisatie](/organisatie.html#agile-organisatie) ingericht volgens het Spotify model waarbij de [sociocratische werkwijze](/organisatie.html#werkwijze) wordt omarmd als vergader- en beslissingsstructuur. Docenten hebben bij FDND verschillende [rollen](/organisatie.html#rollen) die verwijzen naar dit model. Daarom spreken wij niet over klassen maar over squads. In een squad zitten studenten en docenten (squad-leader, co-teachers). Maximaal vier squads vormen een tribe. Wij zijn nog bezig met het inrichten van chapters en guilds, er wordt nagedacht over het opzetten van een _AI-guild_ en een _A11Y-guild_.
-
-![FDND is een agile organisatie](./assets/img/agile-organisatie.png)
-
-Deze organisatie- en vergader structuur bevalt goed. Bij tijd en wijlen verslapt de frequentie van overleggen waarop we gezamenlijk besluiten de regel weer beter na te leven. Dit is een golfbeweging die samenhangt met piekmomenten in het jaar, als het druk is leven we de regel van sociocratisch overleg iets minder netjes na.
-
 ### Studenten
 
-Aankomend studenten zijn toelaatbaar met een MBO-4, HAVO of VWO diploma of met een 21+ toets aangeboden door de instelling. Wij hebben geen vereisten voor een specifiek vakkenpakket.
-
-Na een impuls in 2022 zien we inschrijvingsaantallen een beetje teruglopen. We ondernemen actie om onze naamsbekendheid te vergroten.
+Aankomend studenten zijn toelaatbaar met een MBO-4, HAVO of VWO diploma of met een 21+ toets aangeboden door de instelling. Wij hebben geen vereisten voor een specifiek vakkenpakket. Na een impuls in 2022 zien we inschrijvingsaantallen een beetje teruglopen. We ondernemen actie om onze naamsbekendheid te vergroten.
 
 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | ---- | ---- | ---- | ---- | ---- |
 | 16 | 68 | 69 | 59 | 52 |
 
-Onze opleiding is gericht op het aantrekken van MBO afstudeerders. Toch zien we dat een aanzienlijk deel van onze eerstejaars HAVO of VWO achtergrond heeft. Een klein aantal heeft al aan een andere HBO opleiding gestudeerd.
+Onze opleiding is gericht op het aantrekken van MBO afstudeerders. Toch zien we dat een aanzienlijk deel van onze eerstejaars HAVO of VWO achtergrond heeft. Een klein aantal heeft al aan een andere HBO opleiding gestudeerd. Studenten komen dus met verschillende achtergrond binnen, wij hebben een gelaagd curriculum en veel persoonlijke aandacht en bieden studenten uitdaging op hun eigen niveau.
 
 ![](/assets/img/instroom-vooropleiding.png)
 
-Een grote vraag uit het bedrijfsleven is het tot frontender opleiden van dames omdat bewezen is dat diverse teams beter presteren. Tot onze spijt zien we het aantal vrouwelijke studenten teruglopen.
+Een grote vraag uit het bedrijfsleven is het tot frontender opleiden van dames omdat bewezen is dat diverse teams beter presteren. De verdeling was een aantal jaren perfect maar tot onze spijt zien we het laatste jaar het aantal vrouwelijke studenten teruglopen. We proberen te achterhalen waar dit aan ligt en besteden bij voorlichting aandacht aan vrouwelijke rolmodellen.
 
 ![](/assets/img/instroom-geslacht.png)
 
@@ -322,7 +310,17 @@ Studenten leveren werk voornamelijk op in het Nederlands, enkele uitzonderingen 
 
 FDND is bezig met het verkennen van de mogelijkheid tot het aanbieden van een engelstalige variant. Dit zouden we per studiejaar 2027/28 als traject willen aanbieden.
 
-### Opleidingscommissie
+### Organisatie
+
+#### Organisatiestructuur
+
+FDND is een zelforganiserende [Agile organisatie](/organisatie.html#agile-organisatie) ingericht volgens het Spotify model waarbij de [sociocratische werkwijze](/organisatie.html#werkwijze) wordt omarmd als vergader- en beslissingsstructuur. Docenten hebben bij FDND verschillende [rollen](/organisatie.html#rollen) die verwijzen naar dit model. Daarom spreken wij niet over klassen maar over squads. In een squad zitten studenten en docenten (squad-leader, co-teachers). Maximaal vier squads vormen een tribe. Wij zijn nog bezig met het inrichten van chapters en guilds, er wordt nagedacht over het opzetten van een _AI-guild_ en een _A11Y-guild_.
+
+![FDND is een agile organisatie](./assets/img/agile-organisatie.png)
+
+Deze organisatie- en vergader structuur bevalt goed. Bij tijd en wijlen verslapt de frequentie van overleggen waarop we gezamenlijk besluiten de regel weer beter na te leven. Dit is een golfbeweging die samenhangt met piekmomenten in het jaar, als het druk is leven we de regel van sociocratisch overleg iets minder netjes na.
+
+#### Opleidingscommissie
 
 _Deze tekst is door de studentgeleding van de OC aangeleverd._
 
@@ -334,11 +332,11 @@ Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraa
 
 > Als OC-lid heb ik actief deelgenomen aan externe vergaderingen. Omdat ik de eerste periode het enige OC lid was, vond ik het lastig om alles op te pakken en aan de slag te kunnen. De externe meetings waren soms lastig te volgen, ook omdat niet alles relevant was voor onze opleiding. Toen de OC ging uitbreiden doordat er een docent bijkwam en ik twee nieuwe OC-leden had gevonden, werd het allemaal een stuk duidelijker en waren de vergaderingen makkelijker te volgen. Ook plande wij sindsdien regelmatig interne meetings in dus is het binnen de OC in mijn ervaring verbeterd in vergelijking van toen ik er begon en hoe het nu gaat. <cite>Clarice Boerlijst, OC-voorzitter 2025/2026</cite>
 
-### Docenten
+#### Docenten
 
 Veel technische en ICT gerichte opleidingen hebben moeite gekwalificeerd personeel te vinden. Wij hebben een groot netwerk binnen de frontend community. Een groot deel van ons docententeam is al jaren actief binnen de minor web bij CMD en veel van de alumni zijn nu senior frontender in de beroepspraktijk. Daarnaast zijn een aantal docenten lid van of in-the-loop bij vakverenigingen waaronder fronteers, okaydev, awwwards. Tot nog toe heeft FDND geen moeite om topdocenten te werven.
 
-#### Aansluiten bij de actualiteit
+##### Aansluiten bij de actualiteit
 
 FDND wil _up-to-date_ blijven met veranderingen in de HTML/CSS/JS standaarden. Dit betekent concreet dat docenten doorlopend met elkaar, van elkaar en van studenten leren. Zo garanderen we actualiteit en leveren we studenten af die direct de beroepspraktijk in kunnen.
 
@@ -348,7 +346,7 @@ Een aanzienlijk deel van ons docententeam bezoekt jaarlijks, vaak met een groep 
 
 > De docenten blijven goed op de hoogte van internationale ontwikkelingen binnen het vakgebied. Onze docenten stimuleren ons om op allemaal verschillende methodes op de hoogde van het web te blijven. Dit doen ze door goede blogs, website, events enz. te delen. Het is goed dat ze dit ons aan leren zodat wij ook goed op de hoogte blijven van de ontwikkelingen in het vakgebied. <cite>Sascha Davidson</cite>
 
-#### Aandacht voor didactische vaardigheden
+##### Aandacht voor didactische vaardigheden
 
 Er is ook aandacht voor didactische scholing van docenten. Squad-leaders hebben het BDB programma gevolgd of zijn dat aan het doen. Docenten behoren hun basis kwalificatie examinator (BKE) te behalen en leden van de examencommissie behalen ook de senior kwalificatie examinator (SKE). Ook is er een assessorentraining en worden alle assessoren jaarlijks benoemd door de examencommissie. Een aantal van onze docenten volgden in het verleden een jaartraject coaching 3.0. Alle docenten hebben de mogelijkheid een uitgebreid scholingsprogramma bij de HvA Academie te volgen.
 
