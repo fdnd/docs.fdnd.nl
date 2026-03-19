@@ -409,7 +409,7 @@ Bij het ontwerpen en (door)ontwikkelen van leer- en deeltaken (A), het geven van
 
 Wij hanteren een vaste structuur voor [het assessment](/onderwijs.html#assessments) en het gesprek en beoordelingsformulier zijn ingericht aan de hand van de [niveaumatrix](https://niveaumatrix.fdnd.nl/). Het beoordelingsformulier staat in onze digitale leeromgeving, hieronder is een afbeelding opgenomen. 
 
-![FDND Semester 4 Endterm Beoordelingsformulier](./assets/img/Beoordelingsformulier.png)
+[![FDND Semester 4 Endterm Beoordelingsformulier](./assets/img/Beoordelingsformulier.png)](./assets/img/Beoordelingsformulier.png)
 
 In het formulier staan vijf gedragscriteria met bijbehorende indicatoren in een single-point rubric structuur. De indicatoren vormen de cesuur en aandachtspunten of geavanceerde bewijslast wordt toegelicht in het feedbackveld per criterium. Per indicator worden 0, 1 of 2 punten toegekend op basis van de aangedragen bewijslast. Bij >=15 punten heeft de student een voldoende beoordeling, bij >=21 een goed en bij >=27 excellent.
 
