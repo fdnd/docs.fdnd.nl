@@ -306,9 +306,11 @@ Ondersteuning en begeleiding door docenten kent echter ook grenzen. Wij zijn in 
 
 ### Organisatie
 
+Om dicht bij het beroepenveld te blijven wordt de organisatie van de Ad Frontend Design & Development ingericht volgens de Agile organisatiestructuur (Spotify-model). Dit houdt in dat we studenten en docenten indelen in tribes, squads, chapters en guilds. Nota bene: we spreken bij FDND dus niet over klassen!
+
 #### Organisatiestructuur
 
-FDND is een zelforganiserende [Agile organisatie](/organisatie.html#agile-organisatie) ingericht volgens het Spotify model waarbij de [sociocratische werkwijze](/organisatie.html#werkwijze) wordt omarmd als vergader- en beslissingsstructuur. Docenten hebben bij FDND verschillende [rollen](/organisatie.html#rollen) die verwijzen naar dit model. Daarom spreken wij niet over klassen maar over squads. In een squad zitten studenten en docenten (squad-leader, co-teachers). Maximaal vier squads vormen een tribe. Wij zijn nog bezig met het inrichten van chapters en guilds, er wordt nagedacht over het opzetten van een _AI-guild_ en een _A11Y-guild_.
+FDND is een zelforganiserende [Agile organisatie](/organisatie.html#agile-organisatie) waarbij de [sociocratische werkwijze](/organisatie.html#werkwijze) wordt omarmd als vergader- en beslissingsstructuur. Docenten hebben bij FDND verschillende [rollen](/organisatie.html#rollen) die verwijzen naar dit model. Daarom spreken wij niet over klassen maar over squads. In een squad zitten studenten en docenten (squad-leader, co-teachers). Maximaal vier squads vormen een tribe. Wij zijn bezig bezig met het inrichten van chapters en er zijn drie guilds: een _AI-guild_, een _Accessibility-guild_ en een _Sustainability-guild_.
 
 ![FDND is een agile organisatie](./assets/img/agile-organisatie.png)
 
@@ -330,7 +332,7 @@ Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraa
 
 Veel technische en ICT gerichte opleidingen hebben moeite gekwalificeerd personeel te vinden. Wij hebben een groot netwerk binnen de frontend community. Een groot deel van ons docententeam is al jaren actief binnen de minor web bij CMD en veel van de alumni zijn nu senior frontender in de beroepspraktijk. Daarnaast zijn een aantal docenten lid van of in-the-loop bij vakverenigingen waaronder fronteers, okaydev, awwwards. Tot nog toe heeft FDND geen moeite om topdocenten te werven. Onze docenten hebben naast het frontenderschap elk een eigen expertise en doordat we met meerdere docenten tegelijk in de groep staan leren we van elkaar en met elkaar tijdens het werken. Co-teachers zijn naast hun aanstelling bij de HvA actief als frontender in het vakgebied, we staan dus met beroepsprofessionals voor de klas. 
 
-Net als de rest van het hoger onderwijs in Nederland maken wij ons grote zorgen om de continuïteit van het huidige team. Tot voor kort waren onze co-teachers ZZPer, en dus flexibel inzetbaar maar sinds vorig jaar was dit door overheidsrichtlijnen niet meer mogelijk. Door transitieplannen binnen de HvA staan de vorig jaar ingezette tijdelijke contracten van al onze co-teachers onder druk. Natuurlijk kunnen we op zoek gaan naar nieuwe co-teachers maar daarmee verliezen we de ervaring en kwaliteit van onze huidige co’s.
+Net als de rest van het hoger onderwijs in Nederland maken wij ons grote zorgen om de continuïteit van het huidige team. Tot voor kort waren onze co-teachers ZZPer, en dus flexibel inzetbaar maar sinds vorig jaar was dit door overheidsrichtlijnen niet meer mogelijk. Door transitieplannen binnen de HvA staan de vorig jaar ingezette tijdelijke contracten van al onze co-teachers nu onder druk. Natuurlijk kunnen we op zoek gaan naar nieuwe co-teachers maar daarmee verliezen we de ervaring en kwaliteit van onze huidige co’s en is het vasthouden van niveau in het geding.
 
 ##### Aansluiten bij de actualiteit
 
@@ -483,7 +485,7 @@ Bij de borging van het eindniveau werkt de examencommissie samen met de toetscom
 
 _De opleiding toont aan dat de beoogde leerresultaten zijn gerealiseerd. Het realiseren van de beoogde leerresultaten blijkt uit de uitkomsten van toetsen, de eindwerken en de wijze waarop afgestudeerden in de praktijk of in een vervolgopleiding functioneren._
 
-Op dit moment, drie maanden na het afstuderen, heeft 60% van onze ex-studenten uit cohort 2023/24 een baan als frontender. Uit cohort 2022/23 heeft 60% een baan als frontender en is 30% doorgestroomd naar de CMD Bachelor. Hier zijn wij als opleiding trots op. Aangezien we net na de zomer meten ligt het in de lijn der verwachting dat dit aantal de komende tijd nog zal oplopen.
+In 2025 heeft ten behoeve van de midterm review een klein onderzoek plaatsgevonden over de te werk stelling van onze alumni. Drie maanden na het afstuderen, had ~60% van onze ex-studenten uit cohort 2023/24 een baan als frontender. Uit cohort 2022/23 heeft 60% een baan als frontender en is 30% doorgestroomd naar de CMD Bachelor. Hier zijn wij als opleiding trots op. Aangezien net na de zomer gemeten is lag in de lijn der verwachting dat dit aantal daarna opgelopen is.
 
 > Wij werken graag samen met FDND en CMD om in persoon inzicht te krijgen in de nieuwe generatie web developers. De curricula van FDND (in zijn geheel) en CMD (delen van) sluiten naadloos aan op onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiële werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van FDND en CMD. _- Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
 
@@ -493,11 +495,17 @@ Toetsstatistiek en slagingspercentages.
 
 ### Eindwerken
 
-Zoals eerder beschreven staan alle eindwerken in onze digitale leeromgeving (Brightspace). Panelleden ontvangen t.z.t. een account waarmee ze de dossiers, de totstandkoming van de beoordeling, de beoordeling en het advies kunnen inzien. Hiertoe krijgen zij toegang tot twee courses.
+Zoals eerder beschreven staan alle eindwerken in onze digitale leeromgeving (Brightspace). Panelleden ontvangen t.z.t. een account waarmee ze de dossiers, de totstandkoming van de beoordeling, de beoordeling en het advies kunnen inzien. Panelleden krijgen zij toegang tot drie ‘courses’ waar onze afstudeerders hun werk hebben ingediend. De links naar de afstudeercourses staan hieronder, er is een HvA account met rechten nodig om deze links te kunnen bekijken.
+
+- [Inleverpunt portfolio Endterm Assessment 2024/25](https://dlo.mijnhva.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=282066&ou=611023)
+- [Inleverpunt portfolio Endterm Assessment 2023/24](https://dlo.mijnhva.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=231437&ou=536605)
+- [Inleverpunt portfolio Endterm Assessment 2022/23](https://dlo.mijnhva.nl/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=212176&ou=445147)
 
 ### Alumni aan het woord
 
-Hoe kijken alumni terug op hun opleiding bij FDND? We stelde deze vraag eind 2025 in een persoonlijk bericht op LinkedIn.
+FDND houdt contact met alumni via LinkedIn. We nodigen onze alumni hier en daar uit als gastspreker en twee keer per jaar voor de EXPO aan het eind van semester 1 en 2. Natuurlijk gaan niet alle alumni hier op in maar er komt altijd een groep oud studenten opdagen. Sommige alumni zijn momenteel stagebegeleider voor de huidige lichting studenten en als (oud)docent op bezoek gaan bij een dergelijk bedrijf is een feestje.
+
+Hoe kijken alumni terug op hun opleiding bij FDND? We stelde deze vraag eind 2025 in een persoonlijk bericht op LinkedIn. De reacties schetsen een opleiding waar studenten leren door te doen. Ze werken met echte opdrachtgevers aan echte projecten, in teams die het ritme van een professionele werkomgeving nabootsen en deze praktijkgerichtheid vertaalt zich in een opvallend soepele overgang naar het werkveld. Veel alumni stroomden direct in, soms bij het stagebedrijf zelf. Wat ze meebrachten is niet zozeer een stapel specifieke technologieën, maar het vermogen om nieuwe tools en frameworks zelfstandig eigen te maken, de opleiding leert studenten hoe ze moeten blijven leren. Twee inhoudelijke waarden die studenten als beroepshouding meekrijgen zijn toegankelijkheid en semantiek en meerdere alumni geven aan dat juist deze kennis hen onderscheidt van meer ervaren collega's. Alumni waarderen bovendien de warme en persoonlijke sfeer waarin docenten en studenten elkaar bij naam kennen en samenwerken niet alleen als werkvorm maar als expliciete vaardigheid wordt behandeld. FDND is zeer tevreden met deze resultaten omdat dit betekent dat de door ons nagestreefde doelen verwerkelijkt zijn.
 
 > FDND gaf me een solide web-basis en de ruimte om uit te zoeken wat ik daarbinnen leuk vond. Na mijn stage kon ik daardoor zo met genoeg kennis aan het werk, en dat in 2 jaar. <cite>Rutger Kock - Label Vier, Amersfoort</cite>
 
@@ -565,9 +573,9 @@ Hoe kijken alumni terug op hun opleiding bij FDND? We stelde deze vraag eind 202
 
 > Ik vond het prettig dat je op de opleiding geen 'nummertje' bent. Je wordt serieus genomen, ze kennen je bij naam, en je voelt je echt gezien. De opleiding heeft me veel gebracht, waaronder mijn eigen onderneming! Dat is natuurlijk supergaaf en iets waar ik best wel trots op ben. <cite>Rosa Hoffer, eigen onderneming</cite>
 
-<!-- TODO: Reflecteer op terugkerende thema's in de alumni-feedback en trek conclusies voor de opleiding. Beschrijf ook het alumnibeleid. -->
-
 ## Bedrijven aan het woord
+
+Bedrijven zijn opvallend eensgezind in wat hen opvalt aan FDND-studenten: ze zijn direct inzetbaar als volwaardige teamleden die Scrum-methodieken kennen, technisch stevig staan en nieuwe tech-stacks snel oppikken. Meerdere bedrijven — Frameless, iO Digital, De Voorhoede, Werktijden.nl — namen stagiairs na afloop direct in dienst, wat misschien wel het sterkste kwaliteitsoordeel is dat een opleiding kan krijgen. Naast technische vaardigheid wordt de houding van studenten consistent geprezen: leergierig, sociaal, gestructureerd en in staat om met een frisse blik bij te dragen aan bestaande teams. De samenwerking met Funda illustreert daarnaast hoe de relatie tussen opleiding en werkveld verder reikt dan een individuele stage, een heel concreet resultaat van onderwijs en praktijk die structureel samen optrekken en exemplarisch voor de manier waarop wij het bedrijfsleven aanhaken, met complimenten naar onze Alliance Officer Joost Faber. Hieronder de reacties die wij van bedrijven ontvingen:
 
 > We waren blij dat de twee FDND stagiairs na hun stage bij Frameless wilden blijven! Ze hadden goede fundamentele skills voor het web platform, praktijkervaring met diverse frameworks en CMS-en, en gingen goed georganiseerd en sociaal aan de slag in ons scrum-team. Veel tevreden klanten, weinig zorgen! <cite>Robbert Broersma - Frameless, Amersfoort</cite>
 
@@ -593,9 +601,9 @@ Hoe kijken alumni terug op hun opleiding bij FDND? We stelde deze vraag eind 202
 
 Dit hoofdstuk is van studenten en het is om die reden dat wij de letterlijke feedback, hieronder presenteren. Om feedback te kunnen zien dient het schuifje rechtsboven met het onderschrift ‘Discussies’ aan gezet te worden. Deze open manier van werken demonstreert onze transparante werkwijze. Studenten, docenten en vakgebied worden doorlopend uitgenodigd iets te vinden van onze documenten.
 
-Onderstaande feedback is gegeven tijdens een door medewerkers van de facultaire onderwijs en onderzoek (O&O) afdeling georganiseerde sessie. Studenten hebben in groepjes overlegd en hun inzichten gedeeld, sommige studenten hebben allemaal hetzelfde gedeeld en er is dus sprake van enige dubbeling. De feedback geeft een goed beeld van de mening van studenten en is direct herleidbaar naar echte personen.
+Onderstaande feedback is gegeven tijdens een door medewerkers van de facultaire onderwijs en onderzoek (O&O) afdeling georganiseerde sessie. Studenten hebben in groepjes overlegd en hun inzichten gedeeld. De feedback geeft een goed beeld van de mening van studenten.
 
-[deze sessie moet nog plaats vinden!]
+[deze sessie heeft plaatsgevonden, resultaten worden verwerkt!]
 
 Vragen tijdens de MTR 2024:
 - Noem 5 kernwoorden die volgens jou typerend zijn voor de opleiding.
