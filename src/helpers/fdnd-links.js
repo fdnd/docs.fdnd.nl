@@ -1,6 +1,6 @@
 import { select, selectAll } from 'hast-util-select'
 
-import { h } from 'hastscript'
+// import { h } from 'hastscript'
 
 export default function fdndLinks(options = {}) {
   return function (tree, file) {
