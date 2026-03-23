@@ -1,11 +1,5 @@
 # Standaarden
 
-> **Work in progress tbv. de visitatie voorjaar 2026 welke wordt uitgevoerd aan de hand van:**
-> 
-> - [Vaste onderdelen van het ABO-visitatierapport](https://www.nvao.net/files/attachments/.12726/Vaste_onderdelen_ABO_rapport.pdf)
-> - [Uitvoeringsregels Accreditatiestelsel Hoger Onderwijs Nederland 2025](https://www.nvao.net/files/attachments/.13163/Uitvoeringsregels_Accreditatiestelsel_Hoger_Onderwijs_Nederland_september_2025.pdf)
-> - [Beoordelingskader Accreditatiestelsel Hoger Onderwijs Nederland](https://www.nvao.net/files/attachments/.11273/Beoordelingskader_accreditatiestelsel_hoger_onderwijs_Nederland.pdf)
-
 In dit document reflecteert de Associate degree Frontend Design & Development (FDND) ten behoeve van de visitatie op 22 mei 2026 op haar bestaan. Dit gebeurt aan de hand van het [TNO-dossier (2021)](https://tno-apr-2021.docs.fdnd.nl/) en het [MTR-dosier (2024)](https://mtr-nov-2024.docs.fdnd.nl/). In deze documenten staan de beoogde en in 2021 vergunde opleiding en de opzet en resultaten van de eerste midterm review in 2024 beschreven. Om dit zo navolgbaar mogelijk te presenteren staat onderaan het document een [matrix verwerking aanbevelingen](/standaarden.html#matrix-verwerking-aanbevelingen) waarin we de na de TNO en MTR ontvangen feedback koppelen aan ondernomen acties.
 
 FDND loopt met het docententeam, opleidingscommissie, studenten en contacten in het bedrijfsleven dit document na en betrokken personen reageren op die paragrafen waar wij ontwikkelingen in voorzien of gemaakt hebben. Onze kritische reflectie heeft dezelfde structuur als bovengenoemde documenten en volgt qua opbouw de vier standaarden van de NVAO.
@@ -318,15 +312,15 @@ Deze organisatie- en vergader structuur bevalt goed. Bij tijd en wijlen verslapt
 
 #### Opleidingscommissie
 
-_Deze tekst is door de studentgeleding van de OC aangeleverd._
-
-In 2022 werden Suus (student) en Stefan onderdeel van de OC. Samen met de docenten Koop en Suus (docent) vormen zij de definitieve OC. Hiermee werd de gewenste balans tussen docenten en studenten behouden. De formatie van de OC verliep soepel.
-
-Omdat de OC nog vrij nieuw was, waren we in het begin zoekende naar onze inspraakmogelijkheden. Gaandeweg kregen we meer duidelijkheid over onze rol, inclusief inspraak op onder andere: de OER, het budget van de opleiding, het deelnemen aan externe OC-vergaderingen en het opzetten van interne vergaderingen.
+Elke HBO opleiding heeft een Opleidingscommissie (OC) die de kwaliteit van de opleiding bewaakt. De OC bestaat uit studenten en docenten en is officieel een medezeggenschapsorgaan. Onze OC bestaat uit Suus (docent), Yassine (student j1), Kayleigh (student j1)  en tot voorkort Clarice (student j2). Hieronder hun ervaring en jaarverslagen van de afgelopen jaren.
 
 > Sinds kort ben ik lid van de OC. In het begin was het even wennen, omdat er veel nieuwe informatie en termen op mij afkwamen. Gelukkig kon ik met vragen terecht bij een ervaren team, waardoor ik goed werd begeleid en snel een duidelijker beeld kreeg van de werkwijze en onderwerpen binnen de OC. Hierdoor voelde ik mij steeds zekerder in mijn rol en kon ik actiever deelnemen aan de overleggen. <cite>Yassine Akka, OC-lid 2025/26</cite>
 
 > Als OC-lid heb ik actief deelgenomen aan externe vergaderingen. Omdat ik de eerste periode het enige OC lid was, vond ik het lastig om alles op te pakken en aan de slag te kunnen. De externe meetings waren soms lastig te volgen, ook omdat niet alles relevant was voor onze opleiding. Toen de OC ging uitbreiden doordat er een docent bijkwam en ik twee nieuwe OC-leden had gevonden, werd het allemaal een stuk duidelijker en waren de vergaderingen makkelijker te volgen. Ook plande wij sindsdien regelmatig interne meetings in dus is het binnen de OC in mijn ervaring verbeterd in vergelijking van toen ik er begon en hoe het nu gaat. <cite>Clarice Boerlijst, OC-voorzitter 2025/2026</cite>
+
+- [Jaarverslag 2023-2024](https://oc.fdnd.nl/download/Jaarverslag-2324-FDND.pdf)
+- [Jaarverslag 2022-2023](https://oc.fdnd.nl/download/Jaarverslag-2223-FDND.pdf)
+- [Jaarverslag 2021-2022](https://oc.fdnd.nl/download/Jaarverslag-2122-FDND.pdf)
 
 #### Docenten
 
@@ -470,7 +464,7 @@ Lees bij [Periodieke evaluatie Examencommissie](/organisatie.html#periodieke-eva
 - [Jaarverslag examencommissie Ad FDMCI 2023-2024](/assets/docs/JaarverslagExamencommissie_AdFDMCI_2023-2024.pdf)
 - [Jaarverslag examencommissie Ad FDMCI 2024-2025](/assets/docs/JaarverslagExamencommissie_AdFDMCI_2024-2025.pdf)
 
-<!-- TODO: Voeg reflectie toe op de bevindingen van de examencommissie en wat daarmee gedaan is. --> 
+FDND neemt de feedback van de examen- en toetscommissie mee bij het evalueren van toetsing tijdens de HEAL. Inzichten nemen we mee in de [iteraties van onze manier van toetsen](#vormgeving-van-de-toetsing).
 
 #### Borging eindniveau
 
@@ -488,10 +482,6 @@ _De opleiding toont aan dat de beoogde leerresultaten zijn gerealiseerd. Het rea
 In 2025 heeft ten behoeve van de midterm review een klein onderzoek plaatsgevonden over de te werk stelling van onze alumni. Drie maanden na het afstuderen, had ~60% van onze ex-studenten uit cohort 2023/24 een baan als frontender. Uit cohort 2022/23 heeft 60% een baan als frontender en is 30% doorgestroomd naar de CMD Bachelor. Hier zijn wij als opleiding trots op. Aangezien net na de zomer gemeten is lag in de lijn der verwachting dat dit aantal daarna opgelopen is.
 
 > Wij werken graag samen met FDND en CMD om in persoon inzicht te krijgen in de nieuwe generatie web developers. De curricula van FDND (in zijn geheel) en CMD (delen van) sluiten naadloos aan op onze werkzaamheden, werkwijze en visie op het vakgebied. Het is fijn om te zien dat de opleidingen de focus op juiste zaken hebben. Daarbij komen wij direct met een groot deel van de studenten in contact. Studenten weten ons daardoor zonder moeite te vinden als ze op zoek zijn naar een stage plek later in hun studie en na hun studie als potentiële werkgever. Onze samenwerking heeft geleid tot dat een groot deel van onze werknemers oud studenten zijn van FDND en CMD. _- Declan Rek, Lead Developer bij [De Voorhoede](https://www.voorhoede.nl/)_
-
-### Uitkomsten van toetsen
-
-Toetsstatistiek en slagingspercentages.
 
 ### Eindwerken
 
@@ -599,19 +589,76 @@ Bedrijven zijn opvallend eensgezind in wat hen opvalt aan FDND-studenten: ze zij
 
 ## Studenten aan het woord
 
-Dit hoofdstuk is van studenten en het is om die reden dat wij de letterlijke feedback, hieronder presenteren. Om feedback te kunnen zien dient het schuifje rechtsboven met het onderschrift ‘Discussies’ aan gezet te worden. Deze open manier van werken demonstreert onze transparante werkwijze. Studenten, docenten en vakgebied worden doorlopend uitgenodigd iets te vinden van onze documenten.
+Dit hoofdstuk is van studenten en het is om die reden dat wij het letterlijke document hieronder presenteren. Onderstaand stuk is geschreven tijdens een door medewerkers van de facultaire onderwijs en onderzoek (O&O) afdeling georganiseerde sessie. Studenten hebben overlegd en hun inzichten gedeeld in een document.
 
-Onderstaande feedback is gegeven tijdens een door medewerkers van de facultaire onderwijs en onderzoek (O&O) afdeling georganiseerde sessie. Studenten hebben in groepjes overlegd en hun inzichten gedeeld. De feedback geeft een goed beeld van de mening van studenten.
+### Studentenervaringen binnen de opleiding
+Datum: 23 maart 2026\
+Geschreven door: 5 eerstejaars studenten en 1 tweedejaars student, waarvan 2 OC leden
 
-[deze sessie heeft plaatsgevonden, resultaten worden verwerkt!]
+#### Een week in het leven van een student
 
-Vragen tijdens de MTR 2024:
-- Noem 5 kernwoorden die volgens jou typerend zijn voor de opleiding.
-- Hoe zou je de sfeer op de opleiding omschrijven?
-- Hoe ziet voor jou een typische dag of week eruit?
-- Hoe en waar kom je tijdens jouw studie in aanraking met het beroepenveld?
-- Waar heb je tot nu het meeste van geleerd?
-- Wat kan er volgens jou nog verbeterd worden bij de opleiding?
+De opleiding kent een duidelijke weekstructuur, gecombineerd met ruimte voor eigen invulling. Op maandag en woensdag starten studenten met workshops waarin nieuwe stof wordt uitgelegd en direct wordt toegepast in opdrachten. Deze ochtenden worden afgesloten met een check-out, waarna de middag in het teken staat van zelfstudie, op locatie of thuis. Deze lesstructuur geldt voor zowel de eerste als tweedejaars studenten. De eerstejaars krijgen in de ochtend workshops en de tweedejaars in de middag. Als uitzondering bij het student mentorschap moeten tweedejaars studenten tijdens het eerste semester van het jaar, 1 keer in de week in de ochtend beginnen.
+
+Dinsdagen staan regelmatig in het teken van challenges, zoals CSS-workshops. Hierin wordt een specifiek onderwerp behandeld, waarna studenten zelfstandig aan de slag gaan met praktische opdrachten.
+
+Donderdagen zijn flexibeler ingericht. Studenten kunnen deze dag gebruiken om verder te werken aan opdrachten, vragen te stellen of, in latere fases van de opleiding, deel te nemen aan sprint reviews met opdrachtgevers.
+
+Vrijdagen zijn gericht op feedback en reflectie. Studenten nemen deel aan code- en design reviews en krijgen regelmatig gastcolleges die aansluiten op de leerstof van dat moment.
+
+#### Toetsing en assessments
+
+De voortgang van studenten wordt beoordeeld aan de hand van vier assessments per jaar, die plaatsvinden na elke drie sprints. In het tweede jaar hebben deze assessments een meer gesprek gericht karakter gekregen, wat door studenten als prettiger wordt ervaren dan traditionele toetsvormen.
+
+Bij herkansingen is duidelijk welke onderdelen verbeterd moeten worden, wat helpt bij een gerichte voorbereiding. Wel wordt de tijd tussen een herkansing en het volgende assessment soms als kort ervaren. Daarnaast kan het ontbreken van feedback bij afwezigheid tijdens een assessment voor onduidelijkheid zorgen.
+
+Tot slot wordt aangegeven dat assessments soms uitlopen, wat bij studenten kan leiden tot een gevoel van haast.
+
+#### Begeleiding en sfeer
+
+Binnen de opleiding is veel aandacht voor begeleiding. Tijdens lessen zijn docenten goed bereikbaar en lopen zij actief rond om studenten te ondersteunen. Ook buiten de les kunnen vragen eenvoudig gesteld worden via online platforms zoals Teams.
+Daarnaast spelen tweedejaarsstudenten een rol als studentmentoren. Zij begeleiden eerstejaars tijdens de lessen en bieden ondersteuning vanuit hun eigen ervaring.
+
+De sfeer binnen de opleiding wordt over het algemeen als positief en toegankelijk ervaren. Docenten stimuleren samenwerking en interactie tussen studenten, bijvoorbeeld door groepsopdrachten en wisselende werkplekken. Ook worden er informele activiteiten georganiseerd, zoals spelletjesmiddagen en creatieve challenges, die bijdragen aan een betrokken leeromgeving.
+
+#### Aansluiting op vooropleiding
+
+De instroom binnen de opleiding is divers. Studenten komen zowel uit technische als niet-technische richtingen. Voor studenten met een achtergrond in software development sluit de opleiding over het algemeen goed aan. Zij hebben vaak al kennis van HTML, CSS en JavaScript en kunnen daardoor sneller door de basisstof heen. Tegelijkertijd ligt de nadruk binnen deze opleiding meer op frontend, wat ook voor hen nieuwe inzichten biedt.
+
+Studenten zonder technische voorkennis ervaren de start vaak als uitdagender. Toch wordt aangegeven dat de opleiding hier goed op inspeelt. De uitleg is duidelijk en gestructureerd, en er is voldoende ruimte om vragen te stellen. Daarnaast speelt zelfstandig oefenen een belangrijke rol in het leerproces.
+
+Ook studenten met een creatieve of totaal andere achtergrond, zoals design of werkervaring buiten de IT, merken dat hun eerdere kennis waardevol kan zijn. Een design achtergrond helpt bijvoorbeeld bij het bedenken van concepten, terwijl anderen juist baat hebben bij de gestructureerde manier van werken die binnen de opleiding wordt aangeleerd.
+
+#### Samenwerken
+
+Samenwerken vormt een belangrijk onderdeel van de opleiding en komt in verschillende vormen terug. In het eerste jaar is er een afwisseling tussen individueel werken en samenwerken in korte periodes. Dit biedt ruimte om zowel zelfstandig als in teamverband vaardigheden te ontwikkelen.
+
+In het tweede jaar verschuift de focus naar langdurige samenwerking. Studenten werken vaker en langer in teams, wat hen uitdaagt om serieuzer om te gaan met communicatie, taakverdeling en samenwerking.
+
+Tijdens het samenwerken leren studenten onder andere hoe ze code delen, omgaan met verschillende werkwijzen en code conflicten oplossen. Tegelijkertijd wordt ervaren dat de kwaliteit van samenwerking sterk afhankelijk is van de samenstelling van het team. Wanneer teamleden minder betrokken zijn, kan dit als lastig worden ervaren. Dit heeft niks met de vooropleiding te maken, meer met de motivatie. 
+
+Om de samenwerking te verbeteren, wordt gebruikgemaakt van hulpmiddelen zoals een team canvas. Hiermee worden doelen, rollen en afspraken binnen het team vastgelegd, wat bijdraagt aan een effectievere samenwerking.
+
+#### Studiedruk
+
+De ervaren studiedruk verschilt per student en hangt sterk samen met voorkennis en persoonlijke leerstijl. Studenten zonder programmeerervaring ervaren in het begin vaak meer druk, mede door de verschillen in startniveau binnen de groep. Dit kan ervoor zorgen dat zij meer tijd nodig hebben om de basis te begrijpen.
+
+In de eerste fase helpt begeleiding, zoals coachgesprekken, om overzicht te houden en vragen te stellen. Naarmate de opleiding vordert, neemt de moeilijkheidsgraad toe en wordt er meer zelfstandigheid verwacht. Studenten moeten vaker zelf oplossingen zoeken en zich verdiepen in nieuwe technieken.
+
+Voor studenten met een technische achtergrond ligt de studiedruk in het begin vaak lager, maar deze neemt later toe wanneer opdrachten complexer worden en nieuwe onderwerpen aan bod komen.
+
+Over het algemeen wordt de studiedruk in het tweede jaar beter in balans ervaren: er wordt veel geleerd in korte tijd, zonder dat dit structureel leidt tot overbelasting.
+
+#### Creativiteit en praktijkervaring
+
+Creativiteit krijgt binnen de opleiding veel ruimte. Studenten worden aangemoedigd om te experimenteren en eigen ideeën uit te werken. Projecten zoals de ‘I love web’-pagina bieden de mogelijkheid om persoonlijke interesses te combineren met technische vaardigheden.
+
+Daarnaast werken studenten regelmatig met echte opdrachtgevers. Dit zorgt voor een realistische leerervaring waarin studenten leren omgaan met feedback, deadlines en verwachtingen. Opdrachtgevers houden niet altijd rekening met het niveau van studenten, wat soms uitdagend is, maar tegelijkertijd een goede voorbereiding vormt op het werkveld
+
+#### Doorstroming
+
+Na afronding van de opleiding zijn er verschillende vervolgstappen mogelijk. Studenten kunnen doorstromen naar het derde jaar van de bacheloropleiding Communication and Multimedia Design (CMD), direct aan het werk gaan als frontend developer of starten met freelancen.
+
+Hoewel deze mogelijkheden als waardevol worden gezien, wordt de doorstroom ook als enigszins beperkt ervaren. Er is bijvoorbeeld geen directe aansluiting op bredere ICT-opleidingen. Voor studenten die zich verder willen ontwikkelen richting fullstack development kan dit een gemis zijn. Daarom kiezen sommigen ervoor om na de opleiding het werkveld in te gaan en zich daar verder te ontwikkelen.
 
 ## Matrix verwerking aanbevelingen
 
@@ -641,4 +688,3 @@ Vragen tijdens de MTR 2024:
 
 ## Externe links
 
-[hier komt een overzicht van alle externe links in het document op alfabetische volgorde]
