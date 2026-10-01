@@ -115,6 +115,10 @@ Twee keer, rond de Endterm, staat de HEAL in het teken van een retrospective. He
 
 Een hulpmiddel voor het plannen van activiteiten voor de verschillende fases is [retromat.org](https://retromat.org/).
 
+## Huisvesting
+
+De fysieke leeromgeving is ingericht als een agile workspace waar studenten zich thuis voelen en zich gestimuleerd voelen te studeren en samen te werken. Een omgeving waar interactie tussen studenten, docenten en professionals uit de beroepspraktijk plaatsvindt die past bij de cultuur van de opleiding.
+
 ## Rollen
 
 ### Co-teacher (0,1 - 0,4 fte)
