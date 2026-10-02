@@ -117,12 +117,15 @@ Een hulpmiddel voor het plannen van activiteiten voor de verschillende fases is 
 
 ## Huisvesting
 
+Het didactisch concept van FDND is erop gericht om studenten zo goed mogelijk voor te bereiden op een veranderlijke beroepspraktijk
+
+
 De fysieke leeromgeving is ingericht als een agile workspace waar studenten zich thuis voelen en zich gestimuleerd voelen te studeren en samen te werken. Een omgeving waar interactie tussen studenten, docenten en professionals uit de beroepspraktijk plaatsvindt die past bij de cultuur van de opleiding.
 
 ## Rollen
 
 Het docententeam is een mix van ervaren docenten en co-teachers uit de beroepspraktijk.
-
+Het docententeam is vakinhoudelijk goed op de hoogte van de laatste ontwikkelingen in de beroepspraktijk. 
 
 ### Co-teacher (0,1 - 0,3 fte)
 
