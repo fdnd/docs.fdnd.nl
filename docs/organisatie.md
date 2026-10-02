@@ -117,7 +117,7 @@ Een hulpmiddel voor het plannen van activiteiten voor de verschillende fases is 
 
 ## Huisvesting
 
-Bij FDND staat de beroepspraktijk centraal, de fysieke leeromgeving is daarom ingericht als een agile workspace waar studenten, mentors, opdrachtgevers en docenten zich thuis voelen en zich gestimuleerd voelen te werken, in teams of alleen, zoals dat in de beroepspraktijk ook gebeurt. 
+Bij FDND staat de beroepspraktijk centraal, de fysieke leeromgeving is daarom ingericht als een Agile Workspace waar studenten, mentoren, opdrachtgevers en docenten zich thuis voelen en zich gestimuleerd voelen te werken, in teams of alleen, zoals dat in de beroepspraktijk ook gebeurt. 
 
 ### Agile Workspace
 
