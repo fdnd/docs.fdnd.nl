@@ -117,10 +117,16 @@ Een hulpmiddel voor het plannen van activiteiten voor de verschillende fases is 
 
 ## Huisvesting
 
-Het didactisch concept van FDND is erop gericht om studenten zo goed mogelijk voor te bereiden op een veranderlijke beroepspraktijk
+Bij FDND staat de beroepspraktijk centraal, de fysieke leeromgeving is ingericht als een agile workspace waar studenten zich er thuis voelen en zich gestimuleerd voelen te studeren en samen te werken, zoals ze dat in de beroepspraktijk ook gebeurt. 
 
+### Agile Workspace
 
-De fysieke leeromgeving is ingericht als een agile workspace waar studenten zich thuis voelen en zich gestimuleerd voelen te studeren en samen te werken. Een omgeving waar interactie tussen studenten, docenten en professionals uit de beroepspraktijk plaatsvindt die past bij de cultuur van de opleiding.
+Het didactisch concept van FDND is erop gericht om studenten zo goed mogelijk voor te bereiden op de beroepspraktijk. Om deze reden gebruiken we bij het ontwerp van het curriculum en de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum is een Agile manier van werken waarbij de inrichting van de werkomgeving de werkmethodiek ondersteund. Daarbij is het belangrijk dat teams samen kunnen zitten om te overleggen en samen te werken, maar er zijn ook werkplekken om zelfstandig en individueel aan de slag te gaan, dit noemen we de Agile Workspace.
+
+De Agile Workspace wordt ook wel “smart working”, ”activity-based working”, "collaboration based design” en “the flexible office” genoemd. Het idee is dat er verschillende keuzemogelijkheden voor mensen zijn om te werken. Een ruimte wordt een “mixed space” waar je in een klein team kan zitten, in duo’s of
+alleen. Een open ruimte die spontane en informele gesprekken stimuleert, waar je
+ook productief kan zijn en waar een lezing gegeven kan worden.
+
 
 ## Rollen
 
