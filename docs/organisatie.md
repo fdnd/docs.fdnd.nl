@@ -20,7 +20,7 @@ Guilds zijn groepen docenten én studenten met een gedeeld kenmerk, bijvoorbeeld
 
 ### Organigram
 
-#### Schooljaar 2024/25 (LWB)
+#### Schooljaar 2024/25 (TTH)
 
 jaar 1: 2 squads, 1 tribe
 jaar 2: 2 squads, 1 tribe
