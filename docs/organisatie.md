@@ -121,6 +121,9 @@ De fysieke leeromgeving is ingericht als een agile workspace waar studenten zich
 
 ## Rollen
 
+Het docententeam is een mix van ervaren docenten en co-teachers uit de praktijk.
+
+
 ### Co-teacher (0,1 - 0,4 fte)
 
 De Ad FDND vraagt van docenten dat zij naast inhoudsdeskundige en beoordelaar ook begeleider zijn die samen met de student het leerproces van de student stimuleert en vormgeeft.
@@ -193,7 +196,9 @@ In samenwerking met de HvA Academie is een professionaliseringstraject vormgegev
 
 ### Opleidingscommissie
 
-Bij aanvang van de opleiding in september 2021 zal zo snel mogelijk gestart worden met het formeren van een opleidingscommissie (OC) bestaande uit twee docenten en twee studenten. De rechten en plichten van deze commissie zijn vastgelegd in een HvA breed reglement. In de opstarase van de opleiding is veelvuldig overleg met de OC belangrijk. Daarom overleggen zij naast de eigen vergaderingen eenmaal per zes weken met de tribe leaders en eenmaal per blok met de opleidingsmanager van de bachelor Communicaon and Mulmedia Design over de kwaliteit van de opleiding, de uitkomsten van onderwijsevaluaes en de uitvoering van de Onderwijs- en Examenregeling (OER). De uitkomsten van deze gesprekken worden besproken met het docententeam en zijn sturend voor de onderwijsontwikkeling.
+De opleidingscommissie (OC) bestaande uit een docent en twee studenten. Waarbij het voorzitterschap belegt is bij de studenten en de docent de rol van secretaris heeft. 
+
+De rechten en plichten van deze commissie zijn vastgelegd in een HvA breed reglement. Naast de eigen vergaderingen overlegt de commissie eenmaal per zes weken met de tribe leaders en eenmaal per blok met de opleidingsmanager over de kwaliteit van de opleiding, de uitkomsten van onderwijsevaluaes en de uitvoering van de Onderwijs- en Examenregeling (OER). De uitkomsten van deze gesprekken worden besproken met het docententeam en zijn sturend voor de onderwijsontwikkeling.
 
 ## Kwaliteitsborging
 
