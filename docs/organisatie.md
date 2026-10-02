@@ -121,7 +121,7 @@ De fysieke leeromgeving is ingericht als een agile workspace waar studenten zich
 
 ## Rollen
 
-Het docententeam is een mix van ervaren docenten en co-teachers uit de praktijk.
+Het docententeam is een mix van ervaren docenten en co-teachers uit de beroepspraktijk.
 
 
 ### Co-teacher (0,1 - 0,3 fte)
