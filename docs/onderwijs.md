@@ -4,7 +4,9 @@ Dit document beschrijft de dagelijkse onderwijspraktijk bij FDND en biedt handva
 
 ## Werkwijze
 
-FDND is een full-time studie van 2 jaar. Elke maandag, woensdag en vrijdag worden workshops aangeboden, daar kunnen studenten oefenen met de stof, vragen stellen en helpen studenten elkaar. Er is een vast rooster, eerstejaars zijn aanwezig van 9:30 - 13:00, tweedejaars van 13:30 - 17:00. Er wordt van studenten verwacht dat ze deze dagen aanwezig zijn. 
+FDND is een full-time studie van 2 jaar. Elke maandag, woensdag en vrijdag worden workshops aangeboden, daar kunnen studenten oefenen met de stof, vragen stellen aan docenten en helpen studenten elkaar. Naast de workshops werken studenten in hun eigen tijd door aan de opdrachten. 
+
+Er wordt van studenten verwacht dat ze deze dagen aanwezig zijn. Er is een vast rooster, eerstejaars zijn aanwezig van 9:30 - 13:00, tweedejaars van 14:00 - 17:00. Omdat eerstejaars en tweedejaars in dezelfde ruimte les krijgen komen de studenten elkaar tussen 13:00 - 14:00 tegen, de ene groep vertrekt terwijl de volgende groep binnenkomt. Zo vindt er een informeel ontmoetings- en verbindingsmoment plaats tussen de verschillende jaren. 
 Op dinsdag en donderdag worden challenges aangeboden en kunnen eerste- en tweedejaars doorwerken aan hun project. Deze dagen beginnen om 9:30.
 
 Naast de workshops en challenges wordt er van studenten verwacht dat ze zelfstandig en in teams doorwerken aan de leer- en deeltaken.
@@ -36,6 +38,10 @@ Tijdens het werken aan een leertaak worden meerdere stappen genomen waarbij bero
 ### Werken in teams
 
 Als frontender werk je meestal in teams en dus moeten studenten vaardigheid in samenwerken ontwikkelen. Omdat leertaken al opgesplitst worden in issues kan bij teamwerk gebruik gemaakt worden van een Github project board. Deze functionaliteit ligt al besloten in het werken met issues en spiegelt de manier van werken in de beroepspraktijk.
+
+### Mentoring
+
+
 
 ### Learning journal
 
