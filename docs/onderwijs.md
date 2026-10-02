@@ -38,8 +38,7 @@ Tijdens het werken aan een leertaak worden meerdere stappen genomen waarbij bero
 Als frontender werk je meestal in teams en dus moeten studenten vaardigheid in samenwerken ontwikkelen. Omdat leertaken al opgesplitst worden in issues kan bij teamwerk gebruik gemaakt worden van een Github project board. Deze functionaliteit ligt al besloten in het werken met issues en spiegelt de manier van werken in de beroepspraktijk.
 
 ### Mentoring
-
-
+Een groep tweedejaars is aanwezig tijdens de lessen van de eerstejaars als mentor. Tijdens de workshops begeleiden mentoren de studenten bij het uitvoeren van verschillende opdrachten, en reviewen ze code en design van projecten. 
 
 ### Learning journal
 
