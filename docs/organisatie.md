@@ -124,13 +124,13 @@ De fysieke leeromgeving is ingericht als een agile workspace waar studenten zich
 Het docententeam is een mix van ervaren docenten en co-teachers uit de praktijk.
 
 
-### Co-teacher (0,1 - 0,4 fte)
+### Co-teacher (0,1 - 0,3 fte)
 
-Co-teachers zijn frontenders uit de beroepspraktijk, bijvoorbeeld freelancers of frontenders die bij bedrijven werken, die een dag per week bij FDND rondlopen en studenten begeleiden. Voor 1 sprint, of 3 of een half jaar.
+Co-teachers zijn frontenders uit de beroepspraktijk, die een dag per week voor 1 sprint, of 3 of een half jaar studenten begeleiden tijdens de lessen. Co-teachers zijn bijvoorbeeld freelancers of frontenders die bij bedrijven werken, 
 
 Een co-teacher:
 
-- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, Visual Design en/of SCRUM;
+- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM;
 - Begeleidt studenten bij het volbrengen van deel- en leertaken;
 - Verzorgt af en toe een talk of een workshop in afstemming met squad-leader(s);
 - Overlegt en stemt af met de squad-leader;
@@ -143,7 +143,7 @@ De Ad FDND vraagt van docenten dat zij naast inhoudsdeskundige en beoordelaar oo
 
 Een squad-leader:
 
-- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, Visual Design en/of SCRUM;
+- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM;
 - Heeft de basiskwalificatie didactische bekwaamheid (BDB) en de basiskwalificatie examinator (BKE) of is bezig deze te behalen;
 - Heeft deelgenomen aan de assessorentraining of is bereid deze te volgen;
 - Is eindverantwoordelijk voor het leerproces binnen de squad;
@@ -159,7 +159,7 @@ Maximaal vier squads vormen een tribe en deze hebben een tribe-leader. Bij meer 
 
 Een tribe-leader:
 
-- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, Visual Design en/of SCRUM;
+- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM;
 - Heeft basiskwalificatie didactische bekwaamheid (BDB), basiskwalificatie examinator (BKE) en assessorcertificering of is bezig deze te behalen;
 - Is eindverantwoordelijk voor het leerproces binnen een tribe bestaande uit maximaal vier squads;
 - Is eindverantwoordelijk en draagt bij aan de invulling van het onderwijsprogramma;
@@ -173,7 +173,7 @@ Maximaal drie tribes vormen een alliance en deze hebben een alliance officer. De
 
 Een Alliance Officer:
 
-- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, Visual Design en/of SCRUM;
+- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM;
 - Is eindverantwoordelijk voor het embedden van projecten en design challenges van echte opdrachtgevers in het onderwijs;
 - Is eindverantwoortdelijk voor het verbinden van technische partijen aan het onderwijs (hosting, cms systemen);
 - Is mede verantwoordelijk voor het organiseren van FDND evenementen (EXPO's, stagemarkten, afstuderen, werkveldsessies);
