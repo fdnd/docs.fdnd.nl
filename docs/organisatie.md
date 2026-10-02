@@ -126,7 +126,7 @@ Het docententeam is een mix van ervaren docenten en co-teachers uit de praktijk.
 
 ### Co-teacher (0,1 - 0,4 fte)
 
-De Ad FDND vraagt van docenten dat zij naast inhoudsdeskundige en beoordelaar ook begeleider zijn die samen met de student het leerproces van de student stimuleert en vormgeeft.
+Co-teachers zijn frontenders uit de beroepspraktijk, bijvoorbeeld freelancers of frontenders die bij bedrijven werken, die een dag per week bij FDND rondlopen en studenten begeleiden. Voor 1 sprint, of 3 of een half jaar.
 
 Een co-teacher:
 
