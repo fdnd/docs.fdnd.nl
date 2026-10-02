@@ -155,7 +155,7 @@ Een squad-leader:
 
 ### Tribe-leader (0,2 fte)
 
-Maximaal vier squads vormen een tribe en deze hebben een tribe-leader. Bij meer tribes worden verantwoordelijkheden gedeeld door meerdere tribe-leaders. Één tribe leader is aanspreektpunt voor het opleidingshoofd.
+Maximaal vier squads vormen een tribe en deze hebben een tribe-leader. Bij meer tribes worden verantwoordelijkheden gedeeld door meerdere tribe-leaders. Één tribe leader is aanspreektpunt voor de opleidingsmanager.
 
 Een tribe-leader:
 
