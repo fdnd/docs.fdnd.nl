@@ -135,7 +135,8 @@ Het docententeam is vakinhoudelijk goed op de hoogte van de laatste ontwikkeling
 
 ### Co-teacher (0,1 - 0,3 fte)
 
-Co-teachers zijn frontenders uit de beroepspraktijk, die een dag per week voor 1 sprint, of 3 of een half jaar studenten begeleiden tijdens de lessen. Co-teachers zijn bijvoorbeeld freelancers of frontenders die bij bedrijven werken, 
+Co-teachers zijn industry-coaches, frontenders uit de beroepspraktijk, die een dag per week voor 1 sprint, of 3 of een half jaar studenten begeleiden tijdens de lessen. 
+Co-teachers zijn bijvoorbeeld freelancers of frontenders die bij bedrijven werken, 
 
 Een co-teacher:
 
