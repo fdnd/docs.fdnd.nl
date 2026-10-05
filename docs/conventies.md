@@ -176,7 +176,7 @@ All notable changes to this project will be documented in this file.
 <button class="button--secondary">Submit</button>
 ``` 
 ```javascript
-// ✅ modern function listing
+// ✅ modern function notation
 // ✅ camelCase
 // ✅ descriptive name
 const initHeader = () => {} 
