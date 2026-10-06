@@ -768,9 +768,7 @@ This is where the design and wireflow of the website will be placed.
 The components created on the components page can be added here through the assets library.
 
 ##### Components:
-This is where all components used on the content (website) page are stored.  
-It might also be helpful to structure them following **Atomic Design** principles with clear section headers.  
-This brings the Figma design and code closer together, improving clarity and making the development phase easier.
+This is where all components used on the content (website) page are stored. This brings the Figma design and code closer together, improving clarity and making the development phase easier.
 
 ##### Inspiration:
 All brainstorming ideas, cool websites, and moodboards can go here.  
