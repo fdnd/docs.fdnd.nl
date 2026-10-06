@@ -13,6 +13,7 @@ export default {
     },
     { rel: 'stylesheet', type: 'text/css', media: 'screen', href: './assets/style/web.css' },
     { rel: 'stylesheet', type: 'text/css', media: 'print', href: './assets/style/print.css' },
+    { rel: 'icon', type: 'image/png', href: 'https://styleguide.fdnd.nl/favicon.png' }
   ],
   js: ['./assets/script/main.js'],
 }
