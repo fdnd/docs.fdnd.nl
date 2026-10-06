@@ -19,6 +19,56 @@ At FDND we use [The Git Flow workflow](https://www.gitkraken.com/learn/git/git-f
 
 Bron: https://www.gitkraken.com/learn/git/git-flow#the-git-flow-workflow
 
+#### Branch naming
+
+Next to Git Flow we use [Conventional Branch](https://conventionalbranch.org/) for naming our branches. It is inspired by Conventional Commits: a structured, readable branch name tells everyone (and every automated tool) what a branch is for, just by looking at its name. The branch name should be structured as follows: `<type>/<description>`.
+
+##### Allowed branch types
+- `feature/` (or `feat/`) Implementing a new feature, eg: `feature/add-login-page`
+- `bugfix/` (or `fix/`) Fix for a bug, style or layout issue, eg: `bugfix/fix-header-bug`
+- `hotfix/` Urgent fix, eg: `hotfix/security-patch`
+- `release/` Preparing a release, eg: `release/v1.2.0`
+- `chore/` Non-code tasks such as dependency or documentation updates, eg: `chore/update-contributing`
+
+The long-lived branches `main` and `dev` are trunk branches and don't use a prefix.
+
+> The types intentionally map to our commit types (`feat`, `fix`, `chore`) and to the branches of Git Flow (`feature`, `release`, `hotfix`), so use the short alias (`feat/`, `fix/`) or the long form (`feature/`, `bugfix/`), but be consistent within a project.
+
+##### Rules
+1. Use lowercase letters (`a-z`), numbers (`0-9`) and hyphens (`-`) to separate words. No spaces, underscores or other special characters.
+2. Dots (`.`) are only allowed in `release/` branches to represent version numbers, eg: `release/v1.2.0`.
+3. No consecutive, leading or trailing hyphens or dots in the description.
+4. Keep it clear and concise: the name describes the purpose of the work.
+5. Include the issue number, as we also do in our commits, eg: `feature/issue-123-new-login`. Don't use a `#` in a branch name, write `issue-123` instead.
+6. Use English for the description, just like everywhere else in our code.
+
+##### Examples
+
+| Branch name | Valid | Notes |
+|---|---|---|
+| `main`, `dev` | ✅ | Trunk branches, no prefix |
+| `feature/add-login-page` | ✅ | New feature |
+| `feat/add-login-page` | ✅ | Short alias for feature |
+| `fix/header-bug` | ✅ | Short alias for bugfix |
+| `hotfix/security-patch` | ✅ | Urgent fix |
+| `release/v1.2.0` | ✅ | Release with version number |
+| `chore/update-dependencies` | ✅ | Non-code task |
+| `feature/issue-123-new-login` | ✅ | Feature with issue number |
+| `Feature/Add-Login` | ❌ | Uppercase letters |
+| `feature/new--login` | ❌ | Consecutive hyphens |
+| `feature/-new-login` | ❌ | Leading hyphen |
+| `feature/new-login-` | ❌ | Trailing hyphen |
+| `fix/header bug` | ❌ | Spaces |
+| `fix/header_bug` | ❌ | Underscores |
+| `unknown/some-task` | ❌ | Unknown type |
+
+##### Branches created by AI agents
+Branches created by AI coding agents get the prefix of the agent so reviewers can recognize them right away: `claude/`, `copilot/`, `cursor/` and `codex/`. Use `ai/` for any other agent, eg: `claude/security-patch` or `ai/refactor-auth-flow`.
+
+##### Source
+[Conventional Branch](https://conventionalbranch.org/)
+
+
 #### Archiving branches
 
 We like to keep an archive of code written in the past. Using GitHub tags we can archive code that we can restore whenever we need it but move it out of our branching strategy. To archive a branch use the following steps:
