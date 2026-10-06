@@ -181,30 +181,30 @@ All notable changes to this project will be documented in this file.
 
 ```
 
-## Code conventies
+## Code conventions
 
-### Algemene code conventions
+### General code conventions
 
-#### Naamgeving
-* Gebruik betekenisvolle namen voor classes, id's, variables en function namen.
-* Gebruik kebab-case voor classes, css variabelen en ids in HTML en CSS
-* Gebruik camelCase in Javascript voor JS variabelen en functies.
-* Gebruik altijd Engels in naamgeving in code!
-* Wees consistent in naamgeving
-* Schrijf je classes, ids, functienamen en variabelen uit, je hoeft geen afkortingen te gebruiken, daar zijn minifiers voor.
+#### Naming
+* Use meaningful names for classes, IDs, variables, and function names.
+* Use kebab-case for classes, css variables and id's in HTML/CSS
+* Use camelCase in Javascript for JS variables and functions.
+* English is the standard for naming.
+* Be consistent in your naming
+* Write out your classes, IDs, function names, and variables; there is no need to use abbreviations, that’s what minifiers are for.
 
 ```css
-/* ✅ header-trigger beschrijft wat het element doet */
-/* ✅ de --primary-color var naam is beschrijvend */
+/* ✅ header-trigger describes the behaviour of the element */
+/* ✅ the --primary-color variable name is descriptive */
 .header-trigger {
   --primary-color: hotpink;
 }
 ```
 
 ```css
-/* ❌ button naam is niet beschrijvend, btn kan gewoon voluit geschreven worden voor duidelijkheid */
-/* ❌ color-1 is geen beschrijvende css var naam */
-/* ❌ kleur-2 is niet beschrijvend en niet in het Engels */
+/* ❌ button name is not descriptive, btn can be written out for more clarity */
+/* ❌ color-1 is not descriptive */
+/* ❌ kleur-2 is not descriptive, and not in English */
 .btn-1 {
   --color-1: hotpink;
   --kleur-2: hotpink;
@@ -212,23 +212,23 @@ All notable changes to this project will be documented in this file.
 ``` 
 
 ```html
-<!-- ✅ id en class name gebruiken kebab case en beschrijven wat het element doet -->
+<!-- ✅ id and class name use kebab-case and describe the behaviour of the element -->
 <form id="contact-form" class="contact-form"></form>
 ```
 ```html
-<!-- ❌ camelCasing in class en id naam, in HTML gebruiken we kebabcase -->
-<!-- ❌ my form is geen beschrijvende class  -->
+<!-- ❌ camelCasing in class and id name, in HTML we use kebab-case -->
+<!-- ❌ my form is not a descriptive -->
 <form id="contactForm" class="myForm"></form>
 ```
 ```html
-<!-- ❌ wees consistent in het aanhouden van naming practices (.button-primary en .button--secondary) -->
+<!-- ❌ be consistent in the naming practice (.button-primary and .button--secondary) -->
 <button class="button-primary">Submit</button>
 <button class="button--secondary">Submit</button>
 ``` 
 ```javascript
-// ✅ moderne functie notering
+// ✅ modern function notation
 // ✅ camelCase
-// ✅ beschrijvende naam
+// ✅ descriptive name
 const initHeader = () => {} 
 ```
 ```javascript
@@ -236,18 +236,20 @@ const initHeader = () => {}
 MyFunction() {} // 
 ```
 ```javascript
-// ❌ gebruik van var, gebruik const of let
+// ❌ use of var, standard: use const or let
 var initHeader = () => {} 
 ``` 
 
-### HTML conventies
-* Gebruik gestructureerde en [semantische HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-* Nest content niet onnodig diep. Voorkom te diepe nesting van section elementen en daarmee gepaarde heading levels. Link waar nodig liever naar een andere url met meer informatie
-* Maak gebruik van ingebouwde features van HTML (bijvoorbeeld de krachtige form validation van formulier elementen)
-* 1 tab – voor indentation.
-* Gebruik dubbele quotes voor attributen.
+### HTML conventions
 
-### CSS conventies
+#### Generic
+* Use structured and [semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+* Do not nest content unnecessarily deeply. Avoid nesting `<section>` elements—and the associated heading levels—too deeply; instead, link to a different URL with more information where appropriate.
+* Make use of built-in HTML features (such as the powerful form validation of form elements).
+* 1 tab – for indentation.
+* Use double quotes for attributes.
+
+### CSS conventions
 
 #### Generic
 * 1 tab – for indentation.
@@ -309,6 +311,8 @@ button {
 
 #### Create a rich dynamic color palet with custom properties
 By defining variations in `hue` and `saturation` with custom properties, you get a rich color palette, allowing you to use the primary colors with more variations in the interface. This allows you to create better visual hierarchy.
+
+Use `HSL` over `#hex` coded color notation. 
 
 ##### Example
 ```css
@@ -419,7 +423,6 @@ const summary = `${user} has ${items} items in their cart.`;
 ```
 
 ##### Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-
 
 #### Use object destructuring when assigning object properties:
 > The destructuring syntax is a JavaScript syntax that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
@@ -542,12 +545,12 @@ Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 ```
 
 #### Componenten
-* Gebruik `object destructuring` om je template code clean te houden
-* Geef alleen benodigde data door aan componenten
-* Vermijd het te diep nesten van componenten (3 levels max)
-* Gebruik betekenisvolle namen voor componenten / functions / variables / css classes
+* Use `object destructuring` to keep your template code clean. 
+* Pass only the necessary data to components.
+* Avoid nesting components too deeply (max. 3 levels).
+* Use meaningful names for components
 
-* `+page.svelte` components geen losse HTML, maar deel de code op in logische componenten, bijvoorbeeld:
+* `+page.svelte` only contains components: do not use loose HTML; instead, break the code down into logical components, for example:
 
 ```javascript
 
@@ -563,16 +566,16 @@ Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 <Semesters {semesters} {subtitle} />
 ```
 #### Avoid :global in CSS
-* Probeer het gebruik van :global in CSS te vermijden, plaats waar nodig style rules in een global stylesheet en/of gebruik pseudo-private custom properties.
+* Try to avoid using `:global` in CSS as much as possible; place style rules in a global stylesheet where necessary and/or use pseudo-private custom properties. Though sometimes it is necessary, use it with caution.
 
-## Design Conventies
+## Design conventions
 
 ### Typography
 
 #### Rules for readable text
 * Minimal `16px` `font-size`
 * Minimal `1.5` `line-height`
-* Between 10 to 12 words / 55 to 75 characters on a line
+* Between 10 to 12 words / 55 to 75 characters on a line (did you know `ch` is a unit, `75ch`)
 * After paragraphs a minimum of 2 times the `font-size`
 * `letter-spacing` > 0.12 times the `font-size`
 * `word-spacing` > 0.16 times the `font-size`
