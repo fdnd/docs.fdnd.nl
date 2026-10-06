@@ -107,6 +107,12 @@ At FDND Agency, because of Semantic Versioning, we use [conventional commits](ht
 #### Reference issues in commits
 Add the corresponding #issue-number to your commit messages for easy reference.
 
+```
+
+git commit -m 'feat: add navigation #23'
+
+```
+
 #### Gitmoji
 Optionally use the [use gitmoji in commit messages](https://gitmoji.dev/) commit strategy as a visual add-on for conventions commits 😍
 
@@ -550,6 +556,7 @@ Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 * Pass only the necessary data to components.
 * Avoid nesting components too deeply (max. 3 levels).
 * Use meaningful names for components
+* Use [Atomic design](#atomic-design) for the component design system.
 
 * `+page.svelte` only contains components: do not use loose HTML; instead, break the code down into logical components, for example:
 
@@ -576,7 +583,7 @@ A component design system is a set of reusable components, naming rules and desi
 
 #### Atomic Design
 
-To structure our components we chose [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/) by Brad Frost. Instead of designing whole pages, we build small, reusable parts and combine them into bigger ones.
+To structure our components we choose [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/) by Brad Frost. Instead of designing whole pages, we build small, reusable parts and combine them into bigger ones.
 
 ##### The five stages
 
@@ -608,7 +615,7 @@ Map the stages to the structure of your project:
 | Templates | `+layout.svelte` | Layout with header, `<main>` and footer |
 | Pages | `+page.svelte` | The route that fills the template with data |
 
-```javascript
+```javascript file=Header.svelte
 // ✅ an organism is composed of molecules and atoms
 <script>
   import SearchForm from '$lib/molecules/SearchForm.svelte'
@@ -626,7 +633,7 @@ Map the stages to the structure of your project:
 * Not sure where a component belongs? Ask yourself: "Can I break it down any further and is it still useful?" If yes, it is probably a molecule or organism. If not, it is an atom.
 * Keep nesting shallow (3 levels max), as described in the component conventions.
 
-##### Why we chose it
+##### Why we choose it
 * **Consistency**: the same atoms are used everywhere, so the interface looks and behaves the same.
 * **Reusability (DRY)**: build once, use in many places.
 * **Easier testing and maintenance**: change an atom and every molecule and organism using it is updated.
@@ -634,8 +641,8 @@ Map the stages to the structure of your project:
 
 #### Sources
 * [Atomic Design Methodology - Brad Frost](https://atomicdesign.bradfrost.com/chapter-2/)
-
-
+* [Atomic Design in Figma - Figma](https://www.figma.com/blog/creating-atomic-components-in-figma/)
+* [Build better UI's - Homayoun Mohammadi ](https://dev.to/homayounmmdy/build-better-uis-a-practical-guide-to-atomic-design-389b)
 
 ## Design conventions
 
