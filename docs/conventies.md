@@ -569,6 +569,74 @@ Er wordt alleen eventueel data opgehaald en doorgestuurd aan de components.
 #### Avoid :global in CSS
 * Try to avoid using `:global` in CSS as much as possible; place style rules in a global stylesheet where necessary and/or use pseudo-private custom properties. Though sometimes it is necessary, use it with caution.
 
+
+### Component Design System
+
+A component design system is a set of reusable components, naming rules and design tokens that designers and developers share. It keeps design (Figma) and code (SvelteKit) close together, because both use the same names and the same structure.
+
+#### Atomic Design
+
+To structure our components we chose [Atomic Design](https://atomicdesign.bradfrost.com/chapter-2/) by Brad Frost. Instead of designing whole pages, we build small, reusable parts and combine them into bigger ones.
+
+##### The five stages
+
+* **Atoms**: "the foundational building blocks that comprise all our user interfaces". Basic HTML elements that can't be broken down further, eg: a label, an input, a button, a heading, an icon.
+* **Molecules**: "relatively simple groups of UI elements functioning together as a unit". Eg: a label, input and button together form a search form.
+* **Organisms**: "relatively complex UI components composed of groups of molecules and/or atoms and/or other organisms". Distinct sections of an interface, eg: a header, a footer or a product grid.
+* **Templates**: "page-level objects that place components into a layout and articulate the design's underlying content structure". The skeleton of a page, without the final content.
+* **Pages**: "specific instances of templates that show what a UI looks like with real representative content in place". Use pages to test if your design holds up with real content.
+
+> Atomic design is not a linear process, it's a mental model. You don't have to design all atoms first: shift between the abstract (the system) and the concrete (the page) while you work. (~ Brad Frost)
+
+##### Atomic Design in Figma
+
+* Place your components on the **Components** page and group them with a section header per stage: Atoms, Molecules, Organisms.
+* Use the same names in Figma as in code, so designers and developers talk about the same thing.
+* Build bigger components from smaller ones, never the other way around. An atom never contains a molecule.
+* Use [variables and styles](#figma) (colors, spacing, typography) for the design tokens the atoms are built from.
+* Put templates and pages on the **Content** page and use the components through the assets library.
+
+##### Atomic Design in SvelteKit
+
+Map the stages to the structure of your project:
+
+| Stage | Place in the project | Example |
+|---|---|---|
+| Atoms | `$lib/atoms` | `Button.svelte`, `Input.svelte`, `Heading.svelte` |
+| Molecules | `$lib/molecules` | `SearchForm.svelte`, `Program.svelte` |
+| Organisms | `$lib/organisms` | `Header.svelte`, `Semesters.svelte` |
+| Templates | `+layout.svelte` | Layout with header, `<main>` and footer |
+| Pages | `+page.svelte` | The route that fills the template with data |
+
+```javascript
+// ✅ an organism is composed of molecules and atoms
+<script>
+  import SearchForm from '$lib/molecules/SearchForm.svelte'
+  import Logo from '$lib/atoms/Logo.svelte'
+</script>
+
+<header>
+  <Logo />
+  <SearchForm />
+</header>
+```
+
+* Use PascalCase for component file names (`SearchForm.svelte`) and import from the lowest level possible: atoms don't import molecules or organisms, molecules don't import organisms.
+* Atoms don't fetch data. Data is fetched in `+page.server.js` and passed down as props (see [SvelteKit conventies](#sveltekit-conventies)).
+* Not sure where a component belongs? Ask yourself: "Can I break it down any further and is it still useful?" If yes, it is probably a molecule or organism. If not, it is an atom.
+* Keep nesting shallow (3 levels max), as described in the component conventions.
+
+##### Why we chose it
+* **Consistency**: the same atoms are used everywhere, so the interface looks and behaves the same.
+* **Reusability (DRY)**: build once, use in many places.
+* **Easier testing and maintenance**: change an atom and every molecule and organism using it is updated.
+* **Shared language**: designers and developers use the same terms.
+
+#### Sources
+* [Atomic Design Methodology - Brad Frost](https://atomicdesign.bradfrost.com/chapter-2/)
+
+
+
 ## Design conventions
 
 ### Typography
