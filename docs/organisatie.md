@@ -146,14 +146,14 @@ Het docententeam is vakinhoudelijk goed op de hoogte van de laatste ontwikkeling
 
 ### Co-teacher (0,1 - 0,3 fte)
 
-Co-teachers zijn industry-coaches, frontenders uit de beroepspraktijk, die een dag per week voor 1 sprint, of 3 of een half jaar studenten begeleiden tijdens de lessen. 
-Co-teachers zijn bijvoorbeeld freelancers of frontenders die bij bedrijven werken, 
+Co-teachers zijn industry-coaches; frontenders uit de beroepspraktijk die een dag per week voor 1 sprint, of 3 of een half jaar studenten begeleiden tijdens de lessen. 
+Co-teachers zijn bijvoorbeeld freelancers of frontenders die bij bedrijven werken. Op deze manier zit de praktijk letterlijk ín het onderwijs, en krijgen studenten feedback en voorbeelden uit de praktijk.
 
 Een co-teacher:
 
-- Heeft de expertises Frontend-developer, met ervaring op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM;
-- Begeleidt studenten bij het volbrengen van deel- en leertaken;
-- Verzorgt af en toe een talk of een workshop in afstemming met squad-leader(s);
+- Heeft ala expertises Frontend-developer, met ervaring op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM;
+- Helpt studenten met code en design, geeft feedback op het gemaakte werk en begeleidt studeten met de aanpak van opdrachten, spiegelt daarbij hoe het er in de praktijk aan toegaat;
+- Verzorgt af en toe een talk of een code deno tijdens de workshops;
 - Overlegt en stemt af met de squad-leader;
 - Neemt deel aan Standup, Plan & Review en Retrospective meetings.
 - (In het geval van assessorschap) Heeft deelgenomen aan de assessorentraining of is bereid deze te volgen;
