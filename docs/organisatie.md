@@ -22,28 +22,28 @@ Guilds zijn groepen docenten én studenten met een gedeeld kenmerk, bijvoorbeeld
 
 #### Schooljaar 2026/27 (TTH)
 
-jaar 1: 1 grote squad van 40, 1 tribe
+jaar 1: 1 grote squad van 40, 1 tribe   
 jaar 2: 1 grote squad van 40, 1 tribe
 
 #### Schooljaar 2025/26 (TTH)
 
-jaar 1: 2 squads, 1 tribe
+jaar 1: 2 squads, 1 tribe   
 jaar 2: 2 squads, 1 tribe
 
 
 #### Schooljaar 2024/25 (TTH)
 
-jaar 1: 2 squads, 1 tribe
+jaar 1: 2 squads, 1 tribe   
 jaar 2: 2 squads, 1 tribe
 
 #### Schooljaar 2023/24 (SAR)
 
-jaar 1: 3 squads, 1 tribe
+jaar 1: 3 squads, 1 tribe   
 jaar 2: 2 squads, 1 tribe
 
 #### Schooljaar 2022/23 (SAR)
 
-jaar 1: 3 squads (80?), 1 tribe
+jaar 1: 3 squads (80?), 1 tribe    
 jaar 2: 1 squad (10), 1 tribe
 
 #### Schooljaar 2021/22 (LWB)
