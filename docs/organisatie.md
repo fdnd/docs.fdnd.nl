@@ -136,7 +136,7 @@ Het didactisch concept van FDND is erop gericht om studenten zo goed mogelijk vo
 
 De Agile Workspace wordt ook wel “smart working”, ”activity-based working”, "collaboration based design” en “the flexible office” genoemd. Het idee is dat er verschillende keuzemogelijkheden voor mensen zijn om te werken. Een ruimte wordt een “mixed space” waar je in een klein team kan zitten, in duo’s of
 alleen. Een open ruimte die spontane en informele gesprekken stimuleert, waar je
-ook productief kan zijn en waar een lezing gegeven kan worden.
+ook productief kan zijn, waar een lezing gegeven kan worden en instructies voor opdrachten worden gegeven.
 
 
 ## Rollen
