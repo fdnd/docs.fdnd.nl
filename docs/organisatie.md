@@ -152,7 +152,7 @@ Op deze manier zit de praktijk letterlijk ín het onderwijs, en krijgen studente
 
 Een co-teacher:
 
- - Werkt als Frontend-developer in de praktijk, en heeft bijhorende ervaring en skills op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM;
+ - Werkt als Frontend-developer in de praktijk, en heeft bijhorende ervaring en skills op het gebied van Interaction Design, User Interface Design, Full-stack Development en/of SCRUM of andere workflow;
 - Helpt studenten met code en design, geeft feedback op het gemaakte werk en begeleidt studeten met de aanpak van opdrachten, spiegelt daarbij hoe het er in de praktijk aan toegaat;
 - Verzorgt af en toe een talk of een code deno tijdens de workshops;
 - Overlegt en stemt af met de squad-leader;
