@@ -123,13 +123,11 @@ Een paar belangrijke regels-voor-goede-code zijn:
 - Schrijf duidelijke comments die je code uitleggen
 - Schrijf gebruikte bronnen in de comments
 
-
-
 ### Hoe AI (niet) te gebruiken
 In Semester 1 ontmoedigen we AI te gebruiken om code te genereren, en teksten en reflecties te laten maken.
 Je kan AI wel gebruiken als sparring partner, als extra docent.
 
-Voor server-side code in Semester 2 kan je af en toe AI nodig hebben, zorg er dan voor dat je je _prompt_ als bron in de comments opneemt. 
+In Semester 2 kan je af en toe AI nodig hebben, bijvoorbeeld voor server-side logica die normaliter door een software developer zal worden gecodeerd, zorg er dan voor dat je je _prompt_ als bron in de comments opneemt. 
 
 In Semester 3 ga je leren hoe AI verantwoord in te zetten. 
 
